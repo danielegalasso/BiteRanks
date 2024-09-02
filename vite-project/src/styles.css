@@ -36,4 +36,17 @@
     box-shadow: 0 0 0px 5px #fff;
   }
 
+.icon-red svg {
+  color: red;
+}
+
+.icon-green svg {
+  color: green;
+}
+
+.icon-blue svg {
+  color: blue;
+}
+  
+
   

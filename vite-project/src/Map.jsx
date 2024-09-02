@@ -5,20 +5,18 @@ import "leaflet/dist/leaflet.css";
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import MarkerClusterGroup from "react-leaflet-cluster";
 import { Icon, divIcon, point } from "leaflet";
+import createClusterCustomIcon from "./CreateClusterCustomIcon";
+import createCustomIcon from "./CreateCustomIcon";
 
-// Creazione di un'icona personalizzata
-const customIcon = new Icon({
-  iconUrl: "https://cdn-icons-png.flaticon.com/512/447/447031.png",
-  iconSize: [38, 38], // Dimensione dell'icona
-});
 
-// Funzione per creare l'icona personalizzata del cluster
-const createClusterCustomIcon = function (cluster) {
-  return new divIcon({
-    html: `<span class="cluster-icon">${cluster.getChildCount()}</span>`,
-    className: "custom-marker-cluster",
-    iconSize: point(33, 33, true),
-  });
+//creazione mappa che associa per ad ogni classifica un colore
+const colorMapping = {
+  "50 Top Pizza Italia 2024": "red",
+  "50 Top Pizza Italia 2024 Pizzerie Eccellenti": "blue",
+  "50 Top Pizze In Viaggio 2024": "yellow",
+  "50 Top Usa 2024": "orange",
+  "50 top sushi": "green",
+  // Aggiungi altre classifiche qui
 };
 
 // Componente Map modificato per accettare marker come props
@@ -42,12 +40,16 @@ export function Map({ markers }) {
         chunkedLoading
         iconCreateFunction={createClusterCustomIcon}
       >
-        {/* Mappatura dei marker passati come props */}
-        {markers.map((pizzeria, pizzeriaIndex) =>
-          pizzeria[1].map((entry, entryIndex) =>
+        {markers.map((category, categoryIndex) => {
+          const categoryName = category[0];
+          const iconColor = colorMapping[categoryName] || "black"; // Nero di default se non mappato
+          const customIcon = createCustomIcon(iconColor);
+          //alert(iconColor + " " + categoryName);
+
+          return category[1].map((entry, entryIndex) =>
             entry[2].map((coords, coordsIndex) => (
               <Marker
-                key={`${pizzeriaIndex}-${entryIndex}-${coordsIndex}`}
+                key={`${categoryIndex}-${entryIndex}-${coordsIndex}`}
                 position={coords}
                 icon={customIcon}
               >
@@ -58,8 +60,8 @@ export function Map({ markers }) {
                 </Popup>
               </Marker>
             ))
-          )
-        )}
+          );
+        })}
       </MarkerClusterGroup>
     </MapContainer>
   );
