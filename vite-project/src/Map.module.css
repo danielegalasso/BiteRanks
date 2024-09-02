@@ -1,0 +1,11 @@
+/* Map.module.css */
+.mapContainer {
+    height: 100vh; /* 100% dell'altezza della viewport */
+    width: 100vw;  /* 100% della larghezza della viewport */
+    margin: 0;
+    padding: 0;
+  }
+
+
+
+  
