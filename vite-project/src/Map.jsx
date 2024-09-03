@@ -8,16 +8,18 @@ import { Icon, divIcon, point } from "leaflet";
 import createClusterCustomIcon from "./CreateClusterCustomIcon";
 import createCustomIcon from "./CreateCustomIcon";
 
-
-//creazione mappa che associa per ad ogni classifica un colore
-const colorMapping = {
-  "50 Top Pizza Italia 2024": "red",
-  "50 Top Pizza Italia 2024 Pizzerie Eccellenti": "blue",
-  "50 Top Pizze In Viaggio 2024": "yellow",
-  "50 Top Usa 2024": "orange",
-  "50 top sushi": "green",
-  // Aggiungi altre classifiche qui
-};
+//per generare dinamicamente colori in base al nome della classifica, senza aver bisogno di un map classifica-> che renderebbe il
+//codice poco flessibile
+function stringToColor(str) {
+  let hash = 0;
+  for (let i = 0; i < str.length; i++) {
+      hash = str.charCodeAt(i) + ((hash << 5) - hash);
+  }
+  const r = (hash >> 16) & 0xFF;
+  const g = (hash >> 8) & 0xFF;
+  const b = hash & 0xFF;
+  return `rgb(${r},${g},${b})`;
+}
 
 // Componente Map modificato per accettare marker come props
 export function Map({ markers }) {
@@ -42,7 +44,7 @@ export function Map({ markers }) {
       >
         {markers.map((category, categoryIndex) => {
           const categoryName = category[0];
-          const iconColor = colorMapping[categoryName] || "black"; // Nero di default se non mappato
+          const iconColor = stringToColor(categoryName); // Nero di default se non mappato
           const customIcon = createCustomIcon(iconColor);
           //alert(iconColor + " " + categoryName);
 

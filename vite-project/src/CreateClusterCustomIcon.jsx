@@ -20,7 +20,7 @@ const combineColors = (colors) => {
     return tinycolor({ r, g, b }).toHexString();
 };
 
-/*
+/*   VARIANTE PER FARE IL COLORE DEL CLUSTER CON LA MEDIA DEI COLORI SOTTOSTANTI DEI MARKETER
 const createClusterCustomIcon = (cluster) => {
     const childMarkers = cluster.getAllChildMarkers();
     const colors = childMarkers.map(marker => {
@@ -42,7 +42,7 @@ const createClusterCustomIcon = (cluster) => {
 };
 */
 
-// Funzione per creare un'icona a torta per il cluster
+// Funzione per creare un'icona a torta per il cluster FUNZIONE ATTUALE (la più bella)
 const createClusterCustomIcon = (cluster) => {
     const childMarkers = cluster.getAllChildMarkers();
     const colors = childMarkers.map(marker => {
