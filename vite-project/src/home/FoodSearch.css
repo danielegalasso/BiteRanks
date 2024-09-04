@@ -1,0 +1,136 @@
+.food-search-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 16px;
+    width: 100%;
+    max-width: 400px; /* Puoi modificare la dimensione massima del quadrato */
+    margin: auto;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .top-buttons {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 16px;
+  }
+  
+  .top-buttons button {
+    width: 45%; /* Bottoni che occupano circa la metà del quadrato ciascuno */
+    padding: 8px;
+    border-radius: 20px; /* Arrotonda gli angoli dei pulsanti */
+    border: 2px solid #007bff; /* Bordi di colore blu */
+    background-color: transparent; /* Sfondo trasparente */
+    color: #007bff; /* Colore del testo blu */
+    font-weight: bold; /* Testo in grassetto */
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s; /* Transizione per il cambio di colore */
+  }
+  .top-buttons button:hover {
+    background-color: #007bff; /* Sfondo blu al passaggio del mouse */
+    color: #fff; /* Colore del testo bianco */
+  }
+  
+  .search-bar {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  
+  .food-list-container {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    width: 100%;
+    margin-bottom: 16px;
+    padding: 8px; /* Aggiunge un po' di spazio attorno agli item */
+    scrollbar-width: thin; /* Per Firefox: rende la scrollbar sottile */
+    scrollbar-color: #007bff #f1f1f1; /* Per Firefox: colore del pollice e del track */
+  }
+
+  /* Scrollbar per WebKit (Chrome, Safari, Edge) */
+  .food-list-container::-webkit-scrollbar {
+    height: 8px; /* Altezza della scrollbar */
+    background-color: #f1f1f1; /* Colore dello sfondo della scrollbar */
+    border-radius: 10px; /* Arrotonda i bordi della scrollbar */
+  }
+  
+  .food-item {
+    flex: 0 0 auto; /* Flessibile ma non si riduce */
+    width: 100px; /* Larghezza fissa per la card */
+    text-align: center;
+    margin-right: 16px; /* Spazio tra le card */
+    padding: 16px;
+    border-radius: 12px; /* Angoli stondati della card */
+    border: 1px solid #007bff; /* Bordo grigio chiaro per la card */
+    background-color: #fff; /* Sfondo bianco per la card */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombra leggera per un effetto di profondità */
+    transition: transform 0.3s, box-shadow 0.3s; /* Transizioni per animazioni fluide */
+  }
+  
+  .food-item:hover {
+    transform: scale(1.05); /* Leggera ingrandimento quando si passa il mouse */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Ombra più intensa al passaggio del mouse */
+  }
+  
+  .food-item .food-icon {
+    font-size: 32px; /* Dimensione più grande per l'emoji */
+    margin-bottom: 16px; /* Spazio tra l'emoji e il testo */
+  }
+  
+  .food-item p {
+    font-size: 14px; /* Dimensione del testo */
+    color: #333; /* Colore del testo */
+    margin: 0; /* Rimuove margini predefiniti del paragrafo */
+  }
+  
+  .search-button {
+    padding: 8px 16px;;
+    width: 100%;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .search-button:hover {
+    background-color: #0056b3;
+  }
+
+  .search-bar {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    border-radius: 20px; /* Arrotonda gli angoli della barra di ricerca */
+    border: 2px solid #007bff; /* Bordi di colore blu */
+    background-color: #fff; /* Sfondo bianco */
+    color: #333; /* Colore del testo */
+    font-size: 16px; /* Dimensione del testo */
+    outline: none; /* Rimuove il bordo di focus predefinito del browser */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Leggera ombra per evidenziare */
+    transition: border-color 0.3s, box-shadow 0.3s; /* Transizione per il cambio di colore del bordo e ombra */
+  }
+  
+  .search-bar:focus {
+    border-color: #0056b3; /* Cambia il colore del bordo quando la barra di ricerca è attiva */
+    box-shadow: 0 0 8px rgba(0, 91, 255, 0.3); /* Cambia l'ombra quando è attiva */
+  }
+  
+  /* Stili responsivi */
+  @media (max-width: 400px) {
+    .top-buttons button {
+      width: 100%;
+      margin-bottom: 8px;
+    }
+  
+    .food-item {
+      flex: 0 0 80px;
+    }
+  }
+  
