@@ -2,7 +2,23 @@ import { Icon } from "leaflet";
 import { renderToStaticMarkup } from 'react-dom/server';
 
 // Funzione per generare l'icona SVG
-const createCustomIcon = (color) => {
+const createCustomIcon = (color, rank = null) => {
+    // Definisci il colore del puntino interno in base al rank
+    let rankColor = null;
+    switch(rank) {
+        case 1:
+            rankColor = "gold";
+            break;
+        case 2:
+            rankColor = "silver";
+            break;
+        case 3:
+            rankColor = "#cd7f32"; // bronzo
+            break;
+        default:
+            rankColor = "transparent"; // Se non c'è un rank, usa il colore principale
+    }
+
     // SVG come stringa
     const svgString = renderToStaticMarkup(
       <svg 
@@ -18,6 +34,12 @@ const createCustomIcon = (color) => {
           s83.478,37.446,83.478,83.478C339.478,229.684,302.032,267.13,256,267.13z"
           fill={color}
         />
+          <circle 
+            cx="256" 
+            cy="183.652" 
+            r="83.478" 
+            fill={rankColor} // Colore del puntino interno
+          />
       </svg>
     );
   
@@ -32,6 +54,6 @@ const createCustomIcon = (color) => {
       popupAnchor: [0, -38],
       // Aggiungi altre opzioni se necessario
     });
-  };
+};
 
 export default createCustomIcon;

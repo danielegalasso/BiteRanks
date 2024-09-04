@@ -46,7 +46,8 @@ export function Map({ markers }) {
           const categoryName = category[0];
           const iconColor = stringToColor(categoryName); // Nero di default se non mappato
           const customIcon = createCustomIcon(iconColor);
-          //alert(iconColor + " " + categoryName);
+          //SI PUO PASSARE ANCHE UN SECONDO PARAMETRO PER INDICARE SE IL RISTORANTE è NELLA TOP 3
+          // ESEMPIO: const customIcon = createCustomIcon(iconColor,1);  // 1 = oro, 2 = argento, 3 = bronzo
 
           return category[1].map((entry, entryIndex) =>
             entry[2].map((coords, coordsIndex) => (

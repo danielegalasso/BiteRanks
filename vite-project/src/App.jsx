@@ -39,7 +39,7 @@ export default function App() {
     <div>
       {/* Pass markers as props to the Map component */}
       <Map markers={markers} />
-      <FoodSearch />
+      
     </div>
   );
 }
