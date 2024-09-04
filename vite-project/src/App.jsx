@@ -13,7 +13,7 @@ export default function App() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch("./allCoordinates.json", {
+        const response = await fetch("./50toppizza.json", {
           headers: {
             "Content-Type": "application/json",
             Accept: "application/json",
