@@ -1,0 +1,2888 @@
+{
+    "I Migliori Ristoranti Italiani 2024 Grandi Ristoranti": [
+        {
+            "position": 1,
+            "name": "Osteria Francescana",
+            "ref": "https://www.50topitaly.it/it/referenza/osteria-francescana-3/",
+            "coord": [
+                [
+                    44.6447946,
+                    10.9215708
+                ]
+            ]
+        },
+        {
+            "position": 2,
+            "name": "Uliassi",
+            "ref": "https://www.50topitaly.it/it/referenza/uliassi-3/",
+            "coord": [
+                [
+                    43.7194631,
+                    13.2208132
+                ]
+            ]
+        },
+        {
+            "position": 3,
+            "name": "Enoteca Pinchiorri",
+            "ref": "https://www.50topitaly.it/it/referenza/enoteca-pinchiorri-3/",
+            "coord": [
+                [
+                    43.7700104,
+                    11.2621656
+                ]
+            ]
+        },
+        {
+            "position": 4,
+            "name": "D’O",
+            "ref": "https://www.50topitaly.it/it/referenza/do-3/",
+            "coord": [
+                [
+                    45.4870359,
+                    9.0120108
+                ]
+            ]
+        },
+        {
+            "position": 5,
+            "name": "Duomo",
+            "ref": "https://www.50topitaly.it/it/referenza/duomo-3/",
+            "coord": [
+                [
+                    36.9267856,
+                    14.7415403
+                ]
+            ]
+        },
+        {
+            "position": 6,
+            "name": "Enrico Bartolini MUDEC",
+            "ref": "https://www.50topitaly.it/it/referenza/enrico-bartolini-mudec-3/",
+            "coord": [
+                [
+                    45.4520543,
+                    9.1612919
+                ]
+            ]
+        },
+        {
+            "position": 7,
+            "name": "Daní Maison",
+            "ref": "https://www.50topitaly.it/it/referenza/dani-maison-3/",
+            "coord": [
+                [
+                    40.7286783,
+                    13.9472292
+                ]
+            ]
+        },
+        {
+            "position": 8,
+            "name": "Le Calandre",
+            "ref": "https://www.50topitaly.it/it/referenza/le-calandre-3/",
+            "coord": [
+                [
+                    45.4217827,
+                    11.8095975
+                ]
+            ]
+        },
+        {
+            "position": 9,
+            "name": "Taverna Estia",
+            "ref": "https://www.50topitaly.it/it/referenza/taverna-estia-3/",
+            "coord": [
+                [
+                    40.9082241,
+                    14.4233737
+                ]
+            ]
+        },
+        {
+            "position": 10,
+            "name": "Il Pagliaccio",
+            "ref": "https://www.50topitaly.it/it/referenza/il-pagliaccio-3/",
+            "coord": [
+                [
+                    41.897889,
+                    12.4674252
+                ]
+            ]
+        },
+        {
+            "position": 11,
+            "name": "Madonnina del Pescatore",
+            "ref": "https://www.50topitaly.it/it/referenza/madonnina-del-pescatore-3/",
+            "coord": [
+                [
+                    43.6815791,
+                    13.2800338
+                ]
+            ]
+        },
+        {
+            "position": 12,
+            "name": "Del Cambio",
+            "ref": "https://www.50topitaly.it/it/referenza/del-cambio-3/",
+            "coord": [
+                [
+                    45.0695077,
+                    7.6847806
+                ]
+            ]
+        },
+        {
+            "position": 13,
+            "name": "Andrea Aprea",
+            "ref": "https://www.50topitaly.it/it/referenza/andrea-aprea-2/",
+            "coord": [
+                [
+                    45.4733187,
+                    9.204331
+                ]
+            ]
+        },
+        {
+            "position": 14,
+            "name": "Piazza Duomo",
+            "ref": "https://www.50topitaly.it/it/referenza/piazza-duomo-3/",
+            "coord": [
+                [
+                    44.7006229,
+                    8.0358911
+                ]
+            ]
+        },
+        {
+            "position": 15,
+            "name": "Dal Pescatore",
+            "ref": "https://www.50topitaly.it/it/referenza/dal-pescatore-3/",
+            "coord": [
+                [
+                    45.1710879,
+                    10.3582403
+                ]
+            ]
+        },
+        {
+            "position": 16,
+            "name": "Angelo Sabatelli Ristorante",
+            "ref": "https://www.50topitaly.it/it/referenza/angelo-sabatelli-ristorante-3/",
+            "coord": [
+                [
+                    40.8500528,
+                    17.1226182
+                ]
+            ]
+        },
+        {
+            "position": 17,
+            "name": "Pascucci Al Porticciolo",
+            "ref": "https://www.50topitaly.it/it/referenza/pascucci-al-porticciolo-3/",
+            "coord": [
+                [
+                    41.7700615,
+                    12.2273378
+                ]
+            ]
+        },
+        {
+            "position": 18,
+            "name": "Atelier Moessmer Norbert Niederkofler",
+            "ref": "https://www.50topitaly.it/it/referenza/atelier-moessmer-norbert-niederkofler/",
+            "coord": [
+                [
+                    46.7927308,
+                    11.9491536
+                ]
+            ]
+        },
+        {
+            "position": 19,
+            "name": "Casa Perbellini 12 Apostoli",
+            "ref": "https://www.50topitaly.it/it/referenza/casa-perbellini-12-apostoli/",
+            "coord": [
+                [
+                    45.4426523,
+                    10.9961132
+                ]
+            ]
+        },
+        {
+            "position": 20,
+            "name": "Krèsios",
+            "ref": "https://www.50topitaly.it/it/referenza/kresios-2/",
+            "coord": [
+                [
+                    41.2029889,
+                    14.4993777
+                ]
+            ]
+        },
+        {
+            "position": 21,
+            "name": "La Tana Gourmet",
+            "ref": "https://www.50topitaly.it/it/referenza/la-tana-gourmet-3/",
+            "coord": [
+                [
+                    45.8530206,
+                    11.4952863
+                ]
+            ]
+        },
+        {
+            "position": 22,
+            "name": "Colline Ciociare",
+            "ref": "https://www.50topitaly.it/it/referenza/colline-ciociare-3/",
+            "coord": [
+                [
+                    41.790357,
+                    13.175716
+                ]
+            ]
+        },
+        {
+            "position": 23,
+            "name": "Agli Amici",
+            "ref": "https://www.50topitaly.it/it/referenza/agli-amici-3/",
+            "coord": [
+                [
+                    46.1023188,
+                    13.2663508
+                ]
+            ]
+        },
+        {
+            "position": 24,
+            "name": "La Peca",
+            "ref": "https://www.50topitaly.it/it/referenza/la-peca-3/",
+            "coord": [
+                [
+                    45.384904,
+                    11.3990657
+                ]
+            ]
+        },
+        {
+            "position": 25,
+            "name": "Lido 84",
+            "ref": "https://www.50topitaly.it/it/referenza/lido-84-3/",
+            "coord": [
+                [
+                    45.6251592,
+                    10.5755666
+                ]
+            ]
+        },
+        {
+            "position": 26,
+            "name": "Il Luogo di Aimo e Nadia",
+            "ref": "https://www.50topitaly.it/it/referenza/il-luogo-di-aimo-e-nadia-3/",
+            "coord": [
+                [
+                    45.4584328,
+                    9.1311504
+                ]
+            ]
+        },
+        {
+            "position": 27,
+            "name": "Qafiz",
+            "ref": "https://www.50topitaly.it/it/referenza/qafiz-3/",
+            "coord": [
+                [
+                    38.2554826,
+                    15.9702314
+                ]
+            ]
+        },
+        {
+            "position": 28,
+            "name": "Materia",
+            "ref": "https://www.50topitaly.it/it/referenza/materia-3/",
+            "coord": [
+                [
+                    45.8383508,
+                    9.072001
+                ]
+            ]
+        },
+        {
+            "position": 29,
+            "name": "Ristorante Berton",
+            "ref": "https://www.50topitaly.it/it/referenza/ristorante-berton-3/",
+            "coord": [
+                [
+                    45.4818217,
+                    9.1945594
+                ]
+            ]
+        },
+        {
+            "position": 30,
+            "name": "AALTO",
+            "ref": "https://www.50topitaly.it/it/referenza/aalto-2/",
+            "coord": [
+                [
+                    45.4822342,
+                    9.1933711
+                ]
+            ]
+        },
+        {
+            "position": 31,
+            "name": "La Torre del Saracino",
+            "ref": "https://www.50topitaly.it/it/referenza/la-torre-del-saracino-3/",
+            "coord": [
+                [
+                    40.6606002,
+                    14.4196226
+                ]
+            ]
+        },
+        {
+            "position": 32,
+            "name": "La Madia",
+            "ref": "https://www.50topitaly.it/it/referenza/la-madia-3/",
+            "coord": [
+                [
+                    37.1054699,
+                    13.9349621
+                ]
+            ]
+        },
+        {
+            "position": 33,
+            "name": "Ristorante Andreina",
+            "ref": "https://www.50topitaly.it/it/referenza/ristorante-andreina-3/",
+            "coord": [
+                [
+                    43.4394683,
+                    13.6302732
+                ]
+            ]
+        },
+        {
+            "position": 34,
+            "name": "Laite",
+            "ref": "https://www.50topitaly.it/it/referenza/laite-3/",
+            "coord": [
+                [
+                    46.5684817,
+                    12.6948044
+                ]
+            ]
+        },
+        {
+            "position": 35,
+            "name": "Ristorante Romano",
+            "ref": "https://www.50topitaly.it/it/referenza/ristorante-romano-3/",
+            "coord": [
+                [
+                    43.8722025,
+                    10.2483079
+                ]
+            ]
+        },
+        {
+            "position": 36,
+            "name": "El Molin",
+            "ref": "https://www.50topitaly.it/it/referenza/el-molin-3/",
+            "coord": [
+                [
+                    46.2920621,
+                    11.4596207
+                ]
+            ]
+        },
+        {
+            "position": 37,
+            "name": "Antica Osteria Cera",
+            "ref": "https://www.50topitaly.it/it/referenza/antica-osteria-cera-3/",
+            "coord": [
+                [
+                    45.3879389,
+                    12.130285
+                ]
+            ]
+        },
+        {
+            "position": 38,
+            "name": "Caino",
+            "ref": "https://www.50topitaly.it/it/referenza/caino-3/",
+            "coord": [
+                [
+                    42.6220796,
+                    11.4905567
+                ]
+            ]
+        },
+        {
+            "position": 39,
+            "name": "Il Faro di Capo d’Orso – Andrea Aprea",
+            "ref": "https://www.50topitaly.it/it/referenza/il-faro-di-capo-dorso-andrea-aprea-2/",
+            "coord": [
+                [
+                    40.6354967,
+                    14.6779593
+                ]
+            ]
+        },
+        {
+            "position": 40,
+            "name": "Senso Alfio Ghezzi Mart",
+            "ref": "https://www.50topitaly.it/it/referenza/senso-alfio-ghezzi-mart-2/",
+            "coord": [
+                [
+                    45.8939134,
+                    11.0436464
+                ]
+            ]
+        },
+        {
+            "position": 41,
+            "name": "Retroscena",
+            "ref": "https://www.50topitaly.it/it/referenza/retroscena-2/",
+            "coord": [
+                [
+                    43.180078,
+                    13.792742
+                ]
+            ]
+        },
+        {
+            "position": 42,
+            "name": "Palazzo Petrucci",
+            "ref": "https://www.50topitaly.it/it/referenza/palazzo-petrucci-3/",
+            "coord": [
+                [
+                    40.8214698,
+                    14.2147176
+                ]
+            ]
+        },
+        {
+            "position": 43,
+            "name": "Bracali",
+            "ref": "https://www.50topitaly.it/it/referenza/bracali/",
+            "coord": [
+                [
+                    43.055825,
+                    10.902239
+                ]
+            ]
+        },
+        {
+            "position": 44,
+            "name": "Per Me Giulio Terrinoni",
+            "ref": "https://www.50topitaly.it/it/referenza/per-me-giulio-terrinoni/",
+            "coord": [
+                [
+                    41.8973247,
+                    12.4674986
+                ]
+            ]
+        },
+        {
+            "position": 45,
+            "name": "Aqua Crua",
+            "ref": "https://www.50topitaly.it/it/referenza/aqua-crua-3/",
+            "coord": [
+                [
+                    45.4096996,
+                    11.5410304
+                ]
+            ]
+        },
+        {
+            "position": 46,
+            "name": "Impronta d’Acqua",
+            "ref": "https://www.50topitaly.it/it/referenza/impronta-dacqua-3/",
+            "coord": [
+                [
+                    44.2956308,
+                    9.3693677
+                ]
+            ]
+        },
+        {
+            "position": 47,
+            "name": "Pashà",
+            "ref": "https://www.50topitaly.it/it/referenza/pasha-3/",
+            "coord": [
+                [
+                    40.9673601,
+                    17.1171189
+                ]
+            ]
+        },
+        {
+            "position": 48,
+            "name": "Il Buco",
+            "ref": "https://www.50topitaly.it/it/referenza/il-buco/",
+            "coord": [
+                [
+                    40.6268944,
+                    14.3747518
+                ]
+            ]
+        },
+        {
+            "position": 49,
+            "name": "Accursio",
+            "ref": "https://www.50topitaly.it/it/referenza/accursio/",
+            "coord": [
+                [
+                    36.8601043,
+                    14.7603716
+                ]
+            ]
+        },
+        {
+            "position": 50,
+            "name": "Volta del Fuenti by Michele De Blasio",
+            "ref": "https://www.50topitaly.it/it/referenza/volta-del-fuenti-by-michele-de-blasio-2/",
+            "coord": [
+                [
+                    40.6600633,
+                    14.7119762
+                ]
+            ]
+        }
+    ],
+    "I Migliori Ristoranti Italiani 2024 Cucina Dautore": [
+        {
+            "position": 1,
+            "name": "Zia Restaurant",
+            "ref": "https://www.50topitaly.it/it/referenza/zia-restaurant-3/",
+            "coord": [
+                [
+                    41.8869767,
+                    12.4682363
+                ]
+            ]
+        },
+        {
+            "position": 2,
+            "name": "Dina",
+            "ref": "https://www.50topitaly.it/it/referenza/dina-3/",
+            "coord": [
+                [
+                    45.5838574,
+                    10.1561869
+                ]
+            ]
+        },
+        {
+            "position": 3,
+            "name": "daGorini",
+            "ref": "https://www.50topitaly.it/it/referenza/dagorini-3/",
+            "coord": [
+                [
+                    43.8586485,
+                    11.9745081
+                ]
+            ]
+        },
+        {
+            "position": 4,
+            "name": "Antica Osteria Nonna Rosa",
+            "ref": "https://www.50topitaly.it/it/referenza/antica-osteria-nonna-rosa-2/",
+            "coord": [
+                [
+                    40.6612602,
+                    14.4332025
+                ]
+            ]
+        },
+        {
+            "position": 5,
+            "name": "Marotta Ristorante",
+            "ref": "https://www.50topitaly.it/it/referenza/marotta-ristorante-3/",
+            "coord": [
+                [
+                    41.146783,
+                    14.4094731
+                ]
+            ]
+        },
+        {
+            "position": 6,
+            "name": "Condividere",
+            "ref": "https://www.50topitaly.it/it/referenza/condividere-3/",
+            "coord": [
+                [
+                    45.0802976,
+                    7.6910321
+                ]
+            ]
+        },
+        {
+            "position": 7,
+            "name": "Villa Maiella",
+            "ref": "https://www.50topitaly.it/it/referenza/villa-maiella/",
+            "coord": [
+                [
+                    42.1887427,
+                    14.2044889
+                ]
+            ]
+        },
+        {
+            "position": 8,
+            "name": "Abbruzzino",
+            "ref": "https://www.50topitaly.it/it/referenza/abbruzzino/",
+            "coord": [
+                [
+                    38.890777,
+                    16.6226163
+                ]
+            ]
+        },
+        {
+            "position": 9,
+            "name": "Gambero Rosso",
+            "ref": "https://www.50topitaly.it/it/referenza/gambero-rosso-3/",
+            "coord": [
+                [
+                    38.2990267,
+                    16.3273187
+                ]
+            ]
+        },
+        {
+            "position": 10,
+            "name": "Abocar Due Cucine",
+            "ref": "https://www.50topitaly.it/it/referenza/abocar-due-cucine-3/",
+            "coord": [
+                [
+                    44.0626736,
+                    12.5663631
+                ]
+            ]
+        },
+        {
+            "position": 11,
+            "name": "Re Santi e Leoni",
+            "ref": "https://www.50topitaly.it/it/referenza/re-santi-e-leoni-3/",
+            "coord": [
+                [
+                    40.9282283,
+                    14.526693
+                ]
+            ]
+        },
+        {
+            "position": 12,
+            "name": "Dalla Gioconda",
+            "ref": "https://www.50topitaly.it/it/referenza/dalla-gioconda-3/",
+            "coord": [
+                [
+                    43.9638601,
+                    12.7726647
+                ]
+            ]
+        },
+        {
+            "position": 13,
+            "name": "Cannavacciuolo Bistrot Torino",
+            "ref": "https://www.50topitaly.it/it/referenza/cannavacciuolo-bistrot-torino-3/",
+            "coord": [
+                [
+                    45.0625514,
+                    7.7008662
+                ]
+            ]
+        },
+        {
+            "position": 14,
+            "name": "Damini Macelleria & Affini",
+            "ref": "https://www.50topitaly.it/it/referenza/damini-macelleria-affini-3/",
+            "coord": [
+                [
+                    45.5167183,
+                    11.3364234
+                ]
+            ]
+        },
+        {
+            "position": 15,
+            "name": "Oasis Sapori Antichi",
+            "ref": "https://www.50topitaly.it/it/referenza/oasis-sapori-antichi-3/",
+            "coord": [
+                [
+                    41.063271,
+                    15.251994
+                ]
+            ]
+        },
+        {
+            "position": 16,
+            "name": "Acqua Pazza",
+            "ref": "https://www.50topitaly.it/it/referenza/acqua-pazza-3/",
+            "coord": [
+                [
+                    40.8955737,
+                    12.9589751
+                ]
+            ]
+        },
+        {
+            "position": 17,
+            "name": "Antica Corte Pallavicina",
+            "ref": "https://www.50topitaly.it/it/referenza/antica-corte-pallavicina-3/",
+            "coord": [
+                [
+                    45.0212209,
+                    10.0859149
+                ]
+            ]
+        },
+        {
+            "position": 18,
+            "name": "Il Tiglio",
+            "ref": "https://www.50topitaly.it/it/referenza/il-tiglio/",
+            "coord": [
+                [
+                    42.8985697,
+                    13.3324508
+                ]
+            ]
+        },
+        {
+            "position": 19,
+            "name": "L’Asinello",
+            "ref": "https://www.50topitaly.it/it/referenza/lasinello-3/",
+            "coord": [
+                [
+                    43.385086,
+                    11.4806404
+                ]
+            ]
+        },
+        {
+            "position": 20,
+            "name": "Ristorante Giglio",
+            "ref": "https://www.50topitaly.it/it/referenza/ristorante-giglio-3/",
+            "coord": [
+                [
+                    43.8411984,
+                    10.5032921
+                ]
+            ]
+        },
+        {
+            "position": 21,
+            "name": "Retrobottega",
+            "ref": "https://www.50topitaly.it/it/referenza/retrobottega/",
+            "coord": [
+                [
+                    41.9019254,
+                    12.475204
+                ]
+            ]
+        },
+        {
+            "position": 22,
+            "name": "al Metrò",
+            "ref": "https://www.50topitaly.it/it/referenza/al-metro-3/",
+            "coord": [
+                [
+                    42.0681635,
+                    14.7748245
+                ]
+            ]
+        },
+        {
+            "position": 23,
+            "name": "L’Arcade",
+            "ref": "https://www.50topitaly.it/it/referenza/larcade-2/",
+            "coord": [
+                [
+                    43.1761801,
+                    13.8013865
+                ]
+            ]
+        },
+        {
+            "position": 24,
+            "name": "L’Acciuga",
+            "ref": "https://www.50topitaly.it/it/referenza/lacciuga-2/",
+            "coord": [
+                [
+                    43.0903258,
+                    12.3684703
+                ]
+            ]
+        },
+        {
+            "position": 25,
+            "name": "Casa Rapisarda",
+            "ref": "https://www.50topitaly.it/it/referenza/casa-rapisarda-3/",
+            "coord": [
+                [
+                    43.5107944,
+                    13.6226833
+                ]
+            ]
+        },
+        {
+            "position": 26,
+            "name": "Casa Sgarra",
+            "ref": "https://www.50topitaly.it/it/referenza/casa-sgarra-3/",
+            "coord": [
+                [
+                    41.2704292,
+                    16.4342406
+                ]
+            ]
+        },
+        {
+            "position": 27,
+            "name": "Mater1apr1ma",
+            "ref": "https://www.50topitaly.it/it/referenza/mater1apr1ma-2/",
+            "coord": [
+                [
+                    41.4103138,
+                    13.043278
+                ]
+            ]
+        },
+        {
+            "position": 28,
+            "name": "Luigi Lepore",
+            "ref": "https://www.50topitaly.it/it/referenza/luigi-lepore-2/",
+            "coord": [
+                [
+                    38.9748581,
+                    16.317623
+                ]
+            ]
+        },
+        {
+            "position": 29,
+            "name": "Essenza",
+            "ref": "https://www.50topitaly.it/it/referenza/essenza-3/",
+            "coord": [
+                [
+                    41.2871371,
+                    13.2564958
+                ]
+            ]
+        },
+        {
+            "position": 30,
+            "name": "Pulejo",
+            "ref": "https://www.50topitaly.it/it/referenza/pulejo/",
+            "coord": [
+                [
+                    41.907148,
+                    12.4596095
+                ]
+            ]
+        },
+        {
+            "position": 31,
+            "name": "Balzi Rossi",
+            "ref": "https://www.50topitaly.it/it/referenza/balzi-rossi/",
+            "coord": [
+                [
+                    43.783676,
+                    7.5368652
+                ]
+            ]
+        },
+        {
+            "position": 32,
+            "name": "Quintessenza Ristorante",
+            "ref": "https://www.50topitaly.it/it/referenza/quintessenza-ristorante-3/",
+            "coord": [
+                [
+                    41.2814331,
+                    16.4149989
+                ]
+            ]
+        },
+        {
+            "position": 33,
+            "name": "Hostaria Ducale",
+            "ref": "https://www.50topitaly.it/it/referenza/hostaria-ducale-3/",
+            "coord": [
+                [
+                    44.4077872,
+                    8.9338655
+                ]
+            ]
+        },
+        {
+            "position": 34,
+            "name": "Locanda Perbellini al Mare",
+            "ref": "https://www.50topitaly.it/it/referenza/locanda-perbellini-al-mare/",
+            "coord": [
+                [
+                    37.378331,
+                    13.3095326
+                ]
+            ]
+        },
+        {
+            "position": 35,
+            "name": "Fattoria delle Torri",
+            "ref": "https://www.50topitaly.it/it/referenza/fattoria-delle-torri/",
+            "coord": [
+                [
+                    36.8569685,
+                    14.7600764
+                ]
+            ]
+        },
+        {
+            "position": 36,
+            "name": "Suscettibile",
+            "ref": "https://www.50topitaly.it/it/referenza/suscettibile/",
+            "coord": [
+                [
+                    40.678748,
+                    14.7662204
+                ]
+            ]
+        },
+        {
+            "position": 37,
+            "name": "Bottega Culinaria",
+            "ref": "https://www.50topitaly.it/it/referenza/bottega-culinaria/",
+            "coord": [
+                [
+                    42.3029614,
+                    14.4258931
+                ]
+            ]
+        },
+        {
+            "position": 38,
+            "name": "28 Posti",
+            "ref": "https://www.50topitaly.it/it/referenza/28-posti-2/",
+            "coord": [
+                [
+                    45.4527281,
+                    9.1733466
+                ]
+            ]
+        },
+        {
+            "position": 39,
+            "name": "Vitium",
+            "ref": "https://www.50topitaly.it/it/referenza/vitium/",
+            "coord": [
+                [
+                    45.3622411,
+                    9.6890296
+                ]
+            ]
+        },
+        {
+            "position": 40,
+            "name": "Osteria della Brughiera",
+            "ref": "https://www.50topitaly.it/it/referenza/osteria-della-brughiera/",
+            "coord": [
+                [
+                    45.7393326,
+                    9.6267415
+                ]
+            ]
+        },
+        {
+            "position": 41,
+            "name": "Zum Löwen",
+            "ref": "https://www.50topitaly.it/it/referenza/zum-lowen-3/",
+            "coord": [
+                [
+                    46.5854372,
+                    11.0871848
+                ]
+            ]
+        },
+        {
+            "position": 42,
+            "name": "Modì",
+            "ref": "https://www.50topitaly.it/it/referenza/modi-2/",
+            "coord": [
+                [
+                    38.196007,
+                    15.3564524
+                ]
+            ]
+        },
+        {
+            "position": 43,
+            "name": "Delicato",
+            "ref": "https://www.50topitaly.it/it/referenza/delicato/",
+            "coord": [
+                [
+                    42.4115786,
+                    12.7692595
+                ]
+            ]
+        },
+        {
+            "position": 44,
+            "name": "Gardenia",
+            "ref": "https://www.50topitaly.it/it/referenza/gardenia-3/",
+            "coord": [
+                [
+                    45.3034248,
+                    7.8900363
+                ]
+            ]
+        },
+        {
+            "position": 45,
+            "name": "Limu Restaurant",
+            "ref": "https://www.50topitaly.it/it/referenza/limu-restaurant/",
+            "coord": [
+                [
+                    38.0826962,
+                    13.50769
+                ]
+            ]
+        },
+        {
+            "position": 46,
+            "name": "Paca Ristorante",
+            "ref": "https://www.50topitaly.it/it/referenza/paca-ristorante/",
+            "coord": [
+                [
+                    43.8771273,
+                    11.1023267
+                ]
+            ]
+        },
+        {
+            "position": 47,
+            "name": "Ristorante Mater\tRistorante Mater\tPoppi (AR)\tToscana",
+            "ref": "https://www.50topitaly.it/it/referenza/ristorante-mater/",
+            "coord": [
+                [
+                    43.7820054,
+                    11.7949786
+                ]
+            ]
+        },
+        {
+            "position": 48,
+            "name": "UNE",
+            "ref": "https://www.50topitaly.it/it/referenza/une/",
+            "coord": [
+                [
+                    43.0177596,
+                    12.7845224
+                ]
+            ]
+        },
+        {
+            "position": 49,
+            "name": "Terramira",
+            "ref": "https://www.50topitaly.it/it/referenza/terramira/",
+            "coord": [
+                [
+                    43.5626446,
+                    11.8598362
+                ]
+            ]
+        },
+        {
+            "position": 50,
+            "name": "President",
+            "ref": "https://www.50topitaly.it/it/referenza/president/",
+            "coord": [
+                [
+                    40.7472918,
+                    14.4995597
+                ]
+            ]
+        }
+    ],
+    "50 Top Trattorie Bistro Moderni 2024": [
+        {
+            "position": 1,
+            "name": "Trattoria Da Burde",
+            "ref": "https://www.50topitaly.it/it/referenza/trattoria-da-burde-3/",
+            "coord": [
+                [
+                    43.7941468,
+                    11.185856
+                ]
+            ]
+        },
+        {
+            "position": 2,
+            "name": "Antica Osteria del Mirasole",
+            "ref": "https://www.50topitaly.it/it/referenza/antica-osteria-del-mirasole-3/",
+            "coord": [
+                [
+                    44.639073,
+                    11.1857091
+                ]
+            ]
+        },
+        {
+            "position": 3,
+            "name": "Al Convento",
+            "ref": "https://www.50topitaly.it/it/referenza/al-convento-3/",
+            "coord": [
+                [
+                    40.6472544,
+                    14.700698
+                ]
+            ]
+        },
+        {
+            "position": 4,
+            "name": "Roscioli Salumeria con Cucina",
+            "ref": "https://www.50topitaly.it/it/referenza/roscioli-salumeria-con-cucina-3/",
+            "coord": [
+                [
+                    41.894256,
+                    12.4742417
+                ]
+            ]
+        },
+        {
+            "position": 5,
+            "name": "L’Osteria della Tana",
+            "ref": "https://www.50topitaly.it/it/referenza/losteria-della-tana-3/",
+            "coord": [
+                [
+                    45.8530206,
+                    11.4952863
+                ]
+            ]
+        },
+        {
+            "position": 6,
+            "name": "Abraxas Osteria",
+            "ref": "https://www.50topitaly.it/it/referenza/abraxas-osteria-3/",
+            "coord": [
+                [
+                    40.8318495,
+                    14.0693659
+                ]
+            ]
+        },
+        {
+            "position": 7,
+            "name": "Sora Maria e Arcangelo",
+            "ref": "https://www.50topitaly.it/it/referenza/sora-maria-e-arcangelo-3/",
+            "coord": [
+                [
+                    41.8595961,
+                    13.0334661
+                ]
+            ]
+        },
+        {
+            "position": 8,
+            "name": "La Brinca",
+            "ref": "https://www.50topitaly.it/it/referenza/la-brinca-3/",
+            "coord": [
+                [
+                    44.3561224,
+                    9.3917323
+                ]
+            ]
+        },
+        {
+            "position": 9,
+            "name": "Ristorante Al Cambio",
+            "ref": "https://www.50topitaly.it/it/referenza/ristorante-al-cambio-3/",
+            "coord": [
+                [
+                    44.5285709,
+                    11.3666651
+                ]
+            ]
+        },
+        {
+            "position": 10,
+            "name": "Lo Stuzzichino",
+            "ref": "https://www.50topitaly.it/it/referenza/lo-stuzzichino-3/",
+            "coord": [
+                [
+                    40.6067011,
+                    14.3741134
+                ]
+            ]
+        },
+        {
+            "position": 11,
+            "name": "NU’ Trattoria Italiana 1960",
+            "ref": "https://www.50topitaly.it/it/referenza/nu-trattoria-italiana-1960/",
+            "coord": [
+                [
+                    41.7920911,
+                    13.1793855
+                ]
+            ]
+        },
+        {
+            "position": 12,
+            "name": "Arcangelo Vino e Cucina",
+            "ref": "https://www.50topitaly.it/it/referenza/arcangelo-vino-e-cucina-2/",
+            "coord": [
+                [
+                    41.9066067,
+                    12.4686916
+                ]
+            ]
+        },
+        {
+            "position": 13,
+            "name": "Locanda Mammì",
+            "ref": "https://www.50topitaly.it/it/referenza/locanda-mammi-2/",
+            "coord": [
+                [
+                    41.8138792,
+                    14.3807562
+                ]
+            ]
+        },
+        {
+            "position": 14,
+            "name": "Mammaròssa",
+            "ref": "https://www.50topitaly.it/it/referenza/mammarossa-2/",
+            "coord": [
+                [
+                    42.0257124,
+                    13.433612
+                ]
+            ]
+        },
+        {
+            "position": 15,
+            "name": "Mezza Pagnotta – Cucina etnobotanica",
+            "ref": "https://www.50topitaly.it/it/referenza/mezza-pagnotta-cucina-etnobotanica/",
+            "coord": [
+                [
+                    41.1393661,
+                    16.4840965
+                ]
+            ]
+        },
+        {
+            "position": 16,
+            "name": "Ristorante Consorzio",
+            "ref": "https://www.50topitaly.it/it/referenza/ristorante-consorzio-3/",
+            "coord": [
+                [
+                    45.0714125,
+                    7.6796432
+                ]
+            ]
+        },
+        {
+            "position": 17,
+            "name": "Evviva Maria",
+            "ref": "https://www.50topitaly.it/it/referenza/evviva-maria/",
+            "coord": [
+                [
+                    40.9671349,
+                    17.1138919
+                ]
+            ]
+        },
+        {
+            "position": 18,
+            "name": "Trippa",
+            "ref": "https://www.50topitaly.it/it/referenza/trippa-3/",
+            "coord": [
+                [
+                    45.4521864,
+                    9.2054884
+                ]
+            ]
+        },
+        {
+            "position": 19,
+            "name": "Josto",
+            "ref": "https://www.50topitaly.it/it/referenza/josto-3/",
+            "coord": [
+                [
+                    39.2165705,
+                    9.1104473
+                ]
+            ]
+        },
+        {
+            "position": 20,
+            "name": "Vecchia Marina",
+            "ref": "https://www.50topitaly.it/it/referenza/vecchia-marina-3/",
+            "coord": [
+                [
+                    42.6829357,
+                    14.0127942
+                ]
+            ]
+        },
+        {
+            "position": 21,
+            "name": "Gerani Ristorante",
+            "ref": "https://www.50topitaly.it/it/referenza/gerani-ristorante-3/",
+            "coord": [
+                [
+                    40.7114739,
+                    14.5266912
+                ]
+            ]
+        },
+        {
+            "position": 22,
+            "name": "Osteria Ophis",
+            "ref": "https://www.50topitaly.it/it/referenza/osteria-ophis-3/",
+            "coord": [
+                [
+                    42.9353708,
+                    13.6919644
+                ]
+            ]
+        },
+        {
+            "position": 23,
+            "name": "Da Lucio Trattoria",
+            "ref": "https://www.50topitaly.it/it/referenza/da-lucio-trattoria-3/",
+            "coord": [
+                [
+                    44.067145,
+                    12.5808806
+                ]
+            ]
+        },
+        {
+            "position": 24,
+            "name": "Barred",
+            "ref": "https://www.50topitaly.it/it/referenza/barred-2/",
+            "coord": [
+                [
+                    41.883576,
+                    12.5136064
+                ]
+            ]
+        },
+        {
+            "position": 25,
+            "name": "SantoPalato",
+            "ref": "https://www.50topitaly.it/it/referenza/santopalato-3/",
+            "coord": [
+                [
+                    41.8812628,
+                    12.5098805
+                ]
+            ]
+        },
+        {
+            "position": 26,
+            "name": "Hub",
+            "ref": "https://www.50topitaly.it/it/referenza/hub-2/",
+            "coord": [
+                [
+                    40.266732,
+                    8.7624757
+                ]
+            ]
+        },
+        {
+            "position": 27,
+            "name": "Boivin",
+            "ref": "https://www.50topitaly.it/it/referenza/boivin-3/",
+            "coord": [
+                [
+                    46.0111898,
+                    11.3004651
+                ]
+            ]
+        },
+        {
+            "position": 28,
+            "name": "Lokanda Devetak 1870",
+            "ref": "https://www.50topitaly.it/it/referenza/lokanda-devetak-1870-3/",
+            "coord": [
+                [
+                    45.8831461,
+                    13.5606662
+                ]
+            ]
+        },
+        {
+            "position": 29,
+            "name": "Ai Due Platani",
+            "ref": "https://www.50topitaly.it/it/referenza/ai-due-platani-3/",
+            "coord": [
+                [
+                    44.768842,
+                    10.379983
+                ]
+            ]
+        },
+        {
+            "position": 30,
+            "name": "Antica Trattoria del Gallo",
+            "ref": "https://www.50topitaly.it/it/referenza/antica-trattoria-del-gallo-3/",
+            "coord": [
+                [
+                    45.3799926,
+                    9.0248373
+                ]
+            ]
+        },
+        {
+            "position": 31,
+            "name": "Corona Trattoria",
+            "ref": "https://www.50topitaly.it/it/referenza/corona-trattoria-3/",
+            "coord": [
+                [
+                    38.126085,
+                    13.3511746
+                ]
+            ]
+        },
+        {
+            "position": 32,
+            "name": "Osteria della Villetta",
+            "ref": "https://www.50topitaly.it/it/referenza/osteria-della-villetta-3/",
+            "coord": [
+                [
+                    45.6026727,
+                    9.8940465
+                ]
+            ]
+        },
+        {
+            "position": 33,
+            "name": "L’Agave Framura",
+            "ref": "https://www.50topitaly.it/it/referenza/lagave-framura-3/",
+            "coord": [
+                [
+                    44.2191169,
+                    9.5729115
+                ]
+            ]
+        },
+        {
+            "position": 34,
+            "name": "Taverna Kerkira",
+            "ref": "https://www.50topitaly.it/it/referenza/taverna-kerkira-3/",
+            "coord": [
+                [
+                    38.2841753,
+                    15.8004221
+                ]
+            ]
+        },
+        {
+            "position": 35,
+            "name": "Fattoria Borrello",
+            "ref": "https://www.50topitaly.it/it/referenza/fattoria-borrello-2/",
+            "coord": [
+                [
+                    38.0190668,
+                    14.9272044
+                ]
+            ]
+        },
+        {
+            "position": 36,
+            "name": "Antica Trattoria Ballotta",
+            "ref": "https://www.50topitaly.it/it/referenza/antica-trattoria-ballotta-3/",
+            "coord": [
+                [
+                    45.3347694,
+                    11.7211883
+                ]
+            ]
+        },
+        {
+            "position": 37,
+            "name": "Osteria La Torre",
+            "ref": "https://www.50topitaly.it/it/referenza/osteria-la-torre-3/",
+            "coord": [
+                [
+                    44.6515738,
+                    7.8570661
+                ]
+            ]
+        },
+        {
+            "position": 38,
+            "name": "Futura Osteria",
+            "ref": "https://www.50topitaly.it/it/referenza/futura-osteria-3/",
+            "coord": [
+                [
+                    43.3877477,
+                    11.1950236
+                ]
+            ]
+        },
+        {
+            "position": 39,
+            "name": "Armando al Pantheon",
+            "ref": "https://www.50topitaly.it/it/referenza/armando-al-pantheon-3/",
+            "coord": [
+                [
+                    41.8990882,
+                    12.4762512
+                ]
+            ]
+        },
+        {
+            "position": 40,
+            "name": "Antica Trattoria Da Doro",
+            "ref": "https://www.50topitaly.it/it/referenza/antica-trattoria-da-doro-3/",
+            "coord": [
+                [
+                    45.8140872,
+                    11.7207703
+                ]
+            ]
+        },
+        {
+            "position": 41,
+            "name": "Eufrosino Osteria",
+            "ref": "https://www.50topitaly.it/it/referenza/eufrosino-osteria/",
+            "coord": [
+                [
+                    41.8750016,
+                    12.5411192
+                ]
+            ]
+        },
+        {
+            "position": 42,
+            "name": "Antichi Sapori\tAntichi Sapori\tMontegrosso di Andria (BT)\tPuglia",
+            "ref": "https://www.50topitaly.it/it/referenza/antichi-sapori-3/",
+            "coord": [
+                [
+                    41.17298,
+                    16.1404845
+                ]
+            ]
+        },
+        {
+            "position": 43,
+            "name": "Osteria Ca’ Dei Giosi",
+            "ref": "https://www.50topitaly.it/it/referenza/osteria-ca-dei-giosi-3/",
+            "coord": [
+                [
+                    46.0977688,
+                    11.0178734
+                ]
+            ]
+        },
+        {
+            "position": 44,
+            "name": "Il Capanno",
+            "ref": "https://www.50topitaly.it/it/referenza/il-capanno-3/",
+            "coord": [
+                [
+                    42.6614289,
+                    12.7350034
+                ]
+            ]
+        },
+        {
+            "position": 45,
+            "name": "Osteria Botteghe Antiche",
+            "ref": "https://www.50topitaly.it/it/referenza/osteria-botteghe-antiche-3/",
+            "coord": [
+                [
+                    40.8491807,
+                    17.1229292
+                ]
+            ]
+        },
+        {
+            "position": 46,
+            "name": "Trattoria La Grotta Da Concetta",
+            "ref": "https://www.50topitaly.it/it/referenza/trattoria-la-grotta-da-concetta-3/",
+            "coord": [
+                [
+                    41.5616814,
+                    14.6607577
+                ]
+            ]
+        },
+        {
+            "position": 47,
+            "name": "Cibus",
+            "ref": "https://www.50topitaly.it/it/referenza/cibus-3/",
+            "coord": [
+                [
+                    40.64652,
+                    17.51842
+                ]
+            ]
+        },
+        {
+            "position": 48,
+            "name": "Osteria del Vicolo",
+            "ref": "https://www.50topitaly.it/it/referenza/osteria-del-vicolo-2/",
+            "coord": [
+                [
+                    39.8864329,
+                    15.987145
+                ]
+            ]
+        },
+        {
+            "position": 49,
+            "name": "Taverna Centomani",
+            "ref": "https://www.50topitaly.it/it/referenza/taverna-centomani-3/",
+            "coord": [
+                [
+                    40.6231655,
+                    15.7589805
+                ]
+            ]
+        },
+        {
+            "position": 50,
+            "name": "Ristorante Cacciatori",
+            "ref": "https://www.50topitaly.it/it/referenza/ristorante-cacciatori-3/",
+            "coord": [
+                [
+                    44.5937182,
+                    8.420656
+                ]
+            ]
+        }
+    ],
+    "50 Top Italy Migliori Sushi 2024": [
+        {
+            "position": 1,
+            "name": "Moi",
+            "ref": "https://www.50topitaly.it/it/referenza/moi-3/",
+            "coord": [
+                [
+                    43.878322,
+                    11.0985406
+                ]
+            ]
+        },
+        {
+            "position": 2,
+            "name": "IYO Omakase",
+            "ref": "https://www.50topitaly.it/it/referenza/iyo-omakase-3/",
+            "coord": [
+                [
+                    45.4821607,
+                    9.1936501
+                ]
+            ]
+        },
+        {
+            "position": 3,
+            "name": "Kohaku",
+            "ref": "https://www.50topitaly.it/it/referenza/kohaku/",
+            "coord": [
+                [
+                    41.9088227,
+                    12.4900973
+                ]
+            ]
+        },
+        {
+            "position": 4,
+            "name": "Wicky’s Innovative Japanese Cuisine",
+            "ref": "https://www.50topitaly.it/it/referenza/wickys-innovative-japanese-cuisine-3/",
+            "coord": [
+                [
+                    45.4599349,
+                    9.1879253
+                ]
+            ]
+        },
+        {
+            "position": 5,
+            "name": "Umi",
+            "ref": "https://www.50topitaly.it/it/referenza/umi-2/",
+            "coord": [
+                [
+                    40.6770189,
+                    14.7629714
+                ]
+            ]
+        },
+        {
+            "position": 6,
+            "name": "Tabi Fusion Experience",
+            "ref": "https://www.50topitaly.it/it/referenza/tabi-fusion-experience-3/",
+            "coord": [
+                [
+                    40.8322988,
+                    14.2499478
+                ]
+            ]
+        },
+        {
+            "position": 7,
+            "name": "Ichikawa",
+            "ref": "https://www.50topitaly.it/it/referenza/ichikawa-2/",
+            "coord": [
+                [
+                    45.4510915,
+                    9.207839
+                ]
+            ]
+        },
+        {
+            "position": 8,
+            "name": "Kensho",
+            "ref": "https://www.50topitaly.it/it/referenza/kensho-2/",
+            "coord": [
+                [
+                    45.0710506,
+                    7.6804009
+                ]
+            ]
+        },
+        {
+            "position": 9,
+            "name": "JAPIT",
+            "ref": "https://www.50topitaly.it/it/referenza/japit-3/",
+            "coord": [
+                [
+                    41.1329336,
+                    14.779953
+                ]
+            ]
+        },
+        {
+            "position": 10,
+            "name": "Kiko Sushi Bar",
+            "ref": "https://www.50topitaly.it/it/referenza/kiko-sushi-bar-3/",
+            "coord": [
+                [
+                    41.8999926,
+                    12.5176016
+                ]
+            ]
+        }
+    ],
+    "50 Top Italy Migliori Bistro Vegetali 2024": [
+        {
+            "position": 1,
+            "name": "Altatto",
+            "ref": "https://www.50topitaly.it/it/referenza/altatto/",
+            "coord": [
+                [
+                    45.5034873,
+                    9.2091683
+                ]
+            ]
+        },
+        {
+            "position": 2,
+            "name": "Nativa",
+            "ref": "https://www.50topitaly.it/it/referenza/nativa/",
+            "coord": [
+                [
+                    41.9023433,
+                    12.4359245
+                ]
+            ]
+        },
+        {
+            "position": 3,
+            "name": "Mezza Pagnotta – Cucina etnobotanica",
+            "ref": "https://www.50topitaly.it/it/referenza/mezza-pagnotta-cucina-etnobotanica/",
+            "coord": [
+                [
+                    41.1393661,
+                    16.4840965
+                ]
+            ]
+        },
+        {
+            "position": 4,
+            "name": "Mater Terrae",
+            "ref": "https://www.50topitaly.it/it/referenza/mater-terrae/",
+            "coord": [
+                [
+                    41.8999814,
+                    12.4721401
+                ]
+            ]
+        },
+        {
+            "position": 5,
+            "name": "Rifugio Romano",
+            "ref": "https://www.50topitaly.it/it/referenza/rifugio-romano/",
+            "coord": [
+                [
+                    41.9044388,
+                    12.4995988
+                ]
+            ]
+        },
+        {
+            "position": 6,
+            "name": "Il Margutta",
+            "ref": "https://www.50topitaly.it/it/referenza/il-margutta/",
+            "coord": [
+                [
+                    41.9095208,
+                    12.4782658
+                ]
+            ]
+        },
+        {
+            "position": 7,
+            "name": "Linfa",
+            "ref": "https://www.50topitaly.it/it/referenza/linfa/",
+            "coord": [
+                [
+                    45.4537706,
+                    9.1635202
+                ]
+            ]
+        },
+        {
+            "position": 8,
+            "name": "Fonderia",
+            "ref": "https://www.50topitaly.it/it/referenza/fonderia/",
+            "coord": [
+                [
+                    43.7723245,
+                    11.2385981
+                ]
+            ]
+        },
+        {
+            "position": 9,
+            "name": "Cavoli Nostri",
+            "ref": "https://www.50topitaly.it/it/referenza/cavoli-nostri/",
+            "coord": [
+                [
+                    40.8308088,
+                    14.2502322
+                ]
+            ]
+        },
+        {
+            "position": 10,
+            "name": "La Cucina dei Colori",
+            "ref": "https://www.50topitaly.it/it/referenza/la-cucina-dei-colori/",
+            "coord": [
+                [
+                    37.5059503,
+                    15.087428
+                ]
+            ]
+        }
+    ],
+    "50 Top Italy Migliori Cacio E Pepe 2024": [
+        {
+            "position": 1,
+            "name": "Roscioli Salumeria con Cucina",
+            "ref": "https://www.50topitaly.it/it/referenza/roscioli-salumeria-con-cucina-3/",
+            "coord": [
+                [
+                    41.894256,
+                    12.4742417
+                ]
+            ]
+        },
+        {
+            "position": 2,
+            "name": "Felice a Testaccio",
+            "ref": "https://www.50topitaly.it/it/referenza/felice-a-testaccio/",
+            "coord": [
+                [
+                    41.8785412,
+                    12.477493
+                ]
+            ]
+        },
+        {
+            "position": 3,
+            "name": "Antica Pesa",
+            "ref": "https://www.50topitaly.it/it/referenza/antica-pesa/",
+            "coord": [
+                [
+                    41.8905078,
+                    12.4665524
+                ]
+            ]
+        },
+        {
+            "position": 4,
+            "name": "Velavevodetto",
+            "ref": "https://www.50topitaly.it/it/referenza/velavevodetto/",
+            "coord": [
+                [
+                    41.8765358,
+                    12.4759252
+                ]
+            ]
+        },
+        {
+            "position": 5,
+            "name": "SantoPalato",
+            "ref": "https://www.50topitaly.it/it/referenza/santopalato-3/",
+            "coord": [
+                [
+                    41.8812628,
+                    12.5098805
+                ]
+            ]
+        },
+        {
+            "position": 6,
+            "name": "Da Enzo al 29",
+            "ref": "https://www.50topitaly.it/it/referenza/da-enzo-al-29/",
+            "coord": [
+                [
+                    41.8880871,
+                    12.4777878
+                ]
+            ]
+        },
+        {
+            "position": 7,
+            "name": "Checchino dal 1887",
+            "ref": "https://www.50topitaly.it/it/referenza/checchino-dal-1887/",
+            "coord": [
+                [
+                    41.8763821,
+                    12.4740215
+                ]
+            ]
+        },
+        {
+            "position": 8,
+            "name": "Ristorante La Carbonara",
+            "ref": "https://www.50topitaly.it/it/referenza/ristorante-la-carbonara/",
+            "coord": [
+                [
+                    41.8959344,
+                    12.4716776
+                ]
+            ]
+        },
+        {
+            "position": 9,
+            "name": "Da Cesare al Casaletto",
+            "ref": "https://www.50topitaly.it/it/referenza/da-cesare-al-casaletto-2/",
+            "coord": [
+                [
+                    41.8768546,
+                    12.4407913
+                ]
+            ]
+        },
+        {
+            "position": 10,
+            "name": "Trattoria da Danilo",
+            "ref": "https://www.50topitaly.it/it/referenza/trattoria-da-danilo/",
+            "coord": [
+                [
+                    41.8920353,
+                    12.5053084
+                ]
+            ]
+        }
+    ],
+    "50 Top Italy Migliori Panini 2024": [
+        {
+            "position": 1,
+            "name": "Da Gigione Gourmand",
+            "ref": "https://www.50topitaly.it/it/referenza/da-gigione-gourmand-3/",
+            "coord": [
+                [
+                    40.91218,
+                    14.3912404
+                ]
+            ]
+        },
+        {
+            "position": 2,
+            "name": "Bestie – Calabresi selvaggi",
+            "ref": "https://www.50topitaly.it/it/referenza/bestie-calabresi-selvaggi-3/",
+            "coord": [
+                [
+                    38.7270591,
+                    16.5313096
+                ]
+            ]
+        },
+        {
+            "position": 3,
+            "name": "‘Ino",
+            "ref": "https://www.50topitaly.it/it/referenza/ino-3/",
+            "coord": [
+                [
+                    43.7681726,
+                    11.2546317
+                ]
+            ]
+        },
+        {
+            "position": 4,
+            "name": "Fud Bottega Sicula",
+            "ref": "https://www.50topitaly.it/it/referenza/fud-bottega-sicula-2/",
+            "coord": [
+                [
+                    38.1203329,
+                    13.3601276
+                ]
+            ]
+        },
+        {
+            "position": 5,
+            "name": "Porcobrado",
+            "ref": "https://www.50topitaly.it/it/referenza/porcobrado-2/",
+            "coord": [
+                [
+                    45.4875206,
+                    9.1881472
+                ]
+            ]
+        },
+        {
+            "position": 6,
+            "name": "Mi’ Ndujo",
+            "ref": "https://www.50topitaly.it/it/referenza/mi-ndujo/",
+            "coord": [
+                [
+                    39.3535206,
+                    16.2358733
+                ]
+            ]
+        },
+        {
+            "position": 7,
+            "name": "Da Matti Street Food",
+            "ref": "https://www.50topitaly.it/it/referenza/da-matti-street-food-3/",
+            "coord": [
+                [
+                    42.3076596,
+                    14.4453194
+                ]
+            ]
+        },
+        {
+            "position": 8,
+            "name": "BifBurger Exclusive",
+            "ref": "https://www.50topitaly.it/it/referenza/bifburger-exclusive-2/",
+            "coord": [
+                [
+                    40.8485233,
+                    14.4762652
+                ]
+            ]
+        },
+        {
+            "position": 9,
+            "name": "Panino Marino",
+            "ref": "https://www.50topitaly.it/it/referenza/panino-marino-3/",
+            "coord": [
+                [
+                    44.4107044,
+                    8.9289542
+                ]
+            ]
+        },
+        {
+            "position": 10,
+            "name": "Qcècè SocialCafè",
+            "ref": "https://www.50topitaly.it/it/referenza/qcece-socialcafe/",
+            "coord": [
+                [
+                    39.8486071,
+                    15.794757
+                ]
+            ]
+        }
+    ],
+    "50 Top Italy Migliori Street Food 2024": [
+        {
+            "position": 1,
+            "name": "Scirocco",
+            "ref": "https://www.50topitaly.it/it/referenza/scirocco-3/",
+            "coord": [
+                [
+                    37.5018805,
+                    15.0867992
+                ]
+            ]
+        },
+        {
+            "position": 2,
+            "name": "Supplizio",
+            "ref": "https://www.50topitaly.it/it/referenza/supplizio-3/",
+            "coord": [
+                [
+                    41.8974872,
+                    12.467911
+                ]
+            ]
+        },
+        {
+            "position": 3,
+            "name": "Trapizzino",
+            "ref": "https://www.50topitaly.it/it/referenza/trapizzino-3/",
+            "coord": [
+                [
+                    41.8796455,
+                    12.4737092
+                ]
+            ]
+        },
+        {
+            "position": 4,
+            "name": "Il Lampredotto",
+            "ref": "https://www.50topitaly.it/it/referenza/il-lampredotto-3/",
+            "coord": [
+                [
+                    43.7764676,
+                    11.2528338
+                ]
+            ]
+        },
+        {
+            "position": 5,
+            "name": "Antica Focacceria S. Francesco",
+            "ref": "https://www.50topitaly.it/it/referenza/antica-focacceria-san-francesco/",
+            "coord": [
+                [
+                    38.1164521,
+                    13.3661323
+                ]
+            ]
+        },
+        {
+            "position": 6,
+            "name": "Cime Di Rapa",
+            "ref": "https://www.50topitaly.it/it/referenza/cime-di-rapa-2/",
+            "coord": [
+                [
+                    40.3530996,
+                    18.1827878
+                ]
+            ]
+        },
+        {
+            "position": 7,
+            "name": "Delicatessen in Drogheria",
+            "ref": "https://www.50topitaly.it/it/referenza/delicatessen-in-drogheria/",
+            "coord": [
+                [
+                    36.9181105,
+                    14.7247165
+                ]
+            ]
+        },
+        {
+            "position": 8,
+            "name": "Rosticceria Famulari",
+            "ref": "https://www.50topitaly.it/it/referenza/rosticceria-famulari/",
+            "coord": [
+                [
+                    38.1886321,
+                    15.5540576
+                ]
+            ]
+        },
+        {
+            "position": 9,
+            "name": "Luini",
+            "ref": "https://www.50topitaly.it/it/referenza/luini-3/",
+            "coord": [
+                [
+                    45.4658631,
+                    9.1915447
+                ]
+            ]
+        },
+        {
+            "position": 10,
+            "name": "Indegno – La Crescentina 2.0",
+            "ref": "https://www.50topitaly.it/it/referenza/indegno-la-crescentina-2-0/",
+            "coord": [
+                [
+                    44.4952891,
+                    11.3302962
+                ]
+            ]
+        }
+    ],
+    "50 Top Italy Migliori Ristoranti Di Pesce 2024": [
+        {
+            "position": 1,
+            "name": "Punto Nave",
+            "ref": "https://www.50topitaly.it/it/referenza/punto-nave-3/",
+            "coord": [
+                [
+                    40.8776767,
+                    14.0988088
+                ]
+            ]
+        },
+        {
+            "position": 2,
+            "name": "Clandestino Susci Bar",
+            "ref": "https://www.50topitaly.it/it/referenza/clandestino-susci-bar-2/",
+            "coord": [
+                [
+                    43.5611908,
+                    13.599937
+                ]
+            ]
+        },
+        {
+            "position": 3,
+            "name": "Ristorante ilSanLorenzo",
+            "ref": "https://www.50topitaly.it/it/referenza/ristorante-ilsanlorenzo-3/",
+            "coord": []
+        },
+        {
+            "position": 4,
+            "name": "Romolo al Porto",
+            "ref": "https://www.50topitaly.it/it/referenza/romolo-al-porto-3/",
+            "coord": [
+                [
+                    41.4452928,
+                    12.6302671
+                ]
+            ]
+        },
+        {
+            "position": 5,
+            "name": "Terrazza Calabritto",
+            "ref": "https://www.50topitaly.it/it/referenza/terrazza-calabritto/",
+            "coord": [
+                [
+                    40.8332077,
+                    14.241424
+                ]
+            ]
+        },
+        {
+            "position": 6,
+            "name": "L’Osteria dell’Orologio",
+            "ref": "https://www.50topitaly.it/it/referenza/losteria-dellorologio-2/",
+            "coord": [
+                [
+                    41.7715474,
+                    12.2304889
+                ]
+            ]
+        },
+        {
+            "position": 7,
+            "name": "Corteinfiore",
+            "ref": "https://www.50topitaly.it/it/referenza/corteinfiore-3/",
+            "coord": [
+                [
+                    41.2798872,
+                    16.4186486
+                ]
+            ]
+        },
+        {
+            "position": 8,
+            "name": "Ristorante Da Tuccino",
+            "ref": "https://www.50topitaly.it/it/referenza/ristorante-da-tuccino-3/",
+            "coord": [
+                [
+                    41.0032472,
+                    17.2024143
+                ]
+            ]
+        },
+        {
+            "position": 9,
+            "name": "Pescheria",
+            "ref": "https://www.50topitaly.it/it/referenza/pescheria-3/",
+            "coord": [
+                [
+                    40.6766499,
+                    14.7635167
+                ]
+            ]
+        },
+        {
+            "position": 10,
+            "name": "Ristorante Da Nino",
+            "ref": "https://www.50topitaly.it/it/referenza/ristorante-da-nino/",
+            "coord": [
+                [
+                    37.8816644,
+                    15.3091337
+                ]
+            ]
+        }
+    ],
+    "I Migliori Ristoranti Italiani Nel Mondo 2024": [
+        {
+            "position": 1,
+            "name": "Il Carpaccio",
+            "ref": "https://www.50topitaly.it/it/referenza/il-carpaccio-3/",
+            "coord": [
+                [
+                    48.8757253,
+                    2.3004237
+                ]
+            ]
+        },
+        {
+            "position": 2,
+            "name": "Gucci Osteria Tokyo",
+            "ref": "https://www.50topitaly.it/it/referenza/gucci-osteria-tokyo/",
+            "coord": [
+                [
+                    35.6704952,
+                    139.7621529
+                ]
+            ]
+        },
+        {
+            "position": 3,
+            "name": "Don Alfonso",
+            "ref": "https://www.50topitaly.it/it/referenza/don-alfonso/",
+            "coord": [
+                [
+                    43.6780371,
+                    -79.4094439
+                ]
+            ]
+        },
+        {
+            "position": 4,
+            "name": "Da Vittorio Shanghai",
+            "ref": "https://www.50topitaly.it/it/referenza/da-vittorio-shanghai-3/",
+            "coord": [
+                [
+                    31.24618,
+                    121.427733
+                ]
+            ]
+        },
+        {
+            "position": 5,
+            "name": "Il Ristorante – Luca Fantin",
+            "ref": "https://www.50topitaly.it/it/referenza/il-ristorante-luca-fantin-2/",
+            "coord": [
+                [
+                    35.672926,
+                    139.7672446
+                ]
+            ]
+        },
+        {
+            "position": 6,
+            "name": "Fiola",
+            "ref": "https://www.50topitaly.it/it/referenza/fiola-3/",
+            "coord": [
+                [
+                    38.893308,
+                    -77.020487
+                ]
+            ]
+        },
+        {
+            "position": 7,
+            "name": "Rezdôra",
+            "ref": "https://www.50topitaly.it/it/referenza/rezdora-3/",
+            "coord": [
+                [
+                    40.7391458,
+                    -73.9889987
+                ]
+            ]
+        },
+        {
+            "position": 8,
+            "name": "Sesamo",
+            "ref": "https://www.50topitaly.it/it/referenza/sesamo-3/",
+            "coord": [
+                [
+                    31.6225224,
+                    -7.9898258
+                ]
+            ]
+        },
+        {
+            "position": 9,
+            "name": "Il Lago",
+            "ref": "https://www.50topitaly.it/it/referenza/il-lago-3/",
+            "coord": [
+                [
+                    46.2070227,
+                    6.146962
+                ]
+            ]
+        },
+        {
+            "position": 10,
+            "name": "Buona Terra",
+            "ref": "https://www.50topitaly.it/it/referenza/buona-terra-3/",
+            "coord": [
+                [
+                    1.3106807,
+                    103.8346232
+                ]
+            ]
+        },
+        {
+            "position": 11,
+            "name": "Senzanome",
+            "ref": "https://www.50topitaly.it/it/referenza/senzanome-3/",
+            "coord": [
+                [
+                    50.8401024,
+                    4.3567674
+                ]
+            ]
+        },
+        {
+            "position": 12,
+            "name": "Acquarello",
+            "ref": "https://www.50topitaly.it/it/referenza/acquarello-3/",
+            "coord": [
+                [
+                    48.1421987,
+                    11.6141245
+                ]
+            ]
+        },
+        {
+            "position": 13,
+            "name": "Agli Amici Rovinj",
+            "ref": "https://www.50topitaly.it/it/referenza/agli-amici-rovinj-2/",
+            "coord": [
+                [
+                    45.0748234,
+                    13.635605
+                ]
+            ]
+        },
+        {
+            "position": 14,
+            "name": "Masseria",
+            "ref": "https://www.50topitaly.it/it/referenza/masseria-2/",
+            "coord": [
+                [
+                    38.9097188,
+                    -76.9991574
+                ]
+            ]
+        },
+        {
+            "position": 15,
+            "name": "Locanda Locatelli",
+            "ref": "https://www.50topitaly.it/it/referenza/locanda-locatelli-3/",
+            "coord": [
+                [
+                    51.5151228,
+                    -0.1572866
+                ]
+            ]
+        },
+        {
+            "position": 16,
+            "name": "Tèrra",
+            "ref": "https://www.50topitaly.it/it/referenza/terra-3/",
+            "coord": [
+                [
+                    55.6946506,
+                    12.5705762
+                ]
+            ]
+        },
+        {
+            "position": 17,
+            "name": "Torno Subito",
+            "ref": "https://www.50topitaly.it/it/referenza/torno-subito-2/",
+            "coord": [
+                [
+                    25.1076375,
+                    55.1118906
+                ]
+            ]
+        },
+        {
+            "position": 18,
+            "name": "The Oval",
+            "ref": "https://www.50topitaly.it/it/referenza/the-oval/",
+            "coord": [
+                [
+                    40.742656,
+                    -74.0057365
+                ]
+            ]
+        },
+        {
+            "position": 19,
+            "name": "Giando",
+            "ref": "https://www.50topitaly.it/it/referenza/giando-3/",
+            "coord": [
+                [
+                    22.2764838,
+                    114.1673676
+                ]
+            ]
+        },
+        {
+            "position": 20,
+            "name": "Caffè Stern",
+            "ref": "https://www.50topitaly.it/it/referenza/caffe-stern-3/",
+            "coord": [
+                [
+                    48.8709043,
+                    2.3415253
+                ]
+            ]
+        },
+        {
+            "position": 21,
+            "name": "Armani / Ristorante Tokyo",
+            "ref": "https://www.50topitaly.it/it/referenza/armani-ristorante-tokyo/",
+            "coord": [
+                [
+                    35.67168,
+                    139.7639703
+                ]
+            ]
+        },
+        {
+            "position": 22,
+            "name": "La Table d’Antonio Salvatore",
+            "ref": "https://www.50topitaly.it/it/referenza/la-table-dantonio-salvatore/",
+            "coord": [
+                [
+                    43.7404798,
+                    7.427985
+                ]
+            ]
+        },
+        {
+            "position": 23,
+            "name": "Pianeta Terra",
+            "ref": "https://www.50topitaly.it/it/referenza/pianeta-terra-3/",
+            "coord": [
+                [
+                    52.3680098,
+                    4.887771
+                ]
+            ]
+        },
+        {
+            "position": 24,
+            "name": "Clara",
+            "ref": "https://www.50topitaly.it/it/referenza/clara-2/",
+            "coord": [
+                [
+                    13.7161145,
+                    100.5486967
+                ]
+            ]
+        },
+        {
+            "position": 25,
+            "name": "Aromi",
+            "ref": "https://www.50topitaly.it/it/referenza/aromi-3/",
+            "coord": [
+                [
+                    50.0762441,
+                    14.436545
+                ]
+            ]
+        },
+        {
+            "position": 26,
+            "name": "Pastamara",
+            "ref": "https://www.50topitaly.it/it/referenza/pastamara-3/",
+            "coord": [
+                [
+                    48.2021957,
+                    16.3763532
+                ]
+            ]
+        },
+        {
+            "position": 27,
+            "name": "Tosca",
+            "ref": "https://www.50topitaly.it/it/referenza/tosca-2/",
+            "coord": [
+                [
+                    48.8711069,
+                    2.3155831
+                ]
+            ]
+        },
+        {
+            "position": 28,
+            "name": "Gucci Osteria Beverly Hills",
+            "ref": "https://www.50topitaly.it/it/referenza/gucci-osteria-beverly-hills/",
+            "coord": [
+                [
+                    34.0685473,
+                    -118.4026638
+                ]
+            ]
+        },
+        {
+            "position": 29,
+            "name": "Casa Cuomo by Salvatore Cuomo",
+            "ref": "https://www.50topitaly.it/it/referenza/casa-cuomo-by-salvatore-cuomo/",
+            "coord": [
+                [
+                    -6.236897,
+                    106.8076865
+                ]
+            ]
+        },
+        {
+            "position": 30,
+            "name": "Art di Daniele Sperindio",
+            "ref": "https://www.50topitaly.it/it/referenza/art-di-daniele-sperindio/",
+            "coord": [
+                [
+                    1.2897045,
+                    103.8512862
+                ]
+            ]
+        },
+        {
+            "position": 31,
+            "name": "Casa Fontana by Giorgio Diana",
+            "ref": "https://www.50topitaly.it/it/referenza/casa-fontana-by-giorgio-diana/",
+            "coord": [
+                [
+                    22.7297405,
+                    120.4014837
+                ]
+            ]
+        },
+        {
+            "position": 32,
+            "name": "Erasmus",
+            "ref": "https://www.50topitaly.it/it/referenza/erasmus-3/",
+            "coord": [
+                [
+                    48.9847005,
+                    8.402977
+                ]
+            ]
+        },
+        {
+            "position": 33,
+            "name": "Meta",
+            "ref": "https://www.50topitaly.it/it/referenza/meta/",
+            "coord": [
+                [
+                    45.993274,
+                    8.9467949
+                ]
+            ]
+        },
+        {
+            "position": 34,
+            "name": "La Sosta",
+            "ref": "https://www.50topitaly.it/it/referenza/la-sosta-3/",
+            "coord": [
+                [
+                    -34.0269179,
+                    20.4338457
+                ]
+            ]
+        },
+        {
+            "position": 35,
+            "name": "Gellius",
+            "ref": "https://www.50topitaly.it/it/referenza/gellius/",
+            "coord": [
+                [
+                    51.340263,
+                    3.2853735
+                ]
+            ]
+        },
+        {
+            "position": 36,
+            "name": "Osteria 57",
+            "ref": "https://www.50topitaly.it/it/referenza/osteria-57-3/",
+            "coord": [
+                [
+                    40.7346811,
+                    -73.9978553
+                ]
+            ]
+        },
+        {
+            "position": 37,
+            "name": "Orobianco",
+            "ref": "https://www.50topitaly.it/it/referenza/orobianco-3/",
+            "coord": [
+                [
+                    38.6665738,
+                    0.0453384
+                ]
+            ]
+        },
+        {
+            "position": 38,
+            "name": "Cioppino’s",
+            "ref": "https://www.50topitaly.it/it/referenza/cioppinos-3/",
+            "coord": [
+                [
+                    49.275687,
+                    -123.1217367
+                ]
+            ]
+        },
+        {
+            "position": 39,
+            "name": "Eichhalde",
+            "ref": "https://www.50topitaly.it/it/referenza/eichhalde/",
+            "coord": [
+                [
+                    48.006684,
+                    7.8649176
+                ]
+            ]
+        },
+        {
+            "position": 40,
+            "name": "Luca",
+            "ref": "https://www.50topitaly.it/it/referenza/luca/",
+            "coord": [
+                [
+                    51.5220716,
+                    -0.1016703
+                ]
+            ]
+        },
+        {
+            "position": 41,
+            "name": "Eden Kitchen & Bar",
+            "ref": "https://www.50topitaly.it/it/referenza/eden-kitchen-bar/",
+            "coord": [
+                [
+                    47.362748,
+                    8.5474492
+                ]
+            ]
+        },
+        {
+            "position": 42,
+            "name": "De La Tour",
+            "ref": "https://www.50topitaly.it/it/referenza/de-la-tour/",
+            "coord": [
+                [
+                    47.1428602,
+                    7.2467437
+                ]
+            ]
+        },
+        {
+            "position": 43,
+            "name": "Aroma",
+            "ref": "https://www.50topitaly.it/it/referenza/aroma/",
+            "coord": [
+                [
+                    52.2883467,
+                    5.9672923
+                ]
+            ]
+        },
+        {
+            "position": 44,
+            "name": "Ornellaia",
+            "ref": "https://www.50topitaly.it/it/referenza/ornellaia-3/",
+            "coord": [
+                [
+                    47.3724568,
+                    8.5377064
+                ]
+            ]
+        },
+        {
+            "position": 45,
+            "name": "Antica Pesa",
+            "ref": "https://www.50topitaly.it/it/referenza/antica-pesa-2/",
+            "coord": [
+                [
+                    40.7188116,
+                    -73.9586417
+                ]
+            ]
+        },
+        {
+            "position": 46,
+            "name": "Cucina Mutualité",
+            "ref": "https://www.50topitaly.it/it/referenza/cucina-mutualite/",
+            "coord": [
+                [
+                    48.8485473,
+                    2.3507902
+                ]
+            ]
+        },
+        {
+            "position": 47,
+            "name": "Otto e Mezzo – Bombana",
+            "ref": "https://www.50topitaly.it/it/referenza/otto-e-mezzo-bombana-3/",
+            "coord": [
+                [
+                    22.2815422,
+                    114.1587751
+                ]
+            ]
+        },
+        {
+            "position": 48,
+            "name": "Maison Ruggieri",
+            "ref": "https://www.50topitaly.it/it/referenza/maison-ruggieri/",
+            "coord": [
+                [
+                    48.8769128,
+                    2.3140349
+                ]
+            ]
+        },
+        {
+            "position": 49,
+            "name": "Restaurant Passerini",
+            "ref": "https://www.50topitaly.it/it/referenza/restaurant-passerini-3/",
+            "coord": [
+                [
+                    48.8494134,
+                    2.3748185
+                ]
+            ]
+        },
+        {
+            "position": 50,
+            "name": "Picchi",
+            "ref": "https://www.50topitaly.it/it/referenza/picchi-3/",
+            "coord": [
+                [
+                    -23.5663942,
+                    -46.6652596
+                ]
+            ]
+        },
+        {
+            "position": 51,
+            "name": "Osteria Giulia",
+            "ref": "https://www.50topitaly.it/it/referenza/osteria-giulia/",
+            "coord": [
+                [
+                    43.6743186,
+                    -79.3965865
+                ]
+            ]
+        }
+    ]
+}
