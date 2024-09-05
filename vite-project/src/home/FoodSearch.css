@@ -1,0 +1,115 @@
+.food-search-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 16px;
+    width: 100%;
+    max-width: 400px; /* Puoi modificare la dimensione massima del quadrato */
+    margin: auto;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+
+  /* Contenitore scuro */
+.dark-container {
+  background-color: #e0e0e0; /* Colore più scuro rispetto al background principale */
+  padding: 4px;
+  padding-bottom: 0px; /* Ridotto lo spazio inferiore */
+  padding-top: 5px;
+  border-radius: 10px;
+  width: 100%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Leggera ombra per evidenziare */
+}
+  
+  .top-buttons {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 16px;
+  }
+  
+  .top-buttons button {
+    width: 45%; /* Bottoni che occupano circa la metà del quadrato ciascuno */
+    padding: 8px;
+    border-radius: 20px; /* Arrotonda gli angoli dei pulsanti */
+    border: 2px solid #007bff; /* Bordi di colore blu */
+    background-color: transparent; /* Sfondo trasparente */
+    color: #007bff; /* Colore del testo blu */
+    font-weight: bold; /* Testo in grassetto */
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s; /* Transizione per il cambio di colore */
+  }
+  .top-buttons button:hover {
+    background-color: #85add7; /* Sfondo blu al passaggio del mouse */
+    color: #fff; /* Colore del testo bianco */
+  }
+  .top-buttons button.active {
+    background-color: #007bff; /* Sfondo blu per il pulsante attivo */
+    color: #fff; /* Colore del testo bianco per il pulsante attivo */
+  }
+  
+  .food-list-container {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    width: 100%;
+    margin-bottom: 8px;
+    padding: 8px; /* Aggiunge un po' di spazio attorno agli item */
+    scrollbar-width: thin; /* Per Firefox: rende la scrollbar sottile */
+    scrollbar-color: #007bff #f1f1f1; /* Per Firefox: colore del pollice e del track */
+  }
+
+  /* Scrollbar per WebKit (Chrome, Safari, Edge) */
+  .food-list-container::-webkit-scrollbar {
+    height: 8px; /* Altezza della scrollbar */
+    background-color: #f1f1f1; /* Colore dello sfondo della scrollbar */
+    border-radius: 10px; /* Arrotonda i bordi della scrollbar */
+  }
+  
+  .search-button {
+    margin-top: 8px;
+    padding: 8px 16px;;
+    width: 100%;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .search-button:hover {
+    background-color: #0056b3;
+  }
+
+  .search-bar {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 4px;
+    border-radius: 20px; /* Arrotonda gli angoli della barra di ricerca */
+    border: 2px solid #007bff; /* Bordi di colore blu */
+    background-color: #fff; /* Sfondo bianco */
+    color: #333; /* Colore del testo */
+    font-size: 16px; /* Dimensione del testo */
+    outline: none; /* Rimuove il bordo di focus predefinito del browser */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Leggera ombra per evidenziare */
+    transition: border-color 0.3s, box-shadow 0.3s; /* Transizione per il cambio di colore del bordo e ombra */
+  }
+  
+  .search-bar:focus {
+    border-color: #0056b3; /* Cambia il colore del bordo quando la barra di ricerca è attiva */
+    box-shadow: 0 0 8px rgba(0, 91, 255, 0.3); /* Cambia l'ombra quando è attiva */
+  }
+  
+  /* Stili responsivi */
+  @media (max-width: 400px) {
+    .top-buttons button {
+      width: 100%;
+      margin-bottom: 8px;
+    }
+  
+    .food-item {
+      flex: 0 0 80px;
+    }
+  }
+  

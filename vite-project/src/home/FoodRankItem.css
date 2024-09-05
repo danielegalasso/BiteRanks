@@ -1,0 +1,28 @@
+.food-item {
+    flex: 0 0 auto; /* Flessibile ma non si riduce */
+    width: 100px; /* Larghezza fissa per la card */
+    text-align: center;
+    margin-right: 16px; /* Spazio tra le card */
+    padding: 16px;
+    border-radius: 12px; /* Angoli stondati della card */
+    border: 1px solid #007bff; /* Bordo grigio chiaro per la card */
+    background-color: #fff; /* Sfondo bianco per la card */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombra leggera per un effetto di profondità */
+    transition: transform 0.3s, box-shadow 0.3s; /* Transizioni per animazioni fluide */
+  }
+  
+  .food-item:hover {
+    transform: scale(1.05); /* Leggera ingrandimento quando si passa il mouse */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Ombra più intensa al passaggio del mouse */
+  }
+  
+  .food-item .food-icon {
+    font-size: 32px; /* Dimensione più grande per l'emoji */
+    margin-bottom: 16px; /* Spazio tra l'emoji e il testo */
+  }
+  
+  .food-item p {
+    font-size: 14px; /* Dimensione del testo */
+    color: #333; /* Colore del testo */
+    margin: 0; /* Rimuove margini predefiniti del paragrafo */
+  }

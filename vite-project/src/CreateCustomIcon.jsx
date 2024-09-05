@@ -1,8 +1,21 @@
 import { Icon } from "leaflet";
 import { renderToStaticMarkup } from 'react-dom/server';
 
+// Funzione per scurire un colore in formato HEX
+const darkenColor = (color, percent) => {
+  const num = parseInt(color.replace("#", ""), 16);
+  const amt = Math.round(2.55 * percent);
+  const R = (num >> 16) - amt;
+  const G = (num >> 8 & 0x00FF) - amt;
+  const B = (num & 0x0000FF) - amt;
+  return `#${(0x1000000 + (R < 255 ? (R < 1 ? 0 : R) : 255) * 0x10000 + (G < 255 ? (G < 1 ? 0 : G) : 255) * 0x100 + (B < 255 ? (B < 1 ? 0 : B) : 255)).toString(16).slice(1)}`;
+};
+
 // Funzione per generare l'icona SVG
-const createCustomIcon = (color) => {
+const createCustomIcon = (color, rank=null) => {
+    // Imposta il testo del rank se è fornito
+    const rankText = rank ? `${rank}°` : '';
+
     // SVG come stringa
     const svgString = renderToStaticMarkup(
       <svg 
@@ -18,6 +31,20 @@ const createCustomIcon = (color) => {
           s83.478,37.446,83.478,83.478C339.478,229.684,302.032,267.13,256,267.13z"
           fill={color}
         />
+        {rank && (
+          <text 
+            x="256" 
+            y="190" 
+            fontSize="110" 
+            textAnchor="middle" 
+            fill={color}
+            dominantBaseline="middle"
+            fontFamily="Arial"
+            fontWeight="bold" // Testo in grassetto
+          >
+            {rankText}
+          </text>
+        )}
       </svg>
     );
   
@@ -32,6 +59,6 @@ const createCustomIcon = (color) => {
       popupAnchor: [0, -38],
       // Aggiungi altre opzioni se necessario
     });
-  };
+};
 
 export default createCustomIcon;
