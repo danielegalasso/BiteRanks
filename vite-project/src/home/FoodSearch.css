@@ -10,6 +10,17 @@
     border-radius: 8px;
     background-color: #f9f9f9;
   }
+
+  /* Contenitore scuro */
+.dark-container {
+  background-color: #e0e0e0; /* Colore più scuro rispetto al background principale */
+  padding: 4px;
+  padding-bottom: 0px; /* Ridotto lo spazio inferiore */
+  padding-top: 5px;
+  border-radius: 10px;
+  width: 100%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Leggera ombra per evidenziare */
+}
   
   .top-buttons {
     display: flex;
@@ -34,20 +45,12 @@
     color: #fff; /* Colore del testo bianco */
   }
   
-  .search-bar {
-    width: 100%;
-    padding: 8px;
-    margin-bottom: 16px;
-    border-radius: 4px;
-    border: 1px solid #ccc;
-  }
-  
   .food-list-container {
     display: flex;
     flex-wrap: nowrap;
     overflow-x: auto;
     width: 100%;
-    margin-bottom: 16px;
+    margin-bottom: 8px;
     padding: 8px; /* Aggiunge un po' di spazio attorno agli item */
     scrollbar-width: thin; /* Per Firefox: rende la scrollbar sottile */
     scrollbar-color: #007bff #f1f1f1; /* Per Firefox: colore del pollice e del track */
@@ -90,6 +93,7 @@
   }
   
   .search-button {
+    margin-top: 8px;
     padding: 8px 16px;;
     width: 100%;
     border-radius: 4px;
@@ -106,7 +110,7 @@
   .search-bar {
     width: 100%;
     padding: 8px;
-    margin-bottom: 16px;
+    margin-bottom: 4px;
     border-radius: 20px; /* Arrotonda gli angoli della barra di ricerca */
     border: 2px solid #007bff; /* Bordi di colore blu */
     background-color: #fff; /* Sfondo bianco */
