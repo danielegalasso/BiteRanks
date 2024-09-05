@@ -1,72 +1,45 @@
 from geopy.geocoders import Nominatim
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.firefox.options import Options
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from time import sleep
+import requests
 
-# questo oggetto l'ho dovuto creare quando ho fatto i conti
-# col fatto che non tutti i siti potrebbero avere riferimenti
-# diretti alle coordinate di un posto. L'oggetto prima cerca
-# tramite la libreria geopy utilizzando delle parole chiave.
-# se la ricerca non da un risultato, si passa alle maniere forti:
-# uso selenium. Ma quando si usa selenium la pagina google chiede 
-# sempre il consenso dei cookie (si potrebbe evitare(?)), perciò
-# va cliccato il pulsante per accettare i cookie. Per non si sa
-# quale motivo, ogni volta sto pulsante cambia (una volta è un div,
-# una volta è uno span, una volta è un input...). Per ora con input
-# funziona bene. Un altro problema è che a un certo punto della ricerca
-# in treConiGamberoRosso.py ho notato che la pagina caricava all'infinito.
-# Questo si è risolto con settando options.page_load_strategy
+
+# geolocalizzatore personalizzato. Funziona combinando openStreetMap
+# e google maps. Per limitare le chiamate all'api di google maps,
+# la funzione find_coordinates (prende in input il nome di un posto):
+#   1. controlla su openStreetMap che sia presente.
+#   2. se non si hanno risultati, si fa una chiamata all'api di maps.
 
 class Geolocator:
 
     def __init__(self):
-        self.driver = None
-        self.OPS_geolocator = None
-        self.selenium_url = 'https://www.google.com/maps/search/?api=1&query='
-        self.consent_accepted = False
-        self.__setup()
+        self.__mapkey = self.__read_mapkey()
+        self.OPS_geolocator = Nominatim(user_agent='geoapiexercises')
+        self.googleMapsURL = 'https://maps.googleapis.com/maps/api/geocode/json'
+        self.params = {'address': None, 'key': self.__mapkey}
 
-    def __setup(self):
-        options = Options()
-        # options.add_argument('--headless')
-        options.page_load_strategy = 'eager'
-        options.set_preference('general.useragent.override', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3')
-        self.driver = webdriver.Firefox(options=options)
-        
-        self.driver.get('https://www.example.com')
-        
-        self.OPS_geolocator = Nominatim(user_agent="geoapiexercises")
+    def __read_mapkey(self):
+        try:
+            with open('mapkey.txt', 'r') as file:
+                return file.read().strip()
+        except RuntimeError as e:
+            print(f'Error reading mapkey: {e}')
+            return ''
 
-    def find_coordinates(self, param):
-        location = self.OPS_geolocator.geocode(param)
+    def find_coordinates(self, to_geocode):
+        location = self.OPS_geolocator.geocode(to_geocode)
         if location:
-            return [location.latitude, location.longitude]
+            print("nominatim")
+            return [location.address, location.latitude, location.longitude]
         
-        # print(f"Geocode con Nominatim fallito, utilizzo Selenium per cercare: {param}")
+        self.params['address'] = to_geocode
+        response = requests.get(self.googleMapsURL, params=self.params)
+        response.raise_for_status()
+        data = response.json()
+        if data['results']:
+            location = data['results'][0]['geometry']['location']
+            latitude = location['lat']
+            longitude = location['lng']
+            formatted_address = data['results'][0]['formatted_address']
+            print("maps")
+            return [formatted_address, latitude, longitude]
         
-        self.driver.get(self.selenium_url + param)
-        self.driver.implicitly_wait(20)
-        if not self.consent_accepted:
-            self.driver.find_element(By.XPATH, '//input[@value=\'Accetta tutto\']').click()
-            self.consent_accepted = True
-
-        locations = self.driver.find_elements(By.CLASS_NAME, 'hfpxzc')
-        if locations:
-            locations[0].click()
-            sleep(4)
-        
-        current_url = self.driver.current_url
-        if '@' not in current_url:
-            return None
-        
-        coords = current_url.split('@')[1].split(',')[:2]
-        lat, lng = coords[0], coords[1]
-        return [float(lat), float(lng)]
-
-    def quit_selenium(self):
-        if self.driver:
-            self.driver.quit()
-
+        return None

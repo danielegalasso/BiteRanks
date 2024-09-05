@@ -1,14 +1,15 @@
 import re
 import requests
 from bs4 import BeautifulSoup
-from time import sleep
 from requests.exceptions import RequestException
 import json
-
+import re
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
 }
+
+category = '🍕'
 
 urls = [
     'https://www.50toppizza.it/50-top-pizza-italia-2024/',
@@ -34,46 +35,55 @@ url_to_name = {url: extract_name_from_url(url) for url in urls}
 url_to_reference = {}
 
 for url in urls:
-    try:
-        response = requests.get(url, headers=headers)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.text, 'html.parser')
-        cards = soup.find_all('a', href=lambda href: href and href.startswith('https://www.50toppizza.it/referenza/'))
+    response = requests.get(url, headers=headers)
+    response.raise_for_status()
+    soup = BeautifulSoup(response.text, 'html.parser')
+    cards = soup.find_all('a', href=lambda href: href and href.startswith('https://www.50toppizza.it/referenza/'))
 
-        position = 1
-        url_to_reference[url] = []
-        for card in cards:
-            place_name = card.find('h3', class_='titolo roboto nero caps')
-            url_to_reference[url].append({'position': position, 'name': place_name.get_text(strip=True), 'ref': card.get('href'), 'coord': []})
-            position += 1
-    except RequestException as e:
-        print(f"Errore nella richiesta di {url}: {e}")
+    url_to_reference[url] = []
+    for card in cards:
+        position = card.find('h2', class_='mt-2 posizione scotchmodern rosso caps')
+        position = None if not position else position.get_text(strip=True)
+        place_name = card.find('h3', class_='titolo roboto nero caps')
+        url_to_reference[url].append({'category': category, 'position': position, 'name': place_name.get_text(strip=True), 'ref': card.get('href'), 'address': [], 'coord': [], 'website': None})
 
 
 # SECONDA PARTE: DERIVARE LA POSIZIONE
 for url in url_to_reference:
     for data in url_to_reference[url]:
-        try:
-            response = requests.get(data['ref'], headers=headers)
-            response.raise_for_status()
-            soup = BeautifulSoup(response.text, 'html.parser')
+        response = requests.get(data['ref'], headers=headers)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, 'html.parser')
+        
+        website_div = next((div for div in soup.find_all('div') if re.search(r'^sito web:.*', div.get_text(strip=True))), None)
+        if website_div is not None:
+            website = website_div.find('a')
+            data['website'] = website.get('href')
 
-            locations = soup.find_all('a', href=lambda href: href and href.startswith('https://www.google.com/maps/dir/?api'))
-            for location in locations:
-                href = location.get('href')
-                if 'destination=' in href:
-                    destination_params = href.split('destination=')[1]
+        locations = soup.find_all('a', href=lambda href: href and href.startswith('https://www.google.com/maps/dir/?api'))
+        for location in locations:
 
-                    lat_long = destination_params.split(',')
-                    if len(lat_long) == 2:
-                        try:
-                            lat = float(lat_long[0])
-                            lon = float(lat_long[1])
-                            data['coord'].append([lat, lon])
-                        except ValueError:
-                            print(f"Errore nella conversione delle coordinate da {data['ref']}: {lat_long}")
-        except RequestException as e:
-            print(f"Errore nella richiesta di {data['ref']}: {e}")
+            raw_address = location.get_text(strip=True)
+            try:
+                raw_address = raw_address.split('indirizzo: ')[1]
+            except IndexError as e:
+                pass
+            finally:
+                address = raw_address
+                data['address'].append(address)
+
+            href = location.get('href')
+            if 'destination=' in href:
+                destination_params = href.split('destination=')[1]
+
+                lat_long = destination_params.split(',')
+                if len(lat_long) == 2:
+                    try:
+                        lat = float(lat_long[0])
+                        lon = float(lat_long[1])
+                        data['coord'].append([lat, lon])
+                    except ValueError:
+                        print(f"Errore nella conversione delle coordinate da {data['ref']}: {lat_long}")
 
 
 json_output = {}

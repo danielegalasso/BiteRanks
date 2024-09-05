@@ -1,494 +1,1124 @@
 {
     "Tre Coni Gambero Rosso": [
         {
+            "category": "🍦",
+            "position": null,
             "name": "Gelaterie Duomo - Il Paradiso del Gelato",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/gelaterie-duomo-il-paradiso-del-gelato/",
+            "address": [
+                "Gelaterie Duomo - Il Paradiso del Gelato, 27, Corso Vittorio Emanuele, Quarto di San Giorgio, Torretta, L'Aquila, Abruzzo, 67100, Italia"
+            ],
             "coord": [
-                42.3495693,
-                13.3994653
-            ]
+                [
+                    42.3495693,
+                    13.3994653
+                ]
+            ],
+            "website": "http://gelaterieduomo.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Emilio",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/emilio-2/",
+            "address": [
+                "Emilio, Via Largo Immacolata, Porto di Maratea, Maratea, Potenza, Basilicata, 85046, Italia"
+            ],
             "coord": [
-                39.9896028,
-                15.7080106
-            ]
+                [
+                    39.9896028,
+                    15.7080106
+                ]
+            ],
+            "website": "http://emiliomaratea.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Officine del gusto",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/officine-del-gusto/",
+            "address": [
+                "Via Guglielmo Marconi, 19, 85010 Pignola PZ, Italy"
+            ],
             "coord": [
-                40.574003,
-                15.7846883
-            ]
+                [
+                    40.574003,
+                    15.7846883
+                ]
+            ],
+            "website": "http://lab-officinedelgusto.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Gelato  Cesare",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/gelato-cesare/",
+            "address": [
+                "Piazza Indipendenza, 2, 89121 Reggio di Calabria RC, Italy"
+            ],
             "coord": [
-                38.1142983,
-                15.6502138
-            ]
+                [
+                    38.1142983,
+                    15.6502138
+                ]
+            ],
+            "website": "http://gelatocesare.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Di Matteo",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/di-matteo/",
+            "address": [
+                "84076 Torchiara, SA, Italy"
+            ],
             "coord": [
-                40.3190316,
-                15.0583431
-            ]
+                [
+                    40.32175910000001,
+                    15.0538968
+                ]
+            ],
+            "website": null
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Cremeria Gabriele",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/cremeria-gabriele/",
+            "address": [
+                "Corso Umberto I°, 8, 80069 Vico Equense NA, Italy"
+            ],
             "coord": [
-                40.6620194,
-                14.4260993
-            ]
+                [
+                    40.6620194,
+                    14.4260993
+                ]
+            ],
+            "website": "http://gabrieleitalia.com"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Cremeria Santo Stefano",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/cremeria-santo-stefano/",
+            "address": [
+                "Cremeria Santo Stefano, Via Remorsella, Galvani, Santo Stefano, Bologna, Emilia-Romagna, 40125, Italia"
+            ],
             "coord": [
-                44.4880779,
-                11.3522995
-            ]
+                [
+                    44.4880779,
+                    11.3522995
+                ]
+            ],
+            "website": null
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Stefino",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/stefino/",
+            "address": [
+                "Stefino, 3, Via Luigi Serra, Bolognina, Navile, Bologna, Emilia-Romagna, 40129, Italia"
+            ],
             "coord": [
-                44.5089657,
-                11.3457401
-            ]
+                [
+                    44.5089657,
+                    11.3457401
+                ]
+            ],
+            "website": "http://stefino.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Cremeria Scirocco",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/cremeria-scirocco/",
+            "address": [
+                "Cremeria Scirocco, 1, Via Agostino Barelli, Croce del Biacco, San Donato-San Vitale, Bologna, Emilia-Romagna, 40138, Italia"
+            ],
             "coord": [
-                44.4952509,
-                11.401037
-            ]
+                [
+                    44.4952509,
+                    11.401037
+                ]
+            ],
+            "website": "http://cremeriascirocco.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Magritte - Gelati al cubo",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/magritte-gelati-al-cubo/",
+            "address": [
+                "Via Cavour, 72, 43036 Fidenza PR, Italy"
+            ],
             "coord": [
-                44.8671068,
-                10.0589863
-            ]
+                [
+                    44.86710679999999,
+                    10.0589863
+                ]
+            ],
+            "website": null
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Bloom",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/bloom/",
+            "address": [
+                "Bloom, 16/a, Via Taglio, Quartiere Albareto, Centro Storico, Modena, Emilia-Romagna, 41121, Italia"
+            ],
             "coord": [
-                44.6479903,
-                10.927344
-            ]
+                [
+                    44.6479903,
+                    10.927344
+                ]
+            ],
+            "website": "http://bloomgelateria.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Ciacco",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/ciacco/",
+            "address": [
+                "Ciacco, Piazza della Steccata, Parma Centro, Parma, Emilia-Romagna, 43121, Italia"
+            ],
             "coord": [
-                44.8020907,
-                10.3277062
-            ]
+                [
+                    44.8020907,
+                    10.3277062
+                ]
+            ],
+            "website": "http://ciaccolab.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Cremeria Capolinea",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/cremeria-capolinea/",
+            "address": [
+                "Cremeria Capolinea, Viale Ettore Simonazzi, Santa Teresa esterna-Strada Alta, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia"
+            ],
             "coord": [
-                44.6912273,
-                10.6332432
-            ]
+                [
+                    44.6912273,
+                    10.6332432
+                ]
+            ],
+            "website": "http://cremeriacapolinea.com"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Sanelli",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/sanelli/",
+            "address": [
+                "Molino Sanelli, San Vittore, Salsomaggiore Terme, Parma, Emilia-Romagna, Italia"
+            ],
             "coord": [
-                44.7566771,
-                9.9907012
-            ]
+                [
+                    44.7566771,
+                    9.9907012
+                ]
+            ],
+            "website": null
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Il Teatro del Gelato",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/il-teatro-del-gelato/",
+            "address": [
+                "Il teatro del gelato, 2, Piazza Guglielmo Marconi, Sant'Agostino, Terre del Reno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44047, Italia"
+            ],
             "coord": [
-                44.7914638,
-                11.3872699
-            ]
+                [
+                    44.7914638,
+                    11.3872699
+                ]
+            ],
+            "website": "http://ilteatrodelgelato.com"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Timballo",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/timballo/",
+            "address": [
+                "Timballo, 53, Via Cividale, Borgo Pracchiuso, Udine, Friuli-Venezia Giulia, 33100, Italia"
+            ],
             "coord": [
-                46.0692337,
-                13.2482042
-            ]
+                [
+                    46.0692337,
+                    13.2482042
+                ]
+            ],
+            "website": "http://gelateriatimballo.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Tonka",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/tonka/",
+            "address": [
+                "04011 Aprilia, Province of Latina, Italy"
+            ],
             "coord": [
-                41.6001838,
-                12.6518572
-            ]
+                [
+                    41.5944018,
+                    12.6560314
+                ]
+            ],
+            "website": "http://tonkagelatoecioccolato.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Gretel Factory",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/gretel-factory/",
+            "address": [
+                "Via Abate Tosti, 51, 04023 Formia LT, Italy"
+            ],
             "coord": [
-                41.2587445,
-                13.6131979
-            ]
+                [
+                    41.2587445,
+                    13.6131979
+                ]
+            ],
+            "website": "http://gretelfactory.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Greed Avidi di Gelato",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/greed-avidi-di-gelato/",
+            "address": [
+                "Greed avidi di gelato, 28, Via Cernaia, Frascati, Roma Capitale, Lazio, 00044, Italia"
+            ],
             "coord": [
-                41.8091205,
-                12.6803606
-            ]
+                [
+                    41.8091205,
+                    12.6803606
+                ]
+            ],
+            "website": null
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Torcè",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/torce-2/",
+            "address": [
+                "Claudio Torce, 59, Viale Aventino, San Saba, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia"
+            ],
             "coord": [
-                41.8814286,
-                12.4857935
-            ]
+                [
+                    41.8814286,
+                    12.4857935
+                ]
+            ],
+            "website": "http://gelateriatorce.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Otaleg!",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/otaleg/",
+            "address": [
+                "Otaleg, 70, Viale dei Quattro Venti, Monteverde, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00152, Italia"
+            ],
             "coord": [
-                41.883012,
-                12.4585373
-            ]
+                [
+                    41.883012,
+                    12.4585373
+                ]
+            ],
+            "website": "http://otaleg.com"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Fatamorgana",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/fatamorgana/",
+            "address": [
+                "Fatamorgana, 10, Via Laurina, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia"
+            ],
             "coord": [
-                41.9088196,
-                12.4779879
-            ]
+                [
+                    41.9088196,
+                    12.4779879
+                ]
+            ],
+            "website": "http://www.gelateriafatamorgana.com"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Fiordiluna di Eugenio Morrone",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/fiordiluna-di-eugenio-morrone/",
+            "address": [
+                "Via della Lungaretta, 96, 00153 Roma RM, Italy"
+            ],
             "coord": [
-                41.889627,
-                12.4703983
-            ]
+                [
+                    41.889627,
+                    12.472587
+                ]
+            ],
+            "website": "http://www.fiordiluna.com"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "La Gourmandise",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/la-gourmandise/",
+            "address": [
+                "Via Felice Cavallotti, 36b, 00152 Roma RM, Italy"
+            ],
             "coord": [
-                41.878961,
-                12.4622543
-            ]
+                [
+                    41.878961,
+                    12.4622543
+                ]
+            ],
+            "website": "http://lagourmandise.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Cremeria Spinola",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/cremeria-spinola/",
+            "address": [
+                "Cremeria Spinola, Corso Dante, Chiavari, Genova, Liguria, 16043, Italia"
+            ],
             "coord": [
-                44.3156929,
-                9.3293378
-            ]
+                [
+                    44.3156929,
+                    9.3293378
+                ]
+            ],
+            "website": null
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Profumo",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/profumo/",
+            "address": [
+                "Via F. Profumo, San Cipriano, Serra Riccò, Genova, Liguria, 16010, Italia"
+            ],
             "coord": [
-                44.4966193,
-                8.9129881
-            ]
+                [
+                    44.4966193,
+                    8.9129881
+                ]
+            ],
+            "website": "http://villa1827.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "La Pasqualina",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/la-pasqualina/",
+            "address": [
+                "La Pasqualina, Via Cascina Zanchi, Almenno San Bartolomeo, Bergamo, Lombardia, 24030, Italia"
+            ],
             "coord": [
-                45.7380599,
-                9.5817225
-            ]
+                [
+                    45.7380599,
+                    9.5817225
+                ]
+            ],
+            "website": "http://lapasqualina.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Il Dolce Sogno",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/il-dolce-sogno/",
+            "address": [
+                "Viale Vittorio Alfieri, 28, 21052 Busto Arsizio VA, Italy"
+            ],
             "coord": [
-                45.6045628,
-                8.8611182
-            ]
+                [
+                    45.6045628,
+                    8.8611182
+                ]
+            ],
+            "website": "http://gelateriaildolcesogno.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Oasi American Bar",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/oasi-american-bar/",
+            "address": [
+                "Via Treviglio, 3461, 24045 Fara Gera d'Adda BG, Italy"
+            ],
             "coord": [
-                45.541584,
-                9.555707
-            ]
+                [
+                    45.541584,
+                    9.555707
+                ]
+            ],
+            "website": "http://gelateria-oasi.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Ciacco",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/ciacco-2/",
+            "address": [
+                "Ciacco, 13n01, Via Spadari, Cerchia dei Navigli, Municipio 1, Milano, Lombardia, 20122, Italia"
+            ],
             "coord": [
-                45.4636859,
-                9.1868344
-            ]
+                [
+                    45.4636859,
+                    9.1868344
+                ]
+            ],
+            "website": "http://ciaccolab.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Pavé - Gelati & Granite",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/pave-gelati-granite/",
+            "address": [
+                "Pave - Gelati & Granite, Via Cesare Battisti, Guastalla, Municipio 1, Milano, Lombardia, 20122, Italia"
+            ],
             "coord": [
-                45.462896,
-                9.2005335
-            ]
+                [
+                    45.462896,
+                    9.2005335
+                ]
+            ],
+            "website": "http://pavemilano.com"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Lo Gnomo Gelato",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/lo-gnomo-gelato/",
+            "address": [
+                "Lo Gnomo Gelato, 3, Via Francesco Cherubini, Pagano, Municipio 7, Milano, Lombardia, 20145, Italia"
+            ],
             "coord": [
-                45.4671542,
-                9.159181
-            ]
+                [
+                    45.4671542,
+                    9.159181
+                ]
+            ],
+            "website": "http://lognomogelato.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Artico",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/artico/",
+            "address": [
+                "Artico, 15, Via Luigi Porro Lambertenghi, Isola, Municipio 9, Milano, Lombardia, 20159, Italia"
+            ],
             "coord": [
-                45.4892459,
-                9.1866988
-            ]
+                [
+                    45.4892459,
+                    9.1866988
+                ]
+            ],
+            "website": "http://gruppoartico.com"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Terra Gelato",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/terra-gelato/",
+            "address": [
+                "Terra Gelato, Piazza Diocleziano, Sarpi, Ghisolfa, Municipio 8 di Milano, Milano, Lombardia, 20155, Italia"
+            ],
             "coord": [
-                45.4872645,
-                9.1659791
-            ]
+                [
+                    45.4872645,
+                    9.1659791
+                ]
+            ],
+            "website": "http://terragelato.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Crema",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/crema/",
+            "address": [
+                "Crema, 29, Via Giovanni da Procida, Portello, Tre Torri, Municipio 8 di Milano, Milano, Lombardia, 20145, Italia"
+            ],
             "coord": [
-                45.4808082,
-                9.1605488
-            ]
+                [
+                    45.4808082,
+                    9.1605488
+                ]
+            ],
+            "website": "http://gelatocrema.com"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Chantilly",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/chantilly-3/",
+            "address": [
+                "Via dell'Artigianato, 22/c, 46024 Moglia MN, Italy"
+            ],
             "coord": [
-                44.9409814,
-                10.9187915
-            ]
+                [
+                    44.9409814,
+                    10.9187915
+                ]
+            ],
+            "website": "http://chantillymoglia.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "L' Albero dei gelati",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/l-albero-dei-gelati/",
+            "address": [
+                "L'Albero dei Gelati, 1, Via Giuseppe Sirtori, San Gottardo, San Biagio, Monza, Monza e della Brianza, Lombardia, 20900, Italia"
+            ],
             "coord": [
-                45.58923,
-                9.261815
-            ]
+                [
+                    45.58923,
+                    9.261815
+                ]
+            ],
+            "website": "http://alberodeigelati.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Sir Oliver",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/sir-oliver/",
+            "address": [
+                "Sir Oliver, Via Giuseppe Garibaldi, Novate Milanese, Milano, Lombardia, 20026, Italia"
+            ],
             "coord": [
-                45.5330108,
-                9.1377379
-            ]
+                [
+                    45.5330108,
+                    9.1377379
+                ]
+            ],
+            "website": null
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Pallini",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/pallini/",
+            "address": [
+                "Pallini, 70, Via Giuseppe Garibaldi, Santa Valeria, Seregno, Monza e della Brianza, Lombardia, 20831, Italia"
+            ],
             "coord": [
-                45.6511827,
-                9.2019953
-            ]
+                [
+                    45.6511827,
+                    9.2019953
+                ]
+            ],
+            "website": "http://pallinigelaterie.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "VeroLatte",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/verolatte/",
+            "address": [
+                "Via XX Settembre, 1, 27029 Vigevano PV, Italy"
+            ],
             "coord": [
-                45.3168401,
-                8.8586749
-            ]
+                [
+                    45.3168401,
+                    8.8586749
+                ]
+            ],
+            "website": "http://verolatte.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Gelateria Quattrini",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/gelateria-quattrini/",
+            "address": [
+                "Piazza Giuseppe Mazzini, 8, 60015 Falconara Marittima AN, Italy"
+            ],
             "coord": [
-                43.6298425,
-                13.3963656
-            ]
+                [
+                    43.6298425,
+                    13.3963656
+                ]
+            ],
+            "website": "http://gelateriailpinguinoquattrini.com"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Paolo Brunelli",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/paolo-brunelli/",
+            "address": [
+                "Paolo Brunelli, 7, Via Giosuè Carducci, Rione Porto, Senigallia, Ancona, Marche, 60019, Italia"
+            ],
             "coord": [
-                43.7164271,
-                13.2173507
-            ]
+                [
+                    43.7164271,
+                    13.2173507
+                ]
+            ],
+            "website": "http://paolobrunelli.me"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Canelin",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/canelin/",
+            "address": [
+                "\"Canelin\" di Verdese Giovanni, 53, Via Acqui, Casa Bagnoli, Visone, Alessandria, Piemonte, 15010, Italia"
+            ],
             "coord": [
-                44.6624197,
-                8.5027089
-            ]
+                [
+                    44.6624197,
+                    8.5027089
+                ]
+            ],
+            "website": null
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Marco Serra Gelatiere",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/marco-serra-gelatiere/",
+            "address": [
+                "Marco Serra Gelatiere, 8, Via Trento, Carignano, Torino, Piemonte, 10041, Italia"
+            ],
             "coord": [
-                44.9069369,
-                7.6744643
-            ]
+                [
+                    44.9069369,
+                    7.6744643
+                ]
+            ],
+            "website": "http://marcoserragelatiere.com"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Mara dei Boschi",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/mara-dei-boschi-3/",
+            "address": [
+                "Mara dei Boschi, 21, Piazza Carlo Emanuele Secondo, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10123, Italia"
+            ],
             "coord": [
-                45.0668444,
-                7.6884301
-            ]
+                [
+                    45.0668444,
+                    7.6884301
+                ]
+            ],
+            "website": "http://maradeiboschi.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Alberto Marchetti",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/alberto-marchetti-2/",
+            "address": [
+                "Alberto Marchetti, 18, Via Cernaia, Quadrilatero Romano, Circoscrizione 1, Torino, Piemonte, 10121, Italia"
+            ],
             "coord": [
-                45.04063705,
-                7.6532597589119185
-            ]
+                [
+                    45.0715505,
+                    7.6746261
+                ]
+            ],
+            "website": "http://albertomarchetti.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Nivà",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/niva/",
+            "address": [
+                "Cremeria Nivà, Via Giuseppe Luigi Lagrange, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia"
+            ],
             "coord": [
-                45.0658423,
-                7.6948631
-            ]
+                [
+                    45.0650131,
+                    7.6821834
+                ]
+            ],
+            "website": "http://nivagelato.com"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Ottimo! Buono non basta",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/ottimo-buono-non-basta/",
+            "address": [
+                "Piazza Francesco Borromini, 86/F, 10132 Torino TO, Italy"
+            ],
             "coord": [
-                45.0673499,
-                7.7024191
-            ]
+                [
+                    45.0673499,
+                    7.7111738
+                ]
+            ],
+            "website": null
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "La Tosca",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/la-tosca/",
+            "address": [
+                "La Tosca, 50, Via Luigi Cibrario, San Donato, Circoscrizione 4, Torino, Piemonte, 10144, Italia"
+            ],
             "coord": [
-                45.0802254,
-                7.6596664
-            ]
+                [
+                    45.0802254,
+                    7.6596664
+                ]
+            ],
+            "website": "http://gelaterialatosca.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Gelati d'Antan",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/gelati-dantan/",
+            "address": [
+                "Via Nicola Fabrizi, 37, C, 10143 Torino TO, Italy"
+            ],
             "coord": [
-                45.0803124,
-                7.6494836
-            ]
+                [
+                    45.0803124,
+                    7.6494836
+                ]
+            ],
+            "website": null
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Aria",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/aria-2/",
+            "address": [
+                "Aria, 32, Via Santa Giulia, Vanchiglia, Circoscrizione 7, Torino, Piemonte, 10124, Italia"
+            ],
             "coord": [
-                45.0708909,
-                7.696668
-            ]
+                [
+                    45.0708909,
+                    7.696668
+                ]
+            ],
+            "website": null
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Soban",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/soban/",
+            "address": [
+                "Piazza Antonio Gramsci, 23, 15048 Valenza AL, Italy"
+            ],
             "coord": [
-                45.0113064,
-                8.6409705
-            ]
+                [
+                    45.011314,
+                    8.6431632
+                ]
+            ],
+            "website": "http://gelateriasoban.com"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Michel",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/michel/",
+            "address": [
+                "71010 Peschici, Province of Foggia, Italy"
+            ],
             "coord": [
-                41.9486085,
-                16.013046
-            ]
+                [
+                    41.9460407,
+                    16.0138095
+                ]
+            ],
+            "website": "http://gelateriamichel.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "G&co",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/gco/",
+            "address": [
+                "G. & Co., 3, Via Marina Porto, Tricase, Lecce, Puglia, 73039, Italia"
+            ],
             "coord": [
-                39.9313222,
-                18.3617371
-            ]
+                [
+                    39.9313222,
+                    18.3617371
+                ]
+            ],
+            "website": "http://gelateriageco.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "I Fenu Gelateria e Pasticceria",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/i-fenu-gelateria-e-pasticceria/",
+            "address": [
+                "Piazza Galileo Galilei, 35, 09128 Cagliari CA, Italy"
+            ],
             "coord": [
-                39.2201583,
-                9.1226103
-            ]
+                [
+                    39.2201583,
+                    9.1226103
+                ]
+            ],
+            "website": "http://ifenu.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Dolci Sfizi",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/dolci-sfizi/",
+            "address": [
+                "Viale P. Nenni, 5, 08015 Macomer NU, Italy"
+            ],
             "coord": [
-                40.2652535,
-                8.7720032
-            ]
+                [
+                    40.2652535,
+                    8.7720032
+                ]
+            ],
+            "website": "http://nicolovellino.com"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Sikè Gelato",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/sike-gelato/",
+            "address": [
+                "Sikè, Via Francesco Crispi, Milazzo, Messina, Sicilia, 98057, Italia"
+            ],
             "coord": [
-                38.2222004,
-                15.2429858
-            ]
+                [
+                    38.2222004,
+                    15.2429858
+                ]
+            ],
+            "website": "http://sikegelato.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Cappadonia Gelati",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/cappadonia-gelati/",
+            "address": [
+                "Cappadonia Gelati, Via Montevergini, Albergheria, I Circoscrizione, Palermo, Sicilia, 90134, Italia"
+            ],
             "coord": [
-                38.1147367,
-                13.3589642
-            ]
+                [
+                    38.1147367,
+                    13.3589642
+                ]
+            ],
+            "website": "http://cappadonia.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Santo Musumeci",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/santo-musumeci/",
+            "address": [
+                "Santo Musumeci, Via Marino, Quartiere Santa Maria, Randazzo, Catania, Sicilia, 95036, Italia"
+            ],
             "coord": [
-                37.8789809,
-                14.9485938
-            ]
+                [
+                    37.8789809,
+                    14.9485938
+                ]
+            ],
+            "website": "http://santomusumeci.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "I Gelati del Bondi",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/i-gelati-del-bondi/",
+            "address": [
+                "I gelati del Bondi, 61-63R, Via Faenza, Quartiere 1, Firenze, Toscana, 50100, Italia"
+            ],
             "coord": [
-                43.7769677,
-                11.2515974
-            ]
+                [
+                    43.7769677,
+                    11.2515974
+                ]
+            ],
+            "website": "http://igelatidelbondi.com"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Gelateria della Passera",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/gelateria-della-passera/",
+            "address": [
+                "Gelateria della Passera, 15 R, Via Toscanella, Oltrarno, Quartiere 1, Firenze, Toscana, 50125, Italia"
+            ],
             "coord": [
-                43.7671815,
-                11.2506436
-            ]
+                [
+                    43.7671815,
+                    11.2506436
+                ]
+            ],
+            "website": "http://gelateriadellapassera.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Chiccheria",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/chiccheria/",
+            "address": [
+                "Via Piave, 14, 58100 Marina di Grosseto GR, Italy"
+            ],
             "coord": [
-                42.7159878,
-                10.9841066
-            ]
+                [
+                    42.7159878,
+                    10.9841066
+                ]
+            ],
+            "website": "http://chiccheria.com"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "De’ Coltelli",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/de%c2%92-coltelli/",
+            "address": [
+                "Gelateria De' Coltelli, 23, Lungarno Antonio Pacinotti, Santa Maria, San Francesco, Pisa, Toscana, 56126, Italia"
+            ],
             "coord": [
-                43.7166647,
-                10.4005428
-            ]
+                [
+                    43.7166647,
+                    10.4005428
+                ]
+            ],
+            "website": "http://decoltelli.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Gelateria Dondoli",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/gelateria-dondoli/",
+            "address": [
+                "Gelateria Dondoli, 4, Via Arco dei Becci e Cugnanesi, Centro storico di San Gimignano, Santa Chiara, San Gimignano, Siena, Toscana, 53037, Italia"
+            ],
             "coord": [
-                43.4673269,
-                11.0433313
-            ]
+                [
+                    43.4673269,
+                    11.0433313
+                ]
+            ],
+            "website": "http://gelateriadondoli.com"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Gelateria Naturale Scaldaferro",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/gelateria-naturale-scaldaferro/",
+            "address": [
+                "Via Cà Tron, 33, 30031 Dolo VE, Italy"
+            ],
             "coord": [
-                45.4274772,
-                12.0930981
-            ]
+                [
+                    45.4274772,
+                    12.0930981
+                ]
+            ],
+            "website": "http://scaldaferro.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Golosi di Natura",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/golosi-di-natura/",
+            "address": [
+                "Golosi di Natura, Via Vittorio Emanuele, Grossa, Gazzo, Padova, Veneto, 36043, Italia"
+            ],
             "coord": [
-                45.5806335,
-                11.7074751
-            ]
+                [
+                    45.5806335,
+                    11.7074751
+                ]
+            ],
+            "website": "http://golosidinatura.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Chocolat",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/chocolat-4/",
+            "address": [
+                "Chocolat, Corso del Popolo, Mestre-Carpenedo, Mestre, Venezia, Veneto, 30170, Italia"
+            ],
             "coord": [
-                45.4850071,
-                12.2416267
-            ]
+                [
+                    45.4850071,
+                    12.2416267
+                ]
+            ],
+            "website": "http://gelateriachocolat.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Pasticceria Marisa",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/pasticceria-marisa/",
+            "address": [
+                "Pasticceria Marisa, 422, Via Roma, Arsego, San Giorgio delle Pertiche, Padova, Veneto, 35010, Italia"
+            ],
             "coord": [
-                45.5409538,
-                11.874864
-            ]
+                [
+                    45.5409538,
+                    11.874864
+                ]
+            ],
+            "website": "http://pasticceriamarisa.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Dassie - Vero Gelato Artigiano",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/dassie-vero-gelato-artigiano/",
+            "address": [
+                "Via Sant'Agostino, 42, 31010 Treviso TV, Italy"
+            ],
             "coord": [
-                45.6675026,
-                12.2504573
-            ]
+                [
+                    45.6675026,
+                    12.2504573
+                ]
+            ],
+            "website": "http://stefanodassie.it"
         },
         {
+            "category": "🍦",
+            "position": null,
             "name": "Zeno Gelato e Cioccolato",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/zeno-gelato-e-cioccolato/",
+            "address": [
+                "Via Sant'Alessio, 6, 37129 Verona VR, Italy"
+            ],
             "coord": [
-                45.4490461,
-                10.9989787
-            ]
+                [
+                    45.4490461,
+                    10.9989787
+                ]
+            ],
+            "website": "http://zenoverona.it"
         }
     ]
 }

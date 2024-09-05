@@ -8,6 +8,8 @@ headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
 }
 
+category = '🍦'
+
 url = 'https://www.gamberorosso.it/gelaterie/'
 maps_url = 'https://www.google.com/maps/search/?api=1&query='
 
@@ -27,14 +29,22 @@ for card in cards:
         if coord is None:
             print(f'errore per {location_infos[0].get_text()}')
             continue
-
+        
+        response = requests.get(card.get('href'))
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, 'html.parser')
+        website = soup.find('a', id='link-1214-365586')
+        
         json_output['Tre Coni Gambero Rosso'].append({
+            'category': category,
+            'position': None,
             'name': location_infos[0].get_text(),
-            'coord': coord
+            'ref': card.get('href'),
+            'address': [coord[0]],
+            'coord': [[coord[1], coord[2]]],
+            'website': website.get('href') if website else None
         })
-        # print(f'{coord} -> {location_infos[0].get_text()}')
 
-geo_locator.quit_selenium()
 
 with open('treConiGamberoRosso.json', 'w', encoding='utf-8') as file:
     json.dump(json_output, file, ensure_ascii=False, indent=4)

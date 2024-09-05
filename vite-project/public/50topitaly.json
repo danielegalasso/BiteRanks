@@ -1,2888 +1,4191 @@
 {
     "I Migliori Ristoranti Italiani 2024 Grandi Ristoranti": [
         {
-            "position": 1,
+            "category": "🍽️",
+            "position": "1°",
             "name": "Osteria Francescana",
             "ref": "https://www.50topitaly.it/it/referenza/osteria-francescana-3/",
+            "address": [
+                "Via Stella, 22, 41121 Modena, MO, Italia"
+            ],
             "coord": [
                 [
                     44.6447946,
                     10.9215708
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 2,
+            "category": "🍽️",
+            "position": "2°",
             "name": "Uliassi",
             "ref": "https://www.50topitaly.it/it/referenza/uliassi-3/",
+            "address": [
+                "Via Banchina di Levante, 6 60019 Senigallia AN"
+            ],
             "coord": [
                 [
                     43.7194631,
                     13.2208132
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 3,
+            "category": "🍽️",
+            "position": "3°",
             "name": "Enoteca Pinchiorri",
             "ref": "https://www.50topitaly.it/it/referenza/enoteca-pinchiorri-3/",
+            "address": [
+                "Via Ghibellina, 87, 50122 Firenze, Firenze FI, Italia"
+            ],
             "coord": [
                 [
                     43.7700104,
                     11.2621656
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 4,
+            "category": "🍽️",
+            "position": "4°",
             "name": "D’O",
             "ref": "https://www.50topitaly.it/it/referenza/do-3/",
+            "address": [
+                "Piazza della Chiesa, 14, 20007 San Pietro all'Olmo, Cornaredo MI"
+            ],
             "coord": [
                 [
                     45.4870359,
                     9.0120108
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 5,
+            "category": "🍽️",
+            "position": "5°",
             "name": "Duomo",
             "ref": "https://www.50topitaly.it/it/referenza/duomo-3/",
+            "address": [
+                "via Cap. Bocchieri 31, Ragusa, 97100, Italia"
+            ],
             "coord": [
                 [
                     36.9267856,
                     14.7415403
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 6,
+            "category": "🍽️",
+            "position": "6°",
             "name": "Enrico Bartolini MUDEC",
             "ref": "https://www.50topitaly.it/it/referenza/enrico-bartolini-mudec-3/",
+            "address": [
+                "Via Tortona, 56, 20144 Milano, MI, Italia"
+            ],
             "coord": [
                 [
                     45.4520543,
                     9.1612919
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 7,
+            "category": "🍽️",
+            "position": "7°",
             "name": "Daní Maison",
             "ref": "https://www.50topitaly.it/it/referenza/dani-maison-3/",
+            "address": [
+                "Via Montetignuso, 4, 80077 Ischia, NA, Italia"
+            ],
             "coord": [
                 [
                     40.7286783,
                     13.9472292
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 8,
+            "category": "🍽️",
+            "position": "8°",
             "name": "Le Calandre",
             "ref": "https://www.50topitaly.it/it/referenza/le-calandre-3/",
+            "address": [
+                "Via Liguria, 1, 35030 Sarmeola, Rubano PD, Italia"
+            ],
             "coord": [
                 [
                     45.4217827,
                     11.8095975
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 9,
+            "category": "🍽️",
+            "position": "9°",
             "name": "Taverna Estia",
             "ref": "https://www.50topitaly.it/it/referenza/taverna-estia-3/",
+            "address": [
+                "Via Guido De Ruggiero, 108, 80031 Brusciano, NA, Italia"
+            ],
             "coord": [
                 [
                     40.9082241,
                     14.4233737
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 10,
+            "category": "🍽️",
+            "position": "10°",
             "name": "Il Pagliaccio",
             "ref": "https://www.50topitaly.it/it/referenza/il-pagliaccio-3/",
+            "address": [
+                "Via dei Banchi Vecchi, 129/a, 00186 Roma RM"
+            ],
             "coord": [
                 [
                     41.897889,
                     12.4674252
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 11,
+            "category": "🍽️",
+            "position": "11°",
             "name": "Madonnina del Pescatore",
             "ref": "https://www.50topitaly.it/it/referenza/madonnina-del-pescatore-3/",
+            "address": [
+                "Via, Lungomare Italia, 11, 60019 Senigallia AN"
+            ],
             "coord": [
                 [
                     43.6815791,
                     13.2800338
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 12,
+            "category": "🍽️",
+            "position": "12°",
             "name": "Del Cambio",
             "ref": "https://www.50topitaly.it/it/referenza/del-cambio-3/",
+            "address": [
+                "Piazza Carignano, 2, 10123 Torino, Torino TO, Italia"
+            ],
             "coord": [
                 [
                     45.0695077,
                     7.6847806
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 13,
+            "category": "🍽️",
+            "position": "13°",
             "name": "Andrea Aprea",
             "ref": "https://www.50topitaly.it/it/referenza/andrea-aprea-2/",
+            "address": [
+                "Corso Venezia, 52, 20122 Milano, MI, Italia"
+            ],
             "coord": [
                 [
                     45.4733187,
                     9.204331
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 14,
+            "category": "🍽️",
+            "position": "14°",
             "name": "Piazza Duomo",
             "ref": "https://www.50topitaly.it/it/referenza/piazza-duomo-3/",
+            "address": [
+                "Piazza Risorgimento, 4, 12051 Alba CN"
+            ],
             "coord": [
                 [
                     44.7006229,
                     8.0358911
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 15,
+            "category": "🍽️",
+            "position": "15°",
             "name": "Dal Pescatore",
             "ref": "https://www.50topitaly.it/it/referenza/dal-pescatore-3/",
+            "address": [
+                "Via Runate, 15, 46013 Canneto sull'Oglio MN"
+            ],
             "coord": [
                 [
                     45.1710879,
                     10.3582403
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 16,
+            "category": "🍽️",
+            "position": "16°",
             "name": "Angelo Sabatelli Ristorante",
             "ref": "https://www.50topitaly.it/it/referenza/angelo-sabatelli-ristorante-3/",
+            "address": [
+                "Via S. Chiara, 1, 70017 Putignano, BA, Italia"
+            ],
             "coord": [
                 [
                     40.8500528,
                     17.1226182
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 17,
+            "category": "🍽️",
+            "position": "17°",
             "name": "Pascucci Al Porticciolo",
             "ref": "https://www.50topitaly.it/it/referenza/pascucci-al-porticciolo-3/",
+            "address": [
+                "Viale Traiano, 85, 00054 Fiumicino RM"
+            ],
             "coord": [
                 [
                     41.7700615,
                     12.2273378
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 18,
+            "category": "🍽️",
+            "position": "18°",
             "name": "Atelier Moessmer Norbert Niederkofler",
             "ref": "https://www.50topitaly.it/it/referenza/atelier-moessmer-norbert-niederkofler/",
+            "address": [
+                "Via Walther von der Vogelweide, 17, 39031 Brunico, BZ, Italia"
+            ],
             "coord": [
                 [
                     46.7927308,
                     11.9491536
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 19,
+            "category": "🍽️",
+            "position": "19°",
             "name": "Casa Perbellini 12 Apostoli",
             "ref": "https://www.50topitaly.it/it/referenza/casa-perbellini-12-apostoli/",
+            "address": [
+                "Vicolo Corticella San Marco, 3, 37121 Verona, VR, Italia"
+            ],
             "coord": [
                 [
                     45.4426523,
                     10.9961132
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 20,
+            "category": "🍽️",
+            "position": "20°",
             "name": "Krèsios",
             "ref": "https://www.50topitaly.it/it/referenza/kresios-2/",
+            "address": [
+                "Via San Giovanni, 59, 82037 Telese, BN, Italia"
+            ],
             "coord": [
                 [
                     41.2029889,
                     14.4993777
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 21,
+            "category": "🍽️",
+            "position": "21°",
             "name": "La Tana Gourmet",
             "ref": "https://www.50topitaly.it/it/referenza/la-tana-gourmet-3/",
+            "address": [
+                "Via Kaberlaba, 19, 36012 Asiago VI, Italia"
+            ],
             "coord": [
                 [
                     45.8530206,
                     11.4952863
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 22,
+            "category": "🍽️",
+            "position": "22°",
             "name": "Colline Ciociare",
             "ref": "https://www.50topitaly.it/it/referenza/colline-ciociare-3/",
+            "address": [
+                "Via Prenestina, 23, 03010 Acuto FR"
+            ],
             "coord": [
                 [
                     41.790357,
                     13.175716
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 23,
+            "category": "🍽️",
+            "position": "23°",
             "name": "Agli Amici",
             "ref": "https://www.50topitaly.it/it/referenza/agli-amici-3/",
+            "address": [
+                "Via Liguria, 252, 33100 Udine, Udine, Italia"
+            ],
             "coord": [
                 [
                     46.1023188,
                     13.2663508
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 24,
+            "category": "🍽️",
+            "position": "24°",
             "name": "La Peca",
             "ref": "https://www.50topitaly.it/it/referenza/la-peca-3/",
+            "address": [
+                "Via Alberto Giovanelli, 2, 36045 Lonigo VI"
+            ],
             "coord": [
                 [
                     45.384904,
                     11.3990657
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 25,
+            "category": "🍽️",
+            "position": "25°",
             "name": "Lido 84",
             "ref": "https://www.50topitaly.it/it/referenza/lido-84-3/",
+            "address": [
+                "Corso Giuseppe Zanardelli, 196, 25083 Gardone Riviera BS"
+            ],
             "coord": [
                 [
                     45.6251592,
                     10.5755666
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 26,
+            "category": "🍽️",
+            "position": "26°",
             "name": "Il Luogo di Aimo e Nadia",
             "ref": "https://www.50topitaly.it/it/referenza/il-luogo-di-aimo-e-nadia-3/",
+            "address": [
+                "Via Privata Raimondo Montecuccoli, 6, 20147 Milano MI"
+            ],
             "coord": [
                 [
                     45.4584328,
                     9.1311504
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 27,
+            "category": "🍽️",
+            "position": "27°",
             "name": "Qafiz",
             "ref": "https://www.50topitaly.it/it/referenza/qafiz-3/",
+            "address": [
+                "Località Calabretto, 89056 Santa Cristina D'aspromonte RC"
+            ],
             "coord": [
                 [
                     38.2554826,
                     15.9702314
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 28,
+            "category": "🍽️",
+            "position": "28°",
             "name": "Materia",
             "ref": "https://www.50topitaly.it/it/referenza/materia-3/",
+            "address": [
+                "Via Cinque Giornate, 32, 22012 Cernobbio CO, Italia"
+            ],
             "coord": [
                 [
                     45.8383508,
                     9.072001
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 29,
+            "category": "🍽️",
+            "position": "29°",
             "name": "Ristorante Berton",
             "ref": "https://www.50topitaly.it/it/referenza/ristorante-berton-3/",
+            "address": [
+                "Via Mike Bongiorno, 13, 20124 Milano MI"
+            ],
             "coord": [
                 [
                     45.4818217,
                     9.1945594
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 30,
+            "category": "🍽️",
+            "position": "30°",
             "name": "AALTO",
             "ref": "https://www.50topitaly.it/it/referenza/aalto-2/",
+            "address": [
+                "Piazza Alvar Aalto, 20124 Milano MI"
+            ],
             "coord": [
                 [
                     45.4822342,
                     9.1933711
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 31,
+            "category": "🍽️",
+            "position": "31°",
             "name": "La Torre del Saracino",
             "ref": "https://www.50topitaly.it/it/referenza/la-torre-del-saracino-3/",
+            "address": [
+                "Via Torretta, 9, 80069 Vico Equense, NA, Italia"
+            ],
             "coord": [
                 [
                     40.6606002,
                     14.4196226
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 32,
+            "category": "🍽️",
+            "position": "32°",
             "name": "La Madia",
             "ref": "https://www.50topitaly.it/it/referenza/la-madia-3/",
+            "address": [
+                "Corso Filippo Re Capriata, 22, 92027 Licata, AG, Italia"
+            ],
             "coord": [
                 [
                     37.1054699,
                     13.9349621
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 33,
+            "category": "🍽️",
+            "position": "33°",
             "name": "Ristorante Andreina",
             "ref": "https://www.50topitaly.it/it/referenza/ristorante-andreina-3/",
+            "address": [
+                "Via Zona Industriale Brodolini, 2, 60025 Loreto, AN, Italia"
+            ],
             "coord": [
                 [
                     43.4394683,
                     13.6302732
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 34,
+            "category": "🍽️",
+            "position": "34°",
             "name": "Laite",
             "ref": "https://www.50topitaly.it/it/referenza/laite-3/",
+            "address": [
+                "Borgata Hoffe, 10, 33012 Sappada, UD, Italia"
+            ],
             "coord": [
                 [
                     46.5684817,
                     12.6948044
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 35,
+            "category": "🍽️",
+            "position": "35°",
             "name": "Ristorante Romano",
             "ref": "https://www.50topitaly.it/it/referenza/ristorante-romano-3/",
+            "address": [
+                "Via Giuseppe Mazzini, 122, 55049 Viareggio LU"
+            ],
             "coord": [
                 [
                     43.8722025,
                     10.2483079
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 36,
+            "category": "🍽️",
+            "position": "36°",
             "name": "El Molin",
             "ref": "https://www.50topitaly.it/it/referenza/el-molin-3/",
+            "address": [
+                "Via Muratori, 2, 38033 Cavalese TN, Italia"
+            ],
             "coord": [
                 [
                     46.2920621,
                     11.4596207
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 37,
+            "category": "🍽️",
+            "position": "37°",
             "name": "Antica Osteria Cera",
             "ref": "https://www.50topitaly.it/it/referenza/antica-osteria-cera-3/",
+            "address": [
+                "Via Marghera, 24, 30010 Lughetto, VE, Italia"
+            ],
             "coord": [
                 [
                     45.3879389,
                     12.130285
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 38,
+            "category": "🍽️",
+            "position": "38°",
             "name": "Caino",
             "ref": "https://www.50topitaly.it/it/referenza/caino-3/",
+            "address": [
+                "Via della Chiesa, 4, 58014 Montemerano, GR, Italia"
+            ],
             "coord": [
                 [
                     42.6220796,
                     11.4905567
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 39,
+            "category": "🍽️",
+            "position": "39°",
             "name": "Il Faro di Capo d’Orso – Andrea Aprea",
             "ref": "https://www.50topitaly.it/it/referenza/il-faro-di-capo-dorso-andrea-aprea-2/",
+            "address": [
+                "Strada Statale Amalfitana, 44, 84010 Maiori SA"
+            ],
             "coord": [
                 [
                     40.6354967,
                     14.6779593
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 40,
+            "category": "🍽️",
+            "position": "40°",
             "name": "Senso Alfio Ghezzi Mart",
             "ref": "https://www.50topitaly.it/it/referenza/senso-alfio-ghezzi-mart-2/",
+            "address": [
+                "Corso Bettini, 43, 38068 Rovereto TN"
+            ],
             "coord": [
                 [
                     45.8939134,
                     11.0436464
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 41,
+            "category": "🍽️",
+            "position": "41°",
             "name": "Retroscena",
             "ref": "https://www.50topitaly.it/it/referenza/retroscena-2/",
+            "address": [
+                "Largo del Teatro, 3, 63822 Porto San Giorgio FM"
+            ],
             "coord": [
                 [
                     43.180078,
                     13.792742
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 42,
+            "category": "🍽️",
+            "position": "42°",
             "name": "Palazzo Petrucci",
             "ref": "https://www.50topitaly.it/it/referenza/palazzo-petrucci-3/",
+            "address": [
+                "Via Posillipo, 16c, Napoli, NA, Italia"
+            ],
             "coord": [
                 [
                     40.8214698,
                     14.2147176
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 43,
+            "category": "🍽️",
+            "position": "43°",
             "name": "Bracali",
             "ref": "https://www.50topitaly.it/it/referenza/bracali/",
+            "address": [
+                "Via di Perolla, 2, 58024 Ghirlanda, GR, Italia"
+            ],
             "coord": [
                 [
                     43.055825,
                     10.902239
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 44,
+            "category": "🍽️",
+            "position": "44°",
             "name": "Per Me Giulio Terrinoni",
             "ref": "https://www.50topitaly.it/it/referenza/per-me-giulio-terrinoni/",
+            "address": [
+                "Vicolo del Malpasso, 9, 00186 Roma RM"
+            ],
             "coord": [
                 [
                     41.8973247,
                     12.4674986
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 45,
+            "category": "🍽️",
+            "position": "45°",
             "name": "Aqua Crua",
             "ref": "https://www.50topitaly.it/it/referenza/aqua-crua-3/",
+            "address": [
+                "P.za Calcalusso, 11/a, 36021 Barbarano Vicentino, VI, Italia"
+            ],
             "coord": [
                 [
                     45.4096996,
                     11.5410304
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 46,
+            "category": "🍽️",
+            "position": "46°",
             "name": "Impronta d’Acqua",
             "ref": "https://www.50topitaly.it/it/referenza/impronta-dacqua-3/",
+            "address": [
+                "SS 1, 2121, 16033 Lavagna GE"
+            ],
             "coord": [
                 [
                     44.2956308,
                     9.3693677
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 47,
+            "category": "🍽️",
+            "position": "47°",
             "name": "Pashà",
             "ref": "https://www.50topitaly.it/it/referenza/pasha-3/",
+            "address": [
+                "via Morgantini 2, 70014 Conversano BA"
+            ],
             "coord": [
                 [
                     40.9673601,
                     17.1171189
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 48,
+            "category": "🍽️",
+            "position": "48°",
             "name": "Il Buco",
             "ref": "https://www.50topitaly.it/it/referenza/il-buco/",
+            "address": [
+                "2ª Rampa Marina Piccola, Piazza Sant'Antonino, 5, 80067 Sorrento NA"
+            ],
             "coord": [
                 [
                     40.6268944,
                     14.3747518
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 49,
+            "category": "🍽️",
+            "position": "49°",
             "name": "Accursio",
             "ref": "https://www.50topitaly.it/it/referenza/accursio/",
+            "address": [
+                "Via Clemente Grimaldi, 41, 97015 Modica, RG, Italia"
+            ],
             "coord": [
                 [
                     36.8601043,
                     14.7603716
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 50,
+            "category": "🍽️",
+            "position": "50°",
             "name": "Volta del Fuenti by Michele De Blasio",
             "ref": "https://www.50topitaly.it/it/referenza/volta-del-fuenti-by-michele-de-blasio-2/",
+            "address": [
+                "km 47+300, S.S. 163 Amalfitana, Str. località Fuenti, 84019 Vietri sul mare SA"
+            ],
             "coord": [
                 [
                     40.6600633,
                     14.7119762
                 ]
-            ]
+            ],
+            "website": null
         }
     ],
     "I Migliori Ristoranti Italiani 2024 Cucina Dautore": [
         {
-            "position": 1,
+            "category": "🍽️",
+            "position": "1°",
             "name": "Zia Restaurant",
             "ref": "https://www.50topitaly.it/it/referenza/zia-restaurant-3/",
+            "address": [
+                "Via Goffredo Mameli, 45, 00153 Roma, RM, Italia"
+            ],
             "coord": [
                 [
                     41.8869767,
                     12.4682363
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 2,
+            "category": "🍽️",
+            "position": "2°",
             "name": "Dina",
             "ref": "https://www.50topitaly.it/it/referenza/dina-3/",
+            "address": [
+                "Via Santa Croce, 1, 25064 Gussago, BS, Italia"
+            ],
             "coord": [
                 [
                     45.5838574,
                     10.1561869
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 3,
+            "category": "🍽️",
+            "position": "3°",
             "name": "daGorini",
             "ref": "https://www.50topitaly.it/it/referenza/dagorini-3/",
+            "address": [
+                "Via Giuseppe Verdi, 5, 47021 San Piero In Bagno, FC, Italia"
+            ],
             "coord": [
                 [
                     43.8586485,
                     11.9745081
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 4,
+            "category": "🍽️",
+            "position": "4°",
             "name": "Antica Osteria Nonna Rosa",
             "ref": "https://www.50topitaly.it/it/referenza/antica-osteria-nonna-rosa-2/",
+            "address": [
+                "Via Laudano, 1, 80069 Vico Equense, NA, Italia"
+            ],
             "coord": [
                 [
                     40.6612602,
                     14.4332025
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 5,
+            "category": "🍽️",
+            "position": "5°",
             "name": "Marotta Ristorante",
             "ref": "https://www.50topitaly.it/it/referenza/marotta-ristorante-3/",
+            "address": [
+                "Via Marrochelle, 52, 81010 Squille, CE, Italia"
+            ],
             "coord": [
                 [
                     41.146783,
                     14.4094731
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 6,
+            "category": "🍽️",
+            "position": "6°",
             "name": "Condividere",
             "ref": "https://www.50topitaly.it/it/referenza/condividere-3/",
+            "address": [
+                "Via Bologna, 20, 10152 Torino TO"
+            ],
             "coord": [
                 [
                     45.0802976,
                     7.6910321
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 7,
+            "category": "🍽️",
+            "position": "7°",
             "name": "Villa Maiella",
             "ref": "https://www.50topitaly.it/it/referenza/villa-maiella/",
+            "address": [
+                "Via Sette Dolori, 30, 66016 Colle Barone, Guardiagrele CH, Italia"
+            ],
             "coord": [
                 [
                     42.1887427,
                     14.2044889
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 8,
+            "category": "🍽️",
+            "position": "8°",
             "name": "Abbruzzino",
             "ref": "https://www.50topitaly.it/it/referenza/abbruzzino/",
+            "address": [
+                "Via Fiume Savuto, 88100 Cava-cuculera Nobile, CZ, Italia"
+            ],
             "coord": [
                 [
                     38.890777,
                     16.6226163
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 9,
+            "category": "🍽️",
+            "position": "9°",
             "name": "Gambero Rosso",
             "ref": "https://www.50topitaly.it/it/referenza/gambero-rosso-3/",
+            "address": [
+                "Via Montezemolo, 65, 89046 Marina di Gioiosa Ionica RC"
+            ],
             "coord": [
                 [
                     38.2990267,
                     16.3273187
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 10,
+            "category": "🍽️",
+            "position": "10°",
             "name": "Abocar Due Cucine",
             "ref": "https://www.50topitaly.it/it/referenza/abocar-due-cucine-3/",
+            "address": [
+                "Via Carlo Farini, 13/15, 47921 Rimini, RN, Italia"
+            ],
             "coord": [
                 [
                     44.0626736,
                     12.5663631
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 11,
+            "category": "🍽️",
+            "position": "11°",
             "name": "Re Santi e Leoni",
             "ref": "https://www.50topitaly.it/it/referenza/re-santi-e-leoni-3/",
+            "address": [
+                "Via Anfiteatro Laterizio, 92, 80035 Nola NA"
+            ],
             "coord": [
                 [
                     40.9282283,
                     14.526693
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 12,
+            "category": "🍽️",
+            "position": "12°",
             "name": "Dalla Gioconda",
             "ref": "https://www.50topitaly.it/it/referenza/dalla-gioconda-3/",
+            "address": [
+                "Via dell'Orizzonte, 2, 61011 Gabicce Monte, PU, Italia"
+            ],
             "coord": [
                 [
                     43.9638601,
                     12.7726647
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 13,
+            "category": "🍽️",
+            "position": "13°",
             "name": "Cannavacciuolo Bistrot Torino",
             "ref": "https://www.50topitaly.it/it/referenza/cannavacciuolo-bistrot-torino-3/",
+            "address": [
+                "Via Umberto Cosmo, 6, 10131 Torino TO"
+            ],
             "coord": [
                 [
                     45.0625514,
                     7.7008662
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 14,
+            "category": "🍽️",
+            "position": "14°",
             "name": "Damini Macelleria & Affini",
             "ref": "https://www.50topitaly.it/it/referenza/damini-macelleria-affini-3/",
+            "address": [
+                "Via Cadorna, 31, 36071 Arzignano VI"
+            ],
             "coord": [
                 [
                     45.5167183,
                     11.3364234
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 15,
+            "category": "🍽️",
+            "position": "15°",
             "name": "Oasis Sapori Antichi",
             "ref": "https://www.50topitaly.it/it/referenza/oasis-sapori-antichi-3/",
+            "address": [
+                "Via Provinciale, 8, 83050 Vallesaccarda AV, Italia"
+            ],
             "coord": [
                 [
                     41.063271,
                     15.251994
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 16,
+            "category": "🍽️",
+            "position": "16°",
             "name": "Acqua Pazza",
             "ref": "https://www.50topitaly.it/it/referenza/acqua-pazza-3/",
+            "address": [
+                "Via Dietro la Chiesa, 3-4, 04027 Ponza LT"
+            ],
             "coord": [
                 [
                     40.8955737,
                     12.9589751
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 17,
+            "category": "🍽️",
+            "position": "17°",
             "name": "Antica Corte Pallavicina",
             "ref": "https://www.50topitaly.it/it/referenza/antica-corte-pallavicina-3/",
+            "address": [
+                "Strada Palazzo due Torri, 3, 43016 Polesine Parmense PR"
+            ],
             "coord": [
                 [
                     45.0212209,
                     10.0859149
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 18,
+            "category": "🍽️",
+            "position": "18°",
             "name": "Il Tiglio",
             "ref": "https://www.50topitaly.it/it/referenza/il-tiglio/",
+            "address": [
+                "Localita' Isola Di San Biagio, 63048 Montemonaco AP"
+            ],
             "coord": [
                 [
                     42.8985697,
                     13.3324508
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 19,
+            "category": "🍽️",
+            "position": "19°",
             "name": "L’Asinello",
             "ref": "https://www.50topitaly.it/it/referenza/lasinello-3/",
+            "address": [
+                "Via Nuova, 6, 53019 Villa A Sesta, Castelnuovo Berardenga SI, Italia"
+            ],
             "coord": [
                 [
                     43.385086,
                     11.4806404
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 20,
+            "category": "🍽️",
+            "position": "20°",
             "name": "Ristorante Giglio",
             "ref": "https://www.50topitaly.it/it/referenza/ristorante-giglio-3/",
+            "address": [
+                "Piazza del Giglio, 2, 55100 Lucca LU"
+            ],
             "coord": [
                 [
                     43.8411984,
                     10.5032921
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 21,
+            "category": "🍽️",
+            "position": "21°",
             "name": "Retrobottega",
             "ref": "https://www.50topitaly.it/it/referenza/retrobottega/",
+            "address": [
+                "Via d'Ascanio, 26a, 00186 Roma, RM, Italia"
+            ],
             "coord": [
                 [
                     41.9019254,
                     12.475204
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 22,
+            "category": "🍽️",
+            "position": "22°",
             "name": "al Metrò",
             "ref": "https://www.50topitaly.it/it/referenza/al-metro-3/",
+            "address": [
+                "Via Ferdinando Magellano, 35, 66050 San Salvo, CH, Italia"
+            ],
             "coord": [
                 [
                     42.0681635,
                     14.7748245
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 23,
+            "category": "🍽️",
+            "position": "23°",
             "name": "L’Arcade",
             "ref": "https://www.50topitaly.it/it/referenza/larcade-2/",
+            "address": [
+                "Lungomare Antonio Gramsci, 315, 63822 Porto San Giorgio, FM, Italia"
+            ],
             "coord": [
                 [
                     43.1761801,
                     13.8013865
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 24,
+            "category": "🍽️",
+            "position": "24°",
             "name": "L’Acciuga",
             "ref": "https://www.50topitaly.it/it/referenza/lacciuga-2/",
+            "address": [
+                "Via Settevalli, 217, 06128 Perugia, PG, Italia"
+            ],
             "coord": [
                 [
                     43.0903258,
                     12.3684703
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 25,
+            "category": "🍽️",
+            "position": "25°",
             "name": "Casa Rapisarda",
             "ref": "https://www.50topitaly.it/it/referenza/casa-rapisarda-3/",
+            "address": [
+                "Via IV Novembre, 35, 60026 Numana AN, Italia"
+            ],
             "coord": [
                 [
                     43.5107944,
                     13.6226833
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 26,
+            "category": "🍽️",
+            "position": "26°",
             "name": "Casa Sgarra",
             "ref": "https://www.50topitaly.it/it/referenza/casa-sgarra-3/",
+            "address": [
+                "Lungomare Cristoforo Colombo, 114, 76125 Trani, BT, Italia"
+            ],
             "coord": [
                 [
                     41.2704292,
                     16.4342406
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 27,
+            "category": "🍽️",
+            "position": "27°",
             "name": "Mater1apr1ma",
             "ref": "https://www.50topitaly.it/it/referenza/mater1apr1ma-2/",
+            "address": [
+                "Via Sardegna, 8, 04014 Pontinia LT, Italia"
+            ],
             "coord": [
                 [
                     41.4103138,
                     13.043278
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 28,
+            "category": "🍽️",
+            "position": "28°",
             "name": "Luigi Lepore",
             "ref": "https://www.50topitaly.it/it/referenza/luigi-lepore-2/",
+            "address": [
+                "Via Ubaldo De Medici, 50, 88046 Lamezia Terme, CZ, Italia"
+            ],
             "coord": [
                 [
                     38.9748581,
                     16.317623
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 29,
+            "category": "🍽️",
+            "position": "29°",
             "name": "Essenza",
             "ref": "https://www.50topitaly.it/it/referenza/essenza-3/",
+            "address": [
+                "Via Camillo Benso Conte di Cavour, 38, 04019 Terracina, LT, Italia"
+            ],
             "coord": [
                 [
                     41.2871371,
                     13.2564958
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 30,
+            "category": "🍽️",
+            "position": "30°",
             "name": "Pulejo",
             "ref": "https://www.50topitaly.it/it/referenza/pulejo/",
+            "address": [
+                "Via dei Gracchi, 31, 00192 Roma, RM, Italia"
+            ],
             "coord": [
                 [
                     41.907148,
                     12.4596095
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 31,
+            "category": "🍽️",
+            "position": "31°",
             "name": "Balzi Rossi",
             "ref": "https://www.50topitaly.it/it/referenza/balzi-rossi/",
+            "address": [
+                "French border, Strada Romana Antica Balzi Rossi – Grimaldi, 18039 Mortola Inferiore IM"
+            ],
             "coord": [
                 [
                     43.783676,
                     7.5368652
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 32,
+            "category": "🍽️",
+            "position": "32°",
             "name": "Quintessenza Ristorante",
             "ref": "https://www.50topitaly.it/it/referenza/quintessenza-ristorante-3/",
+            "address": [
+                "Via Lionelli, 62, 76125 Trani, BT, Italia"
+            ],
             "coord": [
                 [
                     41.2814331,
                     16.4149989
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 33,
+            "category": "🍽️",
+            "position": "33°",
             "name": "Hostaria Ducale",
             "ref": "https://www.50topitaly.it/it/referenza/hostaria-ducale-3/",
+            "address": [
+                "Salita di S. Matteo, 29/R, 16123 Genova GE"
+            ],
             "coord": [
                 [
                     44.4077872,
                     8.9338655
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 34,
+            "category": "🍽️",
+            "position": "34°",
             "name": "Locanda Perbellini al Mare",
             "ref": "https://www.50topitaly.it/it/referenza/locanda-perbellini-al-mare/",
+            "address": [
+                "Spiaggia di Bovo Marina, 92010 Montallegro, AG, Italia"
+            ],
             "coord": [
                 [
                     37.378331,
                     13.3095326
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 35,
+            "category": "🍽️",
+            "position": "35°",
             "name": "Fattoria delle Torri",
             "ref": "https://www.50topitaly.it/it/referenza/fattoria-delle-torri/",
+            "address": [
+                "Vico Napolitano, 97015 Modica RG"
+            ],
             "coord": [
                 [
                     36.8569685,
                     14.7600764
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 36,
+            "category": "🍽️",
+            "position": "36°",
             "name": "Suscettibile",
             "ref": "https://www.50topitaly.it/it/referenza/suscettibile/",
+            "address": [
+                "Via dei Principati, 45, 84122 Salerno SA"
+            ],
             "coord": [
                 [
                     40.678748,
                     14.7662204
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 37,
+            "category": "🍽️",
+            "position": "37°",
             "name": "Bottega Culinaria",
             "ref": "https://www.50topitaly.it/it/referenza/bottega-culinaria/",
+            "address": [
+                "Contrada Pontoni S. Vito Chietino, 72, 66038 San Vito Chietino, CH, Italia"
+            ],
             "coord": [
                 [
                     42.3029614,
                     14.4258931
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 38,
+            "category": "🍽️",
+            "position": "38°",
             "name": "28 Posti",
             "ref": "https://www.50topitaly.it/it/referenza/28-posti-2/",
+            "address": [
+                "Via Corsico, 1, 20144 Milano, Milano MI, Italia"
+            ],
             "coord": [
                 [
                     45.4527281,
                     9.1733466
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 39,
+            "category": "🍽️",
+            "position": "39°",
             "name": "Vitium",
             "ref": "https://www.50topitaly.it/it/referenza/vitium/",
+            "address": [
+                "Via Ginnasio, 4, 26013 Crema, Crema CR, Italia"
+            ],
             "coord": [
                 [
                     45.3622411,
                     9.6890296
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 40,
+            "category": "🍽️",
+            "position": "40°",
             "name": "Osteria della Brughiera",
             "ref": "https://www.50topitaly.it/it/referenza/osteria-della-brughiera/",
+            "address": [
+                "Via Brughiera, 49, 24018 Villa d'Almè, BG, Italia"
+            ],
             "coord": [
                 [
                     45.7393326,
                     9.6267415
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 41,
+            "category": "🍽️",
+            "position": "41°",
             "name": "Zum Löwen",
             "ref": "https://www.50topitaly.it/it/referenza/zum-lowen-3/",
+            "address": [
+                "Via Principale, 72, 39010 Tesimo BZ"
+            ],
             "coord": [
                 [
                     46.5854372,
                     11.0871848
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 42,
+            "category": "🍽️",
+            "position": "42°",
             "name": "Modì",
             "ref": "https://www.50topitaly.it/it/referenza/modi-2/",
+            "address": [
+                "Via Bucceri, 98040 Torregrotta, ME, Italia"
+            ],
             "coord": [
                 [
                     38.196007,
                     15.3564524
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 43,
+            "category": "🍽️",
+            "position": "43°",
             "name": "Delicato",
             "ref": "https://www.50topitaly.it/it/referenza/delicato/",
+            "address": [
+                "Via Umberto I, 2, 02043 Contigliano, RI, Italia"
+            ],
             "coord": [
                 [
                     42.4115786,
                     12.7692595
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 44,
+            "category": "🍽️",
+            "position": "44°",
             "name": "Gardenia",
             "ref": "https://www.50topitaly.it/it/referenza/gardenia-3/",
+            "address": [
+                "Corso Torino, 9, 10014 Caluso, TO, Italia"
+            ],
             "coord": [
                 [
                     45.3034248,
                     7.8900363
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 45,
+            "category": "🍽️",
+            "position": "45°",
             "name": "Limu Restaurant",
             "ref": "https://www.50topitaly.it/it/referenza/limu-restaurant/",
+            "address": [
+                "Via Ciro Scianna, 177, 90011 Bagheria, PA, Italia"
+            ],
             "coord": [
                 [
                     38.0826962,
                     13.50769
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 46,
+            "category": "🍽️",
+            "position": "46°",
             "name": "Paca Ristorante",
             "ref": "https://www.50topitaly.it/it/referenza/paca-ristorante/",
+            "address": [
+                "Via Frà Bartolomeo, 13, 59100 Prato, PO, Italia"
+            ],
             "coord": [
                 [
                     43.8771273,
                     11.1023267
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 47,
+            "category": "🍽️",
+            "position": "47°",
             "name": "Ristorante Mater\tRistorante Mater\tPoppi (AR)\tToscana",
             "ref": "https://www.50topitaly.it/it/referenza/ristorante-mater/",
+            "address": [
+                "Via Camaldoli, 52, 52014 Moggiona, AR, Italia"
+            ],
             "coord": [
                 [
                     43.7820054,
                     11.7949786
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 48,
+            "category": "🍽️",
+            "position": "48°",
             "name": "UNE",
             "ref": "https://www.50topitaly.it/it/referenza/une/",
+            "address": [
+                "Via Fiorenzuola, 37, 06034 Capodacqua PG"
+            ],
             "coord": [
                 [
                     43.0177596,
                     12.7845224
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 49,
+            "category": "🍽️",
+            "position": "49°",
             "name": "Terramira",
             "ref": "https://www.50topitaly.it/it/referenza/terramira/",
+            "address": [
+                "Piazza Della Vittoria, 13, 52100 Capolona AR"
+            ],
             "coord": [
                 [
                     43.5626446,
                     11.8598362
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 50,
+            "category": "🍽️",
+            "position": "50°",
             "name": "President",
             "ref": "https://www.50topitaly.it/it/referenza/president/",
+            "address": [
+                "Piazzale Schettini, 12, 80045 Pompei, NA, Italia"
+            ],
             "coord": [
                 [
                     40.7472918,
                     14.4995597
                 ]
-            ]
+            ],
+            "website": null
         }
     ],
     "50 Top Trattorie Bistro Moderni 2024": [
         {
-            "position": 1,
+            "category": "🍽️",
+            "position": "1°",
             "name": "Trattoria Da Burde",
             "ref": "https://www.50topitaly.it/it/referenza/trattoria-da-burde-3/",
+            "address": [
+                "Via Pistoiese, 154, 50145 Firenze FI"
+            ],
             "coord": [
                 [
                     43.7941468,
                     11.185856
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 2,
+            "category": "🍽️",
+            "position": "2°",
             "name": "Antica Osteria del Mirasole",
             "ref": "https://www.50topitaly.it/it/referenza/antica-osteria-del-mirasole-3/",
+            "address": [
+                "Via Giacomo Matteotti, 17, 40017 San Giovanni in Persiceto BO"
+            ],
             "coord": [
                 [
                     44.639073,
                     11.1857091
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 3,
+            "category": "🍽️",
+            "position": "3°",
             "name": "Al Convento",
             "ref": "https://www.50topitaly.it/it/referenza/al-convento-3/",
+            "address": [
+                "Piazza S. Francesco, 16, 84010 Cetara, SA, Italia"
+            ],
             "coord": [
                 [
                     40.6472544,
                     14.700698
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 4,
+            "category": "🍽️",
+            "position": "4°",
             "name": "Roscioli Salumeria con Cucina",
             "ref": "https://www.50topitaly.it/it/referenza/roscioli-salumeria-con-cucina-3/",
+            "address": [
+                "Via dei Giubbonari, 21, 00186 Roma, RM, Italia"
+            ],
             "coord": [
                 [
                     41.894256,
                     12.4742417
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 5,
+            "category": "🍽️",
+            "position": "5°",
             "name": "L’Osteria della Tana",
             "ref": "https://www.50topitaly.it/it/referenza/losteria-della-tana-3/",
+            "address": [
+                "Via Kaberlaba, 19, 36012 Asiago VI, Italia"
+            ],
             "coord": [
                 [
                     45.8530206,
                     11.4952863
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 6,
+            "category": "🍽️",
+            "position": "6°",
             "name": "Abraxas Osteria",
             "ref": "https://www.50topitaly.it/it/referenza/abraxas-osteria-3/",
+            "address": [
+                "Via Scalandrone, 15, 80078 Pozzuoli NA"
+            ],
             "coord": [
                 [
                     40.8318495,
                     14.0693659
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 7,
+            "category": "🍽️",
+            "position": "7°",
             "name": "Sora Maria e Arcangelo",
             "ref": "https://www.50topitaly.it/it/referenza/sora-maria-e-arcangelo-3/",
+            "address": [
+                "Via Roma, 42, 00035 Olevano Romano RM"
+            ],
             "coord": [
                 [
                     41.8595961,
                     13.0334661
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 8,
+            "category": "🍽️",
+            "position": "8°",
             "name": "La Brinca",
             "ref": "https://www.50topitaly.it/it/referenza/la-brinca-3/",
+            "address": [
+                "16040 Campo di Ne, Ne GE, Italia"
+            ],
             "coord": [
                 [
                     44.3561224,
                     9.3917323
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 9,
+            "category": "🍽️",
+            "position": "9°",
             "name": "Ristorante Al Cambio",
             "ref": "https://www.50topitaly.it/it/referenza/ristorante-al-cambio-3/",
+            "address": [
+                "Via Stalingrado, 150, 40128 Bologna, Bologna BO, Italia"
+            ],
             "coord": [
                 [
                     44.5285709,
                     11.3666651
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 10,
+            "category": "🍽️",
+            "position": "10°",
             "name": "Lo Stuzzichino",
             "ref": "https://www.50topitaly.it/it/referenza/lo-stuzzichino-3/",
+            "address": [
+                "Corso Sant'Agata, 80061 Sant'Agata sui Due Golfi NA"
+            ],
             "coord": [
                 [
                     40.6067011,
                     14.3741134
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 11,
+            "category": "🍽️",
+            "position": "11°",
             "name": "NU’ Trattoria Italiana 1960",
             "ref": "https://www.50topitaly.it/it/referenza/nu-trattoria-italiana-1960/",
+            "address": [
+                "Via Prenestina, 21, 03010 Acuto FR, Italia"
+            ],
             "coord": [
                 [
                     41.7920911,
                     13.1793855
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 12,
+            "category": "🍽️",
+            "position": "12°",
             "name": "Arcangelo Vino e Cucina",
             "ref": "https://www.50topitaly.it/it/referenza/arcangelo-vino-e-cucina-2/",
+            "address": [
+                "Via Giuseppe Gioachino Belli, 59, 00193 Roma, RM, Italia"
+            ],
             "coord": [
                 [
                     41.9066067,
                     12.4686916
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 13,
+            "category": "🍽️",
+            "position": "13°",
             "name": "Locanda Mammì",
             "ref": "https://www.50topitaly.it/it/referenza/locanda-mammi-2/",
+            "address": [
+                "Contrada Castelnuovo, 86, 86081 Agnone, IS, Italia"
+            ],
             "coord": [
                 [
                     41.8138792,
                     14.3807562
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 14,
+            "category": "🍽️",
+            "position": "14°",
             "name": "Mammaròssa",
             "ref": "https://www.50topitaly.it/it/referenza/mammarossa-2/",
+            "address": [
+                "Via Garibaldi, 388, 67051 Avezzano, AQ, Italia"
+            ],
             "coord": [
                 [
                     42.0257124,
                     13.433612
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 15,
+            "category": "🍽️",
+            "position": "15°",
             "name": "Mezza Pagnotta – Cucina etnobotanica",
             "ref": "https://www.50topitaly.it/it/referenza/mezza-pagnotta-cucina-etnobotanica/",
+            "address": [
+                "Villa Fenicia SP 86 Ruvo - Bisceglie, km, 2, 70037 Ruvo di Puglia BA"
+            ],
             "coord": [
                 [
                     41.1393661,
                     16.4840965
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 16,
+            "category": "🍽️",
+            "position": "16°",
             "name": "Ristorante Consorzio",
             "ref": "https://www.50topitaly.it/it/referenza/ristorante-consorzio-3/",
+            "address": [
+                "Via Monte di Pietà, 23, 10122 Torino, Torino TO, Italia"
+            ],
             "coord": [
                 [
                     45.0714125,
                     7.6796432
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 17,
+            "category": "🍽️",
+            "position": "17°",
             "name": "Evviva Maria",
             "ref": "https://www.50topitaly.it/it/referenza/evviva-maria/",
+            "address": [
+                "Corso Umberto I, 22, 70014 Conversano, BA, Italia"
+            ],
             "coord": [
                 [
                     40.9671349,
                     17.1138919
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 18,
+            "category": "🍽️",
+            "position": "18°",
             "name": "Trippa",
             "ref": "https://www.50topitaly.it/it/referenza/trippa-3/",
+            "address": [
+                "Via Giorgio Vasari, 1, 20135 Milano, Milano MI, Italia"
+            ],
             "coord": [
                 [
                     45.4521864,
                     9.2054884
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 19,
+            "category": "🍽️",
+            "position": "19°",
             "name": "Josto",
             "ref": "https://www.50topitaly.it/it/referenza/josto-3/",
+            "address": [
+                "Via Sassari, 25, 09124 Cagliari, Cagliari CA, Italia"
+            ],
             "coord": [
                 [
                     39.2165705,
                     9.1104473
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 20,
+            "category": "🍽️",
+            "position": "20°",
             "name": "Vecchia Marina",
             "ref": "https://www.50topitaly.it/it/referenza/vecchia-marina-3/",
+            "address": [
+                "Lungomare Trento, 37, 64026 Roseto degli Abruzzi, TE, Italia"
+            ],
             "coord": [
                 [
                     42.6829357,
                     14.0127942
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 21,
+            "category": "🍽️",
+            "position": "21°",
             "name": "Gerani Ristorante",
             "ref": "https://www.50topitaly.it/it/referenza/gerani-ristorante-3/",
+            "address": [
+                "Via Stabia, 609, 80057 Sant'Antonio Abate NA, Italia"
+            ],
             "coord": [
                 [
                     40.7114739,
                     14.5266912
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 22,
+            "category": "🍽️",
+            "position": "22°",
             "name": "Osteria Ophis",
             "ref": "https://www.50topitaly.it/it/referenza/osteria-ophis-3/",
+            "address": [
+                "Corso Serpente Aureo, 54 B, 63073 Offida AP"
+            ],
             "coord": [
                 [
                     42.9353708,
                     13.6919644
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 23,
+            "category": "🍽️",
+            "position": "23°",
             "name": "Da Lucio Trattoria",
             "ref": "https://www.50topitaly.it/it/referenza/da-lucio-trattoria-3/",
+            "address": [
+                "Viale Amerigo Vespucci, 71, 47921 Rimini, RN, Italia"
+            ],
             "coord": [
                 [
                     44.067145,
                     12.5808806
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 24,
+            "category": "🍽️",
+            "position": "24°",
             "name": "Barred",
             "ref": "https://www.50topitaly.it/it/referenza/barred-2/",
+            "address": [
+                "Via Cesena, 30, 00182 Roma RM"
+            ],
             "coord": [
                 [
                     41.883576,
                     12.5136064
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 25,
+            "category": "🍽️",
+            "position": "25°",
             "name": "SantoPalato",
             "ref": "https://www.50topitaly.it/it/referenza/santopalato-3/",
+            "address": [
+                "Piazza Tarquinia, 4 a/b, 00183 Roma RM"
+            ],
             "coord": [
                 [
                     41.8812628,
                     12.5098805
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 26,
+            "category": "🍽️",
+            "position": "26°",
             "name": "Hub",
             "ref": "https://www.50topitaly.it/it/referenza/hub-2/",
+            "address": [
+                "17, Via Emilio Lussu, 08015 Macomer NU"
+            ],
             "coord": [
                 [
                     40.266732,
                     8.7624757
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 27,
+            "category": "🍽️",
+            "position": "27°",
             "name": "Boivin",
             "ref": "https://www.50topitaly.it/it/referenza/boivin-3/",
+            "address": [
+                "Via Garibaldi, 9, 38056 Levico Terme TN, Italia"
+            ],
             "coord": [
                 [
                     46.0111898,
                     11.3004651
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 28,
+            "category": "🍽️",
+            "position": "28°",
             "name": "Lokanda Devetak 1870",
             "ref": "https://www.50topitaly.it/it/referenza/lokanda-devetak-1870-3/",
+            "address": [
+                "Via, Brežiči, 22, 34070 San Michele del Carso GO"
+            ],
             "coord": [
                 [
                     45.8831461,
                     13.5606662
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 29,
+            "category": "🍽️",
+            "position": "29°",
             "name": "Ai Due Platani",
             "ref": "https://www.50topitaly.it/it/referenza/ai-due-platani-3/",
+            "address": [
+                "Strada Budellungo, 104/a, 43123 Coloreto PR"
+            ],
             "coord": [
                 [
                     44.768842,
                     10.379983
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 30,
+            "category": "🍽️",
+            "position": "30°",
             "name": "Antica Trattoria del Gallo",
             "ref": "https://www.50topitaly.it/it/referenza/antica-trattoria-del-gallo-3/",
+            "address": [
+                "Via Privata Gerli, 3, 20083 Gaggiano, MI, Italia"
+            ],
             "coord": [
                 [
                     45.3799926,
                     9.0248373
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 31,
+            "category": "🍽️",
+            "position": "31°",
             "name": "Corona Trattoria",
             "ref": "https://www.50topitaly.it/it/referenza/corona-trattoria-3/",
+            "address": [
+                "Via Guglielmo Marconi, 9, 90141 Palermo, PA, Italia"
+            ],
             "coord": [
                 [
                     38.126085,
                     13.3511746
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 32,
+            "category": "🍽️",
+            "position": "32°",
             "name": "Osteria della Villetta",
             "ref": "https://www.50topitaly.it/it/referenza/osteria-della-villetta-3/",
+            "address": [
+                "Via Guglielmo Marconi, 104, 25036 Palazzolo sull'Oglio, BS, Italia"
+            ],
             "coord": [
                 [
                     45.6026727,
                     9.8940465
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 33,
+            "category": "🍽️",
+            "position": "33°",
             "name": "L’Agave Framura",
             "ref": "https://www.50topitaly.it/it/referenza/lagave-framura-3/",
+            "address": [
+                "19014 Framura, SP, Italia"
+            ],
             "coord": [
                 [
                     44.2191169,
                     9.5729115
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 34,
+            "category": "🍽️",
+            "position": "34°",
             "name": "Taverna Kerkira",
             "ref": "https://www.50topitaly.it/it/referenza/taverna-kerkira-3/",
+            "address": [
+                "Viale Vittorio Emanuele II, 217, 89011 Bagnara calabra RC"
+            ],
             "coord": [
                 [
                     38.2841753,
                     15.8004221
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 35,
+            "category": "🍽️",
+            "position": "35°",
             "name": "Fattoria Borrello",
             "ref": "https://www.50topitaly.it/it/referenza/fattoria-borrello-2/",
+            "address": [
+                "Contrada Bosco, 98067 Raccuja ME"
+            ],
             "coord": [
                 [
                     38.0190668,
                     14.9272044
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 36,
+            "category": "🍽️",
+            "position": "36°",
             "name": "Antica Trattoria Ballotta",
             "ref": "https://www.50topitaly.it/it/referenza/antica-trattoria-ballotta-3/",
+            "address": [
+                "Via Romana, 57, 35038 Torreglia PD"
+            ],
             "coord": [
                 [
                     45.3347694,
                     11.7211883
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 37,
+            "category": "🍽️",
+            "position": "37°",
             "name": "Osteria La Torre",
             "ref": "https://www.50topitaly.it/it/referenza/osteria-la-torre-3/",
+            "address": [
+                "Via dell Ospedale, 22, 12062 Cherasco CN, Italia"
+            ],
             "coord": [
                 [
                     44.6515738,
                     7.8570661
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 38,
+            "category": "🍽️",
+            "position": "38°",
             "name": "Futura Osteria",
             "ref": "https://www.50topitaly.it/it/referenza/futura-osteria-3/",
+            "address": [
+                "Piazza Garfonda, 10, 53035 Abbadia Isola SI"
+            ],
             "coord": [
                 [
                     43.3877477,
                     11.1950236
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 39,
+            "category": "🍽️",
+            "position": "39°",
             "name": "Armando al Pantheon",
             "ref": "https://www.50topitaly.it/it/referenza/armando-al-pantheon-3/",
+            "address": [
+                "Salita de' Crescenzi, 31, 00186 Roma, RM, Italia"
+            ],
             "coord": [
                 [
                     41.8990882,
                     12.4762512
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 40,
+            "category": "🍽️",
+            "position": "40°",
             "name": "Antica Trattoria Da Doro",
             "ref": "https://www.50topitaly.it/it/referenza/antica-trattoria-da-doro-3/",
+            "address": [
+                "Via Ferracina, 38, 36020 Solagna VI, Italia"
+            ],
             "coord": [
                 [
                     45.8140872,
                     11.7207703
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 41,
+            "category": "🍽️",
+            "position": "41°",
             "name": "Eufrosino Osteria",
             "ref": "https://www.50topitaly.it/it/referenza/eufrosino-osteria/",
+            "address": [
+                "Via di Tor Pignattara, 188, 00177 Roma RM"
+            ],
             "coord": [
                 [
                     41.8750016,
                     12.5411192
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 42,
+            "category": "🍽️",
+            "position": "42°",
             "name": "Antichi Sapori\tAntichi Sapori\tMontegrosso di Andria (BT)\tPuglia",
             "ref": "https://www.50topitaly.it/it/referenza/antichi-sapori-3/",
+            "address": [
+                "Piazza Sant'Isidoro, 10, 76123 Montegrosso BT"
+            ],
             "coord": [
                 [
                     41.17298,
                     16.1404845
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 43,
+            "category": "🍽️",
+            "position": "43°",
             "name": "Osteria Ca’ Dei Giosi",
             "ref": "https://www.50topitaly.it/it/referenza/osteria-ca-dei-giosi-3/",
+            "address": [
+                "Via Villa Alta, 9a, Covelo, TN, Italia"
+            ],
             "coord": [
                 [
                     46.0977688,
                     11.0178734
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 44,
+            "category": "🍽️",
+            "position": "44°",
             "name": "Il Capanno",
             "ref": "https://www.50topitaly.it/it/referenza/il-capanno-3/",
+            "address": [
+                "Località Torre Cola, 6, 06049 Torrecola, PG, Italia"
+            ],
             "coord": [
                 [
                     42.6614289,
                     12.7350034
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 45,
+            "category": "🍽️",
+            "position": "45°",
             "name": "Osteria Botteghe Antiche",
             "ref": "https://www.50topitaly.it/it/referenza/osteria-botteghe-antiche-3/",
+            "address": [
+                "Piazza Plebiscito, 8, 70017 Putignano BA"
+            ],
             "coord": [
                 [
                     40.8491807,
                     17.1229292
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 46,
+            "category": "🍽️",
+            "position": "46°",
             "name": "Trattoria La Grotta Da Concetta",
             "ref": "https://www.50topitaly.it/it/referenza/trattoria-la-grotta-da-concetta-3/",
+            "address": [
+                "Via Larino, 7, 86100 Campobasso, CB, Italia"
+            ],
             "coord": [
                 [
                     41.5616814,
                     14.6607577
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 47,
+            "category": "🍽️",
+            "position": "47°",
             "name": "Cibus",
             "ref": "https://www.50topitaly.it/it/referenza/cibus-3/",
+            "address": [
+                "Via Chianche di Scarano, 7, 72013 Ceglie Messapica BR, Italia"
+            ],
             "coord": [
                 [
                     40.64652,
                     17.51842
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 48,
+            "category": "🍽️",
+            "position": "48°",
             "name": "Osteria del Vicolo",
             "ref": "https://www.50topitaly.it/it/referenza/osteria-del-vicolo-2/",
+            "address": [
+                "Vico I° San Francesco, 5, 87026 Mormanno CS"
+            ],
             "coord": [
                 [
                     39.8864329,
                     15.987145
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 49,
+            "category": "🍽️",
+            "position": "49°",
             "name": "Taverna Centomani",
             "ref": "https://www.50topitaly.it/it/referenza/taverna-centomani-3/",
+            "address": [
+                "Via Tora, 304, 85100 Potenza, PZ, Italia"
+            ],
             "coord": [
                 [
                     40.6231655,
                     15.7589805
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 50,
+            "category": "🍽️",
+            "position": "50°",
             "name": "Ristorante Cacciatori",
             "ref": "https://www.50topitaly.it/it/referenza/ristorante-cacciatori-3/",
+            "address": [
+                "Via Moreno, 30, 15015 Cartosio, AL, Italia"
+            ],
             "coord": [
                 [
                     44.5937182,
                     8.420656
                 ]
-            ]
+            ],
+            "website": null
         }
     ],
     "50 Top Italy Migliori Sushi 2024": [
         {
-            "position": 1,
+            "category": "🍽️",
+            "position": "1°",
             "name": "Moi",
             "ref": "https://www.50topitaly.it/it/referenza/moi-3/",
+            "address": [
+                "Viale Piave, 10/14, 59100 Prato, PO, Italia"
+            ],
             "coord": [
                 [
                     43.878322,
                     11.0985406
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 2,
+            "category": "🍽️",
+            "position": "2°",
             "name": "IYO Omakase",
             "ref": "https://www.50topitaly.it/it/referenza/iyo-omakase-3/",
+            "address": [
+                "Piazza Alvar Aalto, Viale della Liberazione, 15, 20124 Milano MI"
+            ],
             "coord": [
                 [
                     45.4821607,
                     9.1936501
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 3,
+            "category": "🍽️",
+            "position": "3°",
             "name": "Kohaku",
             "ref": "https://www.50topitaly.it/it/referenza/kohaku/",
+            "address": [
+                "Via Marche, 66, 00187 Roma, RM, Italia"
+            ],
             "coord": [
                 [
                     41.9088227,
                     12.4900973
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 4,
+            "category": "🍽️",
+            "position": "4°",
             "name": "Wicky’s Innovative Japanese Cuisine",
             "ref": "https://www.50topitaly.it/it/referenza/wickys-innovative-japanese-cuisine-3/",
+            "address": [
+                "Corso Italia, 6, 20123 Milano, Milano MI, Italia"
+            ],
             "coord": [
                 [
                     45.4599349,
                     9.1879253
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 5,
+            "category": "🍽️",
+            "position": "5°",
             "name": "Umi",
             "ref": "https://www.50topitaly.it/it/referenza/umi-2/",
+            "address": [
+                "Via Roma, 17, 84121 Salerno, Salerno, Italia"
+            ],
             "coord": [
                 [
                     40.6770189,
                     14.7629714
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 6,
+            "category": "🍽️",
+            "position": "6°",
             "name": "Tabi Fusion Experience",
             "ref": "https://www.50topitaly.it/it/referenza/tabi-fusion-experience-3/",
+            "address": [
+                "Via Raffaele de Cesare, 35, 80132 Napoli, Napoli NA, Italia"
+            ],
             "coord": [
                 [
                     40.8322988,
                     14.2499478
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 7,
+            "category": "🍽️",
+            "position": "7°",
             "name": "Ichikawa",
             "ref": "https://www.50topitaly.it/it/referenza/ichikawa-2/",
+            "address": [
+                "Via Lazzaro Papi, 18, 20135 Milano, Milano MI, Italia"
+            ],
             "coord": [
                 [
                     45.4510915,
                     9.207839
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 8,
+            "category": "🍽️",
+            "position": "8°",
             "name": "Kensho",
             "ref": "https://www.50topitaly.it/it/referenza/kensho-2/",
+            "address": [
+                "Via dei Mercanti, 16, 10122 Torino TO"
+            ],
             "coord": [
                 [
                     45.0710506,
                     7.6804009
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 9,
+            "category": "🍽️",
+            "position": "9°",
             "name": "JAPIT",
             "ref": "https://www.50topitaly.it/it/referenza/japit-3/",
+            "address": [
+                "Via S. Pasquale, 12, 82100 Benevento, BN, Italia"
+            ],
             "coord": [
                 [
                     41.1329336,
                     14.779953
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 10,
+            "category": "🍽️",
+            "position": "10°",
             "name": "Kiko Sushi Bar",
             "ref": "https://www.50topitaly.it/it/referenza/kiko-sushi-bar-3/",
+            "address": [
+                "Piazzale del Verano, 90, 00185 Roma, RM, Italia"
+            ],
             "coord": [
                 [
                     41.8999926,
                     12.5176016
                 ]
-            ]
+            ],
+            "website": null
         }
     ],
     "50 Top Italy Migliori Bistro Vegetali 2024": [
         {
-            "position": 1,
+            "category": "🍽️",
+            "position": "1°",
             "name": "Altatto",
             "ref": "https://www.50topitaly.it/it/referenza/altatto/",
+            "address": [
+                "Via Comune Antico, 15, 20125 Milano, Milano MI, Italia"
+            ],
             "coord": [
                 [
                     45.5034873,
                     9.2091683
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 2,
+            "category": "🍽️",
+            "position": "2°",
             "name": "Nativa",
             "ref": "https://www.50topitaly.it/it/referenza/nativa/",
+            "address": [
+                "Via Umberto Moricca, 100, 00100 Roma RM"
+            ],
             "coord": [
                 [
                     41.9023433,
                     12.4359245
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 3,
+            "category": "🍽️",
+            "position": "3°",
             "name": "Mezza Pagnotta – Cucina etnobotanica",
             "ref": "https://www.50topitaly.it/it/referenza/mezza-pagnotta-cucina-etnobotanica/",
+            "address": [
+                "Villa Fenicia SP 86 Ruvo - Bisceglie, km, 2, 70037 Ruvo di Puglia BA"
+            ],
             "coord": [
                 [
                     41.1393661,
                     16.4840965
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 4,
+            "category": "🍽️",
+            "position": "4°",
             "name": "Mater Terrae",
             "ref": "https://www.50topitaly.it/it/referenza/mater-terrae/",
+            "address": [
+                "Largo Febo, 2, 00186 Roma, RM, Italia"
+            ],
             "coord": [
                 [
                     41.8999814,
                     12.4721401
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 5,
+            "category": "🍽️",
+            "position": "5°",
             "name": "Rifugio Romano",
             "ref": "https://www.50topitaly.it/it/referenza/rifugio-romano/",
+            "address": [
+                "Via Volturno, 39/41, 00185 Roma RM"
+            ],
             "coord": [
                 [
                     41.9044388,
                     12.4995988
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 6,
+            "category": "🍽️",
+            "position": "6°",
             "name": "Il Margutta",
             "ref": "https://www.50topitaly.it/it/referenza/il-margutta/",
+            "address": [
+                "Via Margutta, 118, 00187 Roma, RM, Italia"
+            ],
             "coord": [
                 [
                     41.9095208,
                     12.4782658
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 7,
+            "category": "🍽️",
+            "position": "7°",
             "name": "Linfa",
             "ref": "https://www.50topitaly.it/it/referenza/linfa/",
+            "address": [
+                "Via Bergognone, 24, 20144 Milano MI"
+            ],
             "coord": [
                 [
                     45.4537706,
                     9.1635202
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 8,
+            "category": "🍽️",
+            "position": "8°",
             "name": "Fonderia",
             "ref": "https://www.50topitaly.it/it/referenza/fonderia/",
+            "address": [
+                "Via Della Fonderia, 1, 50142 Firenze, FI, Italia"
+            ],
             "coord": [
                 [
                     43.7723245,
                     11.2385981
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 9,
+            "category": "🍽️",
+            "position": "9°",
             "name": "Cavoli Nostri",
             "ref": "https://www.50topitaly.it/it/referenza/cavoli-nostri/",
+            "address": [
+                "Via Palepoli, 32, 80132 Napoli, Napoli NA, Italia"
+            ],
             "coord": [
                 [
                     40.8308088,
                     14.2502322
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 10,
+            "category": "🍽️",
+            "position": "10°",
             "name": "La Cucina dei Colori",
             "ref": "https://www.50topitaly.it/it/referenza/la-cucina-dei-colori/",
+            "address": [
+                "Via S. Michele, 9, 95131 Catania, CT, Italia"
+            ],
             "coord": [
                 [
                     37.5059503,
                     15.087428
                 ]
-            ]
+            ],
+            "website": null
         }
     ],
     "50 Top Italy Migliori Cacio E Pepe 2024": [
         {
-            "position": 1,
+            "category": "🍽️",
+            "position": "1°",
             "name": "Roscioli Salumeria con Cucina",
             "ref": "https://www.50topitaly.it/it/referenza/roscioli-salumeria-con-cucina-3/",
+            "address": [
+                "Via dei Giubbonari, 21, 00186 Roma, RM, Italia"
+            ],
             "coord": [
                 [
                     41.894256,
                     12.4742417
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 2,
+            "category": "🍽️",
+            "position": "2°",
             "name": "Felice a Testaccio",
             "ref": "https://www.50topitaly.it/it/referenza/felice-a-testaccio/",
+            "address": [
+                "Via Mastro Giorgio, 29, 00153 Roma, RM, Italia"
+            ],
             "coord": [
                 [
                     41.8785412,
                     12.477493
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 3,
+            "category": "🍽️",
+            "position": "3°",
             "name": "Antica Pesa",
             "ref": "https://www.50topitaly.it/it/referenza/antica-pesa/",
+            "address": [
+                "Via Garibaldi, 18, 00153 Roma, RM, Italia"
+            ],
             "coord": [
                 [
                     41.8905078,
                     12.4665524
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 4,
+            "category": "🍽️",
+            "position": "4°",
             "name": "Velavevodetto",
             "ref": "https://www.50topitaly.it/it/referenza/velavevodetto/",
+            "address": [
+                "Via di Monte Testaccio, 97, 00153 Roma, RM, Italia"
+            ],
             "coord": [
                 [
                     41.8765358,
                     12.4759252
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 5,
+            "category": "🍽️",
+            "position": "5°",
             "name": "SantoPalato",
             "ref": "https://www.50topitaly.it/it/referenza/santopalato-3/",
+            "address": [
+                "Piazza Tarquinia, 4 a/b, 00183 Roma RM"
+            ],
             "coord": [
                 [
                     41.8812628,
                     12.5098805
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 6,
+            "category": "🍽️",
+            "position": "6°",
             "name": "Da Enzo al 29",
             "ref": "https://www.50topitaly.it/it/referenza/da-enzo-al-29/",
+            "address": [
+                "Via dei Vascellari, 29, 00153 Roma, RM, Italia"
+            ],
             "coord": [
                 [
                     41.8880871,
                     12.4777878
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 7,
+            "category": "🍽️",
+            "position": "7°",
             "name": "Checchino dal 1887",
             "ref": "https://www.50topitaly.it/it/referenza/checchino-dal-1887/",
+            "address": [
+                "Via di Monte Testaccio, 30, 00153 Roma, RM, Italia"
+            ],
             "coord": [
                 [
                     41.8763821,
                     12.4740215
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 8,
+            "category": "🍽️",
+            "position": "8°",
             "name": "Ristorante La Carbonara",
             "ref": "https://www.50topitaly.it/it/referenza/ristorante-la-carbonara/",
+            "address": [
+                "Campo de' Fiori, 23, 00186 Roma, RM, Italia"
+            ],
             "coord": [
                 [
                     41.8959344,
                     12.4716776
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 9,
+            "category": "🍽️",
+            "position": "9°",
             "name": "Da Cesare al Casaletto",
             "ref": "https://www.50topitaly.it/it/referenza/da-cesare-al-casaletto-2/",
+            "address": [
+                "Via del Casaletto, 45, 00151 Roma, RM, Italia"
+            ],
             "coord": [
                 [
                     41.8768546,
                     12.4407913
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 10,
+            "category": "🍽️",
+            "position": "10°",
             "name": "Trattoria da Danilo",
             "ref": "https://www.50topitaly.it/it/referenza/trattoria-da-danilo/",
+            "address": [
+                "Via Petrarca, 13, 00185 Roma, RM, Italia"
+            ],
             "coord": [
                 [
                     41.8920353,
                     12.5053084
                 ]
-            ]
+            ],
+            "website": null
         }
     ],
     "50 Top Italy Migliori Panini 2024": [
         {
-            "position": 1,
+            "category": "🍽️",
+            "position": "1°",
             "name": "Da Gigione Gourmand",
             "ref": "https://www.50topitaly.it/it/referenza/da-gigione-gourmand-3/",
+            "address": [
+                "Via Roma, 307, 80038 Pomigliano d'Arco NA"
+            ],
             "coord": [
                 [
                     40.91218,
                     14.3912404
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 2,
+            "category": "🍽️",
+            "position": "2°",
             "name": "Bestie – Calabresi selvaggi",
             "ref": "https://www.50topitaly.it/it/referenza/bestie-calabresi-selvaggi-3/",
+            "address": [
+                "Via Italo Balbo, 89, 88060 Montepaone, CZ, Italia"
+            ],
             "coord": [
                 [
                     38.7270591,
                     16.5313096
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 3,
+            "category": "🍽️",
+            "position": "3°",
             "name": "‘Ino",
             "ref": "https://www.50topitaly.it/it/referenza/ino-3/",
+            "address": [
+                "Via dei Georgofili, 3r/7r, 50122 Firenze FI, Italia"
+            ],
             "coord": [
                 [
                     43.7681726,
                     11.2546317
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 4,
+            "category": "🍽️",
+            "position": "4°",
             "name": "Fud Bottega Sicula",
             "ref": "https://www.50topitaly.it/it/referenza/fud-bottega-sicula-2/",
+            "address": [
+                "Piazza Olivella, 4, 90133 Palermo, Palermo PA, Italia"
+            ],
             "coord": [
                 [
                     38.1203329,
                     13.3601276
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 5,
+            "category": "🍽️",
+            "position": "5°",
             "name": "Porcobrado",
             "ref": "https://www.50topitaly.it/it/referenza/porcobrado-2/",
+            "address": [
+                "Via Jacopo dal Verme, 17, 20159 Milano, MI, Italia"
+            ],
             "coord": [
                 [
                     45.4875206,
                     9.1881472
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 6,
+            "category": "🍽️",
+            "position": "6°",
             "name": "Mi’ Ndujo",
             "ref": "https://www.50topitaly.it/it/referenza/mi-ndujo/",
+            "address": [
+                "Via G. Marconi, 82 - 87036 Rende"
+            ],
             "coord": [
                 [
                     39.3535206,
                     16.2358733
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 7,
+            "category": "🍽️",
+            "position": "7°",
             "name": "Da Matti Street Food",
             "ref": "https://www.50topitaly.it/it/referenza/da-matti-street-food-3/",
+            "address": [
+                "Via A. Vespucci, 9, 66038 Marina di San Vito, CH, Italia"
+            ],
             "coord": [
                 [
                     42.3076596,
                     14.4453194
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 8,
+            "category": "🍽️",
+            "position": "8°",
             "name": "BifBurger Exclusive",
             "ref": "https://www.50topitaly.it/it/referenza/bifburger-exclusive-2/",
+            "address": [
+                "Via Papa Giovanni XXIII, 8, 80044 Ottaviano NA, Italia"
+            ],
             "coord": [
                 [
                     40.8485233,
                     14.4762652
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 9,
+            "category": "🍽️",
+            "position": "9°",
             "name": "Panino Marino",
             "ref": "https://www.50topitaly.it/it/referenza/panino-marino-3/",
+            "address": [
+                "Piazza Caricamento, 65R, 16124 Genova, GE, Italia"
+            ],
             "coord": [
                 [
                     44.4107044,
                     8.9289542
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 10,
+            "category": "🍽️",
+            "position": "10°",
             "name": "Qcècè SocialCafè",
             "ref": "https://www.50topitaly.it/it/referenza/qcece-socialcafe/",
+            "address": [
+                "Piazza Altieri, 87020 San Nicola Arcella, CS, Italia"
+            ],
             "coord": [
                 [
                     39.8486071,
                     15.794757
                 ]
-            ]
+            ],
+            "website": null
         }
     ],
     "50 Top Italy Migliori Street Food 2024": [
         {
-            "position": 1,
+            "category": "🍽️",
+            "position": "1°",
             "name": "Scirocco",
             "ref": "https://www.50topitaly.it/it/referenza/scirocco-3/",
+            "address": [
+                "Piazza Alonzo di Benedetto n. 7, Pescheria di Catania - 95121 Catania"
+            ],
             "coord": [
                 [
                     37.5018805,
                     15.0867992
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 2,
+            "category": "🍽️",
+            "position": "2°",
             "name": "Supplizio",
             "ref": "https://www.50topitaly.it/it/referenza/supplizio-3/",
+            "address": [
+                "Via dei Banchi Vecchi, 143, 00186 Roma, RM, Italia"
+            ],
             "coord": [
                 [
                     41.8974872,
                     12.467911
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 3,
+            "category": "🍽️",
+            "position": "3°",
             "name": "Trapizzino",
             "ref": "https://www.50topitaly.it/it/referenza/trapizzino-3/",
+            "address": [
+                "Via Giovanni Branca, 88, 00153 Roma, RM, Italia"
+            ],
             "coord": [
                 [
                     41.8796455,
                     12.4737092
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 4,
+            "category": "🍽️",
+            "position": "4°",
             "name": "Il Lampredotto",
             "ref": "https://www.50topitaly.it/it/referenza/il-lampredotto-3/",
+            "address": [
+                "Mercato Centrale Firenze, Piazza del Mercato Centrale, 50123 Firenze FI"
+            ],
             "coord": [
                 [
                     43.7764676,
                     11.2528338
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 5,
+            "category": "🍽️",
+            "position": "5°",
             "name": "Antica Focacceria S. Francesco",
             "ref": "https://www.50topitaly.it/it/referenza/antica-focacceria-san-francesco/",
+            "address": [
+                "Via Alessandro Paternostro, 58, 90133 Palermo, PA, Italia"
+            ],
             "coord": [
                 [
                     38.1164521,
                     13.3661323
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 6,
+            "category": "🍽️",
+            "position": "6°",
             "name": "Cime Di Rapa",
             "ref": "https://www.50topitaly.it/it/referenza/cime-di-rapa-2/",
+            "address": [
+                "Via Guglielmo Oberdan, 55, 73100 Lecce, Italia"
+            ],
             "coord": [
                 [
                     40.3530996,
                     18.1827878
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 7,
+            "category": "🍽️",
+            "position": "7°",
             "name": "Delicatessen in Drogheria",
             "ref": "https://www.50topitaly.it/it/referenza/delicatessen-in-drogheria/",
+            "address": [
+                "Via Archimede, 32, Ragusa, RG, Italia"
+            ],
             "coord": [
                 [
                     36.9181105,
                     14.7247165
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 8,
+            "category": "🍽️",
+            "position": "8°",
             "name": "Rosticceria Famulari",
             "ref": "https://www.50topitaly.it/it/referenza/rosticceria-famulari/",
+            "address": [
+                "Via Cesare Battisti 143, Via Cesare Battisti 143 - 98122 Messina"
+            ],
             "coord": [
                 [
                     38.1886321,
                     15.5540576
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 9,
+            "category": "🍽️",
+            "position": "9°",
             "name": "Luini",
             "ref": "https://www.50topitaly.it/it/referenza/luini-3/",
+            "address": [
+                "Via Santa Radegonda, 16, 20121 Milano, MI, Italia"
+            ],
             "coord": [
                 [
                     45.4658631,
                     9.1915447
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 10,
+            "category": "🍽️",
+            "position": "10°",
             "name": "Indegno – La Crescentina 2.0",
             "ref": "https://www.50topitaly.it/it/referenza/indegno-la-crescentina-2-0/",
+            "address": [
+                "Via del Pratello, 84/A, 40122 Bologna, BO, Italia"
+            ],
             "coord": [
                 [
                     44.4952891,
                     11.3302962
                 ]
-            ]
+            ],
+            "website": null
         }
     ],
     "50 Top Italy Migliori Ristoranti Di Pesce 2024": [
         {
-            "position": 1,
+            "category": "🍽️",
+            "position": "1°",
             "name": "Punto Nave",
             "ref": "https://www.50topitaly.it/it/referenza/punto-nave-3/",
+            "address": [
+                "Via Libero Bovio, 23, 80078 Monterusciello, Pozzuoli NA, Italia"
+            ],
             "coord": [
                 [
                     40.8776767,
                     14.0988088
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 2,
+            "category": "🍽️",
+            "position": "2°",
             "name": "Clandestino Susci Bar",
             "ref": "https://www.50topitaly.it/it/referenza/clandestino-susci-bar-2/",
+            "address": [
+                "Località Portonovo, 60020 Ancona AN"
+            ],
             "coord": [
                 [
                     43.5611908,
                     13.599937
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 3,
+            "category": "🍽️",
+            "position": "3°",
             "name": "Ristorante ilSanLorenzo",
             "ref": "https://www.50topitaly.it/it/referenza/ristorante-ilsanlorenzo-3/",
-            "coord": []
+            "address": [],
+            "coord": [],
+            "website": null
         },
         {
-            "position": 4,
+            "category": "🍽️",
+            "position": "4°",
             "name": "Romolo al Porto",
             "ref": "https://www.50topitaly.it/it/referenza/romolo-al-porto-3/",
+            "address": [
+                "Via Porto Innocenziano, 19, 00042 Anzio, RM, Italia"
+            ],
             "coord": [
                 [
                     41.4452928,
                     12.6302671
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 5,
+            "category": "🍽️",
+            "position": "5°",
             "name": "Terrazza Calabritto",
             "ref": "https://www.50topitaly.it/it/referenza/terrazza-calabritto/",
+            "address": [
+                "Piazza Vittoria, 1, 80121 Napoli NA"
+            ],
             "coord": [
                 [
                     40.8332077,
                     14.241424
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 6,
+            "category": "🍽️",
+            "position": "6°",
             "name": "L’Osteria dell’Orologio",
             "ref": "https://www.50topitaly.it/it/referenza/losteria-dellorologio-2/",
+            "address": [
+                "Via della Torre Clementina, 114, 00054 Fiumicino RM, Italia"
+            ],
             "coord": [
                 [
                     41.7715474,
                     12.2304889
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 7,
+            "category": "🍽️",
+            "position": "7°",
             "name": "Corteinfiore",
             "ref": "https://www.50topitaly.it/it/referenza/corteinfiore-3/",
+            "address": [
+                "Via Ognissanti, 18, 76125 Trani, BT, Italia"
+            ],
             "coord": [
                 [
                     41.2798872,
                     16.4186486
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 8,
+            "category": "🍽️",
+            "position": "8°",
             "name": "Ristorante Da Tuccino",
             "ref": "https://www.50topitaly.it/it/referenza/ristorante-da-tuccino-3/",
+            "address": [
+                "Contrada Santa Caterina, 69/f, 70044 Polignano a Mare, BA, Italia"
+            ],
             "coord": [
                 [
                     41.0032472,
                     17.2024143
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 9,
+            "category": "🍽️",
+            "position": "9°",
             "name": "Pescheria",
             "ref": "https://www.50topitaly.it/it/referenza/pescheria-3/",
+            "address": [
+                "Corso Giuseppe Garibaldi, 227, Salerno, SA, Italia"
+            ],
             "coord": [
                 [
                     40.6766499,
                     14.7635167
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 10,
+            "category": "🍽️",
+            "position": "10°",
             "name": "Ristorante Da Nino",
             "ref": "https://www.50topitaly.it/it/referenza/ristorante-da-nino/",
+            "address": [
+                "Via Luigi Rizzo, 29, 98037 Letojanni, ME, Italia"
+            ],
             "coord": [
                 [
                     37.8816644,
                     15.3091337
                 ]
-            ]
+            ],
+            "website": null
         }
     ],
     "I Migliori Ristoranti Italiani Nel Mondo 2024": [
         {
-            "position": 1,
+            "category": "🍽️",
+            "position": "1°",
             "name": "Il Carpaccio",
             "ref": "https://www.50topitaly.it/it/referenza/il-carpaccio-3/",
+            "address": [
+                "37 Av. Hoche, 75008 Parigi, Paris, Francia"
+            ],
             "coord": [
                 [
                     48.8757253,
                     2.3004237
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 2,
+            "category": "🍽️",
+            "position": "2°",
             "name": "Gucci Osteria Tokyo",
             "ref": "https://www.50topitaly.it/it/referenza/gucci-osteria-tokyo/",
+            "address": [
+                "6 Chome-6-12 Ginza, 中央区 Chuo City, Tokyo 104-0061, Giappone"
+            ],
             "coord": [
                 [
                     35.6704952,
                     139.7621529
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 3,
+            "category": "🍽️",
+            "position": "3°",
             "name": "Don Alfonso",
             "ref": "https://www.50topitaly.it/it/referenza/don-alfonso/",
+            "address": [
+                "1 Austin Terrace, Toronto, ON M5R 1X8, Canada"
+            ],
             "coord": [
                 [
                     43.6780371,
                     -79.4094439
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 4,
+            "category": "🍽️",
+            "position": "4°",
             "name": "Da Vittorio Shanghai",
             "ref": "https://www.50topitaly.it/it/referenza/da-vittorio-shanghai-3/",
+            "address": [
+                "3rd floor, N3 Building 600 Zhongshan Road Est No.2, Shanghai, Cina"
+            ],
             "coord": [
                 [
                     31.24618,
                     121.427733
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 5,
+            "category": "🍽️",
+            "position": "5°",
             "name": "Il Ristorante – Luca Fantin",
             "ref": "https://www.50topitaly.it/it/referenza/il-ristorante-luca-fantin-2/",
+            "address": [
+                "2 Chome-7-12 Ginza, Chuo City, Tokyo 104-0061, Japan"
+            ],
             "coord": [
                 [
                     35.672926,
                     139.7672446
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 6,
+            "category": "🍽️",
+            "position": "6°",
             "name": "Fiola",
             "ref": "https://www.50topitaly.it/it/referenza/fiola-3/",
+            "address": [
+                "601 Pennsylvania Ave. NW Washington, DC 20004"
+            ],
             "coord": [
                 [
                     38.893308,
                     -77.020487
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 7,
+            "category": "🍽️",
+            "position": "7°",
             "name": "Rezdôra",
             "ref": "https://www.50topitaly.it/it/referenza/rezdora-3/",
+            "address": [
+                "27 E 20th St, New York, NY 10003, United States"
+            ],
             "coord": [
                 [
                     40.7391458,
                     -73.9889987
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 8,
+            "category": "🍽️",
+            "position": "8°",
             "name": "Sesamo",
             "ref": "https://www.50topitaly.it/it/referenza/sesamo-3/",
+            "address": [
+                "El Sebti, Rue Abou Al Abbas, Marrakesh 40000, Morocco"
+            ],
             "coord": [
                 [
                     31.6225224,
                     -7.9898258
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 9,
+            "category": "🍽️",
+            "position": "9°",
             "name": "Il Lago",
             "ref": "https://www.50topitaly.it/it/referenza/il-lago-3/",
+            "address": [
+                "Quai des Bergues 33, 1201 Genève, Svizzera"
+            ],
             "coord": [
                 [
                     46.2070227,
                     6.146962
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 10,
+            "category": "🍽️",
+            "position": "10°",
             "name": "Buona Terra",
             "ref": "https://www.50topitaly.it/it/referenza/buona-terra-3/",
+            "address": [
+                "29 Scotts Rd, Singapore 228224"
+            ],
             "coord": [
                 [
                     1.3106807,
                     103.8346232
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 11,
+            "category": "🍽️",
+            "position": "11°",
             "name": "Senzanome",
             "ref": "https://www.50topitaly.it/it/referenza/senzanome-3/",
+            "address": [
+                "Pl. du Petit Sablon 1, 1000 Bruxelles, Belgium"
+            ],
             "coord": [
                 [
                     50.8401024,
                     4.3567674
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 12,
+            "category": "🍽️",
+            "position": "12°",
             "name": "Acquarello",
             "ref": "https://www.50topitaly.it/it/referenza/acquarello-3/",
+            "address": [
+                "Mühlbaurstraße 36, 81677 München, Germany"
+            ],
             "coord": [
                 [
                     48.1421987,
                     11.6141245
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 13,
+            "category": "🍽️",
+            "position": "13°",
             "name": "Agli Amici Rovinj",
             "ref": "https://www.50topitaly.it/it/referenza/agli-amici-rovinj-2/",
+            "address": [
+                "Šetalište Vijeća Europe 1-2, 52210, Rovinj, Croazia"
+            ],
             "coord": [
                 [
                     45.0748234,
                     13.635605
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 14,
+            "category": "🍽️",
+            "position": "14°",
             "name": "Masseria",
             "ref": "https://www.50topitaly.it/it/referenza/masseria-2/",
+            "address": [
+                "1340 4th Street Northeast, Washington, DC 20002, Stati Uniti"
+            ],
             "coord": [
                 [
                     38.9097188,
                     -76.9991574
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 15,
+            "category": "🍽️",
+            "position": "15°",
             "name": "Locanda Locatelli",
             "ref": "https://www.50topitaly.it/it/referenza/locanda-locatelli-3/",
+            "address": [
+                "8 Seymour St, London W1H 7JZ, United Kingdom"
+            ],
             "coord": [
                 [
                     51.5151228,
                     -0.1572866
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 16,
+            "category": "🍽️",
+            "position": "16°",
             "name": "Tèrra",
             "ref": "https://www.50topitaly.it/it/referenza/terra-3/",
+            "address": [
+                "Ryesgade 65, 2100 København, Denmark"
+            ],
             "coord": [
                 [
                     55.6946506,
                     12.5705762
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 17,
+            "category": "🍽️",
+            "position": "17°",
             "name": "Torno Subito",
             "ref": "https://www.50topitaly.it/it/referenza/torno-subito-2/",
+            "address": [
+                "4456+3Q2 - The Palm Jumeirah - Dubai - Emirati Arabi Uniti"
+            ],
             "coord": [
                 [
                     25.1076375,
                     55.1118906
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 18,
+            "category": "🍽️",
+            "position": "18°",
             "name": "The Oval",
             "ref": "https://www.50topitaly.it/it/referenza/the-oval/",
+            "address": [
+                "428 W 16th St, New York, NY 10011, Stati Uniti"
+            ],
             "coord": [
                 [
                     40.742656,
                     -74.0057365
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 19,
+            "category": "🍽️",
+            "position": "19°",
             "name": "Giando",
             "ref": "https://www.50topitaly.it/it/referenza/giando-3/",
+            "address": [
+                "Starcrest Block 1, Shop 1, G/F, Tower, 9 Star St, Wan Chai, Hong Kong"
+            ],
             "coord": [
                 [
                     22.2764838,
                     114.1673676
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 20,
+            "category": "🍽️",
+            "position": "20°",
             "name": "Caffè Stern",
             "ref": "https://www.50topitaly.it/it/referenza/caffe-stern-3/",
+            "address": [
+                "47 Pass. des Panoramas, 75002 Paris, Francia"
+            ],
             "coord": [
                 [
                     48.8709043,
                     2.3415253
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 21,
+            "category": "🍽️",
+            "position": "21°",
             "name": "Armani / Ristorante Tokyo",
             "ref": "https://www.50topitaly.it/it/referenza/armani-ristorante-tokyo/",
+            "address": [
+                "5-5-4 Ginza, Chuo-ku, Tokyo 104-0061"
+            ],
             "coord": [
                 [
                     35.67168,
                     139.7639703
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 22,
+            "category": "🍽️",
+            "position": "22°",
             "name": "La Table d’Antonio Salvatore",
             "ref": "https://www.50topitaly.it/it/referenza/la-table-dantonio-salvatore/",
+            "address": [
+                "3 Av. des Spélugues, 98000 Monaco-Ville, Monaco"
+            ],
             "coord": [
                 [
                     43.7404798,
                     7.427985
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 23,
+            "category": "🍽️",
+            "position": "23°",
             "name": "Pianeta Terra",
             "ref": "https://www.50topitaly.it/it/referenza/pianeta-terra-3/",
+            "address": [
+                "Beulingstraat 7, 1017 BA Amsterdam, Paesi Bassi"
+            ],
             "coord": [
                 [
                     52.3680098,
                     4.887771
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 24,
+            "category": "🍽️",
+            "position": "24°",
             "name": "Clara",
             "ref": "https://www.50topitaly.it/it/referenza/clara-2/",
+            "address": [
+                "69 Soi Prasat Suk, Chong Nonsi, Yan Nawa, Bangkok 10120, Thailandia"
+            ],
             "coord": [
                 [
                     13.7161145,
                     100.5486967
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 25,
+            "category": "🍽️",
+            "position": "25°",
             "name": "Aromi",
             "ref": "https://www.50topitaly.it/it/referenza/aromi-3/",
+            "address": [
+                "Náměstí Míru 1234/6, 120 00 Vinohrady, Cechia"
+            ],
             "coord": [
                 [
                     50.0762441,
                     14.436545
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 26,
+            "category": "🍽️",
+            "position": "26°",
             "name": "Pastamara",
             "ref": "https://www.50topitaly.it/it/referenza/pastamara-3/",
+            "address": [
+                "The Ritz-Carlton, Vienna, Schubertring 5-7, 1010 Wien, Austria"
+            ],
             "coord": [
                 [
                     48.2021957,
                     16.3763532
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 27,
+            "category": "🍽️",
+            "position": "27°",
             "name": "Tosca",
             "ref": "https://www.50topitaly.it/it/referenza/tosca-2/",
+            "address": [
+                "20 Rue du Cirque, 75008 Paris, Francia"
+            ],
             "coord": [
                 [
                     48.8711069,
                     2.3155831
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 28,
+            "category": "🍽️",
+            "position": "28°",
             "name": "Gucci Osteria Beverly Hills",
             "ref": "https://www.50topitaly.it/it/referenza/gucci-osteria-beverly-hills/",
+            "address": [
+                "347 N Rodeo Dr, Beverly Hills, CA 90210, Stati Uniti"
+            ],
             "coord": [
                 [
                     34.0685473,
                     -118.4026638
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 29,
+            "category": "🍽️",
+            "position": "29°",
             "name": "Casa Cuomo by Salvatore Cuomo",
             "ref": "https://www.50topitaly.it/it/referenza/casa-cuomo-by-salvatore-cuomo/",
+            "address": [
+                "Jl. Gunawarman No.57, Rw. Bar., Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12180, Indonesia"
+            ],
             "coord": [
                 [
                     -6.236897,
                     106.8076865
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 30,
+            "category": "🍽️",
+            "position": "30°",
             "name": "Art di Daniele Sperindio",
             "ref": "https://www.50topitaly.it/it/referenza/art-di-daniele-sperindio/",
+            "address": [
+                "1 St Andrew’s Road, 06-02 National Gallery, Singapore 178957"
+            ],
             "coord": [
                 [
                     1.2897045,
                     103.8512862
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 31,
+            "category": "🍽️",
+            "position": "31°",
             "name": "Casa Fontana by Giorgio Diana",
             "ref": "https://www.50topitaly.it/it/referenza/casa-fontana-by-giorgio-diana/",
+            "address": [
+                "840, Taiwan, Kaohsiung City, Dashu District, Section 1, Xuecheng Rd, 153號LB樓層"
+            ],
             "coord": [
                 [
                     22.7297405,
                     120.4014837
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 32,
+            "category": "🍽️",
+            "position": "32°",
             "name": "Erasmus",
             "ref": "https://www.50topitaly.it/it/referenza/erasmus-3/",
+            "address": [
+                "Nürnberger Str. 1, 76199 Karlsruhe, Germania"
+            ],
             "coord": [
                 [
                     48.9847005,
                     8.402977
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 33,
+            "category": "🍽️",
+            "position": "33°",
             "name": "Meta",
             "ref": "https://www.50topitaly.it/it/referenza/meta/",
+            "address": [
+                "Riva Paradiso 2, 6900 Lugano - Paradiso, Svizzera"
+            ],
             "coord": [
                 [
                     45.993274,
                     8.9467949
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 34,
+            "category": "🍽️",
+            "position": "34°",
             "name": "La Sosta",
             "ref": "https://www.50topitaly.it/it/referenza/la-sosta-3/",
+            "address": [
+                "145 Voortrek St, Swellendam, 6740, Sudafrica"
+            ],
             "coord": [
                 [
                     -34.0269179,
                     20.4338457
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 35,
+            "category": "🍽️",
+            "position": "35°",
             "name": "Gellius",
             "ref": "https://www.50topitaly.it/it/referenza/gellius/",
+            "address": [
+                "Maurice Lippensplein 26, 8300 Knokke-Heist, België"
+            ],
             "coord": [
                 [
                     51.340263,
                     3.2853735
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 36,
+            "category": "🍽️",
+            "position": "36°",
             "name": "Osteria 57",
             "ref": "https://www.50topitaly.it/it/referenza/osteria-57-3/",
+            "address": [
+                "57 W 10th St, New York, NY 10011, United States"
+            ],
             "coord": [
                 [
                     40.7346811,
                     -73.9978553
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 37,
+            "category": "🍽️",
+            "position": "37°",
             "name": "Orobianco",
             "ref": "https://www.50topitaly.it/it/referenza/orobianco-3/",
+            "address": [
+                "Partida Colina del Sol, 49A, 03710 Calp, Alicante, Spain"
+            ],
             "coord": [
                 [
                     38.6665738,
                     0.0453384
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 38,
+            "category": "🍽️",
+            "position": "38°",
             "name": "Cioppino’s",
             "ref": "https://www.50topitaly.it/it/referenza/cioppinos-3/",
+            "address": [
+                "1133 Hamilton Street, Vancouver, Columbia Britannica, Canada"
+            ],
             "coord": [
                 [
                     49.275687,
                     -123.1217367
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 39,
+            "category": "🍽️",
+            "position": "39°",
             "name": "Eichhalde",
             "ref": "https://www.50topitaly.it/it/referenza/eichhalde/",
+            "address": [
+                "Stadtstraße 91, 79104 Freiburg im Breisgau, Germania"
+            ],
             "coord": [
                 [
                     48.006684,
                     7.8649176
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 40,
+            "category": "🍽️",
+            "position": "40°",
             "name": "Luca",
             "ref": "https://www.50topitaly.it/it/referenza/luca/",
+            "address": [
+                "88 St John St, Clerkenwell, Londra EC1M 4EH, Regno Unito"
+            ],
             "coord": [
                 [
                     51.5220716,
                     -0.1016703
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 41,
+            "category": "🍽️",
+            "position": "41°",
             "name": "Eden Kitchen & Bar",
             "ref": "https://www.50topitaly.it/it/referenza/eden-kitchen-bar/",
+            "address": [
+                "Utoquai 45, 8008 Zürich, Svizzera"
+            ],
             "coord": [
                 [
                     47.362748,
                     8.5474492
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 42,
+            "category": "🍽️",
+            "position": "42°",
             "name": "De La Tour",
             "ref": "https://www.50topitaly.it/it/referenza/de-la-tour/",
+            "address": [
+                "Obergasse 33A, 2502 Biel, Svizzera"
+            ],
             "coord": [
                 [
                     47.1428602,
                     7.2467437
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 43,
+            "category": "🍽️",
+            "position": "43°",
             "name": "Aroma",
             "ref": "https://www.50topitaly.it/it/referenza/aroma/",
+            "address": [
+                "Kerkweg 1, 8171 VB Vaassen, Paesi Bassi"
+            ],
             "coord": [
                 [
                     52.2883467,
                     5.9672923
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 44,
+            "category": "🍽️",
+            "position": "44°",
             "name": "Ornellaia",
             "ref": "https://www.50topitaly.it/it/referenza/ornellaia-3/",
+            "address": [
+                "St. Annagasse 2, 8001 Zürich, Svizzera"
+            ],
             "coord": [
                 [
                     47.3724568,
                     8.5377064
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 45,
+            "category": "🍽️",
+            "position": "45°",
             "name": "Antica Pesa",
             "ref": "https://www.50topitaly.it/it/referenza/antica-pesa-2/",
+            "address": [
+                "115 Berry St, Brooklyn, NY 11249, Stati Uniti"
+            ],
             "coord": [
                 [
                     40.7188116,
                     -73.9586417
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 46,
+            "category": "🍽️",
+            "position": "46°",
             "name": "Cucina Mutualité",
             "ref": "https://www.50topitaly.it/it/referenza/cucina-mutualite/",
+            "address": [
+                "20 Rue Saint-Victor, 75005 Parigi, Paris, Francia"
+            ],
             "coord": [
                 [
                     48.8485473,
                     2.3507902
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 47,
+            "category": "🍽️",
+            "position": "47°",
             "name": "Otto e Mezzo – Bombana",
             "ref": "https://www.50topitaly.it/it/referenza/otto-e-mezzo-bombana-3/",
+            "address": [
+                "Shop 202, 18 Chater Rd, Central, Hong Kong"
+            ],
             "coord": [
                 [
                     22.2815422,
                     114.1587751
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 48,
+            "category": "🍽️",
+            "position": "48°",
             "name": "Maison Ruggieri",
             "ref": "https://www.50topitaly.it/it/referenza/maison-ruggieri/",
+            "address": [
+                "11 Rue Treilhard, 75008 Paris, France"
+            ],
             "coord": [
                 [
                     48.8769128,
                     2.3140349
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 49,
+            "category": "🍽️",
+            "position": "49°",
             "name": "Restaurant Passerini",
             "ref": "https://www.50topitaly.it/it/referenza/restaurant-passerini-3/",
+            "address": [
+                "65 Rue Traversière, 75012 Paris, France"
+            ],
             "coord": [
                 [
                     48.8494134,
                     2.3748185
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 50,
+            "category": "🍽️",
+            "position": "50°",
             "name": "Picchi",
             "ref": "https://www.50topitaly.it/it/referenza/picchi-3/",
+            "address": [
+                "R. Oscar Freire, 533 - Jardins, San Paolo - SP, 01426-001, Brazil"
+            ],
             "coord": [
                 [
                     -23.5663942,
                     -46.6652596
                 ]
-            ]
+            ],
+            "website": null
         },
         {
-            "position": 51,
+            "category": "🍽️",
+            "position": "50°",
             "name": "Osteria Giulia",
             "ref": "https://www.50topitaly.it/it/referenza/osteria-giulia/",
+            "address": [
+                "134 Avenue Road, 416, 964 8686 Toronto"
+            ],
             "coord": [
                 [
                     43.6743186,
                     -79.3965865
                 ]
-            ]
+            ],
+            "website": null
         }
     ]
 }
