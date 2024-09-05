@@ -25,7 +25,7 @@ class Geolocator:
             return ''
 
     def find_coordinates(self, to_geocode):
-        location = self.OPS_geolocator.geocode(to_geocode)
+        location = self.OPS_geolocator.geocode(to_geocode, timeout=None)
         if location:
             print("nominatim")
             return [location.address, location.latitude, location.longitude]
