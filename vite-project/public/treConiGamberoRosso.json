@@ -1,0 +1,494 @@
+{
+    "Tre Coni Gambero Rosso": [
+        {
+            "name": "Gelaterie Duomo - Il Paradiso del Gelato",
+            "coord": [
+                42.3495693,
+                13.3994653
+            ]
+        },
+        {
+            "name": "Emilio",
+            "coord": [
+                39.9896028,
+                15.7080106
+            ]
+        },
+        {
+            "name": "Officine del gusto",
+            "coord": [
+                40.574003,
+                15.7846883
+            ]
+        },
+        {
+            "name": "Gelato  Cesare",
+            "coord": [
+                38.1142983,
+                15.6502138
+            ]
+        },
+        {
+            "name": "Di Matteo",
+            "coord": [
+                40.3190316,
+                15.0583431
+            ]
+        },
+        {
+            "name": "Cremeria Gabriele",
+            "coord": [
+                40.6620194,
+                14.4260993
+            ]
+        },
+        {
+            "name": "Cremeria Santo Stefano",
+            "coord": [
+                44.4880779,
+                11.3522995
+            ]
+        },
+        {
+            "name": "Stefino",
+            "coord": [
+                44.5089657,
+                11.3457401
+            ]
+        },
+        {
+            "name": "Cremeria Scirocco",
+            "coord": [
+                44.4952509,
+                11.401037
+            ]
+        },
+        {
+            "name": "Magritte - Gelati al cubo",
+            "coord": [
+                44.8671068,
+                10.0589863
+            ]
+        },
+        {
+            "name": "Bloom",
+            "coord": [
+                44.6479903,
+                10.927344
+            ]
+        },
+        {
+            "name": "Ciacco",
+            "coord": [
+                44.8020907,
+                10.3277062
+            ]
+        },
+        {
+            "name": "Cremeria Capolinea",
+            "coord": [
+                44.6912273,
+                10.6332432
+            ]
+        },
+        {
+            "name": "Sanelli",
+            "coord": [
+                44.7566771,
+                9.9907012
+            ]
+        },
+        {
+            "name": "Il Teatro del Gelato",
+            "coord": [
+                44.7914638,
+                11.3872699
+            ]
+        },
+        {
+            "name": "Timballo",
+            "coord": [
+                46.0692337,
+                13.2482042
+            ]
+        },
+        {
+            "name": "Tonka",
+            "coord": [
+                41.6001838,
+                12.6518572
+            ]
+        },
+        {
+            "name": "Gretel Factory",
+            "coord": [
+                41.2587445,
+                13.6131979
+            ]
+        },
+        {
+            "name": "Greed Avidi di Gelato",
+            "coord": [
+                41.8091205,
+                12.6803606
+            ]
+        },
+        {
+            "name": "Torcè",
+            "coord": [
+                41.8814286,
+                12.4857935
+            ]
+        },
+        {
+            "name": "Otaleg!",
+            "coord": [
+                41.883012,
+                12.4585373
+            ]
+        },
+        {
+            "name": "Fatamorgana",
+            "coord": [
+                41.9088196,
+                12.4779879
+            ]
+        },
+        {
+            "name": "Fiordiluna di Eugenio Morrone",
+            "coord": [
+                41.889627,
+                12.4703983
+            ]
+        },
+        {
+            "name": "La Gourmandise",
+            "coord": [
+                41.878961,
+                12.4622543
+            ]
+        },
+        {
+            "name": "Cremeria Spinola",
+            "coord": [
+                44.3156929,
+                9.3293378
+            ]
+        },
+        {
+            "name": "Profumo",
+            "coord": [
+                44.4966193,
+                8.9129881
+            ]
+        },
+        {
+            "name": "La Pasqualina",
+            "coord": [
+                45.7380599,
+                9.5817225
+            ]
+        },
+        {
+            "name": "Il Dolce Sogno",
+            "coord": [
+                45.6045628,
+                8.8611182
+            ]
+        },
+        {
+            "name": "Oasi American Bar",
+            "coord": [
+                45.541584,
+                9.555707
+            ]
+        },
+        {
+            "name": "Ciacco",
+            "coord": [
+                45.4636859,
+                9.1868344
+            ]
+        },
+        {
+            "name": "Pavé - Gelati & Granite",
+            "coord": [
+                45.462896,
+                9.2005335
+            ]
+        },
+        {
+            "name": "Lo Gnomo Gelato",
+            "coord": [
+                45.4671542,
+                9.159181
+            ]
+        },
+        {
+            "name": "Artico",
+            "coord": [
+                45.4892459,
+                9.1866988
+            ]
+        },
+        {
+            "name": "Terra Gelato",
+            "coord": [
+                45.4872645,
+                9.1659791
+            ]
+        },
+        {
+            "name": "Crema",
+            "coord": [
+                45.4808082,
+                9.1605488
+            ]
+        },
+        {
+            "name": "Chantilly",
+            "coord": [
+                44.9409814,
+                10.9187915
+            ]
+        },
+        {
+            "name": "L' Albero dei gelati",
+            "coord": [
+                45.58923,
+                9.261815
+            ]
+        },
+        {
+            "name": "Sir Oliver",
+            "coord": [
+                45.5330108,
+                9.1377379
+            ]
+        },
+        {
+            "name": "Pallini",
+            "coord": [
+                45.6511827,
+                9.2019953
+            ]
+        },
+        {
+            "name": "VeroLatte",
+            "coord": [
+                45.3168401,
+                8.8586749
+            ]
+        },
+        {
+            "name": "Gelateria Quattrini",
+            "coord": [
+                43.6298425,
+                13.3963656
+            ]
+        },
+        {
+            "name": "Paolo Brunelli",
+            "coord": [
+                43.7164271,
+                13.2173507
+            ]
+        },
+        {
+            "name": "Canelin",
+            "coord": [
+                44.6624197,
+                8.5027089
+            ]
+        },
+        {
+            "name": "Marco Serra Gelatiere",
+            "coord": [
+                44.9069369,
+                7.6744643
+            ]
+        },
+        {
+            "name": "Mara dei Boschi",
+            "coord": [
+                45.0668444,
+                7.6884301
+            ]
+        },
+        {
+            "name": "Alberto Marchetti",
+            "coord": [
+                45.04063705,
+                7.6532597589119185
+            ]
+        },
+        {
+            "name": "Nivà",
+            "coord": [
+                45.0658423,
+                7.6948631
+            ]
+        },
+        {
+            "name": "Ottimo! Buono non basta",
+            "coord": [
+                45.0673499,
+                7.7024191
+            ]
+        },
+        {
+            "name": "La Tosca",
+            "coord": [
+                45.0802254,
+                7.6596664
+            ]
+        },
+        {
+            "name": "Gelati d'Antan",
+            "coord": [
+                45.0803124,
+                7.6494836
+            ]
+        },
+        {
+            "name": "Aria",
+            "coord": [
+                45.0708909,
+                7.696668
+            ]
+        },
+        {
+            "name": "Soban",
+            "coord": [
+                45.0113064,
+                8.6409705
+            ]
+        },
+        {
+            "name": "Michel",
+            "coord": [
+                41.9486085,
+                16.013046
+            ]
+        },
+        {
+            "name": "G&co",
+            "coord": [
+                39.9313222,
+                18.3617371
+            ]
+        },
+        {
+            "name": "I Fenu Gelateria e Pasticceria",
+            "coord": [
+                39.2201583,
+                9.1226103
+            ]
+        },
+        {
+            "name": "Dolci Sfizi",
+            "coord": [
+                40.2652535,
+                8.7720032
+            ]
+        },
+        {
+            "name": "Sikè Gelato",
+            "coord": [
+                38.2222004,
+                15.2429858
+            ]
+        },
+        {
+            "name": "Cappadonia Gelati",
+            "coord": [
+                38.1147367,
+                13.3589642
+            ]
+        },
+        {
+            "name": "Santo Musumeci",
+            "coord": [
+                37.8789809,
+                14.9485938
+            ]
+        },
+        {
+            "name": "I Gelati del Bondi",
+            "coord": [
+                43.7769677,
+                11.2515974
+            ]
+        },
+        {
+            "name": "Gelateria della Passera",
+            "coord": [
+                43.7671815,
+                11.2506436
+            ]
+        },
+        {
+            "name": "Chiccheria",
+            "coord": [
+                42.7159878,
+                10.9841066
+            ]
+        },
+        {
+            "name": "De’ Coltelli",
+            "coord": [
+                43.7166647,
+                10.4005428
+            ]
+        },
+        {
+            "name": "Gelateria Dondoli",
+            "coord": [
+                43.4673269,
+                11.0433313
+            ]
+        },
+        {
+            "name": "Gelateria Naturale Scaldaferro",
+            "coord": [
+                45.4274772,
+                12.0930981
+            ]
+        },
+        {
+            "name": "Golosi di Natura",
+            "coord": [
+                45.5806335,
+                11.7074751
+            ]
+        },
+        {
+            "name": "Chocolat",
+            "coord": [
+                45.4850071,
+                12.2416267
+            ]
+        },
+        {
+            "name": "Pasticceria Marisa",
+            "coord": [
+                45.5409538,
+                11.874864
+            ]
+        },
+        {
+            "name": "Dassie - Vero Gelato Artigiano",
+            "coord": [
+                45.6675026,
+                12.2504573
+            ]
+        },
+        {
+            "name": "Zeno Gelato e Cioccolato",
+            "coord": [
+                45.4490461,
+                10.9989787
+            ]
+        }
+    ]
+}
