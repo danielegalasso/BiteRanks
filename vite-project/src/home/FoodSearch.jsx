@@ -101,7 +101,7 @@ const FoodSearch = () => {
         </div>
       </div>
 
-      <button className="search-button">Search</button>
+      <button className="search-button">Search 🚀</button>
     </div>
   );
 };

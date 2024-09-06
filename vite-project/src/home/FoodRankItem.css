@@ -1,12 +1,13 @@
 .food-item {
     flex: 0 0 auto; /* Flessibile ma non si riduce */
-    width: 100px; /* Larghezza fissa per la card */
-    text-align: center;
-    margin-right: 16px; /* Spazio tra le card */
-    padding: 16px;
-    border-radius: 12px; /* Angoli stondati della card */
-    border: 1px solid #007bff; /* Bordo grigio chiaro per la card */
-    background-color: #fff; /* Sfondo bianco per la card */
+
+    height: 90%;
+
+    aspect-ratio: 1.1;
+    margin-right: 4%;
+    border-radius: 2vw; /* Angoli stondati della card */
+    background-color: #8AD1D9; /* Sfondo bianco per la card */
+    padding: 0px; /* Spazio interno della card */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombra leggera per un effetto di profondità */
     transition: transform 0.3s, box-shadow 0.3s; /* Transizioni per animazioni fluide */
   }
@@ -26,3 +27,23 @@
     color: #333; /* Colore del testo */
     margin: 0; /* Rimuove margini predefiniti del paragrafo */
   }
+
+
+  
+  @media (orientation: portrait) {
+    
+    .food-item {
+      margin-right: 6%;
+      height: 75%;
+      margin-top: 0%;
+  
+      aspect-ratio: 1.1;
+
+      border-radius: 4vw; /* Angoli stondati della card */
+
+    }
+    
+  
+
+  }
+  

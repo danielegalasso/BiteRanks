@@ -1,9 +1,10 @@
 // App.jsx
 import React, { useState, useEffect } from "react";
-import "./styles.css";
+import "./App.css";
 import "leaflet/dist/leaflet.css";
 import { Map } from "./Map"; // Importa il componente Map
 import FoodSearch from "./home/FoodSearch";
+
 
 // Dati dei marker
 export default function App() {
@@ -37,8 +38,8 @@ export default function App() {
 
   return (
     <div>
-      {/* Pass markers as props to the Map component */}
-      <Map markers={markers} />
+      {/* <Map markers={markers} />  */}
+      <FoodSearch />  
     </div>
   );
 }

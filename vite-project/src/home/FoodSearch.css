@@ -1,93 +1,98 @@
 .food-search-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 16px;
-    width: 100%;
-    max-width: 400px; /* Puoi modificare la dimensione massima del quadrato */
-    margin: auto;
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    background-color: #f9f9f9;
-  }
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2%;
+  width: 43vw;
+  height: 55vh; /* Fa sì che il componente occupi tutta l'altezza della viewport */
+  border: 1px solid #ccc;
+  border-radius: 2vw;
+  background-color: #BEC4CB;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 
-  /* Contenitore scuro */
-.dark-container {
-  background-color: #e0e0e0; /* Colore più scuro rispetto al background principale */
-  padding: 4px;
-  padding-bottom: 0px; /* Ridotto lo spazio inferiore */
-  padding-top: 5px;
-  border-radius: 10px;
-  width: 100%;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Leggera ombra per evidenziare */
 }
+
+
+.top-buttons {
+  display: flex;
+  justify-content: space-between;
+  width: 100%; /* Aumenta la larghezza complessiva */
+  height: 12%;
   
-  .top-buttons {
-    display: flex;
-    justify-content: space-between;
-    width: 100%;
-    margin-bottom: 16px;
-  }
+  margin-top: 3%; /* Riduci lo spazio inferiore */
+  margin-bottom: 2%; /* Riduci lo spazio inferiore */
+}
+
+.top-buttons > button {
+  flex: 1; /* Rende i pulsanti più lunghi */
+  margin: 0 2px; /* Riduce lo spazio tra i pulsanti */
+}
   
   .top-buttons button {
     width: 45%; /* Bottoni che occupano circa la metà del quadrato ciascuno */
-    padding: 8px;
-    border-radius: 20px; /* Arrotonda gli angoli dei pulsanti */
-    border: 2px solid #007bff; /* Bordi di colore blu */
-    background-color: transparent; /* Sfondo trasparente */
-    color: #007bff; /* Colore del testo blu */
+    
+    border-radius: 2vw; /* Arrotonda gli angoli dei pulsanti */
+    border: 0px solid; /* Bordi di colore blu */
+    background-color: #ffffff; /* Sfondo trasparente */
+    color: #000000; /* Colore del testo blu */
     font-weight: bold; /* Testo in grassetto */
     cursor: pointer;
     transition: background-color 0.3s, color 0.3s; /* Transizione per il cambio di colore */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Ombra del pulsante */
   }
   .top-buttons button:hover {
-    background-color: #85add7; /* Sfondo blu al passaggio del mouse */
-    color: #fff; /* Colore del testo bianco */
+    background-color: rgb(118, 124, 129); /* Sfondo blu al passaggio del mouse */
+    
   }
   .top-buttons button.active {
-    background-color: #007bff; /* Sfondo blu per il pulsante attivo */
-    color: #fff; /* Colore del testo bianco per il pulsante attivo */
+    background: linear-gradient(90deg, #3F4245, #757b80); /* Gradiente blu */
+    color: #ffffff; /* Colore del testo bianco per il pulsante attivo */
+}
+
+  /* Contenitore scuro */
+  .dark-container {
+    background: linear-gradient(90deg, #3F4245, #767c81); /* Gradiente dal blu scuro al grigio scuro */
+    padding: 3%;
+    padding-bottom: 10%;
+    border-radius: 1vw;
+    width: 100%;
+    height: 69%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Leggera ombra per evidenziare */
+    
   }
+  
   
   .food-list-container {
     display: flex;
     flex-wrap: nowrap;
     overflow-x: auto;
     width: 100%;
-    margin-bottom: 8px;
-    padding: 8px; /* Aggiunge un po' di spazio attorno agli item */
-    scrollbar-width: thin; /* Per Firefox: rende la scrollbar sottile */
-    scrollbar-color: #007bff #f1f1f1; /* Per Firefox: colore del pollice e del track */
-  }
+    height: 90%;
+    padding: 0.5%;
+    
+    /* Firefox styles for scrollbar */
+    scrollbar-width: thin; /* Rende la scrollbar sottile */
+    scrollbar-color: darkgrey #0000001a; /* Colore del thumb e del track per Firefox */
+}
 
-  /* Scrollbar per WebKit (Chrome, Safari, Edge) */
-  .food-list-container::-webkit-scrollbar {
-    height: 8px; /* Altezza della scrollbar */
-    background-color: #f1f1f1; /* Colore dello sfondo della scrollbar */
-    border-radius: 10px; /* Arrotonda i bordi della scrollbar */
-  }
-  
-  .search-button {
-    margin-top: 8px;
-    padding: 8px 16px;;
-    width: 100%;
-    border-radius: 4px;
-    border: 1px solid #ccc;
-    background-color: #007bff;
-    color: #fff;
-    cursor: pointer;
-  }
-  
-  .search-button:hover {
-    background-color: #0056b3;
-  }
+/* Chrome, Safari, Edge - Stile della scrollbar per Webkit */
+.food-list-container::-webkit-scrollbar {
+    height: 6px; /* Altezza per la scrollbar orizzontale */
+}
+
+
+
+
 
   .search-bar {
     width: 100%;
-    padding: 8px;
-    margin-bottom: 4px;
-    border-radius: 20px; /* Arrotonda gli angoli della barra di ricerca */
-    border: 2px solid #007bff; /* Bordi di colore blu */
+    margin-left: 0%;
+    height: 20.7%;
+    margin-top: 0.5%;
+    padding: 2%;
+    margin-bottom: 2%;
+    border-radius: 2vw; /* Arrotonda gli angoli della barra di ricerca */
+    border: 0px solid #007bff; /* Bordi di colore blu */
     background-color: #fff; /* Sfondo bianco */
     color: #333; /* Colore del testo */
     font-size: 16px; /* Dimensione del testo */
@@ -101,15 +106,80 @@
     box-shadow: 0 0 8px rgba(0, 91, 255, 0.3); /* Cambia l'ombra quando è attiva */
   }
   
-  /* Stili responsivi */
-  @media (max-width: 400px) {
+
+    
+  .search-button {
+
+    width:45%;
+    height: 12%;
+    
+    margin-top: 4%;
+    margin-left: 55%;
+    border-radius: 2vw;
+    border: 1px solid #ccc;
+    background-color: #3F4245;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .search-button:hover {
+    background-color: #222325;
+  }
+
+
+
+  @media (orientation: portrait) {
+    
+    
+    .food-search-container {
+      width: 90vw;
+      border-radius: 6vw;
+    }
+
+    .top-buttons {
+
+      height: 9%;
+
+    }
+
+
     .top-buttons button {
+      border-radius: 6vw; /* Arrotonda gli angoli dei pulsanti */
+      
+    }
+
+    .dark-container {
+
+      border-radius: 6vw;
+
+    }
+
+
+    .search-bar {
+
+      border-radius: 6vw; 
+      height: 16%;
       width: 100%;
-      margin-bottom: 8px;
+      margin-top: 1%;
     }
   
-    .food-item {
-      flex: 0 0 80px;
+    
+    
+    .search-button {
+
+      height: 9%;
+      border-radius: 6vw;
+ 
     }
+
+    .food-list-container {
+
+      height: 80%;
+      scrollbar-width: auto; 
+      align-items: center;
+
+  }
+
+
   }
   

@@ -10,8 +10,10 @@ const FoodRankItem = ({ icon, name }) => {
 
   return (
     <div className="food-item" onClick={handleClick}>
-      <i className="food-icon">{icon}</i>
+      
+      {/* <i className="food-icon">{icon}</i>
       <p>{name}</p>
+      */}
     </div>
   );
 };
