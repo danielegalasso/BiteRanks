@@ -1,13 +1,13 @@
 import React, {useState} from "react";
+import { useNavigate } from "react-router-dom"; // Import useNavigate for navigation
 import "./FoodSearch.css"; // Importiamo il file CSS
 import FoodRankItem from "./FoodRankItem";
 
 const FoodSearch = () => {
-  // Stato per il testo della ricerca
-  const [searchText, setSearchText] = useState("");
-
-  // Stato per gestire quale pulsante è attivo
-  const [activeTab, setActiveTab] = useState("food");
+  const [searchText, setSearchText] = useState(""); // Stato per il testo della ricerca
+  const [activeTab, setActiveTab] = useState("food"); // Stato per gestire quale pulsante è attivo
+  const [selectedItem, setSelectedItem] = useState(null); // State for selected food
+  const navigate = useNavigate(); // Navigation hook
 
   // Lista di food-item (puoi aggiungere o modificare questi valori)
   const foodItems = [
@@ -26,12 +26,12 @@ const FoodSearch = () => {
     { icon: "🥈", name: "Top 10 Napoli" }
   ];
 
-  const handleFoodClick = (foodName) => {
-    alert(`You clicked on ${foodName}!`);
-    // Puoi fare qualsiasi altra cosa qui, come navigare a una nuova pagina o aggiornare lo stato
+  const handleClickItem = (item) => {
+    console.log('Selected item:', item); // Debugging line
+    setSelectedItem(item); // Store selected item
   };
 
-  // Filtra i food-item/classifiche in base al testo inserito
+  // Filtra i food/classifiche in base al testo inserito
   const filteredItems = (items) =>
     items.filter((item) =>
       item.name.toLowerCase().startsWith(searchText.toLowerCase())
@@ -51,6 +51,13 @@ const FoodSearch = () => {
   // Gestore per il cambio di tab
   const handleTabChange = (tab) => {
     setActiveTab(tab);
+  };
+  
+  const handleSearchClick = () => {
+    alert(selectedItem ? `Searching for ${selectedItem.name}...` : "No item selected!"); // Alert con il nome del cibo selezionato
+    if (selectedItem) {
+      navigate('/map', { state: { selectedItem } }); // Naviga alla nuova pagina passando i dati
+    }
   };
 
   return (
@@ -84,24 +91,26 @@ const FoodSearch = () => {
                 key={index}
                 icon={food.icon}
                 name={food.name}
-                onClick={() => handleFoodClick(food.name)}
+                onClick={() => handleClickItem(food)}  // Pass the food object
               />
             ))
           ) : (
             /* Mostra solo i food-item/classifiche filtrati */
-            filteredItems(rankingItems).map((item, index) => (
+            filteredItems(rankingItems).map((ranking, index) => (
               <FoodRankItem
                 key={index}
-                icon={item.icon}
-                name={item.name}
-                onClick={() => handleFoodClick(item.name)}
+                icon={ranking.icon}
+                name={ranking.name}
+                onClick={() => handleClickItem(ranking)}
               />
             ))
           )}
         </div>
       </div>
 
-      <button className="search-button">Search</button>
+      <button className="search-button" onClick={handleSearchClick}>
+        Search
+      </button>
     </div>
   );
 };
