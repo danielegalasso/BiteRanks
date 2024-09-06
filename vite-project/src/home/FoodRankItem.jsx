@@ -4,11 +4,9 @@ import "./FoodRankItem.css"; // Importa il CSS specifico per il componente
 
 const FoodRankItem = ({ icon, name, onClick }) => {
   return (
-    <div className="food-item" onClick={handleClick}>
-      
-      {/* <i className="food-icon">{icon}</i>
+    <div className="food-item" onClick={onClick}>
+      <i className="food-icon">{icon}</i>
       <p>{name}</p>
-      */}
     </div>
   );
 };
