@@ -88,7 +88,7 @@ export function Map({ markers }) {
         <MarkerClusterGroup chunkedLoading iconCreateFunction={createClusterCustomIcon}>
           {Object.keys(markers).map((category, categoryIndex) => {
             const iconColor = stringToColor(category);
-            const customIcon = createCustomIcon(iconColor);
+            const customIcon = createCustomIcon(iconColor,12);
 
             return markers[category].map((pizzeria, pizzeriaIndex) =>
               pizzeria.coord.map((coords, coordsIndex) => (
