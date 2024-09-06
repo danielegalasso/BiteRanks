@@ -1,7 +1,7 @@
 // App.jsx
 import React, { useState, useEffect } from "react";
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import "./styles.css";
+import "./app.css";
 import "leaflet/dist/leaflet.css";
 import { Map } from "./Map"; // Importa il componente Map
 import FoodSearch from "./home/FoodSearch";
