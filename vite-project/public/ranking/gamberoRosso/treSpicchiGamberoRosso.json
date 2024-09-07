@@ -1,0 +1,1356 @@
+{
+    "Tre Spicchi Gambero Rosso 2024": [
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "I Masanielli",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/i-masanielli/",
+            "coord": [
+                [
+                    41.0723174,
+                    14.3190507
+                ]
+            ],
+            "website": "http://pizzeriaimasanielli.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "I Tigli",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/i-tigli/",
+            "coord": [
+                [
+                    45.3950071,
+                    11.2707241
+                ]
+            ],
+            "website": "http://pizzeriaitigli.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Pepe in Grani",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/pepe-in-grani/",
+            "coord": [
+                [
+                    41.1773009,
+                    14.3659897
+                ]
+            ],
+            "website": "http://pepeingrani.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Renato Bosco Pizzeria",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/renato-bosco-pizzeria/",
+            "coord": [
+                [
+                    45.4225874,
+                    11.0922347
+                ]
+            ],
+            "website": "http://boscorenato.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "10 Diego Vitagliano",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/10-diego-vitagliano-2/",
+            "coord": [
+                [
+                    40.8209893,
+                    14.133213
+                ]
+            ],
+            "website": "http://pizzeria10.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "10 Diego Vitagliano",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/10-diego-vitagliano/",
+            "coord": [
+                [
+                    40.8170586,
+                    14.175748
+                ]
+            ],
+            "website": "http://diegovitagliano.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Francesco & Salvatore  Salvo",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/francesco-salvatore-salvo/",
+            "coord": [
+                [
+                    40.8517983,
+                    14.26812
+                ]
+            ],
+            "website": "http://pizzeriasalvo.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "50 Kalò",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/50-kalo/",
+            "coord": [
+                [
+                    40.8284227,
+                    14.2199995
+                ]
+            ],
+            "website": "http://50kalo.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Gusto Divino",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/gusto-divino/",
+            "coord": [
+                [
+                    44.64593,
+                    7.493056999999999
+                ]
+            ],
+            "website": "http://gustodivinosaluzzo.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "La Notizia",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-notizia/",
+            "coord": [
+                [
+                    40.8356722,
+                    14.2097953
+                ]
+            ],
+            "website": "http://enzococcia.com"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Oliva da Concettina ai Tre Santi",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/oliva-da-concettina-ai-tre-santi/",
+            "coord": [
+                [
+                    40.8574657,
+                    14.2521604
+                ]
+            ],
+            "website": "http://pizzeriaoliva.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Pizzeria Salvo",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/pizzeria-salvo/",
+            "coord": [
+                [
+                    40.82554355,
+                    14.33067825
+                ]
+            ],
+            "website": "http://pizzeriasalvo.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Sestogusto",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/sestogusto/",
+            "coord": [
+                [
+                    45.0615307,
+                    7.6880222
+                ]
+            ],
+            "website": "http://sestogustotorino.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Apogeo Giovannini",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/apogeo-giovannini/",
+            "coord": [
+                [
+                    43.95165,
+                    10.2003926
+                ]
+            ],
+            "website": "http://pizzeriaapogeo.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Gusto Madre",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/gusto-madre/",
+            "coord": [
+                [
+                    44.6971515,
+                    8.0338271
+                ]
+            ],
+            "website": "http://gustomadre.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Impastatori Pompetti",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/impastatori-pompetti/",
+            "coord": [
+                [
+                    42.6616404,
+                    14.0128487
+                ]
+            ],
+            "website": "http://tropicaldue.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "La Notizia",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-notizia-2/",
+            "coord": [
+                [
+                    40.8356722,
+                    14.2097953
+                ]
+            ],
+            "website": "http://enzococcia.com"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Patrick Ricci. Terra, Grani, Esplorazioni",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/patrick-ricci-terra-grani-esplorazioni/",
+            "coord": [
+                [
+                    45.1017508,
+                    7.7648427
+                ]
+            ],
+            "website": "http://patrickricci.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Sasà Martucci - I Masanielli",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/sasa-martucci-i-masanielli/",
+            "coord": [
+                [
+                    41.0679021,
+                    14.3324285
+                ]
+            ],
+            "website": "http://sasaimasanielli.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Archestrato di Gela",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/archestrato-di-gela/",
+            "coord": [
+                [
+                    38.176228,
+                    13.2962769
+                ]
+            ],
+            "website": "http://archestrato-di-gela.business.site"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Battil'oro Fuochi + Lieviti + Spiriti",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/battiloro-fuochi-lieviti-spiriti/",
+            "coord": [
+                [
+                    43.9779073,
+                    10.2034063
+                ]
+            ],
+            "website": "http://gennarobattiloro.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "BOB Alchimia a Spicchi",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/bob-alchimia-a-spicchi/",
+            "coord": [
+                [
+                    38.720005,
+                    16.5330181
+                ]
+            ],
+            "website": "http://bobalchimiaspicchi.com"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Bottega Dani",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/bottega-dani/",
+            "coord": [
+                [
+                    43.3265752,
+                    10.4911836
+                ]
+            ],
+            "website": "http://bottegadani.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Chicco",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/chicco/",
+            "coord": [
+                [
+                    43.422676,
+                    11.1250218
+                ]
+            ],
+            "website": "http://chiccocolle.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Da Clara",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/da-clara/",
+            "coord": [
+                [
+                    38.1931007,
+                    15.3803547
+                ]
+            ],
+            "website": "http://pizzeriadaclara.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Da Lioniello",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/da-lioniello/",
+            "coord": [
+                [
+                    40.9734335,
+                    14.2592632
+                ]
+            ],
+            "website": "http://salvatorelionello.eu"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Fandango",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/fandango/",
+            "coord": [
+                [
+                    40.6419079,
+                    15.7805538
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Framento",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/framento/",
+            "coord": [
+                [
+                    39.2181167,
+                    9.1111625
+                ]
+            ],
+            "website": "http://framento.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Gigi Pipa",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/gigi-pipa/",
+            "coord": [
+                [
+                    45.2305688,
+                    11.6600617
+                ]
+            ],
+            "website": "http://pizzeriagigipipa.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Giotto",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/giotto-2/",
+            "coord": [
+                [
+                    43.7735286,
+                    11.2547883
+                ]
+            ],
+            "website": "http://pizzeriagiottofirenze.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Giovanni Santarpia",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/giovanni-santarpia/",
+            "coord": [
+                [
+                    43.7495928,
+                    11.2356458
+                ]
+            ],
+            "website": "http://giovannisantarpia.com"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Il Vecchio e il Mare",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/il-vecchio-e-il-mare/",
+            "coord": [
+                [
+                    43.7696985,
+                    11.2761537
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "La Contrada",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-contrada/",
+            "coord": [
+                [
+                    40.976418800000005,
+                    14.201817925172882
+                ]
+            ],
+            "website": "http://lacontradaristorante.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "La Pergola",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-pergola-4/",
+            "coord": [
+                [
+                    43.2617055,
+                    11.0436596
+                ]
+            ],
+            "website": "http://lapergolaradicondoli.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "La Sorgente",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-sorgente/",
+            "coord": [
+                [
+                    42.1959237,
+                    14.2203772
+                ]
+            ],
+            "website": "http://lasorgentepizzeria.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "La Ventola",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-ventola/",
+            "coord": [
+                [
+                    43.3353815,
+                    10.461177386252734
+                ]
+            ],
+            "website": "http://laventola.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Màdia",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/madia/",
+            "coord": [
+                [
+                    40.681899,
+                    14.7754839
+                ]
+            ],
+            "website": "http://pizzeriamadia.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Officine del Cibo",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/officine-del-cibo-2/",
+            "coord": [
+                [
+                    44.1039921,
+                    9.942592
+                ]
+            ],
+            "website": "http://officinedelcibosarzana.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Panisfizio",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/panisfizio/",
+            "coord": [
+                [
+                    45.5016619,
+                    12.6319054
+                ]
+            ],
+            "website": "http://panisfizio.com"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Piano B",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/piano-b/",
+            "coord": [
+                [
+                    37.0647877,
+                    15.2879602
+                ]
+            ],
+            "website": "http://pianobsiracusa.com"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Piccola Piedigrotta",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/piccola-piedigrotta/",
+            "coord": [
+                [
+                    44.7010747,
+                    10.6282333
+                ]
+            ],
+            "website": "http://piccolapiedigrotta.com"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "ZenZero Osteria della Pizza",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/zenzero-osteria-della-pizza/",
+            "coord": [
+                [
+                    43.7263928,
+                    10.4157147
+                ]
+            ],
+            "website": "http://osteriadellapizza.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "'O Scugnizzo",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/o-scugnizzo/",
+            "coord": [
+                [
+                    43.4638535,
+                    11.8809714
+                ]
+            ],
+            "website": "http://lo-scugnizzo.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "400 Gradi",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/400-gradi/",
+            "coord": [
+                [
+                    40.361646,
+                    18.1697769
+                ]
+            ],
+            "website": "http://pizzeria400gradi.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Da Attilio alla Pignasecca",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/da-attilio-alla-pignasecca/",
+            "coord": [
+                [
+                    40.8451846,
+                    14.2482277
+                ]
+            ],
+            "website": "http://pizzeriadattilio.com"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Da Ezio",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/da-ezio/",
+            "coord": [
+                [
+                    45.9089962,
+                    11.9130304
+                ]
+            ],
+            "website": "http://pizzeriadaezio.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Giotto",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/giotto/",
+            "coord": [
+                [
+                    43.7735286,
+                    11.2547883
+                ]
+            ],
+            "website": "http://pizzeriagiotto.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Guglielmo & Enrico  Vuolo",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/guglielmo-enrico-vuolo/",
+            "coord": [
+                [
+                    45.4452049,
+                    10.956907
+                ]
+            ],
+            "website": "http://guglielmovuolo.com"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "I Vesuviani",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/i-vesuviani/",
+            "coord": [
+                [
+                    40.9006057,
+                    14.4122312
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "L' Orso",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/l-orso/",
+            "coord": [
+                [
+                    38.2516889,
+                    15.593742
+                ]
+            ],
+            "website": "http://lorsomessina.com"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "La Divina Pizza",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-divina-pizza/",
+            "coord": [
+                [
+                    43.7701831,
+                    11.2646673
+                ]
+            ],
+            "website": "http://ladivinapizza.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "La Pizza by Romualdo Rizzuti",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-pizza-by-romualdo-rizzuti/",
+            "coord": [
+                [
+                    43.7699685,
+                    11.2576706
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Le Parùle",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/le-parule/",
+            "coord": [
+                [
+                    40.8111763,
+                    14.3679237
+                ]
+            ],
+            "website": "http://leparule.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Lo Spela",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/lo-spela/",
+            "coord": [
+                [
+                    43.6547393,
+                    11.2578992
+                ]
+            ],
+            "website": "http://lospela.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Mamma Rosa",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/mamma-rosa/",
+            "coord": [
+                [
+                    43.0258403,
+                    13.6185844
+                ]
+            ],
+            "website": "http://pizzeriamammarosa.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Pizzeria Bosco",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/pizzeria-bosco/",
+            "coord": [
+                [
+                    40.9019834,
+                    9.103917100000002
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Re | Mi",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/re-mi/",
+            "coord": [
+                [
+                    40.7165634,
+                    8.5777181
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Verace Elettrica",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/verace-elettrica/",
+            "coord": [
+                [
+                    38.1863198,
+                    15.2675391
+                ]
+            ],
+            "website": "http://veraceelettrica.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "'O Fiore Mio",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/o-fiore-mio/",
+            "coord": [
+                [
+                    44.2893846,
+                    11.8859076
+                ]
+            ],
+            "website": "http://ofioremio.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Berberè",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/berbere-3/",
+            "coord": [
+                [
+                    44.5688938,
+                    11.3576671
+                ]
+            ],
+            "website": "http://berbere.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Cambia-Menti di Ciccio Vitiello",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/cambia-menti-di-ciccio-vitiello/",
+            "coord": [
+                [
+                    41.0942324,
+                    14.3199354
+                ]
+            ],
+            "website": "http://cambia-menti.pizza"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Canneto Beach 2",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/canneto-beach-2-2/",
+            "coord": [
+                [
+                    41.379557,
+                    16.1449415
+                ]
+            ],
+            "website": "http://ristorantecannetobeach2.com"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Farina",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/farina-2/",
+            "coord": [
+                [
+                    43.9161839,
+                    12.913325
+                ]
+            ],
+            "website": "http://pizzeriafarina.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Fuori Tempo",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/fuori-tempo/",
+            "coord": [
+                [
+                    44.798472,
+                    8.0012253
+                ]
+            ],
+            "website": "http://fuoritempo.com"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Giangi Pizza e Ricerca",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/giangi-pizza-e-ricerca/",
+            "coord": [
+                [
+                    42.2639867,
+                    14.3227219
+                ]
+            ],
+            "website": "http://giangipizza.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Grigoris",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/grigoris/",
+            "coord": [
+                [
+                    45.4967,
+                    12.184545
+                ]
+            ],
+            "website": "http://pizzeriagrigoris.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "La  Braciera",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-braciera/",
+            "coord": [
+                [
+                    38.1656313,
+                    13.3285855
+                ]
+            ],
+            "website": "http://labraciera.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Le Grotticelle",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/le-grotticelle/",
+            "coord": [
+                [
+                    40.54617710000001,
+                    15.513402
+                ]
+            ],
+            "website": "http://legrotticelle.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Libery Pizza & Artigianal Beer",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/libery-pizza-artigianal-beer/",
+            "coord": [
+                [
+                    45.0607193,
+                    7.670645700000001
+                ]
+            ],
+            "website": "http://libery.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Luppolo & Farina",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/luppolo-farina/",
+            "coord": [
+                [
+                    40.5525174,
+                    17.7143422
+                ]
+            ],
+            "website": "http://luppoloefarinapizzeria.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Maiori",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/maiori/",
+            "coord": [
+                [
+                    39.2711019,
+                    8.7424037
+                ]
+            ],
+            "website": "http://maioricagliari.com"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Meunier Champagne & Pizza",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/meunier-champagne-pizza/",
+            "coord": [
+                [
+                    43.098393,
+                    12.308464
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Perbacco",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/perbacco-2/",
+            "coord": [
+                [
+                    44.638527,
+                    7.93292
+                ]
+            ],
+            "website": "http://pizzeriaperbacco.com"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Saccharum",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/saccharum/",
+            "coord": [
+                [
+                    38.03934,
+                    13.5477958
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Sorbillo",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/sorbillo/",
+            "coord": [
+                [
+                    40.8317081,
+                    14.2417542
+                ]
+            ],
+            "website": "http://sorbillo.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Starita",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/starita-2/",
+            "coord": [
+                [
+                    40.6350432,
+                    14.4209604
+                ]
+            ],
+            "website": "http://pizzeriastarita.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Villa Giovanna",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/villa-giovanna/",
+            "coord": [
+                [
+                    40.834268449999996,
+                    14.457798833112344
+                ]
+            ],
+            "website": "http://villagiovannavesuvio.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "180g Pizzeria Romana",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/180g-pizzeria-romana/",
+            "coord": [
+                [
+                    41.8780128,
+                    12.5639793
+                ]
+            ],
+            "website": "http://180gpizzeriaromana.com"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "50 Kalò di Ciro Salvo",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/50-kalo-di-ciro-salvo/",
+            "coord": [
+                [
+                    41.9060262,
+                    12.4957895
+                ]
+            ],
+            "website": "http://50kalò.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "A Rota",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/a-rota/",
+            "coord": [
+                [
+                    41.8749586,
+                    12.5411903
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Agriristorante Il Casaletto",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/agriristorante-il-casaletto/",
+            "coord": [
+                [
+                    42.520668,
+                    12.1620588
+                ]
+            ],
+            "website": "http://ilcasaletto.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Allegrío",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/allegrio/",
+            "coord": [
+                [
+                    41.90846550000001,
+                    12.4888145
+                ]
+            ],
+            "website": "http://allegrio.com"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Anima Romita",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/anima-romita/",
+            "coord": [
+                [
+                    45.3649707,
+                    9.693463999999999
+                ]
+            ],
+            "website": "http://animaromita.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Casale Rufini",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/casale-rufini/",
+            "coord": [
+                [
+                    41.8604736,
+                    12.8276281
+                ]
+            ],
+            "website": "http://casalerufini.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Confine - Pizza e Cantina",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/confine-pizza-e-cantina/",
+            "coord": [
+                [
+                    45.4614393,
+                    9.181301699999999
+                ]
+            ],
+            "website": "http://confinemilano.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Crosta",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/crosta-2/",
+            "coord": [
+                [
+                    45.4708436,
+                    9.208918
+                ]
+            ],
+            "website": "http://crosta.eu"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Diego Vitagliano Pizzeria",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/diego-vitagliano-pizzeria/",
+            "coord": [
+                [
+                    41.9414671,
+                    12.4702796
+                ]
+            ],
+            "website": "http://diegovitagliano.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Dry Milano",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/dry-milano/",
+            "coord": [
+                [
+                    45.4789193,
+                    9.1883235
+                ]
+            ],
+            "website": "http://drymilano.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Enosteria Lipen",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/enosteria-lipen/",
+            "coord": [
+                [
+                    45.6596305,
+                    9.2901536
+                ]
+            ],
+            "website": "http://lipen.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Inedito",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/inedito/",
+            "coord": [
+                [
+                    45.5350139,
+                    10.2182434
+                ]
+            ],
+            "website": "http://ineditopizzeria.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "La Cascina dei Sapori",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-cascina-dei-sapori/",
+            "coord": [
+                [
+                    45.5164799,
+                    10.3120174
+                ]
+            ],
+            "website": "http://lacascinadeisapori.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "La Filiale a L'Albereta",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-filiale-a-lalbereta/",
+            "coord": [
+                [
+                    45.6081008,
+                    9.9806938
+                ]
+            ],
+            "website": "http://albereta.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "La Gatta Mangiona",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-gatta-mangiona/",
+            "coord": [
+                [
+                    41.8757312,
+                    12.4477152
+                ]
+            ],
+            "website": "http://lagattamangiona.com"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Lievito Francesco Arnesano",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/lievito-francesco-arnesano-2/",
+            "coord": [
+                [
+                    41.8300955,
+                    12.488053
+                ]
+            ],
+            "website": "http://lievitopizzapane.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Mater",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/mater/",
+            "coord": [
+                [
+                    42.15856195,
+                    12.589648824392189
+                ]
+            ],
+            "website": "http://mater.bio"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Modus",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/modus/",
+            "coord": [
+                [
+                    45.4578756,
+                    9.207918399999999
+                ]
+            ],
+            "website": "http://landing.modusmilano.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Montegrigna - Tric Trac",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/montegrigna-tric-trac/",
+            "coord": [
+                [
+                    45.5940972,
+                    8.9279639
+                ]
+            ],
+            "website": "http://montegrignalegnano.com"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Pizzeria Clementina",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/pizzeria-clementina/",
+            "coord": [
+                [
+                    41.7714277,
+                    12.2281863
+                ]
+            ],
+            "website": "http://pizzeriaclementina.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Pupillo Pura Pizza",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/pupillo-pura-pizza/",
+            "coord": [
+                [
+                    41.6394691,
+                    13.3433719
+                ]
+            ],
+            "website": "http://pupillopurapizza.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Pupillo Pura Pizza",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/pupillo-pura-pizza-2/",
+            "coord": [
+                [
+                    41.4734979,
+                    13.1777635
+                ]
+            ],
+            "website": "http://pupillopurapizza.com"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "San Martino Pizza & Bolle",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/san-martino-pizza-bolle/",
+            "coord": [
+                [
+                    41.8653276,
+                    12.4746946
+                ]
+            ],
+            "website": "http://pizzaebolle.it"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Sbanco",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/sbanco/",
+            "coord": [
+                [
+                    41.875468,
+                    12.510995
+                ]
+            ],
+            "website": "http://sbanco.eatbu.com"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Seu Pizza Illuminati",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/seu-pizza-illuminati/",
+            "coord": [
+                [
+                    41.8797377,
+                    12.4683504
+                ]
+            ],
+            "website": "http://seupizza.com"
+        },
+        {
+            "category": "🍕",
+            "position": null,
+            "name": "Tonda",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/tonda/",
+            "coord": [
+                [
+                    41.896063,
+                    12.4938084
+                ]
+            ],
+            "website": null
+        }
+    ]
+}

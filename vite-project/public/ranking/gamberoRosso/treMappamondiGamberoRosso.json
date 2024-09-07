@@ -1,0 +1,56 @@
+{
+    "Tre Mappamondi Gambero Rosso 2024": [
+        {
+            "category": "🍽️",
+            "position": null,
+            "name": "Ba Restaurant",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/ba-restaurant/",
+            "coord": [
+                [
+                    44.1747459,
+                    17.6633443
+                ]
+            ],
+            "website": "http://ba-restaurant.com"
+        },
+        {
+            "category": "🍽️",
+            "position": null,
+            "name": "Dao Restaurant",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/dao-restaurant/",
+            "coord": [
+                [
+                    41.9459794,
+                    12.5291717
+                ]
+            ],
+            "website": "http://daorestaurant.it"
+        },
+        {
+            "category": "🍽️",
+            "position": null,
+            "name": "Gong Oriental Attitude",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/gong-oriental-attitude/",
+            "coord": [
+                [
+                    45.4675841,
+                    9.2084546
+                ]
+            ],
+            "website": "http://gongoriental.com"
+        },
+        {
+            "category": "🍽️",
+            "position": null,
+            "name": "IYO Experience",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/iyo-experience/",
+            "coord": [
+                [
+                    45.4867737,
+                    9.159562
+                ]
+            ],
+            "website": "http://iyo-experience.com"
+        }
+    ]
+}

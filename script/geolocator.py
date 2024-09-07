@@ -24,11 +24,11 @@ class Geolocator:
             print(f'Error reading mapkey: {e}')
             return ''
 
-    def find_coordinates(self, to_geocode):
+    def find_coordinates(self, to_geocode, search_address=False):
         location = self.OPS_geolocator.geocode(to_geocode, timeout=None)
         if location:
             print("nominatim")
-            return [location.address, location.latitude, location.longitude]
+            return [location.address if search_address else None, location.latitude, location.longitude]
         
         self.params['address'] = to_geocode
         response = requests.get(self.googleMapsURL, params=self.params)
@@ -40,6 +40,6 @@ class Geolocator:
             longitude = location['lng']
             formatted_address = data['results'][0]['formatted_address']
             print("maps")
-            return [formatted_address, latitude, longitude]
+            return [formatted_address if search_address else None, latitude, longitude]
         
         return None
