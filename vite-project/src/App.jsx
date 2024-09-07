@@ -18,7 +18,7 @@ export default function App() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch("./50toppizza.json", {
+        const response = await fetch("./ranking/50topitaly.json", {
           headers: {
             "Content-Type": "application/json",
             Accept: "application/json",
@@ -44,6 +44,7 @@ export default function App() {
           <>
             <Map markers={markers} />
             <FoodSearch />
+            <SchedaLocale />
           </>
         }/>
         <Route path="/map" element={<MapPage />} />
