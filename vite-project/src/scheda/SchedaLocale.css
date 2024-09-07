@@ -1,0 +1,178 @@
+/* Contenitore principale */
+.containerScheda {
+    position: absolute;
+    top: 50%;
+
+    left: 0;
+    transform: translateY(-50%);
+    width: 32.38vw;
+    aspect-ratio: 1.46;
+    margin-left: 10%;
+    background-color: #E7E0D0;
+
+    background-image: url('./../imgs/figures2.png');
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-size: 90% 33%;
+
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 2px solid black; /* Stroke di 2 px nero */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+
+  .closeContainer{
+    position: absolute; /* Posiziona il pulsante in modo assoluto all'interno del contenitore */
+    top: 0px; /* Posiziona il pulsante vicino alla parte superiore */
+    right: 0px; /* Posiziona il pulsante vicino alla parte destra */
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 2%;
+    cursor: pointer;
+
+    border-radius: 0px;
+    border-bottom-left-radius: 4px;
+    transition: background-color 0.3s;
+  }
+
+  .closeScheda {
+    color: white;
+    background-color: transparent; /* Sfondo trasparente per un look pulito */
+    border: none; /* Nessun bordo per un aspetto minimal */
+    font-size: clamp(0.8rem, 1.2vw, 2rem); /* Dimensione del testo del pulsante */
+  }
+
+  .info {
+    
+    margin: 10%;
+
+  }
+
+  
+  /* Titolo e pulsante di condivisione */
+  .header {
+    margin-top: 4%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .localeTitle {
+    font-size: clamp(1.3rem, 1.9vw, 2.5rem);
+    font-weight: bold;
+    color: #000;
+  }
+  
+  /* Bottone di condivisione */
+  .shareButton {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 3%;
+    cursor: pointer;
+    font-size: clamp(0.8rem, 1vw, 2rem);
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  
+  .shareButton:hover {
+    background-color: #444;
+  }
+  
+  /* Linea divisoria */
+  .divider {
+    width: 100%;
+    height: 0.8%;
+    background-color: #000;
+    margin-top: 2%;
+  }
+
+  
+  /* Link del locale */
+  .localeLink {
+    display: block;
+    margin: clamp(15px, 4%, 100%);
+    font-size: clamp(1rem, 1.2vw, 2rem);
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .localeLink:hover {
+    text-decoration: underline;
+  }
+  
+  /* Contenitore dei pulsanti */
+  .buttonContainer {
+    display: flex;
+    width: 100%;
+    margin-top: 8%;
+  }
+  
+
+  .mapButton, .directionsButton, .websiteButton {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 3%;
+    cursor: pointer;
+    font-size: clamp(0.8rem, 1.2vw, 2rem);
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+
+
+  .mapButton {
+    width: 100%;
+  }
+  .directionsButton {
+    margin-left: 2%;
+  
+    
+  }
+  
+  .mapButton:hover, .directionsButton:hover {
+    background-color: #444;
+  }
+  
+  /* Pulsante Website in una riga separata */
+  .websiteButtonContainer {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 2%;
+  }
+  
+  .websiteButton {
+
+    width: 100%;
+
+  }
+  
+  .websiteButton:hover {
+    background-color: #444;
+  }
+  
+
+  @media (orientation: portrait) {
+    .containerScheda {
+      position: absolute;
+      top: 10%; /* Posiziona il contenitore vicino alla parte superiore */
+      left: 0%; /* Posiziona il centro del contenitore a metà della larghezza */
+      transform: translate(0%, 0); /* Centra orizzontalmente il contenitore */
+
+      width: 80vw;
+      aspect-ratio: 2;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    
+  }
+ 

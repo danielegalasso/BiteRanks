@@ -4,6 +4,7 @@ import "./App.css";
 import "leaflet/dist/leaflet.css";
 import { Map } from "./Map"; // Importa il componente Map
 import FoodSearch from "./home/FoodSearch";
+import SchedaLocale from "./scheda/SchedaLocale";
 
 
 // Dati dei marker
@@ -38,8 +39,11 @@ export default function App() {
 
   return (
     <div>
-      {/* <Map markers={markers} />  */}
+      {/* <Map markers={markers} /> 
       <FoodSearch />  
+      */}
+      <SchedaLocale />
+      
     </div>
   );
 }
