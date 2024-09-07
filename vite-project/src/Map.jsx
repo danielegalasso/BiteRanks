@@ -7,18 +7,6 @@ import { Icon } from "leaflet";
 import createClusterCustomIcon from "./CreateClusterCustomIcon";
 import createCustomIcon from "./CreateCustomIcon";
 
-// Function to dynamically generate colors based on category name
-function stringToColor(str) {
-  let hash = 0;
-  for (let i = 0; i < str.length; i++) {
-    hash = str.charCodeAt(i) + ((hash << 5) - hash);
-  }
-  const r = (hash >> 16) & 0xff;
-  const g = (hash >> 8) & 0xff;
-  const b = hash & 0xff;
-  return `rgb(${r},${g},${b})`;
-}
-
 // Component to move the map to the user's location
 function MoveToLocation({ position, geolocationEnabled }) {
   const map = useMap();
@@ -87,23 +75,22 @@ export function Map({ markers }) {
       {renderMarkers && (
         <MarkerClusterGroup chunkedLoading iconCreateFunction={createClusterCustomIcon}>
           {Object.keys(markers).map((category, categoryIndex) => {
-            const iconColor = stringToColor(category);
-            const customIcon = createCustomIcon(iconColor,12);
 
-            return markers[category].map((pizzeria, pizzeriaIndex) =>
-              pizzeria.coord.map((coords, coordsIndex) => (
+            //locale = pizzeria/gelateria/ristorante presente nelle varie classifiche.
+            return markers[category].map((locale, localeIndex) =>
+              locale.coord.map((coords, coordsIndex) => (
                 <Marker
-                  key={`${categoryIndex}-${pizzeriaIndex}-${coordsIndex}`}
+                  key={`${categoryIndex}-${localeIndex}-${coordsIndex}`}
                   position={coords}
-                  icon={customIcon}
+                  icon={createCustomIcon(category,locale.position)}
                 >
                   <Popup>
                     <b>
-                      Rank: {pizzeria.position}
+                      Rank: {locale.position}
                       <br />
                     </b>
-                    <a href={pizzeria.ref} target="_blank" rel="noopener noreferrer">
-                      {pizzeria.name}
+                    <a href={locale.ref} target="_blank" rel="noopener noreferrer">
+                      {locale.name}
                     </a>
                   </Popup>
                 </Marker>

@@ -42,7 +42,7 @@ export default function App() {
         <Route path="/" element={
           <>
             <Map markers={markers} />
-            <FoodSearch />
+           
           </>
         }/>
         <Route path="/map" element={<MapPage />} />
