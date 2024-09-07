@@ -35,24 +35,49 @@ const createClusterCustomIcon = (cluster) => {
 };
 */
 
+// Funzione per decodificare l'URL dell'icona SVG
+const decodeSvgUrl = (url) => {
+    const svgString = decodeURIComponent(url.split(',')[1]);
+    return svgString;
+};
+
+// Funzione per estrarre il colore RGB dall'SVG
+const extractColor = (svgString) => {
+    // Regex per trovare il primo attributo fill
+    const fillMatch = svgString.match(/fill\s*=\s*"rgb\((\d+),(\d+),(\d+)\)"/);
+    console.log(svgString+ "COLORE TROVATO!!!!!::: "+fillMatch);
+    if (fillMatch) {
+        const [, r, g, b] = fillMatch;
+        return `rgb(${r},${g},${b})`;
+    }
+    return 'black'; // Colore di default se non trovato
+};
+
 // Funzione per creare un'icona a torta per il cluster FUNZIONE ATTUALE (la più bella)
 const createClusterCustomIcon = (cluster) => {
     const childMarkers = cluster.getAllChildMarkers();
     const colors = childMarkers.map(marker => {
         const iconUrl = marker.options.icon.options.iconUrl;
-        const svgString = decodeURIComponent(iconUrl.split(',')[1]);
-        const colorMatch = svgString.match(/fill="([^"]*)"/);
-        return colorMatch ? colorMatch[1] : 'black'; // Colore di default se non trovato
+        const svgString = decodeSvgUrl(iconUrl);
+        const color = extractColor(svgString);
+        return color;
     });
 
     const uniqueColors = [...new Set(colors)];
     const totalColors = uniqueColors.length;
 
-    // Check if all child markers have the same color
-    if (totalColors === 1) {
-        // If all colors are the same, fill the circle with that color
-        const singleColor = uniqueColors[0];
+    // Funzione per convertire coordinate polari in coordinate cartesiane
+    const polarToCartesian = (centerX, centerY, radius, angleInDegrees) => {
+        const angleInRadians = (angleInDegrees - 90) * Math.PI / 180.0;
+        return {
+            x: centerX + (radius * Math.cos(angleInRadians)),
+            y: centerY + (radius * Math.sin(angleInRadians))
+        };
+    };
 
+    // Se tutti i colori sono uguali, usa un cerchio monocolore
+    if (totalColors === 1) {
+        const singleColor = uniqueColors[0];
         const svgIcon = `
             <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
                 <circle cx="18" cy="18" r="18" fill="${singleColor}" />
@@ -60,10 +85,8 @@ const createClusterCustomIcon = (cluster) => {
                 <text x="50%" y="50%" text-anchor="middle" dy=".3em" fill="black" font-size="12">${cluster.getChildCount()}</text>
             </svg>
         `;
-
         const encodedSvg = encodeURIComponent(svgIcon);
         const svgUrl = `data:image/svg+xml;charset=utf-8,${encodedSvg}`;
-
         return divIcon({
             html: `<img src="${svgUrl}" />`,
             className: "custom-marker-cluster",
@@ -71,7 +94,7 @@ const createClusterCustomIcon = (cluster) => {
         });
     }
 
-    // Otherwise, create pie chart with multiple colors
+    // Altrimenti, crea un grafico a torta con colori multipli
     let currentAngle = 0;
     const slices = uniqueColors.map((color) => {
         const sliceAngle = 360 / totalColors;
@@ -88,14 +111,6 @@ const createClusterCustomIcon = (cluster) => {
         `;
     }).join('');
 
-    function polarToCartesian(centerX, centerY, radius, angleInDegrees) {
-        const angleInRadians = (angleInDegrees - 90) * Math.PI / 180.0;
-        return {
-            x: centerX + (radius * Math.cos(angleInRadians)),
-            y: centerY + (radius * Math.sin(angleInRadians))
-        };
-    }
-
     const svgIcon = `
         <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
             ${slices}
@@ -103,16 +118,13 @@ const createClusterCustomIcon = (cluster) => {
             <text x="50%" y="50%" text-anchor="middle" dy=".3em" fill="black" font-size="12">${cluster.getChildCount()}</text>
         </svg>
     `;
-
     const encodedSvg = encodeURIComponent(svgIcon);
     const svgUrl = `data:image/svg+xml;charset=utf-8,${encodedSvg}`;
-
     return divIcon({
         html: `<img src="${svgUrl}" />`,
         className: "custom-marker-cluster",
         iconSize: point(36, 36, true),
     });
 };
-
 
 export default createClusterCustomIcon;
