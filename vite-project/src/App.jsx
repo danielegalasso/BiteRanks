@@ -1,10 +1,12 @@
 // App.jsx
 import React, { useState, useEffect } from "react";
-import "./App.css";
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import "./app.css";
 import "leaflet/dist/leaflet.css";
 import { Map } from "./Map"; // Importa il componente Map
 import FoodSearch from "./home/FoodSearch";
 import SchedaLocale from "./scheda/SchedaLocale";
+import MapPage from "./MapPage";
 
 
 // Dati dei marker
@@ -35,15 +37,25 @@ export default function App() {
     fetchData();
   }, []);
 
- 
-
+  return (
+    <Router>
+      <Routes>
+        <Route path="/" element={
+          <>
+            <Map markers={markers} />
+            <FoodSearch />
+          </>
+        }/>
+        <Route path="/map" element={<MapPage />} />
+      </Routes>
+    </Router>
+  );
+  
   return (
     <div>
-      {/* <Map markers={markers} /> 
-      <FoodSearch />  
-      */}
-      <SchedaLocale />
-      
+      {/* Pass markers as props to the Map component */}
+      <Map markers={markers} />
+      <FoodSearch />
     </div>
   );
 }
