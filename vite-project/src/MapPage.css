@@ -1,0 +1,88 @@
+.map-page-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+    background-color: #6FAE38; /* Colore verde di sfondo */
+
+    padding-left: 4%;
+    padding-top: 2%;
+}
+
+.search-container{
+    width: 41%;
+    height: 40%;
+    background-color: #F4A460;
+}
+
+
+/* Contenitore della barra di ricerca */
+.search-bar {
+    display: flex;
+
+    width: 100%; /* Riduci la larghezza del contenitore della barra di ricerca */
+    height: 16%;
+    margin: auto; /* Centra la barra di ricerca orizzontalmente */
+    padding: 0.5%; /* Aggiungi un po' di padding per spazio extra */
+}
+
+.search-input {
+    flex: 1;
+    border: 0px solid #ccc; /* Aggiungi un bordo sottile per visibilità */
+    border-radius: 15px; /* Riduci il raggio di arrotondamento per un aspetto più compatto */
+    font-size: 14px; /* Riduci la dimensione del font per renderlo più piccolo */
+    padding: 8px; /* Riduci il padding interno per un aspetto più snello */
+    width: 100%; /* Assicurati che l'input occupi tutta la larghezza disponibile */
+}
+
+.search-button {
+    background-color: white;
+    border: none;
+    border-radius: 0 25px 25px 0;
+    cursor: pointer;
+}
+
+.search-icon::before {
+    content: "🔍"; /* Icona di ricerca */
+    font-size: 2px;
+}
+
+/* Contenitore dei bottoni */
+.buttons-container {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.icon-button {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.pizza {
+    background-color: #FF6347;
+}
+
+.sushi {
+    background-color: #F4A460;
+}
+
+.pencil {
+    background-color: #87CEEB;
+}
+
+.dice {
+    background-color: #4682B4;
+}
+
+/* Pulsante con l'icona */
+.icon-button span {
+    font-size: 24px;
+}

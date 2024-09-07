@@ -7,7 +7,7 @@ import { Map } from "./Map"; // Importa il componente Map
 import FoodSearch from "./home/FoodSearch";
 import SchedaLocale from "./scheda/SchedaLocale";
 import MapPage from "./MapPage";
-
+import SearchBarWithAutocomplete from "./SearchBar";
 
 // Dati dei marker
 export default function App() {
@@ -42,9 +42,12 @@ export default function App() {
       <Routes>
         <Route path="/" element={
           <>
+            <SearchBarWithAutocomplete />
+            {/*
             <Map markers={markers} />
             <FoodSearch />
             <SchedaLocale />
+            */}
           </>
         }/>
         <Route path="/map" element={<MapPage />} />
