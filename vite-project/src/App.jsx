@@ -1,9 +1,12 @@
 // App.jsx
 import React, { useState, useEffect } from "react";
-import "./App.css";
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import "./app.css";
 import "leaflet/dist/leaflet.css";
 import { Map } from "./Map"; // Importa il componente Map
 import FoodSearch from "./home/FoodSearch";
+import SchedaLocale from "./scheda/SchedaLocale";
+import MapPage from "./MapPage";
 
 
 // Dati dei marker
@@ -15,7 +18,7 @@ export default function App() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch("./50toppizza.json", {
+        const response = await fetch("./ranking/50topitaly.json", {
           headers: {
             "Content-Type": "application/json",
             Accept: "application/json",
@@ -34,12 +37,26 @@ export default function App() {
     fetchData();
   }, []);
 
- 
-
+  return (
+    <Router>
+      <Routes>
+        <Route path="/" element={
+          <>
+            <Map markers={markers} />
+            <FoodSearch />
+            <SchedaLocale />
+          </>
+        }/>
+        <Route path="/map" element={<MapPage />} />
+      </Routes>
+    </Router>
+  );
+  
   return (
     <div>
-      {/* <Map markers={markers} />  */}
-      <FoodSearch />  
+      {/* Pass markers as props to the Map component */}
+      <Map markers={markers} />
+      <FoodSearch />
     </div>
   );
 }
