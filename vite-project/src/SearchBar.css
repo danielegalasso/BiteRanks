@@ -1,0 +1,82 @@
+.search-container {
+    position: fixed;
+    background-color: transparent;
+    top: 20px;
+    left: 20px;
+    width: 400px;
+    max-width: 100%; /* responsive, otherwise it will break the design */
+    z-index: 1000;
+  }
+    
+  /* search box bro, important  */
+  .search-box {
+    display: flex;
+    align-items: center;
+    padding: 5px 15px;
+    border-radius: 30px;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 100%;
+  }
+  
+  .icon {
+    margin-right: 10px;
+    color: #4a4a4a;
+  }
+  
+  .search-icon {
+    cursor: pointer;
+  }
+  
+  .search-input {
+    flex: 1;
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-radius: 30px;
+    font-size: 16px;
+  }
+  
+  .suggestion-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 60px;
+    left: 0;
+    right: 0;
+    background-color: white;
+    border: 1px solid #ddd;
+    z-index: 1000;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .suggestion-item {
+    cursor: pointer;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  /* to make it responsive, for mobile dev */
+  @media (max-width: 600px) {
+    .search-container {
+      width: 95%;
+      left: 2.5%; 
+      top: 10px; 
+    }
+  
+    .search-box {
+      padding: 5px 10px;
+    }
+  
+    .search-input {
+      padding: 8px;
+      font-size: 14px;
+    }
+  
+    .suggestion-item {
+      padding: 8px;
+    }
+  }

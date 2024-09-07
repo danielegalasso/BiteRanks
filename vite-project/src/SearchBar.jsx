@@ -1,5 +1,8 @@
 import React, { useState } from 'react';
 import axios from 'axios';
+import { FaSearch, FaGlobe } from 'react-icons/fa'; // Importa le icone
+import './SearchBar.css'; // Importa il file CSS
+import ButtonList from './SearchBarButtonList.jsx'; // Importa la lista dei bottoni
 
 const SearchBarWithAutocomplete = () => {
   const [searchTerm, setSearchTerm] = useState('');
@@ -9,7 +12,14 @@ const SearchBarWithAutocomplete = () => {
     const value = e.target.value;
     setSearchTerm(value);
 
-    if (value.length > 2) {
+    // search with 1 char or 0 -> no req and clean all
+    if ((value.length <= 1) || (value.trim() === '')) {
+      setSuggestions([]);
+      return;
+    }
+
+    // if the text is more than 2 chars then do the request
+    if (value.length > 1) {
       try {
         const response = await axios.get(
           `https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(value)}&format=json`
@@ -29,27 +39,35 @@ const SearchBarWithAutocomplete = () => {
   };
 
   return (
-    <div style={{ position: 'relative', width: '300px' }}>
-      <input
-        type="text"
-        value={searchTerm}
-        onChange={handleSearchChange}
-        placeholder="Cerca un luogo..."
-        style={{ width: '100%', padding: '10px', margin: '10px 0' }}
-      />
+    <div className="search-container">
+      <div className="search-box">
+        <FaGlobe className="icon" />
+        <input
+          type="text"
+          value={searchTerm}
+          onChange={handleSearchChange}
+          placeholder="Find Location 🌍"
+          className="search-input"
+        />
+        <FaSearch className="icon search-icon" />
+      </div>
+
       {suggestions.length > 0 && (
-        <ul style={{ listStyleType: 'none', padding: 0, margin: 0, position: 'absolute', top: '40px', left: 0, right: 0, backgroundColor: 'white', border: '1px solid #ddd', zIndex: 1000 }}>
+        <ul className="suggestion-list">
           {suggestions.map((place) => (
             <li
               key={place.place_id}
               onClick={() => handleSuggestionClick(place)}
-              style={{ cursor: 'pointer', padding: '10px', borderBottom: '1px solid #ddd' }}
+              className="suggestion-item"
             >
               {place.display_name}
             </li>
           ))}
         </ul>
       )}
+
+      {/* Aggiungi la lista dei bottoni sotto la barra di ricerca */}
+      <ButtonList />
     </div>
   );
 };
