@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import axios from 'axios';
-import { FaSearch, FaGlobe } from 'react-icons/fa'; // Importa le icone
-import './SearchBar.css'; // Importa il file CSS
-import ButtonList from './SearchBarButtonList.jsx'; // Importa la lista dei bottoni
+import { FaSearch, FaGlobe } from 'react-icons/fa';
+import './SearchBar.css'; 
+import ButtonList from './SearchBarButtonList.jsx';
 
 const SearchBarWithAutocomplete = () => {
   const [searchTerm, setSearchTerm] = useState('');
@@ -12,19 +12,20 @@ const SearchBarWithAutocomplete = () => {
     const value = e.target.value;
     setSearchTerm(value);
 
-    // search with 1 char or 0 -> no req and clean all
-    if ((value.length <= 1) || (value.trim() === '')) {
+    if (value.length <= 1 || value.trim() === '' || value === null) {
       setSuggestions([]);
       return;
     }
 
-    // if the text is more than 2 chars then do the request
     if (value.length > 1) {
       try {
         const response = await axios.get(
-          `https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(value)}&format=json`
+          `https://api.opencagedata.com/geocode/v1/json?q=${encodeURIComponent(value)}&key=a3486d3fed1b41939800bca4fbf9915c`
         );
-        setSuggestions(response.data);
+
+        // the api returns the names into "formatted" field
+        const results = response.data.results.map(result => result.formatted);
+        setSuggestions(results);
       } catch (error) {
         console.error('Errore nel recupero dei dati:', error);
       }
@@ -33,8 +34,8 @@ const SearchBarWithAutocomplete = () => {
     }
   };
 
-  const handleSuggestionClick = (place) => {
-    setSearchTerm(place.display_name);
+  const handleSuggestionClick = (suggestion) => {
+    setSearchTerm(suggestion);
     setSuggestions([]);
   };
 
@@ -54,19 +55,18 @@ const SearchBarWithAutocomplete = () => {
 
       {suggestions.length > 0 && (
         <ul className="suggestion-list">
-          {suggestions.map((place) => (
+          {suggestions.map((suggestion, index) => (
             <li
-              key={place.place_id}
-              onClick={() => handleSuggestionClick(place)}
+              key={index}
+              onClick={() => handleSuggestionClick(suggestion)}
               className="suggestion-item"
             >
-              {place.display_name}
+              {suggestion}
             </li>
           ))}
         </ul>
       )}
 
-      {/* Aggiungi la lista dei bottoni sotto la barra di ricerca */}
       <ButtonList />
     </div>
   );
