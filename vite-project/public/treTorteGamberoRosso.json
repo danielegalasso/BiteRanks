@@ -5,7 +5,9 @@
             "position": null,
             "name": "Pasticceria Veneto",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/pasticceria-veneto/",
-            "address": "Pasticceria Veneto, 8, Via Salvo D'Acquisto, Sant'Eustacchio, Zona Nord, Brescia, Lombardia, 25128, Italia",
+            "address": [
+                "Pasticceria Veneto, 8, Via Salvo D'Acquisto, Sant'Eustacchio, Zona Nord, Brescia, Lombardia, 25128, Italia"
+            ],
             "coord": [
                 [
                     45.5531796,
@@ -19,7 +21,9 @@
             "position": null,
             "name": "Biasetto",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/biasetto/",
-            "address": "Pasticceria Biasetto, 12, Via Jacopo Facciolati, Santa Rita, Sant'Osvaldo, Padova, Veneto, 35123, Italia",
+            "address": [
+                "Pasticceria Biasetto, 12, Via Jacopo Facciolati, Santa Rita, Sant'Osvaldo, Padova, Veneto, 35123, Italia"
+            ],
             "coord": [
                 [
                     45.3992373,
@@ -33,7 +37,9 @@
             "position": null,
             "name": "Besuschio",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/besuschio/",
-            "address": "Cascina Besuschio, Abbiategrasso, Milano, Lombardia, 20087, Italia",
+            "address": [
+                "Cascina Besuschio, Abbiategrasso, Milano, Lombardia, 20087, Italia"
+            ],
             "coord": [
                 [
                     45.4084981,
@@ -47,7 +53,9 @@
             "position": null,
             "name": "Walter Musco - Bompiani",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/walter-musco-bompiani/",
-            "address": "Largo Benedetto Bompiani, 8, 00147 Roma RM, Italy",
+            "address": [
+                "Largo Benedetto Bompiani, 8, 00147 Roma RM, Italy"
+            ],
             "coord": [
                 [
                     41.858902,
@@ -61,7 +69,9 @@
             "position": null,
             "name": "Gruè",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/grue/",
-            "address": "Via Carlantonio Grue, Torre Angela, Municipio Roma VI, Torrenova, Roma, Roma Capitale, Lazio, 00133, Italia",
+            "address": [
+                "Via Carlantonio Grue, Torre Angela, Municipio Roma VI, Torrenova, Roma, Roma Capitale, Lazio, 00133, Italia"
+            ],
             "coord": [
                 [
                     41.8722709,
@@ -75,7 +85,9 @@
             "position": null,
             "name": "Nuovo Mondo",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/nuovo-mondo/",
-            "address": "Pasticceria Nuovo Mondo, Via Giuseppe Garibaldi, il Cantiere, Prato, Toscana, 59100, Italia",
+            "address": [
+                "Pasticceria Nuovo Mondo, Via Giuseppe Garibaldi, il Cantiere, Prato, Toscana, 59100, Italia"
+            ],
             "coord": [
                 [
                     43.881392,
@@ -89,7 +101,9 @@
             "position": null,
             "name": "Belle Hélène",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/belle-helene/",
-            "address": "Belle Helene, 12, Via Giuseppe Garibaldi, Tarquinia, Viterbo, Lazio, 01016, Italia",
+            "address": [
+                "Belle Helene, 12, Via Giuseppe Garibaldi, Tarquinia, Viterbo, Lazio, 01016, Italia"
+            ],
             "coord": [
                 [
                     42.2538468,
@@ -103,7 +117,9 @@
             "position": null,
             "name": "Caffè Cavour 1880",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/caffe-cavour-1880/",
-            "address": "Pasticceria Cavour 1880, 7, Via Gombito, Città Alta, Bergamo, Lombardia, 24129, Italia",
+            "address": [
+                "Pasticceria Cavour 1880, 7, Via Gombito, Città Alta, Bergamo, Lombardia, 24129, Italia"
+            ],
             "coord": [
                 [
                     45.7039233,
@@ -117,7 +133,9 @@
             "position": null,
             "name": "Fusto Milano",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/fusto-milano/",
-            "address": "Via S. Prospero, 4, 20121 Milano MI, Italy",
+            "address": [
+                "Via S. Prospero, 4, 20121 Milano MI, Italy"
+            ],
             "coord": [
                 [
                     45.4661598,
@@ -131,7 +149,9 @@
             "position": null,
             "name": "Ernst K Knam",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/ernst-k-knam/",
-            "address": "Via Augusto Anfossi, 10, 20135 Milano MI, Italy",
+            "address": [
+                "Via Augusto Anfossi, 10, 20135 Milano MI, Italy"
+            ],
             "coord": [
                 [
                     45.4600656,
@@ -145,7 +165,9 @@
             "position": null,
             "name": "Pasticceria Marisa",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/pasticceria-marisa/",
-            "address": "Pasticceria Marisa, 422, Via Roma, Arsego, San Giorgio delle Pertiche, Padova, Veneto, 35010, Italia",
+            "address": [
+                "Pasticceria Marisa, 422, Via Roma, Arsego, San Giorgio delle Pertiche, Padova, Veneto, 35010, Italia"
+            ],
             "coord": [
                 [
                     45.5409538,
@@ -159,7 +181,9 @@
             "position": null,
             "name": "Dolciarte",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/dolciarte/",
-            "address": "Via SantissimaTrinità, 52, 83100 Avellino AV, Italy",
+            "address": [
+                "Via SantissimaTrinità, 52, 83100 Avellino AV, Italy"
+            ],
             "coord": [
                 [
                     40.9157945,
@@ -173,7 +197,9 @@
             "position": null,
             "name": "Pepe Mastro Dolciere",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/pepe-mastro-dolciere/",
-            "address": "Pepe Mastro Dolciere, 2/4, Via Nazionale, Tuori, Sant'Egidio del Monte Albino, Salerno, Campania, 84010, Italia",
+            "address": [
+                "Pepe Mastro Dolciere, 2/4, Via Nazionale, Tuori, Sant'Egidio del Monte Albino, Salerno, Campania, 84010, Italia"
+            ],
             "coord": [
                 [
                     40.7479622,
@@ -187,7 +213,9 @@
             "position": null,
             "name": "Pasticceria Roberto",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/pasticceria-roberto/",
-            "address": "Via Provinciale, 38, 25030 Erbusco BS, Italy",
+            "address": [
+                "Via Provinciale, 38, 25030 Erbusco BS, Italy"
+            ],
             "coord": [
                 [
                     45.6002561,
@@ -201,7 +229,9 @@
             "position": null,
             "name": "Martesana",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/martesana/",
-            "address": "Martesana, Milano, Lombardia, Italia",
+            "address": [
+                "Martesana, Milano, Lombardia, Italia"
+            ],
             "coord": [
                 [
                     45.5300974,
@@ -215,7 +245,9 @@
             "position": null,
             "name": "Alessandro Servida",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/alessandro-servida/",
-            "address": "Viale Piave, 9, 20129 Milano MI, Italy",
+            "address": [
+                "Viale Piave, 9, 20129 Milano MI, Italy"
+            ],
             "coord": [
                 [
                     45.4699129,
@@ -229,7 +261,9 @@
             "position": null,
             "name": "Dolce Reale",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/dolce-reale/",
-            "address": "Via Mantova, 158, 25018 Montichiari BS, Italy",
+            "address": [
+                "Via Mantova, 158, 25018 Montichiari BS, Italy"
+            ],
             "coord": [
                 [
                     45.4102462,
@@ -243,7 +277,9 @@
             "position": null,
             "name": "Cortinovis",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/cortinovis/",
-            "address": "Via Tenente Franco Cortinovis, Ranica, Bergamo, Lombardia, 24124, Italia",
+            "address": [
+                "Via Tenente Franco Cortinovis, Ranica, Bergamo, Lombardia, 24124, Italia"
+            ],
             "coord": [
                 [
                     45.7204554,
@@ -257,7 +293,9 @@
             "position": null,
             "name": "Luca Mannori",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/luca-mannori/",
-            "address": "Luca mannori, Via Lazzerini, Soccorso, Prato, Toscana, 59100, Italia",
+            "address": [
+                "Luca mannori, Via Lazzerini, Soccorso, Prato, Toscana, 59100, Italia"
+            ],
             "coord": [
                 [
                     43.8753834,

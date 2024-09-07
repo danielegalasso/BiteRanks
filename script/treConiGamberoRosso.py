@@ -35,7 +35,7 @@ for card in cards:
         soup = BeautifulSoup(response.text, 'html.parser')
         website = soup.find('a', id='link-1214-365586')
         
-        json_output['Tre Coni Gambero Rosso'].append({
+        json_output['Tre Coni Gambero Rosso 2024'].append({
             'category': category,
             'position': None,
             'name': location_infos[0].get_text(),

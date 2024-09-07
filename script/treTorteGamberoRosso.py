@@ -31,12 +31,12 @@ for card in cards:
         
         coord = geo_locator.find_coordinates(concat_location)
 
-        json_output['Tre Torte Gambero Rosso'].append({
+        json_output['Tre Torte Gambero Rosso 2024'].append({
             'category': category,
             'position': None,
             'name': locations_spans[0].text,
             'ref': card.get('href'),
-            'address': coord[0] if coord else None,
+            'address': [coord[0] if coord else None],
             'coord': [[coord[1], coord[2]] if coord else None],
             'website': website.get('href') if website else None
         })
