@@ -1,0 +1,114 @@
+{
+    "50 Top Italy 2024 Migliori Street Food": [
+        {
+            "category": "🍢",
+            "position": "1°",
+            "name": "Scirocco",
+            "ref": "https://www.50topitaly.it/it/referenza/scirocco-3/",
+            "coord": [
+                37.5018805,
+                15.0867992
+            ],
+            "website": "http://www.sciroccolab.com/en/"
+        },
+        {
+            "category": "🍢",
+            "position": "2°",
+            "name": "Supplizio",
+            "ref": "https://www.50topitaly.it/it/referenza/supplizio-3/",
+            "coord": [
+                41.8974872,
+                12.467911
+            ],
+            "website": "http://www.supplizioroma.it/"
+        },
+        {
+            "category": "🍢",
+            "position": "3°",
+            "name": "Trapizzino",
+            "ref": "https://www.50topitaly.it/it/referenza/trapizzino-3/",
+            "coord": [
+                41.8796455,
+                12.4737092
+            ],
+            "website": "http://www.trapizzino.it/"
+        },
+        {
+            "category": "🍢",
+            "position": "4°",
+            "name": "Il Lampredotto",
+            "ref": "https://www.50topitaly.it/it/referenza/il-lampredotto-3/",
+            "coord": [
+                43.7764676,
+                11.2528338
+            ],
+            "website": "http://www.mercatocentrale.it/firenze/artigiani/il-lampredotto-famiglia-bambi/"
+        },
+        {
+            "category": "🍢",
+            "position": "5°",
+            "name": "Antica Focacceria S. Francesco",
+            "ref": "https://www.50topitaly.it/it/referenza/antica-focacceria-san-francesco/",
+            "coord": [
+                38.1164521,
+                13.3661323
+            ],
+            "website": "http://www.anticafocacceria.it/it/index.html"
+        },
+        {
+            "category": "🍢",
+            "position": "6°",
+            "name": "Cime di Rapa",
+            "ref": "https://www.50topitaly.it/it/referenza/cime-di-rapa-2/",
+            "coord": [
+                40.3530996,
+                18.1827878
+            ],
+            "website": "http://www.cimedirapa.eu/"
+        },
+        {
+            "category": "🍢",
+            "position": "7°",
+            "name": "Delicatessen in Drogheria",
+            "ref": "https://www.50topitaly.it/it/referenza/delicatessen-in-drogheria/",
+            "coord": [
+                36.9181105,
+                14.7247165
+            ],
+            "website": "http://delicatessenragusa.it/"
+        },
+        {
+            "category": "🍢",
+            "position": "8°",
+            "name": "Rosticceria Famulari",
+            "ref": "https://www.50topitaly.it/it/referenza/rosticceria-famulari/",
+            "coord": [
+                38.1886321,
+                15.5540576
+            ],
+            "website": "http://www.rosticceriafamulari.it/"
+        },
+        {
+            "category": "🍢",
+            "position": "9°",
+            "name": "Luini",
+            "ref": "https://www.50topitaly.it/it/referenza/luini-3/",
+            "coord": [
+                45.4658631,
+                9.1915447
+            ],
+            "website": "http://www.luini.it/"
+        },
+        {
+            "category": "🍢",
+            "position": "10°",
+            "name": "Indegno – La Crescentina 2.0",
+            "ref": "https://www.50topitaly.it/it/referenza/indegno-la-crescentina-2-0/",
+            "coord": [
+                44.4952891,
+                11.3302962
+            ],
+            "website": "http://www.indegno.eu/"
+        }
+    ]
+}
