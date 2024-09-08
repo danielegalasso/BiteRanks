@@ -1,0 +1,1304 @@
+{
+    "Most Legendary Ice Cream Places 23/24": [
+        {
+            "category": "🍦",
+            "position": "1°",
+            "name": "Giolitti",
+            "ref": "https://www.tasteatlas.com/giolitti",
+            "coord": [
+                [
+                    41.9010406,
+                    12.4771139
+                ]
+            ],
+            "website": "http://www.giolitti.it/"
+        },
+        {
+            "category": "🍦",
+            "position": "2°",
+            "name": "Rapanui",
+            "ref": "https://www.tasteatlas.com/rapanui",
+            "coord": [
+                [
+                    -34.5941894,
+                    -58.399699
+                ]
+            ],
+            "website": "http://chocolatesrapanui.com.ar/"
+        },
+        {
+            "category": "🍦",
+            "position": "3°",
+            "name": "Sorveteria da Ribeira",
+            "ref": "https://www.tasteatlas.com/sorveteria-da-ribeira",
+            "coord": [
+                [
+                    -12.9127119,
+                    -38.49434
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍦",
+            "position": "4°",
+            "name": "Leopold's Ice Cream",
+            "ref": "https://www.tasteatlas.com/leopolds-ice-cream",
+            "coord": [
+                [
+                    32.07849125,
+                    -81.08926934153857
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍦",
+            "position": "5°",
+            "name": "Ted Drewes Frozen Custard",
+            "ref": "https://www.tasteatlas.com/ted-drewes-frozen-custard",
+            "coord": [
+                [
+                    38.5894419,
+                    -90.30765835070429
+                ]
+            ],
+            "website": "http://www.teddrewes.com"
+        },
+        {
+            "category": "🍦",
+            "position": "6°",
+            "name": "Zangrandi Ice Cream",
+            "ref": "https://www.tasteatlas.com/zangrandi-ice-cream",
+            "coord": [
+                [
+                    -7.263376399999999,
+                    112.7461351
+                ]
+            ],
+            "website": "https://zangrandiicecream.business.site/"
+        },
+        {
+            "category": "🍦",
+            "position": "7°",
+            "name": "Pabba's",
+            "ref": "https://www.tasteatlas.com/pabbas",
+            "coord": [
+                [
+                    12.8863631,
+                    74.83823939999999
+                ]
+            ],
+            "website": "https://www.idealicecream.com/"
+        },
+        {
+            "category": "🍦",
+            "position": "8°",
+            "name": "Heladería Cadore",
+            "ref": "https://www.tasteatlas.com/heladeria-cadore",
+            "coord": [
+                [
+                    -34.6041729,
+                    -58.3906517
+                ]
+            ],
+            "website": "http://www.heladeriacadore.com.ar/"
+        },
+        {
+            "category": "🍦",
+            "position": "9°",
+            "name": "Palazzo del Freddo di Giovanni Fassi",
+            "ref": "https://www.tasteatlas.com/PalazzoDelFreddoDiGiovanniFassi",
+            "coord": [
+                [
+                    41.8936284,
+                    12.5080236
+                ]
+            ],
+            "website": "http://www.gelateriafassi.com"
+        },
+        {
+            "category": "🍦",
+            "position": "10°",
+            "name": "Eissalon Tichy",
+            "ref": "https://www.tasteatlas.com/eissalon-tichy",
+            "coord": [
+                [
+                    48.1739485,
+                    16.3773424
+                ]
+            ],
+            "website": "https://www.tichy-eissalon.at/"
+        },
+        {
+            "category": "🍦",
+            "position": "11°",
+            "name": "Casa Mira",
+            "ref": "https://www.tasteatlas.com/casa-mira-malaga",
+            "coord": [
+                [
+                    36.7204875,
+                    -4.4181252
+                ]
+            ],
+            "website": "https://dimasmiraehijos.es/"
+        },
+        {
+            "category": "🍦",
+            "position": "12°",
+            "name": "Gelateria Cesare",
+            "ref": "https://www.tasteatlas.com/gelateria-cesare",
+            "coord": [
+                [
+                    38.11456175,
+                    15.650345780743843
+                ]
+            ],
+            "website": "https://cesaresaltalafila.it/"
+        },
+        {
+            "category": "🍦",
+            "position": "13°",
+            "name": "Kem Tràng Tiền",
+            "ref": "https://www.tasteatlas.com/kem-trang-tien",
+            "coord": [
+                [
+                    21.0249079,
+                    105.8546488
+                ]
+            ],
+            "website": "http://kemtrangtien.vn/"
+        },
+        {
+            "category": "🍦",
+            "position": "14°",
+            "name": "Fentons Creamery",
+            "ref": "https://www.tasteatlas.com/FentonsCreamery",
+            "coord": [
+                [
+                    37.8279317,
+                    -122.24997759548964
+                ]
+            ],
+            "website": "http://www.fentonscreamery.com"
+        },
+        {
+            "category": "🍦",
+            "position": "15°",
+            "name": "Ragusa Es Italia",
+            "ref": "https://www.tasteatlas.com/ragusa-es-italia",
+            "coord": [
+                [
+                    -6.1697846,
+                    106.8298953
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍦",
+            "position": "16°",
+            "name": "Nevería Roxy",
+            "ref": "https://www.tasteatlas.com/neveria-roxy",
+            "coord": [
+                [
+                    19.4130775,
+                    -99.1783897
+                ]
+            ],
+            "website": "https://www.neveriaroxy.com.mx/"
+        },
+        {
+            "category": "🍦",
+            "position": "17°",
+            "name": "Zanoni & Zanoni",
+            "ref": "https://www.tasteatlas.com/zanoni--zanoni",
+            "coord": [
+                [
+                    48.209849,
+                    16.3745225
+                ]
+            ],
+            "website": "https://www.zanoni.wien/index.php?id=42"
+        },
+        {
+            "category": "🍦",
+            "position": "18°",
+            "name": "Los Italianos",
+            "ref": "https://www.tasteatlas.com/los-italianos",
+            "coord": [
+                [
+                    37.1761877,
+                    -3.5975992
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍦",
+            "position": "19°",
+            "name": "Jannettas Gelateria",
+            "ref": "https://www.tasteatlas.com/jannettas-gelateria",
+            "coord": [
+                [
+                    56.3397385,
+                    -2.7915763
+                ]
+            ],
+            "website": "https://jannettas.co.uk/"
+        },
+        {
+            "category": "🍦",
+            "position": "20°",
+            "name": "Heladería Scannapieco",
+            "ref": "https://www.tasteatlas.com/heladeria-scannapieco",
+            "coord": [
+                [
+                    -34.5831917,
+                    -58.4447213
+                ]
+            ],
+            "website": "https://heladeriascannapieco.com.ar/"
+        },
+        {
+            "category": "🍦",
+            "position": "21°",
+            "name": "Richardson's Ice Cream",
+            "ref": "https://www.tasteatlas.com/richardsons-ice-cream",
+            "coord": [
+                [
+                    42.5842668,
+                    -71.00569158110159
+                ]
+            ],
+            "website": "http://www.richardsonsicecream.com/"
+        },
+        {
+            "category": "🍦",
+            "position": "22°",
+            "name": "Gelateria Vivoli",
+            "ref": "https://www.tasteatlas.com/Vivoli",
+            "coord": [
+                [
+                    43.7699351,
+                    11.2600892
+                ]
+            ],
+            "website": "http://www.vivoli.it"
+        },
+        {
+            "category": "🍦",
+            "position": "23°",
+            "name": "Papagirogis",
+            "ref": "https://www.tasteatlas.com/papagirogis",
+            "coord": [
+                [
+                    39.6246708,
+                    19.922462
+                ]
+            ],
+            "website": "https://papagiorgis.gr/"
+        },
+        {
+            "category": "🍦",
+            "position": "24°",
+            "name": "K. Rustom & Co.",
+            "ref": "https://www.tasteatlas.com/k-rustom--co",
+            "coord": [
+                [
+                    18.9322612,
+                    72.8247394
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍦",
+            "position": "25°",
+            "name": "Gelateria Della Palma",
+            "ref": "https://www.tasteatlas.com/gelateria-della-palma",
+            "coord": [
+                [
+                    41.9005361,
+                    12.4765198
+                ]
+            ],
+            "website": "http://www.dellapalma.it/"
+        },
+        {
+            "category": "🍦",
+            "position": "26°",
+            "name": "Santini",
+            "ref": "https://www.tasteatlas.com/santini",
+            "coord": [
+                [
+                    38.7123904,
+                    -9.139573000000002
+                ]
+            ],
+            "website": "https://www.santini.pt/"
+        },
+        {
+            "category": "🍦",
+            "position": "27°",
+            "name": "Gelateria La Carraia",
+            "ref": "https://www.tasteatlas.com/LaCarraia",
+            "coord": [
+                [
+                    43.7696107,
+                    11.2466647
+                ]
+            ],
+            "website": "http://www.lacarraiagroup.eu"
+        },
+        {
+            "category": "🍦",
+            "position": "28°",
+            "name": "Fenocchio",
+            "ref": "https://www.tasteatlas.com/fenocchio",
+            "coord": [
+                [
+                    43.6973197,
+                    7.2763037
+                ]
+            ],
+            "website": "http://www.fenocchio.fr/"
+        },
+        {
+            "category": "🍦",
+            "position": "29°",
+            "name": "Mitchell's Ice Cream",
+            "ref": "https://www.tasteatlas.com/mitchells-ice-cream",
+            "coord": [
+                [
+                    37.7441456,
+                    -122.422811
+                ]
+            ],
+            "website": "https://mitchellsicecream.com/"
+        },
+        {
+            "category": "🍦",
+            "position": "30°",
+            "name": "Horchatería Sirvent",
+            "ref": "https://www.tasteatlas.com/horchateria-sirvent",
+            "coord": [
+                [
+                    41.6891508,
+                    2.184728
+                ]
+            ],
+            "website": "https://turronessirvent.com/"
+        },
+        {
+            "category": "🍦",
+            "position": "31°",
+            "name": "Gelateria Frigidarium",
+            "ref": "https://www.tasteatlas.com/GelateriaFrigidarium",
+            "coord": [
+                [
+                    41.8982497,
+                    12.4704477
+                ]
+            ],
+            "website": "http://www.frigidarium-gelateria.com"
+        },
+        {
+            "category": "🍦",
+            "position": "32°",
+            "name": "Gelateria Gabriele",
+            "ref": "https://www.tasteatlas.com/gelateria-gabriele",
+            "coord": [
+                [
+                    40.6618299,
+                    14.4257498
+                ]
+            ],
+            "website": "https://www.gabrieleitalia.com/"
+        },
+        {
+            "category": "🍦",
+            "position": "33°",
+            "name": "Sorveteria Cairu",
+            "ref": "https://www.tasteatlas.com/sorveteria-cairu",
+            "coord": [
+                [
+                    -1.4420030450900987,
+                    -48.484056802147
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍦",
+            "position": "34°",
+            "name": "Dondurmacı Ali Usta",
+            "ref": "https://www.tasteatlas.com/DondurmacAliUsta",
+            "coord": [
+                [
+                    40.9816483,
+                    29.0228717
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍦",
+            "position": "35°",
+            "name": "Margie's Candies",
+            "ref": "https://www.tasteatlas.com/MargiesCandies",
+            "coord": [
+                [
+                    41.961427,
+                    -87.675
+                ]
+            ],
+            "website": "http://www.margiesfinecandies.com"
+        },
+        {
+            "category": "🍦",
+            "position": "36°",
+            "name": "Fosselman's",
+            "ref": "https://www.tasteatlas.com/fosselmans",
+            "coord": [
+                [
+                    34.09142784563758,
+                    -118.14328791275167
+                ]
+            ],
+            "website": "https://fosselmans.com/"
+        },
+        {
+            "category": "🍦",
+            "position": "37°",
+            "name": "Suzukien",
+            "ref": "https://www.tasteatlas.com/suzukien",
+            "coord": [
+                [
+                    35.7163685,
+                    139.7970277
+                ]
+            ],
+            "website": "https://www.tocha.co.jp/"
+        },
+        {
+            "category": "🍦",
+            "position": "38°",
+            "name": "Naturals Ice Cream",
+            "ref": "https://www.tasteatlas.com/naturals-ice-cream",
+            "coord": [
+                [
+                    19.1104616,
+                    72.8366075
+                ]
+            ],
+            "website": "https://stores.naturalicecreams.in/natural-ice-cream---keerthi-distributors-laxmindra-nagar-udupi-10607/overview"
+        },
+        {
+            "category": "🍦",
+            "position": "39°",
+            "name": "Angelo Brocato Ice Cream",
+            "ref": "https://www.tasteatlas.com/angelo-brocato-ice-cream",
+            "coord": [
+                [
+                    29.9755132,
+                    -90.0991802
+                ]
+            ],
+            "website": "http://www.angelobrocatoicecream.com"
+        },
+        {
+            "category": "🍦",
+            "position": "40°",
+            "name": "Gelateria Perché No",
+            "ref": "https://www.tasteatlas.com/GelateriaPercheNo",
+            "coord": [
+                [
+                    43.7708435,
+                    11.2554915
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍦",
+            "position": "41°",
+            "name": "Page's",
+            "ref": "https://www.tasteatlas.com/pages",
+            "coord": [
+                [
+                    40.41116965,
+                    -79.95582730001729
+                ]
+            ],
+            "website": "https://pagedairymart.net/"
+        },
+        {
+            "category": "🍦",
+            "position": "42°",
+            "name": "Berthillon",
+            "ref": "https://www.tasteatlas.com/Berthillon",
+            "coord": [
+                [
+                    48.8504082,
+                    2.3600926
+                ]
+            ],
+            "website": "http://www.berthillon.fr"
+        },
+        {
+            "category": "🍦",
+            "position": "43°",
+            "name": "Gelateria dei Neri",
+            "ref": "https://www.tasteatlas.com/GelateriaDeiNeri",
+            "coord": [
+                [
+                    43.7677782,
+                    11.2590598
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍦",
+            "position": "44°",
+            "name": "Gelateria Old Bridge",
+            "ref": "https://www.tasteatlas.com/gelateria-old-bridge",
+            "coord": [
+                [
+                    41.9063859,
+                    12.4564449
+                ]
+            ],
+            "website": "https://www.gelateriaoldbridge.com/"
+        },
+        {
+            "category": "🍦",
+            "position": "45°",
+            "name": "Gelados Conchanata",
+            "ref": "https://www.tasteatlas.com/gelados-conchanata",
+            "coord": [
+                [
+                    38.7539692,
+                    -9.1413444
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍦",
+            "position": "46°",
+            "name": "Gelateria Dondoli",
+            "ref": "https://www.tasteatlas.com/gelateria-dondoli",
+            "coord": [
+                [
+                    43.4673758,
+                    11.04372627016459
+                ]
+            ],
+            "website": "http://www.gelateriadondoli.com/"
+        },
+        {
+            "category": "🍦",
+            "position": "47°",
+            "name": "Mado",
+            "ref": "https://www.tasteatlas.com/mado",
+            "coord": [
+                [
+                    41.0350153,
+                    28.9810008
+                ]
+            ],
+            "website": "http://mado.com.tr/"
+        },
+        {
+            "category": "🍦",
+            "position": "48°",
+            "name": "Morelli's Gelato",
+            "ref": "https://www.tasteatlas.com/morellis-gelato",
+            "coord": [
+                [
+                    51.3574526,
+                    1.441767131052094
+                ]
+            ],
+            "website": "https://www.morellisgelato.com/"
+        },
+        {
+            "category": "🍦",
+            "position": "49°",
+            "name": "Gelateria Telesio",
+            "ref": "https://www.tasteatlas.com/gelateria-telesio",
+            "coord": [
+                [
+                    45.0749076,
+                    7.6244572
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍦",
+            "position": "50°",
+            "name": "La Casa Gelato",
+            "ref": "https://www.tasteatlas.com/la-casa-gelato",
+            "coord": [
+                [
+                    49.27703845,
+                    -123.08160568324813
+                ]
+            ],
+            "website": "https://www.lacasagelato.com/"
+        },
+        {
+            "category": "🍦",
+            "position": "51°",
+            "name": "McConnell's Fine Ice Creams",
+            "ref": "https://www.tasteatlas.com/mcconnells-fine-ice-creams",
+            "coord": [
+                [
+                    34.4194219,
+                    -119.698832
+                ]
+            ],
+            "website": "https://mcconnells.com/"
+        },
+        {
+            "category": "🍦",
+            "position": "52°",
+            "name": "Oliveri",
+            "ref": "https://www.tasteatlas.com/oliveri",
+            "coord": [
+                [
+                    33.5840011,
+                    -7.6436729
+                ]
+            ],
+            "website": "http://www.oliveri.ma/"
+        },
+        {
+            "category": "🍦",
+            "position": "53°",
+            "name": "Gelateria La Romana",
+            "ref": "https://www.tasteatlas.com/gelateria-la-romana",
+            "coord": [
+                [
+                    44.0619161,
+                    12.5674172
+                ]
+            ],
+            "website": "https://www.gelateriaromana.com/16-gelateria-rimini-centro.php"
+        },
+        {
+            "category": "🍦",
+            "position": "54°",
+            "name": "Gelateria Valentino",
+            "ref": "https://www.tasteatlas.com/gelateria-valentino",
+            "coord": [
+                [
+                    41.9010112,
+                    12.4841591
+                ]
+            ],
+            "website": "http://www.gelateriavalentino.it/"
+        },
+        {
+            "category": "🍦",
+            "position": "55°",
+            "name": "Gelateria Nico",
+            "ref": "https://www.tasteatlas.com/gelateria-nico",
+            "coord": [
+                [
+                    45.4296328,
+                    12.3260731
+                ]
+            ],
+            "website": "https://www.gelaterianico.com/"
+        },
+        {
+            "category": "🍦",
+            "position": "56°",
+            "name": "Honey Hut Ice Cream",
+            "ref": "https://www.tasteatlas.com/honey-hut-ice-cream",
+            "coord": [
+                [
+                    41.4272579,
+                    -81.7092038056891
+                ]
+            ],
+            "website": "https://gohoneyhut.com/"
+        },
+        {
+            "category": "🍦",
+            "position": "57°",
+            "name": "Gelateria Badiani",
+            "ref": "https://www.tasteatlas.com/GelateriaBadiani",
+            "coord": [
+                [
+                    43.7821396,
+                    11.2768496
+                ]
+            ],
+            "website": "http://www.gelateriabadiani.it"
+        },
+        {
+            "category": "🍦",
+            "position": "58°",
+            "name": "Toscanini's",
+            "ref": "https://www.tasteatlas.com/toscaninis",
+            "coord": [
+                [
+                    42.3660456,
+                    -71.0781608
+                ]
+            ],
+            "website": "https://www.tosci.com/"
+        },
+        {
+            "category": "🍦",
+            "position": "59°",
+            "name": "Corner House",
+            "ref": "https://www.tasteatlas.com/corner-house",
+            "coord": [
+                [
+                    12.936285,
+                    77.6127996
+                ]
+            ],
+            "website": "https://www.cornerhouseicecreams.com/"
+        },
+        {
+            "category": "🍦",
+            "position": "60°",
+            "name": "Moomers Homemade Ice Cream",
+            "ref": "https://www.tasteatlas.com/MoomersHomemadeIceCream",
+            "coord": [
+                [
+                    44.7447528,
+                    -85.72088169265609
+                ]
+            ],
+            "website": "http://www.moomers.com"
+        },
+        {
+            "category": "🍦",
+            "position": "61°",
+            "name": "Don Peppinu",
+            "ref": "https://www.tasteatlas.com/don-peppinu",
+            "coord": [
+                [
+                    37.5029647,
+                    15.0874175
+                ]
+            ],
+            "website": "https://donpeppinu.it/"
+        },
+        {
+            "category": "🍦",
+            "position": "62°",
+            "name": "Lody na Starowiślnej",
+            "ref": "https://www.tasteatlas.com/lody-na-starowislnej",
+            "coord": [
+                [
+                    50.0521188,
+                    19.9500333
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍦",
+            "position": "63°",
+            "name": "Gelarto Rosa",
+            "ref": "https://www.tasteatlas.com/gelarto-rosa",
+            "coord": [
+                [
+                    47.5613904,
+                    19.08897
+                ]
+            ],
+            "website": "https://gelartorosa.com/"
+        },
+        {
+            "category": "🍦",
+            "position": "64°",
+            "name": "Ghirardelli Ice Cream and Chocolate Shop",
+            "ref": "https://www.tasteatlas.com/ghirardelli-ice-cream-and-chocolate-shop",
+            "coord": [
+                [
+                    37.7879475,
+                    -122.40191761254192
+                ]
+            ],
+            "website": "https://www.ghirardelli.com/stores/"
+        },
+        {
+            "category": "🍦",
+            "position": "65°",
+            "name": "Heladería Lares",
+            "ref": "https://www.tasteatlas.com/heladeria-lares",
+            "coord": [
+                [
+                    18.2946928,
+                    -66.8773416
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍦",
+            "position": "66°",
+            "name": "The Original Chinatown Ice Cream Factory",
+            "ref": "https://www.tasteatlas.com/TheOriginalChinatownIceCreamFactory",
+            "coord": [
+                [
+                    40.715404,
+                    -73.9981108
+                ]
+            ],
+            "website": "http://www.chinatownicecreamfactory.com"
+        },
+        {
+            "category": "🍦",
+            "position": "67°",
+            "name": "COWS ",
+            "ref": "https://www.tasteatlas.com/cows",
+            "coord": [
+                [
+                    46.4814439,
+                    -63.411088
+                ]
+            ],
+            "website": "https://cows.ca/"
+        },
+        {
+            "category": "🍦",
+            "position": "68°",
+            "name": "Salt & Straw",
+            "ref": "https://www.tasteatlas.com/SaltStraw",
+            "coord": [
+                [
+                    45.5049192,
+                    -122.630556
+                ]
+            ],
+            "website": "http://www.saltandstraw.com"
+        },
+        {
+            "category": "🍦",
+            "position": "69°",
+            "name": "Sebastian Joe's",
+            "ref": "https://www.tasteatlas.com/sebastian-joes",
+            "coord": [
+                [
+                    44.9625738,
+                    -93.2921454
+                ]
+            ],
+            "website": "https://sebastianjoesicecream.com/locations/"
+        },
+        {
+            "category": "🍦",
+            "position": "70°",
+            "name": "Sorbetteria Castiglione",
+            "ref": "https://www.tasteatlas.com/SorbetteriaCastiglione",
+            "coord": [
+                [
+                    44.4877983,
+                    11.3481171
+                ]
+            ],
+            "website": "http://www.lasorbetteria.it/"
+        },
+        {
+            "category": "🍦",
+            "position": "71°",
+            "name": "Handel's Homemade Ice Cream",
+            "ref": "https://www.tasteatlas.com/handels-homemade-ice-cream",
+            "coord": [
+                [
+                    41.060305,
+                    -80.661368
+                ]
+            ],
+            "website": "https://handelsicecream.com/"
+        },
+        {
+            "category": "🍦",
+            "position": "72°",
+            "name": "Il Massimo del Gelato",
+            "ref": "https://www.tasteatlas.com/IlMassimoDelGelato",
+            "coord": [
+                [
+                    45.4847103,
+                    9.1644913
+                ]
+            ],
+            "website": "http://www.ilmassimodelgelato.it/"
+        },
+        {
+            "category": "🍦",
+            "position": "73°",
+            "name": "Swensen's",
+            "ref": "https://www.tasteatlas.com/swensens",
+            "coord": [
+                [
+                    37.798828,
+                    -122.419079
+                ]
+            ],
+            "website": "https://swensensofsf.com/"
+        },
+        {
+            "category": "🍦",
+            "position": "74°",
+            "name": "The Franklin Fountain",
+            "ref": "https://www.tasteatlas.com/TheFranklinFountain",
+            "coord": [
+                [
+                    39.9495571,
+                    -75.14292882222648
+                ]
+            ],
+            "website": "http://www.franklinfountain.com"
+        },
+        {
+            "category": "🍦",
+            "position": "75°",
+            "name": "Monte Pelmo",
+            "ref": "https://www.tasteatlas.com/monte-pelmo",
+            "coord": [
+                [
+                    52.3775202,
+                    4.8817162
+                ]
+            ],
+            "website": "https://www.montepelmo.nl/nl"
+        },
+        {
+            "category": "🍦",
+            "position": "76°",
+            "name": "Gelateria Marghera ",
+            "ref": "https://www.tasteatlas.com/gelateria-marghera",
+            "coord": [
+                [
+                    45.4672365,
+                    9.1533669
+                ]
+            ],
+            "website": "https://www.gelateriamarghera.it/"
+        },
+        {
+            "category": "🍦",
+            "position": "77°",
+            "name": "Gelateria dei Gracchi",
+            "ref": "https://www.tasteatlas.com/GelateriaDeiGracchi",
+            "coord": [
+                [
+                    41.9091879,
+                    12.46687
+                ]
+            ],
+            "website": "http://www.gelateriadeigracchi.it"
+        },
+        {
+            "category": "🍦",
+            "position": "78°",
+            "name": "Gelateria del Teatro",
+            "ref": "https://www.tasteatlas.com/gelateria-del-teatro",
+            "coord": [
+                [
+                    41.9004624,
+                    12.4695542
+                ]
+            ],
+            "website": "https://www.gelateriadelteatro.it/"
+        },
+        {
+            "category": "🍦",
+            "position": "79°",
+            "name": "Big Dipper Ice Cream",
+            "ref": "https://www.tasteatlas.com/big-dipper-ice-cream",
+            "coord": [
+                [
+                    46.8634483,
+                    -113.9974468
+                ]
+            ],
+            "website": "https://www.bigdippericecream.com/"
+        },
+        {
+            "category": "🍦",
+            "position": "80°",
+            "name": "Gelateria Pepino",
+            "ref": "https://www.tasteatlas.com/gelateria-pepino",
+            "coord": [
+                [
+                    45.0690264,
+                    7.6845754
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍦",
+            "position": "81°",
+            "name": "Heladería Coromoto",
+            "ref": "https://www.tasteatlas.com/heladeria-coromoto",
+            "coord": [
+                [
+                    8.594408,
+                    -71.1488798
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍦",
+            "position": "82°",
+            "name": "Giapo",
+            "ref": "https://www.tasteatlas.com/giapo",
+            "coord": [
+                [
+                    -36.8458097,
+                    174.7688109
+                ]
+            ],
+            "website": "https://www.giapo.com/"
+        },
+        {
+            "category": "🍦",
+            "position": "83°",
+            "name": "Eis Fontanella",
+            "ref": "https://www.tasteatlas.com/eis-fontanella",
+            "coord": [
+                [
+                    49.4865203,
+                    8.4689788
+                ]
+            ],
+            "website": "http://www.eisfontanella.de/"
+        },
+        {
+            "category": "🍦",
+            "position": "84°",
+            "name": "Cow and the Moon",
+            "ref": "https://www.tasteatlas.com/cow-and-the-moon",
+            "coord": [
+                [
+                    -33.8989113,
+                    151.1720116
+                ]
+            ],
+            "website": "https://www.cowandthemoon.com.au/"
+        },
+        {
+            "category": "🍦",
+            "position": "85°",
+            "name": "Gelateria Galliera 49",
+            "ref": "https://www.tasteatlas.com/gelateria-galliera-49",
+            "coord": [
+                [
+                    44.5003164,
+                    11.343102
+                ]
+            ],
+            "website": "http://www.galliera49.it/"
+        },
+        {
+            "category": "🍦",
+            "position": "86°",
+            "name": "Bakdash",
+            "ref": "https://www.tasteatlas.com/bakdash",
+            "coord": [
+                [
+                    33.5112179,
+                    36.303696
+                ]
+            ],
+            "website": "https://bakdashgroup.com/"
+        },
+        {
+            "category": "🍦",
+            "position": "87°",
+            "name": "Graeter's Ice Cream",
+            "ref": "https://www.tasteatlas.com/graetersIceCream",
+            "coord": [
+                [
+                    39.3902724,
+                    -84.3438269
+                ]
+            ],
+            "website": "http://www.graeters.com"
+        },
+        {
+            "category": "🍦",
+            "position": "88°",
+            "name": "Gelateria Fatamorgana",
+            "ref": "https://www.tasteatlas.com/GelateriaFatamorgana",
+            "coord": [
+                [
+                    41.8956187,
+                    12.4932453
+                ]
+            ],
+            "website": "http://www.gelateriafatamorgana.com"
+        },
+        {
+            "category": "🍦",
+            "position": "89°",
+            "name": "Le Bilboquet",
+            "ref": "https://www.tasteatlas.com/le-bilboquet",
+            "coord": [
+                [
+                    45.5191167,
+                    -73.6098798
+                ]
+            ],
+            "website": "https://bilboquet.ca/"
+        },
+        {
+            "category": "🍦",
+            "position": "90°",
+            "name": "Gelateria i Giardini di Marzo",
+            "ref": "https://www.tasteatlas.com/gelateria-i-giardini-di-marzo",
+            "coord": [
+                [
+                    44.3594715,
+                    8.5781304
+                ]
+            ],
+            "website": "https://igiardinidimarzo.eu/"
+        },
+        {
+            "category": "🍦",
+            "position": "91°",
+            "name": "Apsara Ice Creams",
+            "ref": "https://www.tasteatlas.com/apsara-ice-creams",
+            "coord": [
+                [
+                    19.0252625,
+                    72.8551215
+                ]
+            ],
+            "website": "https://apsaraicecreams.com/"
+        },
+        {
+            "category": "🍦",
+            "position": "92°",
+            "name": "Ed's Real Scoop",
+            "ref": "https://www.tasteatlas.com/eds-real-scoop",
+            "coord": [
+                [
+                    43.6726494,
+                    -79.2881317
+                ]
+            ],
+            "website": "https://www.edsrealscoop.com"
+        },
+        {
+            "category": "🍦",
+            "position": "93°",
+            "name": "S. Jelbert's",
+            "ref": "https://www.tasteatlas.com/s-jelberts",
+            "coord": [
+                [
+                    50.1090437,
+                    -5.5476541
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍦",
+            "position": "94°",
+            "name": "Gelato Messina",
+            "ref": "https://www.tasteatlas.com/gelato-messina",
+            "coord": [
+                [
+                    -33.8855316,
+                    151.213837
+                ]
+            ],
+            "website": "https://gelatomessina.com/"
+        },
+        {
+            "category": "🍦",
+            "position": "95°",
+            "name": "Pozzetto Gelato Caffè Paris",
+            "ref": "https://www.tasteatlas.com/pozzetto-gelato-caffe-paris",
+            "coord": [
+                [
+                    48.8567241,
+                    2.3562594
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍦",
+            "position": "96°",
+            "name": "Murphy's Ice Cream",
+            "ref": "https://www.tasteatlas.com/murphys-ice-cream",
+            "coord": [
+                [
+                    52.1393136,
+                    -10.2766302
+                ]
+            ],
+            "website": "https://murphysicecream.ie/"
+        },
+        {
+            "category": "🍦",
+            "position": "97°",
+            "name": "Kinotoya Bake",
+            "ref": "https://www.tasteatlas.com/kinotoya-bake",
+            "coord": [
+                [
+                    43.057771,
+                    141.3535622
+                ]
+            ],
+            "website": "https://www.kinotoya.com/shop_list/poultown/"
+        },
+        {
+            "category": "🍦",
+            "position": "98°",
+            "name": "Gelateria Alaska",
+            "ref": "https://www.tasteatlas.com/GelateriaAlaska",
+            "coord": [
+                [
+                    45.4404072,
+                    12.3250414
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍦",
+            "position": "99°",
+            "name": "Tom's Palette",
+            "ref": "https://www.tasteatlas.com/toms-palette",
+            "coord": [
+                [
+                    1.2972619,
+                    103.8552502
+                ]
+            ],
+            "website": "https://www.tomspalette.com.sg/"
+        },
+        {
+            "category": "🍦",
+            "position": "100°",
+            "name": "Akbar Mashti",
+            "ref": "https://www.tasteatlas.com/akbar-mashti",
+            "coord": [
+                [
+                    35.7206338,
+                    51.3547871
+                ]
+            ],
+            "website": null
+        }
+    ]
+}

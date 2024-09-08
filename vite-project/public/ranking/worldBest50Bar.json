@@ -1,0 +1,654 @@
+{
+    "The World's 50 Best Bars": [
+        {
+            "category": "🍹",
+            "position": 1,
+            "name": "Sips",
+            "ref": "https://www.theworlds50best.com/bars/the-list/sips.html",
+            "coord": [
+                [
+                    41.3888297,
+                    2.156682
+                ]
+            ],
+            "website": "http://sips.barcelona/"
+        },
+        {
+            "category": "🍹",
+            "position": 2,
+            "name": "Double Chicken Please",
+            "ref": "https://www.theworlds50best.com/bars/the-list/double-chicken-please.html",
+            "coord": [
+                [
+                    40.6908904,
+                    -73.6173748
+                ]
+            ],
+            "website": "https://doublechickenplease.com/"
+        },
+        {
+            "category": "🍹",
+            "position": 3,
+            "name": "Handshake Speakeasy",
+            "ref": "https://www.theworlds50best.com/bars/the-list/handshake-speakeasy.html",
+            "coord": [
+                [
+                    19.4259034,
+                    -99.1654511
+                ]
+            ],
+            "website": "https://handshake.bar/"
+        },
+        {
+            "category": "🍹",
+            "position": 4,
+            "name": "Paradiso",
+            "ref": "https://www.theworlds50best.com/bars/the-list/paradiso.html",
+            "coord": [
+                [
+                    41.3836305,
+                    2.1836644
+                ]
+            ],
+            "website": "https://paradiso.cat/en/"
+        },
+        {
+            "category": "🍹",
+            "position": 5,
+            "name": "Connaught Bar",
+            "ref": "https://www.theworlds50best.com/bars/the-list/connaught-bar.html",
+            "coord": [
+                [
+                    51.5102521,
+                    -0.1498169
+                ]
+            ],
+            "website": "https://www.the-connaught.co.uk/restaurants-bars/connaught-bar/"
+        },
+        {
+            "category": "🍹",
+            "position": 6,
+            "name": "Little Red Door",
+            "ref": "https://www.theworlds50best.com/bars/the-list/little-red-door.html",
+            "coord": [
+                [
+                    48.8636541,
+                    2.3635309
+                ]
+            ],
+            "website": "https://www.lrdparis.com/"
+        },
+        {
+            "category": "🍹",
+            "position": 7,
+            "name": "Licorería Limantour",
+            "ref": "https://www.theworlds50best.com/bars/the-list/licoreria-limantour.html",
+            "coord": [
+                [
+                    19.4180507,
+                    -99.15935139999999
+                ]
+            ],
+            "website": "https://limantour.tv/"
+        },
+        {
+            "category": "🍹",
+            "position": 8,
+            "name": "Tayēr + Elementary",
+            "ref": "https://www.theworlds50best.com/bars/the-list/tayer-elementary.html",
+            "coord": [
+                [
+                    51.5252732,
+                    -0.0908746
+                ]
+            ],
+            "website": "https://tayer-elementary.com/"
+        },
+        {
+            "category": "🍹",
+            "position": 9,
+            "name": "Alquímico",
+            "ref": "https://www.theworlds50best.com/bars/the-list/alquimico.html",
+            "coord": [
+                [
+                    10.4234468,
+                    -75.5497029
+                ]
+            ],
+            "website": "https://alquimico.com/"
+        },
+        {
+            "category": "🍹",
+            "position": 10,
+            "name": "Himkok",
+            "ref": "https://www.theworlds50best.com/bars/the-list/himkok.html",
+            "coord": [
+                [
+                    59.914098,
+                    10.751515
+                ]
+            ],
+            "website": "https://www.himkok.no/"
+        },
+        {
+            "category": "🍹",
+            "position": 11,
+            "name": "Tres Monos",
+            "ref": "https://www.theworlds50best.com/bars/the-list/tres-monos.html",
+            "coord": [
+                [
+                    -34.5848566,
+                    -58.4261928
+                ]
+            ],
+            "website": "https://3monos.com.ar/"
+        },
+        {
+            "category": "🍹",
+            "position": 12,
+            "name": "Line",
+            "ref": "https://www.theworlds50best.com/bars/the-list/line.html",
+            "coord": [
+                [
+                    37.968606,
+                    23.7033428
+                ]
+            ],
+            "website": "https://lineathens.gr/"
+        },
+        {
+            "category": "🍹",
+            "position": 13,
+            "name": "BKK Social Club",
+            "ref": "https://www.theworlds50best.com/bars/the-list/bkk-social-club.html",
+            "coord": [
+                [
+                    13.7105161,
+                    100.5141771
+                ]
+            ],
+            "website": "https://www.fourseasons.com/bangkok/dining/lounges/bkk-social-club/"
+        },
+        {
+            "category": "🍹",
+            "position": 14,
+            "name": "Jigger & Pony",
+            "ref": "https://www.theworlds50best.com/bars/the-list/jigger-pony.html",
+            "coord": [
+                [
+                    1.2752457,
+                    103.8434106
+                ]
+            ],
+            "website": "https://www.jiggerandpony.com/"
+        },
+        {
+            "category": "🍹",
+            "position": 15,
+            "name": "Maybe Sammy",
+            "ref": "https://www.theworlds50best.com/bars/the-list/maybe-sammy.html",
+            "coord": [
+                [
+                    -33.86171175,
+                    151.20691413061752
+                ]
+            ],
+            "website": "https://www.maybesammy.com/"
+        },
+        {
+            "category": "🍹",
+            "position": 16,
+            "name": "Salmon Guru",
+            "ref": "https://www.theworlds50best.com/bars/the-list/salmon-guru.html",
+            "coord": [
+                [
+                    40.4149017,
+                    -3.6995344
+                ]
+            ],
+            "website": "https://salmonguru.es/"
+        },
+        {
+            "category": "🍹",
+            "position": 17,
+            "name": "Overstory",
+            "ref": "https://www.theworlds50best.com/bars/the-list/overstory.html",
+            "coord": [
+                [
+                    40.7065047,
+                    -74.00777149999999
+                ]
+            ],
+            "website": "https://www.overstory-nyc.com/"
+        },
+        {
+            "category": "🍹",
+            "position": 18,
+            "name": "Zest",
+            "ref": "https://www.theworlds50best.com/bars/the-list/zest.html",
+            "coord": [
+                [
+                    37.5254374,
+                    127.0407499
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍹",
+            "position": 19,
+            "name": "Mahaniyom Cocktail Bar",
+            "ref": "https://www.theworlds50best.com/bars/the-list/mahaniyom-cocktail-bar.html",
+            "coord": [
+                [
+                    13.7289636,
+                    100.518276
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍹",
+            "position": 20,
+            "name": "Coa",
+            "ref": "https://www.theworlds50best.com/bars/the-list/coa.html",
+            "coord": [
+                [
+                    22.2840409,
+                    114.1520404
+                ]
+            ],
+            "website": "https://coa.com.hk/"
+        },
+        {
+            "category": "🍹",
+            "position": 21,
+            "name": "Drink Kong",
+            "ref": "https://www.theworlds50best.com/bars/the-list/drink-kong.html",
+            "coord": [
+                [
+                    41.8951436,
+                    12.4978655
+                ]
+            ],
+            "website": "https://www.drinkkong.com/"
+        },
+        {
+            "category": "🍹",
+            "position": 22,
+            "name": "Hanky Panky",
+            "ref": "https://www.theworlds50best.com/bars/the-list/hanky-panky.html",
+            "coord": [
+                [
+                    19.4270448,
+                    -99.155649
+                ]
+            ],
+            "website": "http://www.hankypanky.mx/"
+        },
+        {
+            "category": "🍹",
+            "position": 23,
+            "name": "Caretaker's Cottage",
+            "ref": "https://www.theworlds50best.com/bars/the-list/caretakers-cottage.html",
+            "coord": [
+                [
+                    -37.8096405,
+                    144.967837
+                ]
+            ],
+            "website": "https://www.caretakerscottage.bar/"
+        },
+        {
+            "category": "🍹",
+            "position": 24,
+            "name": "Café La Trova",
+            "ref": "https://www.theworlds50best.com/bars/the-list/cafe-la-trova.html",
+            "coord": [
+                [
+                    25.7661344,
+                    -80.2104733
+                ]
+            ],
+            "website": "https://www.cafelatrova.com/"
+        },
+        {
+            "category": "🍹",
+            "position": 25,
+            "name": "Baba au Rum",
+            "ref": "https://www.theworlds50best.com/bars/the-list/baba-au-rum.html",
+            "coord": [
+                [
+                    37.9773499,
+                    23.7300483
+                ]
+            ],
+            "website": "https://www.babaaurum.com/"
+        },
+        {
+            "category": "🍹",
+            "position": 26,
+            "name": "CoChinChina",
+            "ref": "https://www.theworlds50best.com/bars/the-list/cochinchina.html",
+            "coord": [
+                [
+                    -34.59031954897959,
+                    -58.428837375510206
+                ]
+            ],
+            "website": "https://cochinchina.meitre.com/"
+        },
+        {
+            "category": "🍹",
+            "position": 27,
+            "name": "Katana Kitten",
+            "ref": "https://www.theworlds50best.com/bars/the-list/katana-kitten.html",
+            "coord": [
+                [
+                    40.7342532,
+                    -74.0064058
+                ]
+            ],
+            "website": "https://www.katanakitten.com/"
+        },
+        {
+            "category": "🍹",
+            "position": 28,
+            "name": "Satan's Whiskers",
+            "ref": "https://www.theworlds50best.com/bars/the-list/satans-whiskers.html",
+            "coord": [
+                [
+                    51.52948685,
+                    -0.05616007589634266
+                ]
+            ],
+            "website": "https://www.satanswhiskers.com/"
+        },
+        {
+            "category": "🍹",
+            "position": 29,
+            "name": "Wax On",
+            "ref": "https://www.theworlds50best.com/bars/the-list/wax-on.html",
+            "coord": [
+                [
+                    52.4882367,
+                    13.4296602
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍹",
+            "position": 30,
+            "name": "Florería Atlántico",
+            "ref": "https://www.theworlds50best.com/bars/the-list/floreria-atlantico.html",
+            "coord": [
+                [
+                    -34.5915517,
+                    -58.3795318
+                ]
+            ],
+            "website": "http://floreriaatlantico.com.ar/"
+        },
+        {
+            "category": "🍹",
+            "position": 31,
+            "name": "Röda Huset",
+            "ref": "https://www.theworlds50best.com/bars/the-list/roda-huset.html",
+            "coord": [
+                [
+                    59.3341578,
+                    18.0657661
+                ]
+            ],
+            "website": "https://rodahuset.nu/"
+        },
+        {
+            "category": "🍹",
+            "position": 32,
+            "name": "Sago House",
+            "ref": "https://www.theworlds50best.com/bars/the-list/sago-house.html",
+            "coord": [
+                [
+                    1.282038,
+                    103.8436555
+                ]
+            ],
+            "website": "https://sagohouse.sg/"
+        },
+        {
+            "category": "🍹",
+            "position": 33,
+            "name": "Freni e Frizioni",
+            "ref": "https://www.theworlds50best.com/bars/the-list/freni-e-frizioni.html",
+            "coord": [
+                [
+                    41.8912836,
+                    12.4706695
+                ]
+            ],
+            "website": "https://www.freniefrizioni.com/en/"
+        },
+        {
+            "category": "🍹",
+            "position": 34,
+            "name": "Argo",
+            "ref": "https://www.theworlds50best.com/bars/the-list/argo.html",
+            "coord": [
+                [
+                    22.284099050000002,
+                    114.15892068066708
+                ]
+            ],
+            "website": "https://www.fourseasons.com/zh_hant/hongkong/dining/lounges/argo/"
+        },
+        {
+            "category": "🍹",
+            "position": 35,
+            "name": "🔶🟥🔵 A Bar with Shapes for a Name",
+            "ref": "https://www.theworlds50best.com/bars/the-list/a-bar-with-shapes-for-a-name.html",
+            "coord": [
+                [
+                    51.5356581,
+                    -0.07666619999999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍹",
+            "position": 36,
+            "name": "The SG Club",
+            "ref": "https://www.theworlds50best.com/bars/the-list/the-sg-club.html",
+            "coord": [
+                [
+                    35.6642361,
+                    139.6991639
+                ]
+            ],
+            "website": "http://sg-management.jp/"
+        },
+        {
+            "category": "🍹",
+            "position": 37,
+            "name": "Bar Benfiddich",
+            "ref": "https://www.theworlds50best.com/bars/the-list/bar-benfiddich.html",
+            "coord": [
+                [
+                    35.6894804,
+                    139.6966516
+                ]
+            ],
+            "website": "https://www.ameblo.jp/kayama0927"
+        },
+        {
+            "category": "🍹",
+            "position": 38,
+            "name": "The Cambridge Public House",
+            "ref": "https://www.theworlds50best.com/bars/the-list/the-cambridge-public-house.html",
+            "coord": [
+                [
+                    48.8614519,
+                    2.3641684
+                ]
+            ],
+            "website": "https://www.thecambridge.paris/en/"
+        },
+        {
+            "category": "🍹",
+            "position": 39,
+            "name": "Panda & Sons",
+            "ref": "https://www.theworlds50best.com/bars/the-list/panda-sons.html",
+            "coord": [
+                [
+                    55.9532068,
+                    -3.2069716
+                ]
+            ],
+            "website": "https://pandaandsons.com/"
+        },
+        {
+            "category": "🍹",
+            "position": 40,
+            "name": "Mimi Kakushi",
+            "ref": "https://www.theworlds50best.com/bars/the-list/mimi-kakushi.html",
+            "coord": [
+                [
+                    25.2023141,
+                    55.2402131
+                ]
+            ],
+            "website": "https://mimikakushi.ae/"
+        },
+        {
+            "category": "🍹",
+            "position": 41,
+            "name": "Scarfes Bar",
+            "ref": "https://www.theworlds50best.com/bars/the-list/scarfes-bar.html",
+            "coord": [
+                [
+                    51.5174168,
+                    -0.11822194517680562
+                ]
+            ],
+            "website": "https://scarfesbar.com/"
+        },
+        {
+            "category": "🍹",
+            "position": 42,
+            "name": "1930",
+            "ref": "https://www.theworlds50best.com/bars/the-list/1930.html",
+            "coord": [
+                [
+                    45.468503,
+                    9.182402699999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍹",
+            "position": 43,
+            "name": "Carnaval",
+            "ref": "https://www.theworlds50best.com/bars/the-list/carnaval.html",
+            "coord": [
+                [
+                    -12.106396,
+                    -77.0387216
+                ]
+            ],
+            "website": "https://carnavalbar.com/"
+        },
+        {
+            "category": "🍹",
+            "position": 44,
+            "name": "L'Antiquario",
+            "ref": "https://www.theworlds50best.com/bars/the-list/l-antiquario.html",
+            "coord": [
+                [
+                    40.8329599,
+                    14.2422363
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍹",
+            "position": 45,
+            "name": "Baltra Bar",
+            "ref": "https://www.theworlds50best.com/bars/the-list/baltra-bar.html",
+            "coord": [
+                [
+                    19.4094971,
+                    -99.16887
+                ]
+            ],
+            "website": "https://baltra.bar/"
+        },
+        {
+            "category": "🍹",
+            "position": 46,
+            "name": "Locale Firenze",
+            "ref": "https://www.theworlds50best.com/bars/the-list/locale-firenze.html",
+            "coord": [
+                [
+                    43.7711166,
+                    11.2599755
+                ]
+            ],
+            "website": "https://www.localefirenze.it/en/"
+        },
+        {
+            "category": "🍹",
+            "position": 47,
+            "name": "The Clumsies",
+            "ref": "https://www.theworlds50best.com/bars/the-list/the-clumsies.html",
+            "coord": [
+                [
+                    37.97897145,
+                    23.729831413146965
+                ]
+            ],
+            "website": "https://www.theclumsies.gr/"
+        },
+        {
+            "category": "🍹",
+            "position": 48,
+            "name": "Atlas",
+            "ref": "https://www.theworlds50best.com/bars/the-list/atlas.html",
+            "coord": [
+                [
+                    1.3002019,
+                    103.85755192472891
+                ]
+            ],
+            "website": "http://atlasbar.sg/"
+        },
+        {
+            "category": "🍹",
+            "position": 49,
+            "name": "Jewel of the South",
+            "ref": "https://www.theworlds50best.com/bars/the-list/jewel-of-the-south.html",
+            "coord": [
+                [
+                    29.958549050000002,
+                    -90.06951293661764
+                ]
+            ],
+            "website": "https://www.jewelnola.com/"
+        },
+        {
+            "category": "🍹",
+            "position": 50,
+            "name": "Galaxy Bar",
+            "ref": "https://www.theworlds50best.com/bars/the-list/galaxy-bar.html",
+            "coord": [
+                [
+                    25.2135121,
+                    55.28238950000001
+                ]
+            ],
+            "website": "https://www.galaxy-bar.com/"
+        }
+    ]
+}

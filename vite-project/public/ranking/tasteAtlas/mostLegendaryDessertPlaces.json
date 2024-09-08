@@ -1,0 +1,1954 @@
+{
+    "Most Legendary Dessert Places 23/24": [
+        {
+            "category": "🍰",
+            "position": "1°",
+            "name": "Pastéis de Belém",
+            "ref": "https://www.tasteatlas.com/PasteisDeBelem",
+            "coord": [
+                [
+                    38.6974982,
+                    -9.2032527
+                ]
+            ],
+            "website": "http://www.pasteisdebelem.pt"
+        },
+        {
+            "category": "🍰",
+            "position": "2°",
+            "name": "Hafız Mustafa",
+            "ref": "https://www.tasteatlas.com/hafiz-mustafa-eminonu",
+            "coord": [
+                [
+                    41.0155632,
+                    28.9743734
+                ]
+            ],
+            "website": "http://www.hafizmustafa.com"
+        },
+        {
+            "category": "🍰",
+            "position": "3°",
+            "name": "Café Central",
+            "ref": "https://www.tasteatlas.com/CafeCentral",
+            "coord": [
+                [
+                    48.210879,
+                    16.3652716
+                ]
+            ],
+            "website": "https://www.cafecentral.wien/en/"
+        },
+        {
+            "category": "🍰",
+            "position": "4°",
+            "name": "Pastelería Ideal",
+            "ref": "https://www.tasteatlas.com/pasteleria-ideal",
+            "coord": [
+                [
+                    19.4329995,
+                    -99.13983820000001
+                ]
+            ],
+            "website": "https://www.pasteleriaideal.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "5°",
+            "name": "Café du Monde",
+            "ref": "https://www.tasteatlas.com/CafeDuMonde",
+            "coord": [
+                [
+                    29.957561,
+                    -90.0618544
+                ]
+            ],
+            "website": "http://www.cafedumonde.com"
+        },
+        {
+            "category": "🍰",
+            "position": "6°",
+            "name": "Karaköy Güllüoğlu",
+            "ref": "https://www.tasteatlas.com/KarakoyGulluoglu",
+            "coord": [
+                [
+                    41.0230973,
+                    28.9779408
+                ]
+            ],
+            "website": "http://www.karakoygulluoglu.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "7°",
+            "name": "Rapanui",
+            "ref": "https://www.tasteatlas.com/rapanui",
+            "coord": [
+                [
+                    -34.5941894,
+                    -58.399699
+                ]
+            ],
+            "website": "http://chocolatesrapanui.com.ar/"
+        },
+        {
+            "category": "🍰",
+            "position": "8°",
+            "name": "Confeitaria Colombo",
+            "ref": "https://www.tasteatlas.com/ConfeitariaColombo",
+            "coord": [
+                [
+                    -22.9051703,
+                    -43.1787441
+                ]
+            ],
+            "website": "http://www.confeitariacolombo.com.br"
+        },
+        {
+            "category": "🍰",
+            "position": "9°",
+            "name": "Café Tortoni",
+            "ref": "https://www.tasteatlas.com/CafeTortoni",
+            "coord": [
+                [
+                    -33.89206529591837,
+                    -60.57484494489796
+                ]
+            ],
+            "website": "http://www.cafetortoni.com.ar"
+        },
+        {
+            "category": "🍰",
+            "position": "10°",
+            "name": "Chocolatería San Ginés",
+            "ref": "https://www.tasteatlas.com/ChocolateriaSanGines",
+            "coord": [
+                [
+                    40.4167707,
+                    -3.706803
+                ]
+            ],
+            "website": "https://chocolateriasangines.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "11°",
+            "name": "Café Louvre",
+            "ref": "https://www.tasteatlas.com/CafeLouvre",
+            "coord": [
+                [
+                    50.0820667,
+                    14.4187313
+                ]
+            ],
+            "website": "http://www.cafelouvre.cz"
+        },
+        {
+            "category": "🍰",
+            "position": "12°",
+            "name": "Ted Drewes Frozen Custard",
+            "ref": "https://www.tasteatlas.com/ted-drewes-frozen-custard",
+            "coord": [
+                [
+                    38.5894419,
+                    -90.30765835070429
+                ]
+            ],
+            "website": "http://www.teddrewes.com"
+        },
+        {
+            "category": "🍰",
+            "position": "13°",
+            "name": "Leopold's Ice Cream",
+            "ref": "https://www.tasteatlas.com/leopolds-ice-cream",
+            "coord": [
+                [
+                    32.07849125,
+                    -81.08926934153857
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍰",
+            "position": "14°",
+            "name": "Daubner Cukrászda",
+            "ref": "https://www.tasteatlas.com/DaubnerCukraszda",
+            "coord": [
+                [
+                    47.52832315,
+                    19.032033483439573
+                ]
+            ],
+            "website": "http://www.daubnercukraszda.hu"
+        },
+        {
+            "category": "🍰",
+            "position": "15°",
+            "name": "Giolitti",
+            "ref": "https://www.tasteatlas.com/giolitti",
+            "coord": [
+                [
+                    41.9010406,
+                    12.4771139
+                ]
+            ],
+            "website": "http://www.giolitti.it/"
+        },
+        {
+            "category": "🍰",
+            "position": "16°",
+            "name": "Majestic Café",
+            "ref": "https://www.tasteatlas.com/majestic-cafe",
+            "coord": [
+                [
+                    41.1474097,
+                    -8.6066578
+                ]
+            ],
+            "website": "https://www.cafemajestic.com/en/Utilities/Homepage.aspx"
+        },
+        {
+            "category": "🍰",
+            "position": "17°",
+            "name": "Café Landtmann",
+            "ref": "https://www.tasteatlas.com/CafeLandtmann",
+            "coord": [
+                [
+                    48.2115624,
+                    16.3614497
+                ]
+            ],
+            "website": "http://www.landtmann.at/"
+        },
+        {
+            "category": "🍰",
+            "position": "18°",
+            "name": "Kayani Bakery",
+            "ref": "https://www.tasteatlas.com/kayani-bakery",
+            "coord": [
+                [
+                    18.5148734,
+                    73.8801153
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍰",
+            "position": "19°",
+            "name": "Angelina",
+            "ref": "https://www.tasteatlas.com/Angelina",
+            "coord": [
+                [
+                    48.8650778,
+                    2.3284104
+                ]
+            ],
+            "website": "http://www.angelina-paris.fr"
+        },
+        {
+            "category": "🍰",
+            "position": "20°",
+            "name": "Pasticceria Savia",
+            "ref": "https://www.tasteatlas.com/PasticceriaSavia",
+            "coord": [
+                [
+                    37.5061543,
+                    15.0865383
+                ]
+            ],
+            "website": "http://www.savia.it"
+        },
+        {
+            "category": "🍰",
+            "position": "21°",
+            "name": "Ghirardelli Square",
+            "ref": "https://www.tasteatlas.com/GhirardelliSquare",
+            "coord": [
+                [
+                    37.8057631,
+                    -122.422294
+                ]
+            ],
+            "website": "http://www.ghirardelli.com"
+        },
+        {
+            "category": "🍰",
+            "position": "22°",
+            "name": "Round Rock Donuts",
+            "ref": "https://www.tasteatlas.com/round-rock-donuts",
+            "coord": [
+                [
+                    30.509541249999998,
+                    -97.67991332972375
+                ]
+            ],
+            "website": "https://roundrockdonuts.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "23°",
+            "name": "Leonard's Bakery",
+            "ref": "https://www.tasteatlas.com/leonards-bakery",
+            "coord": [
+                [
+                    21.28491055,
+                    -157.8132819810558
+                ]
+            ],
+            "website": "https://www.leonardshawaii.com/home/"
+        },
+        {
+            "category": "🍰",
+            "position": "24°",
+            "name": "Katmerci Zekeriya Usta",
+            "ref": "https://www.tasteatlas.com/KatmerciZekeriyaUsta",
+            "coord": [
+                [
+                    36.9907413,
+                    37.2115829
+                ]
+            ],
+            "website": "http://www.katmercizekeriya.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "25°",
+            "name": "K.C. Das",
+            "ref": "https://www.tasteatlas.com/kc-das",
+            "coord": [
+                [
+                    22.5656865,
+                    88.350378
+                ]
+            ],
+            "website": "http://www.kcdas.co.in"
+        },
+        {
+            "category": "🍰",
+            "position": "26°",
+            "name": "Flurys",
+            "ref": "https://www.tasteatlas.com/flurys",
+            "coord": [
+                [
+                    22.5507275,
+                    88.3544606
+                ]
+            ],
+            "website": "https://www.flurys.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "27°",
+            "name": "Caffè Pedrocchi",
+            "ref": "https://www.tasteatlas.com/caffe-pedrocchi",
+            "coord": [
+                [
+                    45.4076922,
+                    11.8770946
+                ]
+            ],
+            "website": "https://www.caffepedrocchi.it/"
+        },
+        {
+            "category": "🍰",
+            "position": "28°",
+            "name": "Junior's Cheesecake",
+            "ref": "https://www.tasteatlas.com/JuniorsCheesecake",
+            "coord": [
+                [
+                    40.6899605,
+                    -73.98155299999999
+                ]
+            ],
+            "website": "http://www.juniorscheesecake.com"
+        },
+        {
+            "category": "🍰",
+            "position": "29°",
+            "name": "Karachi Bakery",
+            "ref": "https://www.tasteatlas.com/karachi-bakery",
+            "coord": [
+                [
+                    17.4088453,
+                    78.45059
+                ]
+            ],
+            "website": "https://www.karachibakery.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "30°",
+            "name": "Carlo's Bakery",
+            "ref": "https://www.tasteatlas.com/carlos-bakery",
+            "coord": [
+                [
+                    40.7371855,
+                    -74.0307861
+                ]
+            ],
+            "website": "http://www.carlosbakery.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "31°",
+            "name": "Bettys Café Tea Rooms Harrogate",
+            "ref": "https://www.tasteatlas.com/BettysHarrogate",
+            "coord": [
+                [
+                    53.9928579,
+                    -1.5426567
+                ]
+            ],
+            "website": "https://www.bettys.co.uk/"
+        },
+        {
+            "category": "🍰",
+            "position": "32°",
+            "name": "New York Café",
+            "ref": "https://www.tasteatlas.com/new-york-cafe",
+            "coord": [
+                [
+                    47.4984674,
+                    19.070521
+                ]
+            ],
+            "website": "https://newyorkcafe.hu/"
+        },
+        {
+            "category": "🍰",
+            "position": "33°",
+            "name": "Ladurée",
+            "ref": "https://www.tasteatlas.com/Laduree",
+            "coord": [
+                [
+                    48.8684273,
+                    2.3236138
+                ]
+            ],
+            "website": "https://www.laduree.fr/en/laduree-paris-royale.html"
+        },
+        {
+            "category": "🍰",
+            "position": "34°",
+            "name": "Palazzo del Freddo di Giovanni Fassi",
+            "ref": "https://www.tasteatlas.com/PalazzoDelFreddoDiGiovanniFassi",
+            "coord": [
+                [
+                    41.8936284,
+                    12.5080236
+                ]
+            ],
+            "website": "http://www.gelateriafassi.com"
+        },
+        {
+            "category": "🍰",
+            "position": "35°",
+            "name": "Café Sacher Wien ",
+            "ref": "https://www.tasteatlas.com/CafeSacherWien",
+            "coord": [
+                [
+                    48.2038726,
+                    16.3698025
+                ]
+            ],
+            "website": "http://www.sacher.com"
+        },
+        {
+            "category": "🍰",
+            "position": "36°",
+            "name": "Demel",
+            "ref": "https://www.tasteatlas.com/CafeDemel",
+            "coord": [
+                [
+                    48.2086403,
+                    16.3671894
+                ]
+            ],
+            "website": "http://www.demel.at"
+        },
+        {
+            "category": "🍰",
+            "position": "37°",
+            "name": "Balaram Mullick & Radharaman Mullick",
+            "ref": "https://www.tasteatlas.com/balaram-mullick--radharaman-mullick",
+            "coord": [
+                [
+                    22.5336329,
+                    88.351506
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍰",
+            "position": "38°",
+            "name": "Ca'n Joan De S'aigo",
+            "ref": "https://www.tasteatlas.com/can-joan-de-saigo",
+            "coord": [
+                [
+                    39.56987549999999,
+                    2.652632
+                ]
+            ],
+            "website": "http://canjoandesaigo.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "39°",
+            "name": "El Mejor Pan de Tecate",
+            "ref": "https://www.tasteatlas.com/el-mejor-pan-de-tecate",
+            "coord": [
+                [
+                    32.5739945,
+                    -116.624001
+                ]
+            ],
+            "website": "http://elmejorpandetecate.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "40°",
+            "name": "Café A Brasileira",
+            "ref": "https://www.tasteatlas.com/cafe-a-brasileira",
+            "coord": [
+                [
+                    38.7106819,
+                    -9.1420119
+                ]
+            ],
+            "website": "https://www.abrasileira.pt/"
+        },
+        {
+            "category": "🍰",
+            "position": "41°",
+            "name": "Café Niederegger",
+            "ref": "https://www.tasteatlas.com/cafe-niederegger",
+            "coord": [
+                [
+                    53.8665224,
+                    10.6857907
+                ]
+            ],
+            "website": "https://www.niederegger.de/"
+        },
+        {
+            "category": "🍰",
+            "position": "42°",
+            "name": "Habibah",
+            "ref": "https://www.tasteatlas.com/habibah",
+            "coord": [
+                [
+                    32.0105002,
+                    35.9404491
+                ]
+            ],
+            "website": "http://habibahsweets.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "43°",
+            "name": "Les Deux Magots",
+            "ref": "https://www.tasteatlas.com/LesDeuxMagots",
+            "coord": [
+                [
+                    48.8542327,
+                    2.33321
+                ]
+            ],
+            "website": "http://www.lesdeuxmagots.fr"
+        },
+        {
+            "category": "🍰",
+            "position": "44°",
+            "name": "Café de Flore",
+            "ref": "https://www.tasteatlas.com/cafe-de-flore",
+            "coord": [
+                [
+                    48.8541278,
+                    2.3325499
+                ]
+            ],
+            "website": "https://cafedeflore.fr/?lang=en"
+        },
+        {
+            "category": "🍰",
+            "position": "45°",
+            "name": "Antica Dolceria Bonajuto",
+            "ref": "https://www.tasteatlas.com/AnticaDolceriaBonajuto",
+            "coord": [
+                [
+                    36.8582746,
+                    14.760672
+                ]
+            ],
+            "website": "http://www.bonajuto.it"
+        },
+        {
+            "category": "🍰",
+            "position": "46°",
+            "name": "La Mallorquina",
+            "ref": "https://www.tasteatlas.com/LaMallorquina",
+            "coord": [
+                [
+                    40.4166158,
+                    -3.704829
+                ]
+            ],
+            "website": "http://www.pastelerialamallorquina.es"
+        },
+        {
+            "category": "🍰",
+            "position": "47°",
+            "name": "Piriquita",
+            "ref": "https://www.tasteatlas.com/piriquita",
+            "coord": [
+                [
+                    38.79666599999999,
+                    -9.3904977
+                ]
+            ],
+            "website": "https://www.piriquita.pt/"
+        },
+        {
+            "category": "🍰",
+            "position": "48°",
+            "name": "Café Savoy",
+            "ref": "https://www.tasteatlas.com/cafe-savoy",
+            "coord": [
+                [
+                    50.0809567,
+                    14.4072114
+                ]
+            ],
+            "website": "http://cafesavoy.ambi.cz/en/"
+        },
+        {
+            "category": "🍰",
+            "position": "49°",
+            "name": "K. Rustom & Co.",
+            "ref": "https://www.tasteatlas.com/k-rustom--co",
+            "coord": [
+                [
+                    18.9322612,
+                    72.8247394
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍰",
+            "position": "50°",
+            "name": "Trigona Elenidi",
+            "ref": "https://www.tasteatlas.com/trigona-elenidi",
+            "coord": [
+                [
+                    40.6289183,
+                    22.948447
+                ]
+            ],
+            "website": "https://elenidis.gr/"
+        },
+        {
+            "category": "🍰",
+            "position": "51°",
+            "name": "Antico Forno delle Sfogliatelle Calde Fratelli Attanasio",
+            "ref": "https://www.tasteatlas.com/antico-forno-delle-sfogliatelle-calde-fratelli-attanasio",
+            "coord": [
+                [
+                    40.8538418,
+                    14.2684164
+                ]
+            ],
+            "website": "http://sfogliatelleattanasio.it/home.html"
+        },
+        {
+            "category": "🍰",
+            "position": "52°",
+            "name": "Winkel 43",
+            "ref": "https://www.tasteatlas.com/Winkel43",
+            "coord": [
+                [
+                    52.3790741,
+                    4.886185288565386
+                ]
+            ],
+            "website": "http://www.winkel43.nl"
+        },
+        {
+            "category": "🍰",
+            "position": "53°",
+            "name": "Chalet Ciro Gelato",
+            "ref": "https://www.tasteatlas.com/chalet-ciro-gelato",
+            "coord": [
+                [
+                    40.831707,
+                    14.2288138
+                ]
+            ],
+            "website": "http://www.chaletciro.it/"
+        },
+        {
+            "category": "🍰",
+            "position": "54°",
+            "name": "Scaturchio",
+            "ref": "https://www.tasteatlas.com/Scaturchio",
+            "coord": [
+                [
+                    40.8482041,
+                    14.2549306
+                ]
+            ],
+            "website": "http://www.scaturchio.it"
+        },
+        {
+            "category": "🍰",
+            "position": "55°",
+            "name": "Gelateria La Romana",
+            "ref": "https://www.tasteatlas.com/gelateria-la-romana",
+            "coord": [
+                [
+                    44.0619161,
+                    12.5674172
+                ]
+            ],
+            "website": "https://www.gelateriaromana.com/16-gelateria-rimini-centro.php"
+        },
+        {
+            "category": "🍰",
+            "position": "56°",
+            "name": "Casa do Preto",
+            "ref": "https://www.tasteatlas.com/casa-do-preto",
+            "coord": [
+                [
+                    38.7923329,
+                    -9.3735418
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍰",
+            "position": "57°",
+            "name": "Bougatsa Iordanis",
+            "ref": "https://www.tasteatlas.com/BougatsaIordanis",
+            "coord": [
+                [
+                    35.5128824,
+                    24.0199158
+                ]
+            ],
+            "website": "http://www.iordanis.gr/#"
+        },
+        {
+            "category": "🍰",
+            "position": "58°",
+            "name": "Confiserie Sprüngli",
+            "ref": "https://www.tasteatlas.com/confiserie-sprungli",
+            "coord": [
+                [
+                    47.3694816,
+                    8.5391402
+                ]
+            ],
+            "website": "https://www.spruengli.ch/"
+        },
+        {
+            "category": "🍰",
+            "position": "59°",
+            "name": "Café Gerbeaud",
+            "ref": "https://www.tasteatlas.com/Gerbeaud",
+            "coord": [
+                [
+                    47.497007,
+                    19.0503393
+                ]
+            ],
+            "website": "http://www.gerbeaud.hu"
+        },
+        {
+            "category": "🍰",
+            "position": "60°",
+            "name": "Dondurmacı Ali Usta",
+            "ref": "https://www.tasteatlas.com/DondurmacAliUsta",
+            "coord": [
+                [
+                    40.9816483,
+                    29.0228717
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍰",
+            "position": "61°",
+            "name": "Nakamura Tokichi",
+            "ref": "https://www.tasteatlas.com/nakamura-tokichi",
+            "coord": [
+                [
+                    34.8914552,
+                    135.8063434
+                ]
+            ],
+            "website": "https://tokichi.jp/en"
+        },
+        {
+            "category": "🍰",
+            "position": "62°",
+            "name": "The Pancake Bakery",
+            "ref": "https://www.tasteatlas.com/ThePancakeBakery",
+            "coord": [
+                [
+                    52.3775885,
+                    4.8862637
+                ]
+            ],
+            "website": "http://www.pancake.nl/"
+        },
+        {
+            "category": "🍰",
+            "position": "63°",
+            "name": "Les Deux Moulins",
+            "ref": "https://www.tasteatlas.com/LesDeuxMoulins",
+            "coord": [
+                [
+                    48.8848988,
+                    2.3337032
+                ]
+            ],
+            "website": "http://cafedesdeuxmoulins.fr/"
+        },
+        {
+            "category": "🍰",
+            "position": "64°",
+            "name": "Café Iruña",
+            "ref": "https://www.tasteatlas.com/cafe-iruna",
+            "coord": [
+                [
+                    42.8174051,
+                    -1.6433882
+                ]
+            ],
+            "website": "https://cafeiruna.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "65°",
+            "name": "Ruszwurm Cukrászda",
+            "ref": "https://www.tasteatlas.com/RuszwurmCukraszda",
+            "coord": [
+                [
+                    47.5012693,
+                    19.0329039
+                ]
+            ],
+            "website": "http://www.ruszwurm.hu"
+        },
+        {
+            "category": "🍰",
+            "position": "66°",
+            "name": "Stohrer",
+            "ref": "https://www.tasteatlas.com/Stohrer",
+            "coord": [
+                [
+                    48.865239,
+                    2.3468478
+                ]
+            ],
+            "website": "http://www.stohrer.fr"
+        },
+        {
+            "category": "🍰",
+            "position": "67°",
+            "name": "Kuremal Mohanlal Kulfi Wale",
+            "ref": "https://www.tasteatlas.com/kuremal-mohanlal-kulfi-wale",
+            "coord": [
+                [
+                    28.6484637,
+                    77.2273754
+                ]
+            ],
+            "website": "https://www.kuremalkulfi.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "68°",
+            "name": "Gelateria Gabriele",
+            "ref": "https://www.tasteatlas.com/gelateria-gabriele",
+            "coord": [
+                [
+                    40.6618299,
+                    14.4257498
+                ]
+            ],
+            "website": "https://www.gabrieleitalia.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "69°",
+            "name": "Caffè Al Bicerin",
+            "ref": "https://www.tasteatlas.com/caffe-al-bicerin",
+            "coord": [
+                [
+                    45.0762364,
+                    7.678984
+                ]
+            ],
+            "website": "http://www.bicerin.it/"
+        },
+        {
+            "category": "🍰",
+            "position": "70°",
+            "name": "Granja M. Viader",
+            "ref": "https://www.tasteatlas.com/GranjaMViader",
+            "coord": [
+                [
+                    41.383021,
+                    2.1710542
+                ]
+            ],
+            "website": "http://www.granjaviader.cat/"
+        },
+        {
+            "category": "🍰",
+            "position": "71°",
+            "name": "Pancake Pantry",
+            "ref": "https://www.tasteatlas.com/PancakePantry",
+            "coord": [
+                [
+                    35.7125821,
+                    -83.51421999072299
+                ]
+            ],
+            "website": "http://www.pancakepantry.com"
+        },
+        {
+            "category": "🍰",
+            "position": "72°",
+            "name": "Suzukien",
+            "ref": "https://www.tasteatlas.com/suzukien",
+            "coord": [
+                [
+                    35.7163685,
+                    139.7970277
+                ]
+            ],
+            "website": "https://www.tocha.co.jp/"
+        },
+        {
+            "category": "🍰",
+            "position": "73°",
+            "name": "Café Leopold Hawelka",
+            "ref": "https://www.tasteatlas.com/CafeLeopoldHawelka",
+            "coord": [
+                [
+                    48.2079556,
+                    16.3698053
+                ]
+            ],
+            "website": "http://www.hawelka.at/cafe/de/"
+        },
+        {
+            "category": "🍰",
+            "position": "74°",
+            "name": "Gerstner K.u.K. Hofzuckerbäcker",
+            "ref": "https://www.tasteatlas.com/gerstner-kuk-hofzuckerbacker",
+            "coord": [
+                [
+                    48.2032863,
+                    16.3703903
+                ]
+            ],
+            "website": "http://www.gerstner-konditorei.at"
+        },
+        {
+            "category": "🍰",
+            "position": "75°",
+            "name": "Antico Caffè Greco",
+            "ref": "https://www.tasteatlas.com/antico-caffe-greco",
+            "coord": [
+                [
+                    41.9056653,
+                    12.4816137
+                ]
+            ],
+            "website": "http://anticocaffegreco.eu/"
+        },
+        {
+            "category": "🍰",
+            "position": "76°",
+            "name": "Berthillon",
+            "ref": "https://www.tasteatlas.com/Berthillon",
+            "coord": [
+                [
+                    48.8504082,
+                    2.3600926
+                ]
+            ],
+            "website": "http://www.berthillon.fr"
+        },
+        {
+            "category": "🍰",
+            "position": "77°",
+            "name": "Prakash Kulfi",
+            "ref": "https://www.tasteatlas.com/PrakashKulfi",
+            "coord": [
+                [
+                    26.8484675,
+                    80.9395378
+                ]
+            ],
+            "website": "https://www.facebook.com/PrakashKulfiAminabad/"
+        },
+        {
+            "category": "🍰",
+            "position": "78°",
+            "name": "Serendipity 3",
+            "ref": "https://www.tasteatlas.com/serendipity-3",
+            "coord": [
+                [
+                    40.7618022,
+                    -73.9649381
+                ]
+            ],
+            "website": "https://serendipity3.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "79°",
+            "name": "Caffe Sicilia",
+            "ref": "https://www.tasteatlas.com/CaffeSicilia",
+            "coord": [
+                [
+                    36.8911112,
+                    15.0697024
+                ]
+            ],
+            "website": "https://www.caffesicilia.it/index.html"
+        },
+        {
+            "category": "🍰",
+            "position": "80°",
+            "name": "Mike's Pastry",
+            "ref": "https://www.tasteatlas.com/MikesPastry",
+            "coord": [
+                [
+                    42.3641884,
+                    -71.0542414
+                ]
+            ],
+            "website": "http://www.mikespastry.com"
+        },
+        {
+            "category": "🍰",
+            "position": "81°",
+            "name": "Levain Bakery",
+            "ref": "https://www.tasteatlas.com/LevainBakery",
+            "coord": [
+                [
+                    40.7798995,
+                    -73.9803421
+                ]
+            ],
+            "website": "http://www.levainbakery.com"
+        },
+        {
+            "category": "🍰",
+            "position": "82°",
+            "name": "Café de la Paix",
+            "ref": "https://www.tasteatlas.com/CafeDeLaPaix",
+            "coord": [
+                [
+                    48.8709426,
+                    2.3317527
+                ]
+            ],
+            "website": "http://www.cafedelapaix.fr"
+        },
+        {
+            "category": "🍰",
+            "position": "83°",
+            "name": "Café Sperl ",
+            "ref": "https://www.tasteatlas.com/CafeSperl",
+            "coord": [
+                [
+                    48.1998385,
+                    16.3611697
+                ]
+            ],
+            "website": "http://www.cafesperl.at/"
+        },
+        {
+            "category": "🍰",
+            "position": "84°",
+            "name": "Cukrarna Myšák ",
+            "ref": "https://www.tasteatlas.com/cukrarna-mysak",
+            "coord": [
+                [
+                    50.08125675,
+                    14.42431978331435
+                ]
+            ],
+            "website": "https://www.mysak.ambi.cz/"
+        },
+        {
+            "category": "🍰",
+            "position": "85°",
+            "name": "Chitale Bandhu Mithaiwale",
+            "ref": "https://www.tasteatlas.com/ChitaleBandhuMithaiwale",
+            "coord": [
+                [
+                    18.5099638,
+                    73.8537695
+                ]
+            ],
+            "website": "http://www.chitalebandhu.in"
+        },
+        {
+            "category": "🍰",
+            "position": "86°",
+            "name": "Gelateria Vivoli",
+            "ref": "https://www.tasteatlas.com/Vivoli",
+            "coord": [
+                [
+                    43.7699351,
+                    11.2600892
+                ]
+            ],
+            "website": "http://www.vivoli.it"
+        },
+        {
+            "category": "🍰",
+            "position": "87°",
+            "name": "K.u.K. Café-Konditorei L. Heiner",
+            "ref": "https://www.tasteatlas.com/KUKCafeKonditoreiLHeiner",
+            "coord": [
+                [
+                    48.2061081,
+                    16.3716732
+                ]
+            ],
+            "website": "http://www.heiner.co.at"
+        },
+        {
+            "category": "🍰",
+            "position": "88°",
+            "name": "Gelateria Dondoli",
+            "ref": "https://www.tasteatlas.com/gelateria-dondoli",
+            "coord": [
+                [
+                    43.4673758,
+                    11.04372627016459
+                ]
+            ],
+            "website": "http://www.gelateriadondoli.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "89°",
+            "name": "Gran Caffè Gambrinus",
+            "ref": "https://www.tasteatlas.com/GranCaffeGambrinus",
+            "coord": [
+                [
+                    40.8367413,
+                    14.2484715
+                ]
+            ],
+            "website": "https://grancaffegambrinus.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "90°",
+            "name": "Café König",
+            "ref": "https://www.tasteatlas.com/CafeKonig",
+            "coord": [
+                [
+                    48.7601316,
+                    8.2401511
+                ]
+            ],
+            "website": "http://www.chocolatier.de/kh_koenig.php"
+        },
+        {
+            "category": "🍰",
+            "position": "91°",
+            "name": "Nannini",
+            "ref": "https://www.tasteatlas.com/Nannini",
+            "coord": [
+                [
+                    43.3201388,
+                    11.331189
+                ]
+            ],
+            "website": "http://www.pasticcerienannini.it"
+        },
+        {
+            "category": "🍰",
+            "position": "92°",
+            "name": "Gelateria Nico",
+            "ref": "https://www.tasteatlas.com/gelateria-nico",
+            "coord": [
+                [
+                    45.4296328,
+                    12.3260731
+                ]
+            ],
+            "website": "https://www.gelaterianico.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "93°",
+            "name": "Old Famous Jalebi Wala",
+            "ref": "https://www.tasteatlas.com/old-famous-jalebi-wala",
+            "coord": [
+                [
+                    28.6558247,
+                    77.23358259999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍰",
+            "position": "94°",
+            "name": "Vete-Katten",
+            "ref": "https://www.tasteatlas.com/VeteKatten",
+            "coord": [
+                [
+                    59.334112,
+                    18.058346
+                ]
+            ],
+            "website": "http://www.vetekatten.se"
+        },
+        {
+            "category": "🍰",
+            "position": "95°",
+            "name": "Maison Dandoy",
+            "ref": "https://www.tasteatlas.com/MaisonDandoy",
+            "coord": [
+                [
+                    50.846158,
+                    4.3519807
+                ]
+            ],
+            "website": "http://www.maisondandoy.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "96°",
+            "name": "Konditorei Buchwald",
+            "ref": "https://www.tasteatlas.com/KonditoreiBuchwald",
+            "coord": [
+                [
+                    52.521226,
+                    13.3476767
+                ]
+            ],
+            "website": "http://www.konditorei-buchwald.de"
+        },
+        {
+            "category": "🍰",
+            "position": "97°",
+            "name": "Confitería La Campana",
+            "ref": "https://www.tasteatlas.com/confiteria-la-campana",
+            "coord": [
+                [
+                    37.3910271,
+                    -5.994537
+                ]
+            ],
+            "website": "https://www.confiterialacampana.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "98°",
+            "name": "Ted's Bakery",
+            "ref": "https://www.tasteatlas.com/TedsBakery",
+            "coord": [
+                [
+                    21.67743805,
+                    -158.03638726058205
+                ]
+            ],
+            "website": "http://www.tedsbakery.com"
+        },
+        {
+            "category": "🍰",
+            "position": "99°",
+            "name": "Margie's Candies",
+            "ref": "https://www.tasteatlas.com/MargiesCandies",
+            "coord": [
+                [
+                    41.961427,
+                    -87.675
+                ]
+            ],
+            "website": "http://www.margiesfinecandies.com"
+        },
+        {
+            "category": "🍰",
+            "position": "100°",
+            "name": "Conditorei Sluka",
+            "ref": "https://www.tasteatlas.com/conditorei-sluka",
+            "coord": [
+                [
+                    48.2066576,
+                    16.3717684
+                ]
+            ],
+            "website": "https://www.sluka.at/&ts=1701884026561"
+        },
+        {
+            "category": "🍰",
+            "position": "101°",
+            "name": "Sankt Peders Bageri ",
+            "ref": "https://www.tasteatlas.com/SanktPedersBageri",
+            "coord": [
+                [
+                    55.6790932,
+                    12.5692407
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍰",
+            "position": "102°",
+            "name": "Caffè Fiorio",
+            "ref": "https://www.tasteatlas.com/caffe-fiorio",
+            "coord": [
+                [
+                    45.0694059,
+                    7.6881141
+                ]
+            ],
+            "website": "http://www.caffefiorio.it/"
+        },
+        {
+            "category": "🍰",
+            "position": "103°",
+            "name": "Baratti & Milano",
+            "ref": "https://www.tasteatlas.com/BarattiMilano",
+            "coord": [
+                [
+                    45.0707357,
+                    7.6848198
+                ]
+            ],
+            "website": "http://www.barattiemilano.it"
+        },
+        {
+            "category": "🍰",
+            "position": "104°",
+            "name": "Krinos",
+            "ref": "https://www.tasteatlas.com/krinos",
+            "coord": [
+                [
+                    37.9804078,
+                    23.7284482
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍰",
+            "position": "105°",
+            "name": "Lanskroon",
+            "ref": "https://www.tasteatlas.com/lanskroon",
+            "coord": [
+                [
+                    52.3687493,
+                    4.8882618
+                ]
+            ],
+            "website": "http://www.lanskroon.nl/"
+        },
+        {
+            "category": "🍰",
+            "position": "106°",
+            "name": "BeaverTails Rideau Canal",
+            "ref": "https://www.tasteatlas.com/BeavertailsRideauCanal",
+            "coord": [
+                [
+                    45.4273586,
+                    -75.6916904
+                ]
+            ],
+            "website": "http://www.beavertails.com"
+        },
+        {
+            "category": "🍰",
+            "position": "107°",
+            "name": "A.Blikle",
+            "ref": "https://www.tasteatlas.com/Ablikle",
+            "coord": [
+                [
+                    52.23378495,
+                    21.018311228260266
+                ]
+            ],
+            "website": "http://www.blikle.pl"
+        },
+        {
+            "category": "🍰",
+            "position": "108°",
+            "name": "Slaščičarna Zima",
+            "ref": "https://www.tasteatlas.com/SlascicarnaZima",
+            "coord": [
+                [
+                    46.3715308,
+                    14.1054774
+                ]
+            ],
+            "website": "https://slascicarna-zima.si/"
+        },
+        {
+            "category": "🍰",
+            "position": "109°",
+            "name": "Café Husaren",
+            "ref": "https://www.tasteatlas.com/cafe-husaren",
+            "coord": [
+                [
+                    57.6983825,
+                    11.9597489
+                ]
+            ],
+            "website": "http://www.cafehusaren.se/"
+        },
+        {
+            "category": "🍰",
+            "position": "110°",
+            "name": "Café Mozart",
+            "ref": "https://www.tasteatlas.com/cafemozartsalzburg",
+            "coord": [
+                [
+                    47.8000821,
+                    13.0426305
+                ]
+            ],
+            "website": "http://www.cafemozartsalzburg.at/en"
+        },
+        {
+            "category": "🍰",
+            "position": "111°",
+            "name": "Cafè de l'Òpera",
+            "ref": "https://www.tasteatlas.com/cafe-de-lopera",
+            "coord": [
+                [
+                    41.3809698,
+                    2.1737766
+                ]
+            ],
+            "website": "https://www.cafeoperabcn.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "112°",
+            "name": "Rikuro Ojisan",
+            "ref": "https://www.tasteatlas.com/rikuro-ojisan",
+            "coord": [
+                [
+                    34.6661368,
+                    135.5015647
+                ]
+            ],
+            "website": "http://www.rikuro.co.jp/shoplist/134.html"
+        },
+        {
+            "category": "🍰",
+            "position": "113°",
+            "name": "Du Pain et Des Idées",
+            "ref": "https://www.tasteatlas.com/DuPainEtDesIdees",
+            "coord": [
+                [
+                    48.871197,
+                    2.3628861
+                ]
+            ],
+            "website": "http://www.dupainetdesidees.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "114°",
+            "name": "Tai Cheong Bakery",
+            "ref": "https://www.tasteatlas.com/tai-cheong-bakery",
+            "coord": [
+                [
+                    22.282628,
+                    114.153578
+                ]
+            ],
+            "website": "http://www.taoheung.com"
+        },
+        {
+            "category": "🍰",
+            "position": "115°",
+            "name": "Euro Bar",
+            "ref": "https://www.tasteatlas.com/euro-bar",
+            "coord": [
+                [
+                    37.9662613,
+                    12.6503464
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍰",
+            "position": "116°",
+            "name": "Mihashi Ueno Honten",
+            "ref": "https://www.tasteatlas.com/MihashiUenoHonten",
+            "coord": [
+                [
+                    35.715837,
+                    139.7798051
+                ]
+            ],
+            "website": "http://www.mihashi.co.jp/"
+        },
+        {
+            "category": "🍰",
+            "position": "117°",
+            "name": "Kam Wah Cafe",
+            "ref": "https://www.tasteatlas.com/kam-wah-cafe",
+            "coord": [
+                [
+                    22.3222989,
+                    114.1697498
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍰",
+            "position": "118°",
+            "name": "Ross Bakery Inn",
+            "ref": "https://www.tasteatlas.com/ross-bakery-inn",
+            "coord": [
+                [
+                    -42.0289028,
+                    147.4926697
+                ]
+            ],
+            "website": "https://www.rossbakery.com.au/"
+        },
+        {
+            "category": "🍰",
+            "position": "119°",
+            "name": "Pasticceria Confetteria Cova",
+            "ref": "https://www.tasteatlas.com/PasticceriaConfetteriaCova",
+            "coord": [
+                [
+                    45.4681152,
+                    9.1955192
+                ]
+            ],
+            "website": "http://www.pasticceriacova.it"
+        },
+        {
+            "category": "🍰",
+            "position": "120°",
+            "name": "Auguszt Cukrászda",
+            "ref": "https://www.tasteatlas.com/AugusztCukraszda",
+            "coord": [
+                [
+                    47.4941714,
+                    19.0576938
+                ]
+            ],
+            "website": "http://www.augusztcukraszda.hu"
+        },
+        {
+            "category": "🍰",
+            "position": "121°",
+            "name": "Tsuruya Yoshinobu",
+            "ref": "https://www.tasteatlas.com/tsuruya-yoshinobu",
+            "coord": [
+                [
+                    35.0298519,
+                    135.751447
+                ]
+            ],
+            "website": "https://www.tsuruyayoshinobu.jp/"
+        },
+        {
+            "category": "🍰",
+            "position": "122°",
+            "name": "Pasticceria Marchesi",
+            "ref": "https://www.tasteatlas.com/PasticceriaMarchesi",
+            "coord": [
+                [
+                    45.4654862,
+                    9.1806527
+                ]
+            ],
+            "website": "http://www.pasticceriamarchesi.it"
+        },
+        {
+            "category": "🍰",
+            "position": "123°",
+            "name": "Bar Scimone",
+            "ref": "https://www.tasteatlas.com/bar-scimone",
+            "coord": [
+                [
+                    38.2061354,
+                    13.3251446
+                ]
+            ],
+            "website": "http://www.pasticceriascimone.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "124°",
+            "name": "Aux Merveilleux de Fred",
+            "ref": "https://www.tasteatlas.com/AuxMerveilleuxDeFred",
+            "coord": [
+                [
+                    48.8568586,
+                    2.2789417
+                ]
+            ],
+            "website": "http://www.auxmerveilleux.com/home_en"
+        },
+        {
+            "category": "🍰",
+            "position": "125°",
+            "name": "Maison Adam",
+            "ref": "https://www.tasteatlas.com/maison-adam",
+            "coord": [
+                [
+                    43.3890478,
+                    -1.6602981
+                ]
+            ],
+            "website": "https://www.maisonadam.fr/fr/"
+        },
+        {
+            "category": "🍰",
+            "position": "126°",
+            "name": "Gelateria Pepino",
+            "ref": "https://www.tasteatlas.com/gelateria-pepino",
+            "coord": [
+                [
+                    45.0690264,
+                    7.6845754
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍰",
+            "position": "127°",
+            "name": "Jindrak",
+            "ref": "https://www.tasteatlas.com/Jindrak",
+            "coord": [
+                [
+                    48.3023995,
+                    14.2998452
+                ]
+            ],
+            "website": "https://www.jindrak.at/"
+        },
+        {
+            "category": "🍰",
+            "position": "128°",
+            "name": "Konditorei Zauner",
+            "ref": "https://www.tasteatlas.com/konditorei-zauner",
+            "coord": [
+                [
+                    47.7108645,
+                    13.6218323
+                ]
+            ],
+            "website": "https://www.zauner.at"
+        },
+        {
+            "category": "🍰",
+            "position": "129°",
+            "name": "Casa Garcia",
+            "ref": "https://www.tasteatlas.com/casa-garcia",
+            "coord": [
+                [
+                    -23.5570456,
+                    -46.6587446
+                ]
+            ],
+            "website": "https://www.casagarciaimportadora.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "130°",
+            "name": "Pralus",
+            "ref": "https://www.tasteatlas.com/pralus",
+            "coord": [
+                [
+                    46.0363886,
+                    4.0708196
+                ]
+            ],
+            "website": "https://www.chocolats-pralus.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "131°",
+            "name": "Dominique Ansel Bakery",
+            "ref": "https://www.tasteatlas.com/DominiqueAnsel",
+            "coord": [
+                [
+                    40.725171,
+                    -74.00295
+                ]
+            ],
+            "website": "http://www.dominiqueansel.com"
+        },
+        {
+            "category": "🍰",
+            "position": "132°",
+            "name": "American Doughnut Kitchen",
+            "ref": "https://www.tasteatlas.com/american-doughnut-kitchen",
+            "coord": [
+                [
+                    -37.8071333,
+                    144.9581598
+                ]
+            ],
+            "website": "https://www.adk1950.com.au/"
+        },
+        {
+            "category": "🍰",
+            "position": "133°",
+            "name": "Casa Mira",
+            "ref": "https://www.tasteatlas.com/casa-mira",
+            "coord": [
+                [
+                    40.4164778,
+                    -3.699248
+                ]
+            ],
+            "website": "https://casamira.es"
+        },
+        {
+            "category": "🍰",
+            "position": "134°",
+            "name": "Toraya",
+            "ref": "https://www.tasteatlas.com/toraya",
+            "coord": [
+                [
+                    35.6748892,
+                    139.7338629
+                ]
+            ],
+            "website": "https://www.toraya-group.co.jp"
+        },
+        {
+            "category": "🍰",
+            "position": "135°",
+            "name": "Eitaro Sohonpo",
+            "ref": "https://www.tasteatlas.com/eitaro-sohonpo",
+            "coord": [
+                [
+                    35.6834314,
+                    139.7734732
+                ]
+            ],
+            "website": "https://www.eitaro.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "136°",
+            "name": "Slastičarnica Vincek",
+            "ref": "https://www.tasteatlas.com/SlasticarnicaVincek",
+            "coord": [
+                [
+                    45.81327865,
+                    15.97333518660228
+                ]
+            ],
+            "website": "http://www.vincek.com.hr/en/"
+        },
+        {
+            "category": "🍰",
+            "position": "137°",
+            "name": "Maison Auer",
+            "ref": "https://www.tasteatlas.com/maison-auer",
+            "coord": [
+                [
+                    43.6958354,
+                    7.2724892
+                ]
+            ],
+            "website": "https://www.maison-auer.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "138°",
+            "name": "El Riojano",
+            "ref": "https://www.tasteatlas.com/ElRiojano",
+            "coord": [
+                [
+                    40.4164726,
+                    -3.7060265
+                ]
+            ],
+            "website": "http://www.confiteriaelriojano.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "139°",
+            "name": "La Tarte Tropézienne",
+            "ref": "https://www.tasteatlas.com/la-tarte-tropezienne",
+            "coord": [
+                [
+                    43.2701765,
+                    6.6409468
+                ]
+            ],
+            "website": "https://www.latartetropezienne.fr/fr/"
+        },
+        {
+            "category": "🍰",
+            "position": "140°",
+            "name": "Ginza Kimuraya",
+            "ref": "https://www.tasteatlas.com/GinzaKimuraya",
+            "coord": [
+                [
+                    35.6712864,
+                    139.7657382
+                ]
+            ],
+            "website": "http://www.kimuraya-sohonten.co.jp/"
+        },
+        {
+            "category": "🍰",
+            "position": "141°",
+            "name": "Akasaka Aono",
+            "ref": "https://www.tasteatlas.com/akasaka-aono",
+            "coord": [
+                [
+                    35.6691356,
+                    139.7320701
+                ]
+            ],
+            "website": "https://akasaka-aono.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "142°",
+            "name": "Izutsu Yatsuhashi Honpo",
+            "ref": "https://www.tasteatlas.com/IzutsuYatsuhashiHonpo",
+            "coord": [
+                [
+                    35.004735100000005,
+                    135.7723352158161
+                ]
+            ],
+            "website": "http://www.yatsuhashi.co.jp/"
+        },
+        {
+            "category": "🍰",
+            "position": "143°",
+            "name": "Morihachi",
+            "ref": "https://www.tasteatlas.com/morihachi",
+            "coord": [
+                [
+                    36.5693532,
+                    136.6639456
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍰",
+            "position": "144°",
+            "name": "Bashodo",
+            "ref": "https://www.tasteatlas.com/Bashodo",
+            "coord": [
+                [
+                    34.7047335,
+                    135.49069
+                ]
+            ],
+            "website": "http://www.bashoudo.com/english/index.html"
+        },
+        {
+            "category": "🍰",
+            "position": "145°",
+            "name": "Magnolia Bakery",
+            "ref": "https://www.tasteatlas.com/MagnoliaBakery",
+            "coord": [
+                [
+                    40.7358879,
+                    -74.005
+                ]
+            ],
+            "website": "http://www.magnoliabakery.com"
+        },
+        {
+            "category": "🍰",
+            "position": "146°",
+            "name": "Daoxiangcun",
+            "ref": "https://www.tasteatlas.com/daoxiangcun",
+            "coord": [
+                [
+                    39.939894,
+                    116.4191492
+                ]
+            ],
+            "website": "http://www.daoxiangcun.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "147°",
+            "name": "Koi Kei Bakery",
+            "ref": "https://www.tasteatlas.com/koi-kei-bakery",
+            "coord": [
+                [
+                    22.1947187,
+                    113.5375132
+                ]
+            ],
+            "website": "http://www.koikei.com/index.php"
+        },
+        {
+            "category": "🍰",
+            "position": "148°",
+            "name": "Takemura",
+            "ref": "https://www.tasteatlas.com/takemura",
+            "coord": [
+                [
+                    35.6966267,
+                    139.7689761
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍰",
+            "position": "149°",
+            "name": "La King's Confectionery",
+            "ref": "https://www.tasteatlas.com/la-kings-confectionery",
+            "coord": [
+                [
+                    29.3066557,
+                    -94.79518327224888
+                ]
+            ],
+            "website": "https://lakingsconfectionery.com/"
+        },
+        {
+            "category": "🍰",
+            "position": "150°",
+            "name": "Confeitaria Nacional",
+            "ref": "https://www.tasteatlas.com/ConfeitariaNacional",
+            "coord": [
+                [
+                    38.7131861,
+                    -9.1379474
+                ]
+            ],
+            "website": "http://www.confeitarianacional.com/pt/"
+        }
+    ]
+}

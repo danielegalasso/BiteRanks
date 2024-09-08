@@ -1,0 +1,1941 @@
+{
+    "Most Legendary Restaurants 23/24": [
+        {
+            "category": "🍽️",
+            "position": "1°",
+            "name": "Figlmüller",
+            "ref": "https://www.tasteatlas.com/Figlmuller",
+            "coord": [
+                [
+                    48.2092948,
+                    16.3755253
+                ]
+            ],
+            "website": "http://www.figlmueller.at"
+        },
+        {
+            "category": "🍽️",
+            "position": "2°",
+            "name": "L'Antica Pizzeria da Michele",
+            "ref": "https://www.tasteatlas.com/LanticaPizzeriaDaMichele",
+            "coord": [
+                [
+                    40.8497493,
+                    14.263352
+                ]
+            ],
+            "website": "http://www.damichele.net"
+        },
+        {
+            "category": "🍽️",
+            "position": "3°",
+            "name": "Hofbräuhaus München",
+            "ref": "https://www.tasteatlas.com/HofbrauhausMunchen",
+            "coord": [
+                [
+                    48.1376334,
+                    11.5799788
+                ]
+            ],
+            "website": "http://www.hofbraeuhaus.de"
+        },
+        {
+            "category": "🍽️",
+            "position": "4°",
+            "name": "Gino e Toto Sorbillo",
+            "ref": "https://www.tasteatlas.com/GinoeTotoSorbillo",
+            "coord": [
+                [
+                    40.8503878,
+                    14.2553401
+                ]
+            ],
+            "website": "http://www.sorbillo.it"
+        },
+        {
+            "category": "🍽️",
+            "position": "5°",
+            "name": "Paragon Restaurant",
+            "ref": "https://www.tasteatlas.com/paragon-restaurant",
+            "coord": [
+                [
+                    11.2702991,
+                    75.7761267
+                ]
+            ],
+            "website": "https://www.paragonrestaurant.net/"
+        },
+        {
+            "category": "🍽️",
+            "position": "6°",
+            "name": "Tunday Kababi",
+            "ref": "https://www.tasteatlas.com/tundaykababi",
+            "coord": [
+                [
+                    26.8483062,
+                    80.9272325
+                ]
+            ],
+            "website": "https://www.tundaykababi.com/"
+        },
+        {
+            "category": "🍽️",
+            "position": "7°",
+            "name": "Café de Tacuba",
+            "ref": "https://www.tasteatlas.com/CafeDeTacuba",
+            "coord": [
+                [
+                    19.4358935,
+                    -99.1375946
+                ]
+            ],
+            "website": "http://www.cafedetacuba.com.mx"
+        },
+        {
+            "category": "🍽️",
+            "position": "8°",
+            "name": "Trattoria Vecchia Roma",
+            "ref": "https://www.tasteatlas.com/TrattoriaVecchiaRoma",
+            "coord": [
+                [
+                    41.8930143,
+                    12.5035046
+                ]
+            ],
+            "website": "http://www.trattoriavecchiaroma.it"
+        },
+        {
+            "category": "🍽️",
+            "position": "9°",
+            "name": "Warung Mak Beng",
+            "ref": "https://www.tasteatlas.com/WarungMakBeng",
+            "coord": [
+                [
+                    -8.673840799999999,
+                    115.2620649
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "10°",
+            "name": "Peter Cat",
+            "ref": "https://www.tasteatlas.com/PeterCat",
+            "coord": [
+                [
+                    22.5529683,
+                    88.3523337
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "11°",
+            "name": "Katz's Delicatessen",
+            "ref": "https://www.tasteatlas.com/KatzsDelicatessen",
+            "coord": [
+                [
+                    40.7223431,
+                    -73.987353
+                ]
+            ],
+            "website": "http://www.katzsdelicatessen.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "12°",
+            "name": "Karne Garibaldi Santa Tere",
+            "ref": "https://www.tasteatlas.com/karne-garibaldi-santa-tere",
+            "coord": [
+                [
+                    20.6814288,
+                    -103.3663817
+                ]
+            ],
+            "website": "http://www.karnegaribaldi.com.mx/"
+        },
+        {
+            "category": "🍽️",
+            "position": "13°",
+            "name": "El Pimpi",
+            "ref": "https://www.tasteatlas.com/el-pimpi",
+            "coord": [
+                [
+                    36.72179735,
+                    -4.418042141368408
+                ]
+            ],
+            "website": "https://elpimpi.com/"
+        },
+        {
+            "category": "🍽️",
+            "position": "14°",
+            "name": "La Fonda Del Tío",
+            "ref": "https://www.tasteatlas.com/LaFondaDelTio",
+            "coord": [
+                [
+                    -41.135009600000004,
+                    -71.2935821183205
+                ]
+            ],
+            "website": "http://www.lafondadeltio.com.ar"
+        },
+        {
+            "category": "🍽️",
+            "position": "15°",
+            "name": "Hyman's Seafood",
+            "ref": "https://www.tasteatlas.com/HymansSeafood",
+            "coord": [
+                [
+                    32.78354578520475,
+                    -79.93196769468467
+                ]
+            ],
+            "website": "http://www.hymanseafood.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "16°",
+            "name": "Amrik Sukhdev",
+            "ref": "https://www.tasteatlas.com/AmrikSukhdev",
+            "coord": [
+                [
+                    29.0311473,
+                    77.0730186
+                ]
+            ],
+            "website": "https://www.amriksukhdev.com/?fbclid=IwAR3sc2con7p2TMquENfeXDiDzmiCrVW32fZAj9rOupMt91hpyrGr3ZPYyHc"
+        },
+        {
+            "category": "🍽️",
+            "position": "17°",
+            "name": "Casa Labra",
+            "ref": "https://www.tasteatlas.com/CasaLabra",
+            "coord": [
+                [
+                    40.4171759,
+                    -3.7046191
+                ]
+            ],
+            "website": "http://www.casalabra.es/en"
+        },
+        {
+            "category": "🍽️",
+            "position": "18°",
+            "name": "Peter Luger Steak House",
+            "ref": "https://www.tasteatlas.com/PeterLugerSteakHouse",
+            "coord": [
+                [
+                    40.7098661,
+                    -73.9625564
+                ]
+            ],
+            "website": "http://www.peterluger.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "19°",
+            "name": "Bouillon Chartier",
+            "ref": "https://www.tasteatlas.com/le-bouillon-chartier",
+            "coord": [
+                [
+                    48.8719356,
+                    2.3430137
+                ]
+            ],
+            "website": "http://www.bouillon-chartier.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "20°",
+            "name": "Din Tai Fung",
+            "ref": "https://www.tasteatlas.com/din-tai-fung-xinyi-restaurant",
+            "coord": [
+                [
+                    25.0335035,
+                    121.530118
+                ]
+            ],
+            "website": "https://www.dintaifung.com.tw/"
+        },
+        {
+            "category": "🍽️",
+            "position": "21°",
+            "name": "Bolsi",
+            "ref": "https://www.tasteatlas.com/bolsi",
+            "coord": [
+                [
+                    -25.2822888,
+                    -57.636156592049474
+                ]
+            ],
+            "website": "http://www.bolsi.com.py/"
+        },
+        {
+            "category": "🍽️",
+            "position": "22°",
+            "name": "Caru' cu Bere",
+            "ref": "https://www.tasteatlas.com/caru-cu-bere",
+            "coord": [
+                [
+                    44.4320009,
+                    26.0981059
+                ]
+            ],
+            "website": "http://www.carucubere.ro/en/"
+        },
+        {
+            "category": "🍽️",
+            "position": "23°",
+            "name": "Pizzeria Starita a Materdei",
+            "ref": "https://www.tasteatlas.com/PizzeriaStaritaaMaterdei",
+            "coord": [
+                [
+                    40.8560589,
+                    14.2471909
+                ]
+            ],
+            "website": "http://www.pizzeriestarita.it"
+        },
+        {
+            "category": "🍽️",
+            "position": "24°",
+            "name": "Hibiya Matsumotoro",
+            "ref": "https://www.tasteatlas.com/hibiya-matsumotoro",
+            "coord": [
+                [
+                    35.6739515,
+                    139.7570638
+                ]
+            ],
+            "website": "http://www.matsumotoro.co.jp/"
+        },
+        {
+            "category": "🍽️",
+            "position": "25°",
+            "name": "Au Pied de Cochon",
+            "ref": "https://www.tasteatlas.com/AuPiedDeCochon-Paris",
+            "coord": [
+                [
+                    48.8634867,
+                    2.3437202
+                ]
+            ],
+            "website": "https://www.pieddecochon.com/"
+        },
+        {
+            "category": "🍽️",
+            "position": "26°",
+            "name": "Joe's Stone Crab",
+            "ref": "https://www.tasteatlas.com/JoesStoneCrab",
+            "coord": [
+                [
+                    25.7680806,
+                    -80.1353611
+                ]
+            ],
+            "website": "http://www.joesstonecrab.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "27°",
+            "name": "El Rinconcillo",
+            "ref": "https://www.tasteatlas.com/ElRinconcillo",
+            "coord": [
+                [
+                    37.3946735,
+                    -5.9900106
+                ]
+            ],
+            "website": "http://www.elrinconcillo.es/en/"
+        },
+        {
+            "category": "🍽️",
+            "position": "28°",
+            "name": "İmam Çağdaş Kebap ve Baklava Salonu",
+            "ref": "https://www.tasteatlas.com/ImamCagdasKebapVeBaklavaSalonu",
+            "coord": [
+                [
+                    37.065953,
+                    37.37811
+                ]
+            ],
+            "website": "http://www.imamcagdas.com/"
+        },
+        {
+            "category": "🍽️",
+            "position": "29°",
+            "name": "Zeughauskeller",
+            "ref": "https://www.tasteatlas.com/zeughauskeller",
+            "coord": [
+                [
+                    47.3702045,
+                    8.5396981
+                ]
+            ],
+            "website": "http://www.zeughauskeller.ch"
+        },
+        {
+            "category": "🍽️",
+            "position": "30°",
+            "name": "Café Imperial",
+            "ref": "https://www.tasteatlas.com/CafeImperial",
+            "coord": [
+                [
+                    50.0898184,
+                    14.4326505
+                ]
+            ],
+            "website": "http://www.cafeimperial.cz"
+        },
+        {
+            "category": "🍽️",
+            "position": "31°",
+            "name": "Güerrin",
+            "ref": "https://www.tasteatlas.com/Guerrin",
+            "coord": [
+                [
+                    -34.6041048,
+                    -58.3859945
+                ]
+            ],
+            "website": "http://www.pizzeriaguerrin.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "32°",
+            "name": "Mavalli Tiffin Rooms",
+            "ref": "https://www.tasteatlas.com/MavalliTiffinRooms",
+            "coord": [
+                [
+                    12.9628968,
+                    77.5904067
+                ]
+            ],
+            "website": "http://www.mavallitiffinrooms.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "33°",
+            "name": "Café Santiago",
+            "ref": "https://www.tasteatlas.com/CafeSantiago",
+            "coord": [
+                [
+                    41.14643115,
+                    -8.604772048682687
+                ]
+            ],
+            "website": "https://cafesantiago.pt/"
+        },
+        {
+            "category": "🍽️",
+            "position": "34°",
+            "name": "Quanjude Roast Duck ",
+            "ref": "https://www.tasteatlas.com/QuanjudeRoastDuck",
+            "coord": [
+                [
+                    39.8952903,
+                    116.3921168
+                ]
+            ],
+            "website": "http://quanjude.com.cn/"
+        },
+        {
+            "category": "🍽️",
+            "position": "35°",
+            "name": "Union Oyster House",
+            "ref": "https://www.tasteatlas.com/UnionOysterHouse",
+            "coord": [
+                [
+                    42.3612749,
+                    -71.0569532
+                ]
+            ],
+            "website": "http://www.unionoysterhouse.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "36°",
+            "name": "Adega das Gravatas",
+            "ref": "https://www.tasteatlas.com/AdegaDasGravatas",
+            "coord": [
+                [
+                    38.7605031,
+                    -9.1877489
+                ]
+            ],
+            "website": "http://www.adegadasgravatas.com/"
+        },
+        {
+            "category": "🍽️",
+            "position": "37°",
+            "name": "Zehnder's of Frankenmuth",
+            "ref": "https://www.tasteatlas.com/zehnders-of-frankenmuth",
+            "coord": [
+                [
+                    43.3270507,
+                    -83.7407453
+                ]
+            ],
+            "website": "https://www.zehnders.com/"
+        },
+        {
+            "category": "🍽️",
+            "position": "38°",
+            "name": "Mother’s Restaurant",
+            "ref": "https://www.tasteatlas.com/MothersRestaurant",
+            "coord": [
+                [
+                    29.9490291,
+                    -90.0671781
+                ]
+            ],
+            "website": "http://www.mothersrestaurant.net"
+        },
+        {
+            "category": "🍽️",
+            "position": "39°",
+            "name": "Uludağ Kebapçısı Cemal & Cemil Usta",
+            "ref": "https://www.tasteatlas.com/uludag-kebapcs-cemal-cemil-usta",
+            "coord": [
+                [
+                    40.2000016,
+                    29.05251999999999
+                ]
+            ],
+            "website": "http://www.uludagkebapcisi.com/"
+        },
+        {
+            "category": "🍽️",
+            "position": "40°",
+            "name": "Brasserie Georges",
+            "ref": "https://www.tasteatlas.com/brasserie-georges",
+            "coord": [
+                [
+                    45.7483905,
+                    4.8283953
+                ]
+            ],
+            "website": "https://www.brasseriegeorges.com/en/"
+        },
+        {
+            "category": "🍽️",
+            "position": "41°",
+            "name": "Antica Pizzeria e Friggitoria Di Matteo",
+            "ref": "https://www.tasteatlas.com/AnticaPizzeriaFriggitoriaMatteo",
+            "coord": [
+                [
+                    40.8512861,
+                    14.2580195
+                ]
+            ],
+            "website": "http://www.pizzeriadimatteo.com/"
+        },
+        {
+            "category": "🍽️",
+            "position": "42°",
+            "name": "Commander's Palace",
+            "ref": "https://www.tasteatlas.com/CommandersPalace",
+            "coord": [
+                [
+                    29.928834000000002,
+                    -90.08421321729598
+                ]
+            ],
+            "website": "http://www.commanderspalace.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "43°",
+            "name": "7 Mehmet",
+            "ref": "https://www.tasteatlas.com/7-mehmet",
+            "coord": [
+                [
+                    36.8785177,
+                    30.6616616
+                ]
+            ],
+            "website": "http://www.7mehmet.com/"
+        },
+        {
+            "category": "🍽️",
+            "position": "44°",
+            "name": "Restaurante Botín",
+            "ref": "https://www.tasteatlas.com/RestauranteBotin",
+            "coord": [
+                [
+                    40.4141745,
+                    -3.707981
+                ]
+            ],
+            "website": "http://www.botin.es"
+        },
+        {
+            "category": "🍽️",
+            "position": "45°",
+            "name": "Früh am Dom",
+            "ref": "https://www.tasteatlas.com/FruhAmDom",
+            "coord": [
+                [
+                    50.9398402,
+                    6.9598283
+                ]
+            ],
+            "website": "https://www.frueh-gastronomie.com/"
+        },
+        {
+            "category": "🍽️",
+            "position": "46°",
+            "name": "Tri Šešira",
+            "ref": "https://www.tasteatlas.com/tri-sesira",
+            "coord": [
+                [
+                    44.8181486,
+                    20.46461608698418
+                ]
+            ],
+            "website": "http://www.trisesira.rs/"
+        },
+        {
+            "category": "🍽️",
+            "position": "47°",
+            "name": "Hanu' lui Manuc",
+            "ref": "https://www.tasteatlas.com/hanu-lui-manuc",
+            "coord": [
+                [
+                    44.4298321,
+                    26.1014166
+                ]
+            ],
+            "website": "https://www.hanumanucrestaurant.ro/ro/"
+        },
+        {
+            "category": "🍽️",
+            "position": "48°",
+            "name": "Thipsamai ",
+            "ref": "https://www.tasteatlas.com/ThipSamai",
+            "coord": [
+                [
+                    13.75275,
+                    100.5048336
+                ]
+            ],
+            "website": "https://thipsamai.com/"
+        },
+        {
+            "category": "🍽️",
+            "position": "49°",
+            "name": "The Salt Lick BBQ",
+            "ref": "https://www.tasteatlas.com/TheSaltLickBbq",
+            "coord": [
+                [
+                    30.1316265,
+                    -98.0132653
+                ]
+            ],
+            "website": "http://www.saltlickbbq.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "50°",
+            "name": "La Pepica",
+            "ref": "https://www.tasteatlas.com/LaPepica",
+            "coord": [
+                [
+                    39.4633865,
+                    -0.32323444437482696
+                ]
+            ],
+            "website": "http://www.lapepica.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "51°",
+            "name": "Felice a Testaccio",
+            "ref": "https://www.tasteatlas.com/FeliceATestaccio",
+            "coord": [
+                [
+                    41.8785014,
+                    12.4774658
+                ]
+            ],
+            "website": "http://www.feliceatestaccio.it/"
+        },
+        {
+            "category": "🍽️",
+            "position": "52°",
+            "name": "El Cuartito",
+            "ref": "https://www.tasteatlas.com/ElCuartito",
+            "coord": [
+                [
+                    -34.5978238,
+                    -58.385465
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "53°",
+            "name": "Café Iruña",
+            "ref": "https://www.tasteatlas.com/CafeIruna",
+            "coord": [
+                [
+                    43.2624606,
+                    -2.928092
+                ]
+            ],
+            "website": "http://www.cafeirunabilbao.net/"
+        },
+        {
+            "category": "🍽️",
+            "position": "54°",
+            "name": "Ippudo Daimyo",
+            "ref": "https://www.tasteatlas.com/ippudodaimyo",
+            "coord": [
+                [
+                    33.587776,
+                    130.3958056
+                ]
+            ],
+            "website": "www.ippudo.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "55°",
+            "name": "Chez Leon",
+            "ref": "https://www.tasteatlas.com/chez-leon",
+            "coord": [
+                [
+                    50.8482061,
+                    4.3540603
+                ]
+            ],
+            "website": "http://www.chezleon.be/en/"
+        },
+        {
+            "category": "🍽️",
+            "position": "56°",
+            "name": "Don Julio",
+            "ref": "https://www.tasteatlas.com/DonJulio",
+            "coord": [
+                [
+                    -34.5863225,
+                    -58.4243297
+                ]
+            ],
+            "website": "http://www.parrilladonjulio.com.ar"
+        },
+        {
+            "category": "🍽️",
+            "position": "57°",
+            "name": "Schwartz's",
+            "ref": "https://www.tasteatlas.com/Schwartzs",
+            "coord": [
+                [
+                    45.5163277,
+                    -73.5776499
+                ]
+            ],
+            "website": "http://www.schwartzsdeli.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "58°",
+            "name": "Le Procope",
+            "ref": "https://www.tasteatlas.com/LeProcope",
+            "coord": [
+                [
+                    48.8530058,
+                    2.3387359
+                ]
+            ],
+            "website": "http://www.procope.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "59°",
+            "name": "Taberna Gandarias",
+            "ref": "https://www.tasteatlas.com/TabernaGandarias",
+            "coord": [
+                [
+                    43.3239936,
+                    -1.9858221
+                ]
+            ],
+            "website": "http://www.restaurantegandarias.com/"
+        },
+        {
+            "category": "🍽️",
+            "position": "60°",
+            "name": "Yoshizuka Unagi",
+            "ref": "https://www.tasteatlas.com/yoshizuka-unagi",
+            "coord": [
+                [
+                    33.600004,
+                    130.4087186
+                ]
+            ],
+            "website": "http://yoshizukaunagi.com/"
+        },
+        {
+            "category": "🍽️",
+            "position": "61°",
+            "name": "Galindo",
+            "ref": "https://www.tasteatlas.com/galindo",
+            "coord": [
+                [
+                    -33.4331379,
+                    -70.6349131
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "62°",
+            "name": "Ćevabdžinica Željo",
+            "ref": "https://www.tasteatlas.com/Zeljo",
+            "coord": [
+                [
+                    43.8581711,
+                    18.4291424
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "63°",
+            "name": "Koshary Abou Tarek",
+            "ref": "https://www.tasteatlas.com/KosharyAbouTarek",
+            "coord": [
+                [
+                    30.0502864,
+                    31.2374608
+                ]
+            ],
+            "website": "https://www.koshariaboutarek.com/"
+        },
+        {
+            "category": "🍽️",
+            "position": "64°",
+            "name": "The Ivy",
+            "ref": "https://www.tasteatlas.com/the-ivy",
+            "coord": [
+                [
+                    51.5131063,
+                    -0.1283016
+                ]
+            ],
+            "website": "http://www.the-ivy.co.uk"
+        },
+        {
+            "category": "🍽️",
+            "position": "65°",
+            "name": "Can Culleretes",
+            "ref": "https://www.tasteatlas.com/can-culleretes",
+            "coord": [
+                [
+                    41.381215,
+                    2.1744185
+                ]
+            ],
+            "website": "https://www.culleretes.com/en/"
+        },
+        {
+            "category": "🍽️",
+            "position": "66°",
+            "name": "El Bolivariano",
+            "ref": "https://www.tasteatlas.com/el-bolivariano",
+            "coord": [
+                [
+                    -12.0766207,
+                    -77.0639648
+                ]
+            ],
+            "website": "https://elbolivariano.net/"
+        },
+        {
+            "category": "🍽️",
+            "position": "67°",
+            "name": "Senoji Kibininė",
+            "ref": "https://www.tasteatlas.com/SenojiKibinine",
+            "coord": [
+                [
+                    54.650991,
+                    24.9239825
+                ]
+            ],
+            "website": "http://www.kibinas.lt"
+        },
+        {
+            "category": "🍽️",
+            "position": "68°",
+            "name": "Churrascaria Palace",
+            "ref": "https://www.tasteatlas.com/churrascaria-palace",
+            "coord": [
+                [
+                    -22.9666838,
+                    -43.1784714
+                ]
+            ],
+            "website": "https://www.churrascariapalace.com.br/en"
+        },
+        {
+            "category": "🍽️",
+            "position": "69°",
+            "name": "Los Panchos",
+            "ref": "https://www.tasteatlas.com/LosPanchos",
+            "coord": [
+                [
+                    19.4251834,
+                    -99.1776179
+                ]
+            ],
+            "website": "http://www.lospanchos.mx"
+        },
+        {
+            "category": "🍽️",
+            "position": "70°",
+            "name": "Kiskőrössy Halászcsárda",
+            "ref": "https://www.tasteatlas.com/kiskorossy-halaszcsarda",
+            "coord": [
+                [
+                    46.256264599999994,
+                    20.180319284307863
+                ]
+            ],
+            "website": "http://www.kiskorossyhalaszcsarda.hu/"
+        },
+        {
+            "category": "🍽️",
+            "position": "71°",
+            "name": "U Fleků",
+            "ref": "https://www.tasteatlas.com/UFleku",
+            "coord": [
+                [
+                    50.0788978,
+                    14.4169761
+                ]
+            ],
+            "website": "http://www.en.ufleku.cz"
+        },
+        {
+            "category": "🍽️",
+            "position": "72°",
+            "name": "El Faro de Cádiz",
+            "ref": "https://www.tasteatlas.com/el-faro-de-cadiz",
+            "coord": [
+                [
+                    36.5285829,
+                    -6.3038181
+                ]
+            ],
+            "website": "https://www.elfarodecadiz.com/"
+        },
+        {
+            "category": "🍽️",
+            "position": "73°",
+            "name": "Birreria Las 9 Esquinas",
+            "ref": "https://www.tasteatlas.com/BirreriaLas9Esquinas",
+            "coord": [
+                [
+                    20.670724,
+                    -103.3484635
+                ]
+            ],
+            "website": "http://www.las9esquinas.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "74°",
+            "name": "Tarihi Sultanahmet Köftecisi Selim Usta",
+            "ref": "https://www.tasteatlas.com/TarihiSultanahmetKoftecisiSelimUsta",
+            "coord": [
+                [
+                    41.0080137,
+                    28.9765723
+                ]
+            ],
+            "website": "http://sultanahmetkoftesi.com/"
+        },
+        {
+            "category": "🍽️",
+            "position": "75°",
+            "name": "Bratwursthäusle",
+            "ref": "https://www.tasteatlas.com/Bratwursthausle",
+            "coord": [
+                [
+                    49.45501,
+                    11.076654716888964
+                ]
+            ],
+            "website": "https://bratwursthaeuslenuernberg.de/"
+        },
+        {
+            "category": "🍽️",
+            "position": "76°",
+            "name": "Jumbo Seafood",
+            "ref": "https://www.tasteatlas.com/JumboSeafood",
+            "coord": [
+                [
+                    1.3052353,
+                    103.9234317
+                ]
+            ],
+            "website": "http://www.jumboseafood.com.sg/en/home"
+        },
+        {
+            "category": "🍽️",
+            "position": "77°",
+            "name": "Trattoria della Gigina",
+            "ref": "https://www.tasteatlas.com/TrattoriaDellaGigina",
+            "coord": [
+                [
+                    44.5378807,
+                    11.3581745
+                ]
+            ],
+            "website": "http://www.trattoriagigina.it"
+        },
+        {
+            "category": "🍽️",
+            "position": "78°",
+            "name": "Pod Aniołami",
+            "ref": "https://www.tasteatlas.com/PodAniolami",
+            "coord": [
+                [
+                    50.0582799,
+                    19.9378615
+                ]
+            ],
+            "website": "http://www.podaniolami.pl"
+        },
+        {
+            "category": "🍽️",
+            "position": "79°",
+            "name": "Bärenwirt",
+            "ref": "https://www.tasteatlas.com/barenwirt",
+            "coord": [
+                [
+                    47.805928,
+                    13.0358349
+                ]
+            ],
+            "website": "http://baerenwirt-salzburg.at/"
+        },
+        {
+            "category": "🍽️",
+            "position": "80°",
+            "name": "El Rey del Cabrito",
+            "ref": "https://www.tasteatlas.com/ElReyDelCabrito",
+            "coord": [
+                [
+                    25.671696,
+                    -100.3475937
+                ]
+            ],
+            "website": "http://www.reydelcabrito.com/"
+        },
+        {
+            "category": "🍽️",
+            "position": "81°",
+            "name": "Pequod's Pizza",
+            "ref": "https://www.tasteatlas.com/PequodsPizza",
+            "coord": [
+                [
+                    41.9219536,
+                    -87.6643402
+                ]
+            ],
+            "website": "http://www.pequodspizza.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "82°",
+            "name": "Trattoria Mario",
+            "ref": "https://www.tasteatlas.com/TrattoriaMario",
+            "coord": [
+                [
+                    43.7765732,
+                    11.2545438
+                ]
+            ],
+            "website": "http://www.trattoria-mario.com/"
+        },
+        {
+            "category": "🍽️",
+            "position": "83°",
+            "name": "Karim's",
+            "ref": "https://www.tasteatlas.com/Karims",
+            "coord": [
+                [
+                    28.6516128,
+                    77.23548590000001
+                ]
+            ],
+            "website": "https://karimhotels.com/"
+        },
+        {
+            "category": "🍽️",
+            "position": "84°",
+            "name": "Woo Lae Oak",
+            "ref": "https://www.tasteatlas.com/woo-lae-oak",
+            "coord": [
+                [
+                    37.5680711,
+                    126.9987424
+                ]
+            ],
+            "website": "http://xn--9d0bz8qk7l3pa98cozb.com/index.php"
+        },
+        {
+            "category": "🍽️",
+            "position": "85°",
+            "name": "Musso & Frank Grill",
+            "ref": "https://www.tasteatlas.com/MussoFrankGrill",
+            "coord": [
+                [
+                    34.101763,
+                    -118.3350264
+                ]
+            ],
+            "website": "http://www.mussoandfrank.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "86°",
+            "name": "La Puerta Falsa",
+            "ref": "https://www.tasteatlas.com/LaPuertaFalsa",
+            "coord": [
+                [
+                    4.6351945,
+                    -74.1222423
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "87°",
+            "name": "El Cardenal",
+            "ref": "https://www.tasteatlas.com/ElCardenal",
+            "coord": [
+                [
+                    19.4336275,
+                    -99.1352776
+                ]
+            ],
+            "website": "http://www.restauranteelcardenal.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "88°",
+            "name": "Zahid Nihari",
+            "ref": "https://www.tasteatlas.com/ZahidNihari",
+            "coord": [
+                [
+                    24.8754553,
+                    67.0622382
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "89°",
+            "name": "Pho Thin",
+            "ref": "https://www.tasteatlas.com/pho-thin",
+            "coord": [
+                [
+                    21.0181784,
+                    105.8553
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "90°",
+            "name": "Caesar's",
+            "ref": "https://www.tasteatlas.com/caesars",
+            "coord": [
+                [
+                    32.5273584,
+                    -117.0360692
+                ]
+            ],
+            "website": "http://www.caesarstijuana.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "91°",
+            "name": "Le Relais de l'Entrecote",
+            "ref": "https://www.tasteatlas.com/LeRelaisDeLentrecote",
+            "coord": [
+                [
+                    48.8424846,
+                    2.3287275
+                ]
+            ],
+            "website": "http://www.relaisentrecote.fr"
+        },
+        {
+            "category": "🍽️",
+            "position": "92°",
+            "name": "Da Enzo al 29",
+            "ref": "https://www.tasteatlas.com/da-enzo",
+            "coord": [
+                [
+                    41.8880864,
+                    12.477807
+                ]
+            ],
+            "website": "http://www.daenzoal29.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "93°",
+            "name": "Café du Soleil",
+            "ref": "https://www.tasteatlas.com/CafeDuSoleil",
+            "coord": [
+                [
+                    46.2232246,
+                    6.1276823
+                ]
+            ],
+            "website": "http://www.cafedusoleil.ch"
+        },
+        {
+            "category": "🍽️",
+            "position": "94°",
+            "name": "Antica Bottega Del Vino",
+            "ref": "https://www.tasteatlas.com/antica-bottega-del-vino",
+            "coord": [
+                [
+                    45.4416794,
+                    10.9972343
+                ]
+            ],
+            "website": "http://www.bottegavini.it/"
+        },
+        {
+            "category": "🍽️",
+            "position": "95°",
+            "name": "La Bodeguita Del Medio",
+            "ref": "https://www.tasteatlas.com/LaBodeguitaDelMedio",
+            "coord": [
+                [
+                    23.1401831,
+                    -82.3543689
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "96°",
+            "name": "Bannai Shokudo",
+            "ref": "https://www.tasteatlas.com/bannai-shokudo",
+            "coord": [
+                [
+                    37.651059,
+                    139.8734629
+                ]
+            ],
+            "website": "http://shop.bannaisyokudou.jp/"
+        },
+        {
+            "category": "🍽️",
+            "position": "97°",
+            "name": "The Brazen Head",
+            "ref": "https://www.tasteatlas.com/TheBrazenHead",
+            "coord": [
+                [
+                    53.3416586,
+                    -6.2289943
+                ]
+            ],
+            "website": "http://www.brazenhead.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "98°",
+            "name": "Restaurante Yemanjá",
+            "ref": "https://www.tasteatlas.com/restaurante-yemanja",
+            "coord": [
+                [
+                    -12.9921282,
+                    -38.4389163
+                ]
+            ],
+            "website": "http://www.restauranteyemanja.com.br/"
+        },
+        {
+            "category": "🍽️",
+            "position": "99°",
+            "name": "Roscioli",
+            "ref": "https://www.tasteatlas.com/Roscioli",
+            "coord": [
+                [
+                    41.8944211,
+                    12.4737299
+                ]
+            ],
+            "website": "http://www.salumeriaroscioli.com/"
+        },
+        {
+            "category": "🍽️",
+            "position": "100°",
+            "name": "Cà D'Oro alla Vedova",
+            "ref": "https://www.tasteatlas.com/CaDoroAllaVedova",
+            "coord": [
+                [
+                    45.4413431,
+                    12.3345439
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "101°",
+            "name": "Astrid y Gaston",
+            "ref": "https://www.tasteatlas.com/astrid-y-gaston",
+            "coord": [
+                [
+                    -12.0965975,
+                    -77.0347287
+                ]
+            ],
+            "website": "http://www.astridygaston.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "102°",
+            "name": "Diporto",
+            "ref": "https://www.tasteatlas.com/diporto",
+            "coord": [
+                [
+                    39.62406,
+                    19.9212118
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "103°",
+            "name": "Komagata Dojo",
+            "ref": "https://www.tasteatlas.com/komakata-dozeu",
+            "coord": [
+                [
+                    35.707571,
+                    139.794966
+                ]
+            ],
+            "website": "https://www.dozeu.com/en/"
+        },
+        {
+            "category": "🍽️",
+            "position": "104°",
+            "name": "Laurentina - o Rei do Bacalhau",
+            "ref": "https://www.tasteatlas.com/LaurentinaOReiDoBacalhau",
+            "coord": [
+                [
+                    38.7371201,
+                    -9.151316999999999
+                ]
+            ],
+            "website": "http://www.restaurantelaurentina.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "105°",
+            "name": "The Aristocrat",
+            "ref": "https://www.tasteatlas.com/TheAristocrat",
+            "coord": [
+                [
+                    14.5688743,
+                    120.9859605
+                ]
+            ],
+            "website": "http://www.aristocrat.com.ph"
+        },
+        {
+            "category": "🍽️",
+            "position": "106°",
+            "name": "Casse-Croute La Banquise",
+            "ref": "https://www.tasteatlas.com/CasseCrouteLaBanquise",
+            "coord": [
+                [
+                    45.541578,
+                    -73.5615995
+                ]
+            ],
+            "website": "http://www.labanquise.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "107°",
+            "name": "Prachak",
+            "ref": "https://www.tasteatlas.com/prachak",
+            "coord": [
+                [
+                    13.7222494,
+                    100.5166382
+                ]
+            ],
+            "website": "http://www.prachakrestaurant.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "108°",
+            "name": "Antoine's Restaurant",
+            "ref": "https://www.tasteatlas.com/AntoinesRestaurant",
+            "coord": [
+                [
+                    29.9567166,
+                    -90.0664811
+                ]
+            ],
+            "website": "http://www.antoines.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "109°",
+            "name": "Mocotó",
+            "ref": "https://www.tasteatlas.com/mocoto-sao-paulo",
+            "coord": [
+                [
+                    -23.487718,
+                    -46.582787
+                ]
+            ],
+            "website": "http://mocoto.com.br/restaurante/index.php"
+        },
+        {
+            "category": "🍽️",
+            "position": "110°",
+            "name": "Ram Ashraya",
+            "ref": "https://www.tasteatlas.com/HotelRamAshraya",
+            "coord": [
+                [
+                    19.0279366,
+                    72.8518291
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "111°",
+            "name": "Kikunoi Roan Main Branch",
+            "ref": "https://www.tasteatlas.com/RoanKikunoi",
+            "coord": [
+                [
+                    35.001446,
+                    135.781691
+                ]
+            ],
+            "website": "http://www.kikunoi.jp/english/store/"
+        },
+        {
+            "category": "🍽️",
+            "position": "112°",
+            "name": "La Tour d'Argent",
+            "ref": "https://www.tasteatlas.com/dargent",
+            "coord": [
+                [
+                    48.8498148,
+                    2.3550979
+                ]
+            ],
+            "website": "https://tourdargent.com/"
+        },
+        {
+            "category": "🍽️",
+            "position": "113°",
+            "name": "Ginza Kyubey ",
+            "ref": "https://www.tasteatlas.com/KyubeySushi",
+            "coord": [
+                [
+                    35.6705587,
+                    139.7606091
+                ]
+            ],
+            "website": "http://www.kyubey.jp/en"
+        },
+        {
+            "category": "🍽️",
+            "position": "114°",
+            "name": "Jabri Restaurant",
+            "ref": "https://www.tasteatlas.com/JabriRestaurant",
+            "coord": [
+                [
+                    31.9933321,
+                    35.8617178
+                ]
+            ],
+            "website": "http://www.jabri.com.jo"
+        },
+        {
+            "category": "🍽️",
+            "position": "115°",
+            "name": "Tonki",
+            "ref": "https://www.tasteatlas.com/Tonki",
+            "coord": [
+                [
+                    35.6300236,
+                    139.7058982
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "116°",
+            "name": "Trattoria Al Gazzettino",
+            "ref": "https://www.tasteatlas.com/trattoria-al-gazzettino",
+            "coord": [
+                [
+                    45.43642180000001,
+                    12.3377494
+                ]
+            ],
+            "website": "https://algazzettino.it/"
+        },
+        {
+            "category": "🍽️",
+            "position": "117°",
+            "name": "Sobhy Kaber",
+            "ref": "https://www.tasteatlas.com/sobhy-kaber",
+            "coord": [
+                [
+                    30.0837518,
+                    31.2349143
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "118°",
+            "name": "Çiya Sofrası",
+            "ref": "https://www.tasteatlas.com/CiyaSofras",
+            "coord": [
+                [
+                    40.9893313,
+                    29.0244183
+                ]
+            ],
+            "website": "http://www.ciya.com.tr"
+        },
+        {
+            "category": "🍽️",
+            "position": "119°",
+            "name": "Hacı Abdullah Lokantası",
+            "ref": "https://www.tasteatlas.com/hac-abdullah-lokantas",
+            "coord": [
+                [
+                    41.0367452,
+                    28.979415
+                ]
+            ],
+            "website": "http://www.haciabdullah.com.tr/"
+        },
+        {
+            "category": "🍽️",
+            "position": "120°",
+            "name": "The Olde Pink House",
+            "ref": "https://www.tasteatlas.com/TheOldePinkHouse",
+            "coord": [
+                [
+                    32.0790722,
+                    -81.0888948
+                ]
+            ],
+            "website": "https://www.theoldepinkhouserestaurant.com/"
+        },
+        {
+            "category": "🍽️",
+            "position": "121°",
+            "name": "Stary Dom",
+            "ref": "https://www.tasteatlas.com/StaryDom",
+            "coord": [
+                [
+                    52.1954147,
+                    21.023782173076924
+                ]
+            ],
+            "website": "http://www.restauracjastarydom.pl"
+        },
+        {
+            "category": "🍽️",
+            "position": "122°",
+            "name": "Restaurante Bonjardim",
+            "ref": "https://www.tasteatlas.com/RestauranteBonjardim",
+            "coord": [
+                [
+                    38.7158873,
+                    -9.140623500000002
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "123°",
+            "name": "Sapporo Beer Garden",
+            "ref": "https://www.tasteatlas.com/sapporo-beer-garden",
+            "coord": [
+                [
+                    43.0960407,
+                    141.3618519
+                ]
+            ],
+            "website": "https://www.sapporo-bier-garten.jp/"
+        },
+        {
+            "category": "🍽️",
+            "position": "124°",
+            "name": "Bolinha Restaurante",
+            "ref": "https://www.tasteatlas.com/bolinha-restaurante",
+            "coord": [
+                [
+                    -23.578648,
+                    -46.6814775
+                ]
+            ],
+            "website": "http://www.bolinha.com.br/"
+        },
+        {
+            "category": "🍽️",
+            "position": "125°",
+            "name": "Da Nennella",
+            "ref": "https://www.tasteatlas.com/da-nennella",
+            "coord": [
+                [
+                    40.8419647,
+                    14.2475252
+                ]
+            ],
+            "website": "https://www.trattoriadanennella.it/"
+        },
+        {
+            "category": "🍽️",
+            "position": "126°",
+            "name": "Tadich Grill",
+            "ref": "https://www.tasteatlas.com/TadichGrill",
+            "coord": [
+                [
+                    37.7934198,
+                    -122.399472
+                ]
+            ],
+            "website": "http://www.tadichgrill.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "127°",
+            "name": "Trattoria Sostanza",
+            "ref": "https://www.tasteatlas.com/TrattoriaSostanza",
+            "coord": [
+                [
+                    43.7726743,
+                    11.2471498
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "128°",
+            "name": "Chen Mapo Tofu",
+            "ref": "https://www.tasteatlas.com/ChenMapoTofu",
+            "coord": [
+                [
+                    30.6694753,
+                    104.0663059
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "129°",
+            "name": "Honke Owariya",
+            "ref": "https://www.tasteatlas.com/honke-owariya",
+            "coord": [
+                [
+                    35.0127544,
+                    135.7600977
+                ]
+            ],
+            "website": "https://honke-owariya.co.jp/en/"
+        },
+        {
+            "category": "🍽️",
+            "position": "130°",
+            "name": "Százéves Étterem",
+            "ref": "https://www.tasteatlas.com/szazeves-etterem",
+            "coord": [
+                [
+                    47.4931995,
+                    19.05182460977561
+                ]
+            ],
+            "website": "http://www.szazevesetterem.hu/"
+        },
+        {
+            "category": "🍽️",
+            "position": "131°",
+            "name": "La Fontaine de Mars",
+            "ref": "https://www.tasteatlas.com/LaFontaineDeMars",
+            "coord": [
+                [
+                    48.8584495,
+                    2.3025163
+                ]
+            ],
+            "website": "http://www.fontainedemars.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "132°",
+            "name": "Myeongdong Kyoja",
+            "ref": "https://www.tasteatlas.com/MyeongdongKyoja",
+            "coord": [
+                [
+                    37.5625608,
+                    126.98560890153452
+                ]
+            ],
+            "website": "http://www.mdkj.co.kr/en/"
+        },
+        {
+            "category": "🍽️",
+            "position": "133°",
+            "name": "Gundel",
+            "ref": "https://www.tasteatlas.com/gundel",
+            "coord": [
+                [
+                    47.51744975,
+                    19.07708664616524
+                ]
+            ],
+            "website": "https://gundel.hu/"
+        },
+        {
+            "category": "🍽️",
+            "position": "134°",
+            "name": "St. Peter Stiftskulinarium",
+            "ref": "https://www.tasteatlas.com/StPeterStiftskulinarium",
+            "coord": [
+                [
+                    47.797576,
+                    13.044502
+                ]
+            ],
+            "website": "http://www.stpeter.at/"
+        },
+        {
+            "category": "🍽️",
+            "position": "135°",
+            "name": "Casa Alberto",
+            "ref": "https://www.tasteatlas.com/casa-alberto",
+            "coord": [
+                [
+                    40.4138199,
+                    -3.7001224
+                ]
+            ],
+            "website": "https://www.casaalberto.es/"
+        },
+        {
+            "category": "🍽️",
+            "position": "136°",
+            "name": "Strofi Restaurant",
+            "ref": "https://www.tasteatlas.com/strofi-restaurant",
+            "coord": [
+                [
+                    37.968983,
+                    23.7251
+                ]
+            ],
+            "website": "http://www.strofi.gr/"
+        },
+        {
+            "category": "🍽️",
+            "position": "137°",
+            "name": "Mak's Noodle",
+            "ref": "https://www.tasteatlas.com/MaksNoodleMakUnKee",
+            "coord": [
+                [
+                    22.283,
+                    114.15463
+                ]
+            ],
+            "website": "http://www.maksnoodle.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "138°",
+            "name": "Mellben Seafood              ",
+            "ref": "https://www.tasteatlas.com/MellbenSeafood",
+            "coord": [
+                [
+                    1.3686244,
+                    103.8369567
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "139°",
+            "name": "Ye Olde Cheshire Cheese",
+            "ref": "https://www.tasteatlas.com/YeOldeCheshireCheese",
+            "coord": [
+                [
+                    51.51433295,
+                    -0.10717614909398387
+                ]
+            ],
+            "website": "http://www.cheshirecheeselondon.co.uk"
+        },
+        {
+            "category": "🍽️",
+            "position": "140°",
+            "name": "The Carnivore",
+            "ref": "https://www.tasteatlas.com/the-carnivore",
+            "coord": [
+                [
+                    -1.319185,
+                    36.817648
+                ]
+            ],
+            "website": "http://www.tamarind.co.ke/carnivore"
+        },
+        {
+            "category": "🍽️",
+            "position": "141°",
+            "name": "Chez Michel",
+            "ref": "https://www.tasteatlas.com/ChezMichel",
+            "coord": [
+                [
+                    43.2907009,
+                    5.356069
+                ]
+            ],
+            "website": "http://www.restaurant-michel-13.fr"
+        },
+        {
+            "category": "🍽️",
+            "position": "142°",
+            "name": "Rules Restaurant",
+            "ref": "https://www.tasteatlas.com/RulesRestaurant",
+            "coord": [
+                [
+                    51.5108285,
+                    -0.12319056346859711
+                ]
+            ],
+            "website": "http://www.rules.co.uk"
+        },
+        {
+            "category": "🍽️",
+            "position": "143°",
+            "name": "Mizuno",
+            "ref": "https://www.tasteatlas.com/Mizuno",
+            "coord": [
+                [
+                    34.6683762,
+                    135.5032272
+                ]
+            ],
+            "website": "http://www.mizuno-osaka.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "144°",
+            "name": "Tosokchon",
+            "ref": "https://www.tasteatlas.com/Tosokchon",
+            "coord": [
+                [
+                    37.5776249,
+                    126.9716821
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "145°",
+            "name": "Yati Ayam Percik",
+            "ref": "https://www.tasteatlas.com/yati-ayam-percik",
+            "coord": [
+                [
+                    6.1094786,
+                    102.2549396
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "146°",
+            "name": "Restaurante Fernando",
+            "ref": "https://www.tasteatlas.com/restaurante-fernando",
+            "coord": [
+                [
+                    22.1190528,
+                    113.56962447756803
+                ]
+            ],
+            "website": "http://www.fernando-restaurant.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "147°",
+            "name": "Yat Lok Restaurant",
+            "ref": "https://www.tasteatlas.com/YatLokRestaurant",
+            "coord": [
+                [
+                    22.2824828,
+                    114.1552917
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "148°",
+            "name": "O Thanasis",
+            "ref": "https://www.tasteatlas.com/OThanasis",
+            "coord": [
+                [
+                    37.9762732,
+                    23.726455
+                ]
+            ],
+            "website": "http://www.othanasis.com"
+        },
+        {
+            "category": "🍽️",
+            "position": "149°",
+            "name": "South Melbourne Market Dim Sims",
+            "ref": "https://www.tasteatlas.com/south-melbourne-market",
+            "coord": [
+                [
+                    -37.8322589,
+                    144.9575685
+                ]
+            ],
+            "website": "http://www.southmelbournemarketdimsims.com.au"
+        }
+    ]
+}
