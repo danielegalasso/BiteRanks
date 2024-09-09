@@ -34,8 +34,8 @@ const FoodSearch = () => {
   // Lista di ranking-items
   const rankingItems = [
     { icon: cinquantaTopPizzaicon, name: "50 Top Pizza" },
-    { icon: cinquantaTopPizzaicon, name: "50 Top Italy" },
-    { icon: cinquantaTopPizzaicon, name: "Tre Coni" }
+    { icon: cinquantaTopPizzaicon, name: "Tre Coni Gambero Rosso" },
+    { icon: cinquantaTopPizzaicon, name: "Michelin Star" }
   ];
 
   const handleClickItem = (item) => {

@@ -12,7 +12,7 @@
   display: flex;
   justify-content: center; /* Centra l'immagine orizzontalmente */
   align-items: center; /* Centra l'immagine verticalmente */
-  height: 100%; /* Imposta una larghezza fissa */
+  height: 100% !important; /* Imposta una larghezza fissa */
   aspect-ratio: 1;
   border-radius: 1vw; /* Arrotonda gli angoli del container */
   cursor: pointer; /* Cambia il cursore quando l'utente passa sopra */
@@ -25,6 +25,8 @@
   width:auto
   
 }
+
+
 
 .food-icon-isNotEmoji {
   position: absolute;
@@ -40,6 +42,9 @@
   text-align: center; /* Centra il testo orizzontalmente */
   margin-top: 2%; /* Spazio sopra il testo */
   font-size: 1rem;
+  padding-left: 5px;
+  padding-right: 5px;
+  white-space: nowrap; /* Evita che il testo vada a capo */
 }
 
 

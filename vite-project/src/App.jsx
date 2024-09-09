@@ -50,6 +50,7 @@ export default function App() {
             <Map markers={markers} />
             <SearchBarWithAutocomplete />
             */}
+            
 
         {/* Landing Page */}
         <div className="app-container">
@@ -60,6 +61,7 @@ export default function App() {
             <FoodSearch />
           </div>
         </div>
+        
 
         
         

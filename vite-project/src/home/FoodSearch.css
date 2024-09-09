@@ -81,11 +81,6 @@
     scrollbar-color: darkgrey #0000001a; /* Colore del thumb e del track per Firefox */
 }
 
-/* Chrome, Safari, Edge - Stile della scrollbar per Webkit */
-.food-list-container::-webkit-scrollbar {
-    height: 6px; /* Altezza per la scrollbar orizzontale */
-}
-
 
 
 
