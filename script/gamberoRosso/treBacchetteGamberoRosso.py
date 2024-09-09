@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-from geolocator import Geolocator
+from script.utils.geolocator import Geolocator
 import json
 
 

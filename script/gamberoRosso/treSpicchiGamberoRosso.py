@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-from geolocator import Geolocator
+from script.utils.geolocator import Geolocator
 import json
 
 
@@ -8,18 +8,18 @@ headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
 }
 
-category = '🍽️'
+category = '🍕'
 
-url = 'https://www.gamberorosso.it/ristoranti/#1602496015233-6fac7d3f-ee84'
+url = 'https://www.gamberorosso.it/ristoranti/#trespicchi'
 response = requests.get(url, headers=headers)
 response.raise_for_status()
 
 soup = BeautifulSoup(response.text, 'html.parser')
-main_div = soup.find('div', id='1602496015233-6fac7d3f-ee84')
+main_div = soup.find('div', id='trespicchi')
 
 references = [a.get('href') for a in main_div.find_all('a', class_='_self cvplbd')]
 
-json_output = { 'Tre Gamberi Gambero Rosso 2024': [] }
+json_output = { 'Tre Spicchi Gambero Rosso 2024': [] }
 
 locator = Geolocator()
 for ref in references:
@@ -36,7 +36,7 @@ for ref in references:
 
     map_data = locator.find_coordinates(','.join([name.text, location.text]))
 
-    json_output['Tre Gamberi Gambero Rosso 2024'].append({
+    json_output['Tre Spicchi Gambero Rosso 2024'].append({
         'category': category,
         'position': None,
         'name': name.text,
@@ -46,5 +46,5 @@ for ref in references:
     })
 
 
-with open('treGamberiGamberoRosso.json', 'w', encoding='utf-8') as file:
+with open('treSpicchiGamberoRosso.json', 'w', encoding='utf-8') as file:
     json.dump(json_output, file, ensure_ascii=False, indent=4)

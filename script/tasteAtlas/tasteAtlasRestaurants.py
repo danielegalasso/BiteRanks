@@ -1,8 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
-from geolocator import Geolocator
+from script.utils.geolocator import Geolocator
 import json
-from scraping import Crawler
+from script.utils.scraping import Crawler
 
 
 url = 'https://www.tasteatlas.com/'
