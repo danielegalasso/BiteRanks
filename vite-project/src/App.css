@@ -88,3 +88,17 @@
   padding: 2%; /* Spaziatura interna */
 }
 
+.scheda-locale-container{
+  position: absolute; /* Posiziona FoodSearch in modo assoluto */
+  width: 100vw; /* Adatta la larghezza come necessario */
+  height: 100vh; /* Adatta l'altezza come necessario */
+  z-index: 3; /* Imposta uno z-index superiore */
+  display: flex;
+  flex-direction: column; /* Per allineare verticalmente gli elementi all'interno del contenitore */
+  justify-content: center; /* Centra verticalmente gli elementi all'interno */
+  align-items: center; /* Centra orizzontalmente gli elementi all'interno */
+  background-color: transparent;
+  border-radius: 2vw; /* Arrotonda gli angoli */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Leggera ombra */
+  padding: 2%; /* Spaziatura interna */
+}

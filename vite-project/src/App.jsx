@@ -6,7 +6,6 @@ import "leaflet/dist/leaflet.css";
 import { Map } from "./Map"; // Importa il componente Map
 import FoodSearch from "./home/FoodSearch";
 import SchedaLocale from "./scheda/SchedaLocale";
-import MapPage from "./MapPage";
 import SearchBarWithAutocomplete from "./SearchBar";
 import TextPlusIcon from "./home/TextPlusIcon";
 
@@ -45,11 +44,7 @@ export default function App() {
       <Routes>
         <Route path="/" element={
           <>
-            {/* Schermata di Navigazione 
 
-            <Map markers={markers} />
-            <SearchBarWithAutocomplete />
-            */}
             
 
         {/* Landing Page */}
@@ -65,7 +60,7 @@ export default function App() {
 
         
         
-
+            <SchedaLocale />
 
 
             {/*
@@ -75,7 +70,25 @@ export default function App() {
             */}
           </>
         }/>
-        <Route path="/map" element={<MapPage />} />
+
+
+        <Route path="/map" element={
+          <>         
+          <Map markers={markers} />
+          <SearchBarWithAutocomplete />
+          </>
+        }/> 
+      
+        <Route path="/local" element={
+          <>
+          <Map markers={markers} />
+          <div className="scheda-locale-container">
+          <SchedaLocale />
+          </div>
+          </>
+          
+        }/>
+
       </Routes>
     </Router>
   );
