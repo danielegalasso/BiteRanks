@@ -1,0 +1,7 @@
+/* Assicurati che la mappa occupi tutto lo spazio disponibile */
+.leaflet-container {
+  height: 100vh; /* altezza della viewport */
+  width: 100vw;  /* larghezza della viewport */
+  z-index: 1;    /* assicurati che la mappa sia sopra altri elementi */
+}
+

@@ -1,0 +1,16 @@
+.text-plus-icon-container {
+    display: flex;
+    align-items: center; /* Allinea verticalmente al centro */
+    justify-content: center; /* Allinea orizzontalmente al centro */
+  }
+  
+  
+  
+  .text-plus-icon-image {
+    /* Sposta l'immagine 5px più in basso */
+    margin-left: 5px; /* Aggiungi margine a sinistra dell'immagine */
+    /* o usa position e top se preferisci */
+    /* position: relative;
+       top: 5px; */
+  }
+  

@@ -1,49 +1,61 @@
-.food-item {
-    flex: 0 0 auto; /* Flessibile ma non si riduce */
+/* FoodRankItem1.css */
 
-    height: 90%;
+.outer-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centra orizzontalmente il contenuto */
+  margin-top: 2%;
+}
 
-    aspect-ratio: 1.1;
-    margin-right: 4%;
-    border-radius: 2vw; /* Angoli stondati della card */
-    background-color: #8AD1D9; /* Sfondo bianco per la card */
-    padding: 0px; /* Spazio interno della card */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombra leggera per un effetto di profondità */
-    transition: transform 0.3s, box-shadow 0.3s; /* Transizioni per animazioni fluide */
-  }
+.container {
+  background-color: #8AD1D9;; /* Colore di sfondo blu */
+  display: flex;
+  justify-content: center; /* Centra l'immagine orizzontalmente */
+  align-items: center; /* Centra l'immagine verticalmente */
+  height: 100%; /* Imposta una larghezza fissa */
+  aspect-ratio: 1;
+  border-radius: 1vw; /* Arrotonda gli angoli del container */
+  cursor: pointer; /* Cambia il cursore quando l'utente passa sopra */
+  position: relative;
+}
+
+.food-icon-isEmoji {
+  position: absolute;
+  height: 80%;
+  width:auto
   
-  .food-item:hover {
-    transform: scale(1.05); /* Leggera ingrandimento quando si passa il mouse */
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Ombra più intensa al passaggio del mouse */
-  }
+}
+
+.food-icon-isNotEmoji {
+  position: absolute;
+  height: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border-radius: 1vw;
   
-  .food-item .food-icon {
-    font-size: 32px; /* Dimensione più grande per l'emoji */
-    margin-bottom: 16px; /* Spazio tra l'emoji e il testo */
-  }
-  
-  .food-item p {
-    font-size: 14px; /* Dimensione del testo */
-    color: #333; /* Colore del testo */
-    margin: 0; /* Rimuove margini predefiniti del paragrafo */
-  }
+}
+
+.food-name {
+  color: white; /* Colore del testo bianco */
+  text-align: center; /* Centra il testo orizzontalmente */
+  margin-top: 2%; /* Spazio sopra il testo */
+  font-size: 1rem;
+}
 
 
-  
-  @media (orientation: portrait) {
+ 
+@media (orientation: portrait) {
     
-    .food-item {
-      margin-right: 6%;
-      height: 75%;
-      margin-top: 0%;
-  
-      aspect-ratio: 1.1;
+  .container {
 
-      border-radius: 4vw; /* Angoli stondati della card */
+    height: 75%;
+    margin-top: 10%;
 
-    }
-    
-  
+    margin-right: 2vw !important;
+    aspect-ratio: 1;
+
+    border-radius: 4vw; /* Angoli stondati della card */
 
   }
+}
   

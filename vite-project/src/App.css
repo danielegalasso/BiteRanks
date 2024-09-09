@@ -1,3 +1,4 @@
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -23,7 +24,6 @@
   .leaflet-container {
     height: 100vh;
     width: 0%;
-    border-radius: 2rem;
   }
   
   .cluster-icon {
@@ -53,3 +53,38 @@
   
 
   
+
+.app-container {
+  position: relative; /* Questo permette ai figli di essere posizionati relativamente a questo contenitore */
+  width: 100vw; /* Assicurati che il contenitore occupi tutta la larghezza della finestra */
+  height: 100vh; /* Assicurati che il contenitore occupi tutta l'altezza della finestra */
+  
+}
+
+.map-container {
+  position: absolute; /* Posiziona la mappa in modo assoluto */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1; /* Imposta uno z-index inferiore */
+}
+
+.food-search-container {
+  position: absolute; /* Posiziona FoodSearch in modo assoluto */
+  top: 50%; /* Posiziona il centro verticale del contenitore al 50% della pagina */
+  left: 50%; /* Posiziona il centro orizzontale del contenitore al 50% della pagina */
+  transform: translate(-50%, -50%); /* Sposta indietro il contenitore per centrarlo esattamente */
+  width: 100vw; /* Adatta la larghezza come necessario */
+  height: 100vh; /* Adatta l'altezza come necessario */
+  z-index: 2; /* Imposta uno z-index superiore */
+  display: flex;
+  flex-direction: column; /* Per allineare verticalmente gli elementi all'interno del contenitore */
+  justify-content: center; /* Centra verticalmente gli elementi all'interno */
+  align-items: center; /* Centra orizzontalmente gli elementi all'interno */
+  background-color: #BEC4CB; /* Colore di sfondo per visibilità */
+  border-radius: 2vw; /* Arrotonda gli angoli */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Leggera ombra */
+  padding: 2%; /* Spaziatura interna */
+}
+

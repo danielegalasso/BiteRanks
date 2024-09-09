@@ -8,6 +8,7 @@ import FoodSearch from "./home/FoodSearch";
 import SchedaLocale from "./scheda/SchedaLocale";
 import MapPage from "./MapPage";
 import SearchBarWithAutocomplete from "./SearchBar";
+import TextPlusIcon from "./home/TextPlusIcon";
 
 // Dati dei marker
 export default function App() {
@@ -37,12 +38,34 @@ export default function App() {
     fetchData();
   }, []);
 
+  const emptyMarkers = []; 
+
   return (
     <Router>
       <Routes>
         <Route path="/" element={
           <>
+            {/* Schermata di Navigazione 
+
+            <Map markers={markers} />
             <SearchBarWithAutocomplete />
+            */}
+
+        {/* Landing Page */}
+        <div className="app-container">
+          <div className="map-container">
+            <Map markers={emptyMarkers} />
+          </div>
+          <div className="food-search-container">
+            <FoodSearch />
+          </div>
+        </div>
+
+        
+        
+
+
+
             {/*
             <Map markers={markers} />
             <FoodSearch />

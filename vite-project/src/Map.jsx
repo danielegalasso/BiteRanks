@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
-import "./App.css";
+import "./Map.css";
 import "leaflet/dist/leaflet.css";
-import { MapContainer, TileLayer, Marker, Popup, useMap } from "react-leaflet";
+import { MapContainer, TileLayer, Marker, Popup, useMap, ZoomControl } from "react-leaflet";
 import MarkerClusterGroup from "react-leaflet-cluster";
 import { Icon } from "leaflet";
 import createClusterCustomIcon from "./CreateClusterCustomIcon";
@@ -60,7 +60,7 @@ export function Map({ markers }) {
   }, [position]);
 
   return (
-    <MapContainer center={defaultPosition} zoom={5} style={{ height: "100vh", width: "100vw" }}>
+    <MapContainer center={defaultPosition} zoom={5} zoomControl={false}>
       {position && <MoveToLocation position={position} geolocationEnabled={geolocationEnabled} />}
       
       <TileLayer
@@ -71,6 +71,10 @@ export function Map({ markers }) {
         updateWhenIdle={false}
         keepBuffer={10}
       />
+
+      <div className="map-control-bottom-right">
+      <ZoomControl position="bottomright" />
+      </div>
 
       {renderMarkers && (
         <MarkerClusterGroup chunkedLoading iconCreateFunction={createClusterCustomIcon}>

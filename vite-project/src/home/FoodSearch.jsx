@@ -2,6 +2,18 @@ import React, {useState} from "react";
 import { useNavigate } from "react-router-dom"; // Import useNavigate for navigation
 import "./FoodSearch.css"; // Importiamo il file CSS
 import FoodRankItem from "./FoodRankItem";
+import TextPlusIcon from "./TextPlusIcon";
+
+import rocketicon from "./emoji/rocket.png";
+import medalicon from "./emoji/medal.png";
+import foodicon from "./emoji/food.png";
+import pizzaicon from "./emoji/pizza.png";
+import icecreamicon from "./emoji/icecream.png";
+import sushiicon from "./emoji/sushi.png";
+import hamburgericon from "./emoji/hamburger.png";
+import steakhouseicon from "./emoji/steakhouse.png";
+import sweetsicon from "./emoji/sweets.png";
+import cinquantaTopPizzaicon from "./emoji/50-Top-Pizza.jpg";
 
 const FoodSearch = () => {
   const [searchText, setSearchText] = useState(""); // Stato per il testo della ricerca
@@ -11,19 +23,19 @@ const FoodSearch = () => {
 
   // Lista di food-item (puoi aggiungere o modificare questi valori)
   const foodItems = [
-    { icon: "🍎", name: "Apple" },
-    { icon: "🍕", name: "Pizza" },
-    { icon: "🍣", name: "Sushi" },
-    { icon: "🍌", name: "Banana" },
-    { icon: "🥭", name: "Mango" },
-    { icon: "🥣", name: "Muesli" }
+    { icon: pizzaicon, name: "Pizza" },
+    { icon: icecreamicon, name: "Ice Cream" },
+    { icon: sushiicon, name: "Sushi" },
+    { icon: hamburgericon, name: "Hamburger" },
+    { icon: steakhouseicon, name: "Steak House" },
+    { icon: sweetsicon, name: "Sweets" }
   ];
 
   // Lista di ranking-items
   const rankingItems = [
-    { icon: "🏆", name: "Top 50 Italia" },
-    { icon: "🥇", name: "Top 20 Calabria" },
-    { icon: "🥈", name: "Top 10 Napoli" }
+    { icon: cinquantaTopPizzaicon, name: "50 Top Pizza" },
+    { icon: cinquantaTopPizzaicon, name: "50 Top Italy" },
+    { icon: cinquantaTopPizzaicon, name: "Tre Coni" }
   ];
 
   const handleClickItem = (item) => {
@@ -61,17 +73,19 @@ const FoodSearch = () => {
   };
 
   return (
+
     <div className="food-search-container">
       <div className="top-buttons">
-        <button 
-          className={activeTab === "food" ? "active" : ""} 
-          onClick={() => handleTabChange("food")}>
-          Food 😋
-        </button>
+      <button 
+        className={activeTab === "food" ? "active" : ""} 
+        onClick={() => handleTabChange("food")}>
+        <TextPlusIcon text="Food" imageSrc={foodicon} fSize="1.5rem" />
+      </button>
+      
         <button
           className={activeTab === "ranking" ? "active" : ""}
           onClick={() => handleTabChange("ranking")}>
-          Ranking🥇
+          <TextPlusIcon text="Ranking" imageSrc={medalicon} fSize="1.5rem" />
         </button>
       </div>
       {/* Contenitore con sfondo più scuro */}
@@ -88,6 +102,7 @@ const FoodSearch = () => {
           {activeTab === "food" ? (
             filteredItems(foodItems).map((food, index) => (
               <FoodRankItem
+                isAnEmoji={true}
                 key={index}
                 icon={food.icon}
                 name={food.name}
@@ -98,6 +113,7 @@ const FoodSearch = () => {
             /* Mostra solo i food-item/classifiche filtrati */
             filteredItems(rankingItems).map((ranking, index) => (
               <FoodRankItem
+                isAnEmoji={false}
                 key={index}
                 icon={ranking.icon}
                 name={ranking.name}
@@ -108,8 +124,10 @@ const FoodSearch = () => {
         </div>
       </div>
 
-      <button className="search-button" onClick={handleSearchClick}>
-        Search
+      
+
+      <button className="search-button1" onClick={handleSearchClick}>
+        <TextPlusIcon text="Search" imageSrc={rocketicon} fSize="1.5rem" />
       </button>
     </div>
   );
