@@ -14,6 +14,9 @@ import hamburgericon from "./emoji/hamburger.png";
 import steakhouseicon from "./emoji/steakhouse.png";
 import sweetsicon from "./emoji/sweets.png";
 import cinquantaTopPizzaicon from "./emoji/50-Top-Pizza.jpg";
+import michelinStaricon from "./emoji/Michelin-Star.jpg";
+import gamberoRossoicon from "./emoji/Gambero-Rosso.jpeg";
+import twcinquantabesticon from "./emoji/tw50br.jpeg";
 
 const FoodSearch = () => {
   const [searchText, setSearchText] = useState(""); // Stato per il testo della ricerca
@@ -28,14 +31,15 @@ const FoodSearch = () => {
     { icon: sushiicon, name: "Sushi" },
     { icon: hamburgericon, name: "Hamburger" },
     { icon: steakhouseicon, name: "Steak House" },
-    { icon: sweetsicon, name: "Sweets" }
+    { icon: sweetsicon, name: "Sweets" },
   ];
 
   // Lista di ranking-items
   const rankingItems = [
     { icon: cinquantaTopPizzaicon, name: "50 Top Pizza" },
-    { icon: cinquantaTopPizzaicon, name: "Tre Coni Gambero Rosso" },
-    { icon: cinquantaTopPizzaicon, name: "Michelin Star" }
+    { icon: twcinquantabesticon, name: "TW50BR" },
+    { icon: gamberoRossoicon, name: "Gambero Rosso" },
+    { icon: michelinStaricon, name: "Michelin Star" },
   ];
 
   const handleClickItem = (item) => {
@@ -43,26 +47,27 @@ const FoodSearch = () => {
     setSelectedItem(item); // Store selected item
   };
 
-  // Filtra i food/classifiche in base al testo inserito
-  const filteredItems = (items) =>
-    items.filter((item) =>
-      item.name.toLowerCase().startsWith(searchText.toLowerCase())
-    );
+ // Filtra i food/classifiche in base al testo inserito
+const filteredItems = (items) =>
+  items.filter((item) =>
+    item.name.toLowerCase().includes(searchText.toLowerCase()) // Usa includes invece di startsWith
+  );
 
+// Funzione che si attiva ogni qual volta che viene inserito un carattere nella search-bar
+const handleChange = (e) => {
+  let newText = e.target.value;
+  if (newText.startsWith(" ") && searchText === "") {
+    // Se il testo inizia con uno spazio e il campo è vuoto, rimuovi lo spazio (rende codice più robusto)
+    newText = newText.trimStart();
+  }
+  setSearchText(newText);
+};
 
-  //funzione che si attiva ogni qual volta che viene inserito un carattere nella search-bar
-  const handleChange = (e) => {
-    let newText = e.target.value;
-    if (newText.startsWith(" ") && searchText === "") {
-      // Se il testo inizia con uno spazio e il campo è vuoto, rimuovi lo spazio  (rende codice piu robusto)
-      newText = newText.trimStart();
-    }
-    setSearchText(newText);
-  };
 
   // Gestore per il cambio di tab
   const handleTabChange = (tab) => {
     setActiveTab(tab);
+    setSearchText("");
   };
   
   const handleSearchClick = () => {
