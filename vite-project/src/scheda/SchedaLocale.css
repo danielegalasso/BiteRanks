@@ -29,7 +29,7 @@
   background-image: url('./../imgs/figures2.png');
   background-repeat: no-repeat;
   background-position: bottom left;
-  background-size: 67.5% 24.75%; /* Scala le dimensioni del background */
+  background-size: 90% 33%; /* Scala le dimensioni del background */
   background-color: #E7E0D0;
 
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.075); /* Scala l'ombra */
