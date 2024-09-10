@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, memo } from "react";
 import "./Map.css";
 import "leaflet/dist/leaflet.css";
 import { MapContainer, TileLayer, Marker, Popup, useMap, ZoomControl } from "react-leaflet";
@@ -22,7 +22,10 @@ function MoveToLocation({ position, geolocationEnabled }) {
   return null;
 }
 
-export function Map({ markers }) {
+//export function Map({ markers }) {
+export const Map = memo(({ markers }) => {
+  console.log("Map component rendered"); // Questo ti dirà ogni volta che il componente viene ri-renderizzato.
+
   const [position, setPosition] = useState(null);
   const [loading, setLoading] = useState(true);
   const [renderMarkers, setRenderMarkers] = useState(false);
@@ -116,4 +119,4 @@ export function Map({ markers }) {
       )}
     </MapContainer>
   );
-}
+});

@@ -86,9 +86,9 @@ const createCustomIcon = (category, rank) => {
 
   return new Icon({
     iconUrl: svgUrl,
-    iconSize: [38, 38], // Dimensioni dell'icona
-    iconAnchor: [19, 38], // Centra l'icona sulla mappa
-    popupAnchor: [0, -38], // Posizione del popup rispetto all'icona
+    iconSize: [40, 50], // Dimensioni effettive dell'icona SVG
+    iconAnchor: [20, 50], // Centro inferiore (larghezza/2, altezza)
+    popupAnchor: [0, -50], // Posizione del popup rispetto all'icona
   });
 };
 
