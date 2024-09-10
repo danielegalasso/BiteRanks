@@ -45,7 +45,6 @@ const decodeSvgUrl = (url) => {
 const extractColor = (svgString) => {
     // Regex per trovare il primo attributo fill
     const fillMatch = svgString.match(/fill\s*=\s*"rgb\((\d+),(\d+),(\d+)\)"/);
-    console.log(svgString+ "COLORE TROVATO!!!!!::: "+fillMatch);
     if (fillMatch) {
         const [, r, g, b] = fillMatch;
         return `rgb(${r},${g},${b})`;

@@ -60,7 +60,7 @@
   }
   
   /* to make it responsive, for mobile dev */
-  @media (max-width: 600px) {
+  @media (orientation: portrait) {
     .search-container {
       width: 95%;
       left: 2.5%; 

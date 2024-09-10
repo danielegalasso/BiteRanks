@@ -59,8 +59,7 @@ export default function App() {
         
 
         
-        
-            <SchedaLocale />
+
 
 
             {/*
@@ -84,6 +83,7 @@ export default function App() {
           <Map markers={markers} />
           <div className="scheda-locale-container">
           <SchedaLocale />
+          <SearchBarWithAutocomplete />
           </div>
           </>
           
