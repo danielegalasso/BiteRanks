@@ -11,6 +11,18 @@ import TextPlusIcon from "./home/TextPlusIcon";
 
 // Dati dei marker
 export default function App() {
+
+  const nomeLocale = "Panificio Menchetti";
+  const classifiche = [
+    ["Top Pizza in Viaggio in Italia", 25, "https://example.com/top-pizza"],
+    ["Tre Spicchi Gambero Rosso", 3, "https://example.com/gambero-rosso"]
+  ];
+  const linkGoogleMaps = "https://maps.google.com/?q=Panificio+Menchetti";
+  const linkIndicazioniMaps = "https://maps.google.com/dir/?api=1&destination=Panificio+Menchetti";
+  const linkSitoWeb = "https://www.panificiomenchetti.it";
+
+
+
   // State to hold markers data
   const [markers, setMarkers] = useState([]);
 
@@ -82,7 +94,13 @@ export default function App() {
           <>
           <Map markers={markers} />
           <div className="scheda-locale-container">
-          <SchedaLocale />
+          <SchedaLocale 
+            nome={nomeLocale}
+            classifiche={classifiche}
+            linkGoogleMaps={linkGoogleMaps}
+            linkIndicazioniMaps={linkIndicazioniMaps}
+            linkSitoWeb={linkSitoWeb}
+          />
           <SearchBarWithAutocomplete />
           </div>
           </>

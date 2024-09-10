@@ -4,8 +4,13 @@ import triangoloNero from "./Black_triangle.svg";
 import triangoloNero1 from "./Black_triangle1.svg";
 import triangoloNero2 from "./Black_triangle.png";
 
-const SchedaDelLocale = () => {
-
+const SchedaLocale = ({ 
+  nome, 
+  classifiche, 
+  linkGoogleMaps, 
+  linkIndicazioniMaps, 
+  linkSitoWeb 
+}) => {
   
   return (
     <div className="outher-cont">
@@ -20,22 +25,21 @@ const SchedaDelLocale = () => {
       <div className="info">
         
         <div className="header">
-          <h3 className="localeTitle">Panificio Menchetti</h3>
+          <h3 className="localeTitle">{nome}</h3>
           <button className="shareButton">🔗</button>
         </div>
         <div className="divider"></div>
-        <a href="#" className="localeLink">
-          25° 50 Top Pizza in Viaggio in Italia 2024
-        </a>
-        <a href="#" className="localeLink">
-          Tre Spicchi Gambero Rosso 2024
-        </a>
+        {classifiche.map((classifica, index) => (
+            <a key={index} href={classifica[2]} className="localeLink">
+              {classifica[1]}° {classifica[0]}
+            </a>
+          ))}
         <div className="buttonContainer">
-          <button className="mapButton">Google Maps</button>
-          <button className="directionsButton">🧭</button>
+          <button className="mapButton" onClick={(e) => {e.preventDefault(); window.open(linkGoogleMaps, '_blank');}}>Google Maps</button>
+          <button className="directionsButton" onClick={(e) => {e.preventDefault(); window.open(linkIndicazioniMaps, '_blank');}}>🧭</button>
         </div>
         <div className="websiteButtonContainer">
-          <button className="websiteButton">Website</button>
+          <button className="websiteButton" onClick={(e) => {e.preventDefault(); window.open(linkSitoWeb, '_blank');}}>Website</button>
         </div>
       </div>
    </div>
@@ -48,4 +52,4 @@ const SchedaDelLocale = () => {
   );
 };
 
-export default SchedaDelLocale;
+export default SchedaLocale;
