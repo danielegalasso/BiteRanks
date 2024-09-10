@@ -5,3 +5,14 @@
   z-index: 1;    /* assicurati che la mappa sia sopra altri elementi */
 }
 
+.localeLink{
+  color: black;
+}
+
+.leaflet-popup-close-button{
+  display: none;
+}
+
+.leaflet-popup-tip{
+  display: none;
+}

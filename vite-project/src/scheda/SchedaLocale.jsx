@@ -25,11 +25,16 @@ const SchedaLocale = ({
     setCopied(false); // Reimposta lo stato a false quando il mouse lascia il bottone
   };
 
+  const closePopups = () => {
+    const popups = document.querySelectorAll(".leaflet-popup-close-button");
+    popups.forEach(popup => popup.click());
+  };
+
   return (
     <div className="outher-cont">
       <div className="containerScheda">
-        <div className="closeContainer">
-          <button className="closeScheda">X</button>
+        <div className="closeContainer" onClick={closePopups}>
+          <button className="closeScheda" >X</button>
         </div>
         <div className="info">
           <div className="header">

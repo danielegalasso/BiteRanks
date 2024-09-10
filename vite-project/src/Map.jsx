@@ -6,6 +6,7 @@ import MarkerClusterGroup from "react-leaflet-cluster";
 import { Icon } from "leaflet";
 import createClusterCustomIcon from "./CreateClusterCustomIcon";
 import createCustomIcon from "./CreateCustomIcon";
+import SchedaLocale from "./scheda/SchedaLocale";
 
 // Component to move the map to the user's location
 function MoveToLocation({ position, geolocationEnabled }) {
@@ -59,6 +60,16 @@ export function Map({ markers }) {
     }
   }, [position]);
 
+
+  const nomeLocale = "Panificio Menchetti";
+  const classifiche = [
+    ["Top Pizza in Viaggio in Italia", 25, "https://example.com/top-pizza"],
+    ["Tre Spicchi Gambero Rosso", 3, "https://example.com/gambero-rosso"]
+  ];
+  const linkGoogleMaps = "https://maps.google.com/?q=Panificio+Menchetti";
+  const linkIndicazioniMaps = "https://maps.google.com/dir/?api=1&destination=Panificio+Menchetti";
+  const linkSitoWeb = "https://www.panificiomenchetti.it";
+
   return (
     <MapContainer center={defaultPosition} zoom={5} zoomControl={false}>
       {position && <MoveToLocation position={position} geolocationEnabled={geolocationEnabled} />}
@@ -89,13 +100,13 @@ export function Map({ markers }) {
                   icon={createCustomIcon(category,locale.position)}
                 >
                   <Popup>
-                    <b>
-                      Rank: {locale.position}
-                      <br />
-                    </b>
-                    <a href={locale.ref} target="_blank" rel="noopener noreferrer">
-                      {locale.name}
-                    </a>
+                    <SchedaLocale 
+                      nome={nomeLocale}
+                      classifiche={classifiche}
+                      linkGoogleMaps={linkGoogleMaps}
+                      linkIndicazioniMaps={linkIndicazioniMaps}
+                      linkSitoWeb={linkSitoWeb}
+                    />
                   </Popup>
                 </Marker>
               ))

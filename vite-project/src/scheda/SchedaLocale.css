@@ -18,7 +18,7 @@
 }
 
 .triangoloNero2 {
-  width: 7.5%; /* Scala la larghezza */
+  width: 3%; /* Scala la larghezza */
   background-color: transparent;
 }
 
@@ -47,16 +47,20 @@
   color: white;
   border: none;
   padding: 1.5%; /* Scala il padding */
-  cursor: pointer;
+  
+  
 
   border-radius: 0px;
   border-bottom-left-radius: 3%; /* Scala il border-radius */
   transition: background-color 0.3s;
 }
 
+
+
 .closeScheda {
   color: white;
   background-color: transparent; /* Sfondo trasparente per un look pulito */
+  cursor: pointer;
   border: none; /* Nessun bordo per un aspetto minimal */
   font-size: clamp(0.6rem, 0.9vw, 1.5rem); /* Scala la dimensione del testo */
 }
