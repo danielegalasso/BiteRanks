@@ -1,6 +1,6 @@
 // App.jsx
-import React, { useState, useEffect } from "react";
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import React, { useState, useEffect, useRef } from "react";
+import { BrowserRouter as Router, Routes, Route, Outlet } from 'react-router-dom';
 import "./App.css";
 import "leaflet/dist/leaflet.css";
 import { Map } from "./Map"; // Importa il componente Map
@@ -8,6 +8,19 @@ import FoodSearch from "./home/FoodSearch";
 import SchedaLocale from "./scheda/SchedaLocale";
 import SearchBarWithAutocomplete from "./SearchBar";
 import TextPlusIcon from "./home/TextPlusIcon";
+
+// Layout persistente per mantenere il componente Map montato
+const MapLayout = ({ markers }) => {
+  return (
+    <div className="map-layout">
+      {/* Map rimane sempre montato */}
+      <Map markers={markers} />
+
+      {/* Le altre pagine saranno rese qui */}
+      <Outlet /> 
+    </div>
+  );
+};
 
 // Dati dei marker
 export default function App() {
@@ -38,15 +51,38 @@ export default function App() {
   }, []);
 
   const emptyMarkers = []; 
-
+ /*
+  return (
+    <Router>
+      <Routes>
+        <Route path="/" element={
+          <div className="app-container">
+            <div className="map-container">
+              <Map markers={[]} />
+            </div>
+            <div className="food-search-container">
+              <FoodSearch />
+            </div>
+          </div>
+        }/>
+        <Route path="/*" element={<MapLayout markers={markers} />}>
+          <Route path="map" element={<SearchBarWithAutocomplete />} />
+          <Route path="local" element={
+            <div className="scheda-locale-container">
+              <SchedaLocale />
+              <SearchBarWithAutocomplete />
+            </div>
+          } />
+        </Route>
+      </Routes>
+    </Router>
+  );
+  */
   return (
     <Router>
       <Routes>
         <Route path="/" element={
           <>
-
-            
-
         {/* Landing Page */}
         <div className="app-container">
           <div className="map-container">
@@ -56,28 +92,14 @@ export default function App() {
             <FoodSearch />
           </div>
         </div>
-        
-
-        
-
-
-
-            {/*
-            <Map markers={markers} />
-            <FoodSearch />
-            <SchedaLocale />
-            */}
           </>
         }/>
-
-
         <Route path="/map" element={
           <>         
           <Map markers={markers} />
           <SearchBarWithAutocomplete />
           </>
         }/> 
-      
         <Route path="/local" element={
           <>
           <Map markers={markers} />
@@ -86,18 +108,8 @@ export default function App() {
           <SearchBarWithAutocomplete />
           </div>
           </>
-          
         }/>
-
       </Routes>
     </Router>
-  );
-  
-  return (
-    <div>
-      {/* Pass markers as props to the Map component */}
-      <Map markers={markers} />
-      <FoodSearch />
-    </div>
   );
 }
