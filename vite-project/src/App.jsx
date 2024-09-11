@@ -9,22 +9,8 @@ import SchedaLocale from "./scheda/SchedaLocale";
 import SearchBarWithAutocomplete from "./SearchBar";
 import TextPlusIcon from "./home/TextPlusIcon";
 
-// Layout persistente per mantenere il componente Map montato
-const MapLayout = ({ markers }) => {
-  return (
-    <div className="map-layout">
-      {/* Map rimane sempre montato */}
-      <Map markers={markers} />
-
-      {/* Le altre pagine saranno rese qui */}
-      <Outlet /> 
-    </div>
-  );
-};
-
 // Dati dei marker
 export default function App() {
-
   const nomeLocale = "Panificio Menchetti";
   const classifiche = [
     ["Top Pizza in Viaggio in Italia", 25, "https://example.com/top-pizza"],
@@ -33,8 +19,6 @@ export default function App() {
   const linkGoogleMaps = "https://maps.google.com/?q=Panificio+Menchetti";
   const linkIndicazioniMaps = "https://maps.google.com/dir/?api=1&destination=Panificio+Menchetti";
   const linkSitoWeb = "https://www.panificiomenchetti.it";
-
-
   const locations = [
     {
       nome: 'Luogo 1',
@@ -82,33 +66,7 @@ export default function App() {
   }, []);
 
   const emptyMarkers = []; 
- /*
-  return (
-    <Router>
-      <Routes>
-        <Route path="/" element={
-          <div className="app-container">
-            <div className="map-container">
-              <Map markers={[]} />
-            </div>
-            <div className="food-search-container">
-              <FoodSearch />
-            </div>
-          </div>
-        }/>
-        <Route path="/*" element={<MapLayout markers={markers} />}>
-          <Route path="map" element={<SearchBarWithAutocomplete />} />
-          <Route path="local" element={
-            <div className="scheda-locale-container">
-              <SchedaLocale />
-              <SearchBarWithAutocomplete />
-            </div>
-          } />
-        </Route>
-      </Routes>
-    </Router>
-  );
-  */
+
   return (
     <Router>
       <Routes>
@@ -131,9 +89,6 @@ export default function App() {
           <SearchBarWithAutocomplete />
           </>
         }/> 
-
-      
-
       </Routes>
     </Router>
   );
