@@ -118,11 +118,13 @@
     margin-right: auto;
     border-radius: 2vw;
     font-weight: bold; /* Testo in grassetto */
-    background-color: #222325 !important;
+    background-color: #222325;
     color: #fff;
     cursor: pointer;
     display: block; /* Aggiungi display: block per centrare il pulsante orizzontalmente */
 }
+
+
 
   .search-button:hover {
     background-color: #000000 !important;

@@ -17,7 +17,15 @@
   border-radius: 1vw; /* Arrotonda gli angoli del container */
   cursor: pointer; /* Cambia il cursore quando l'utente passa sopra */
   position: relative;
+  
+
 }
+
+/* Aggiunge un bordo interno azzurro quando il container è cliccato */
+.container.clicked {
+  border: 5px solid blue;
+}
+
 
 .food-icon-isEmoji {
   position: absolute;
