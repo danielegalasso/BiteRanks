@@ -53,19 +53,13 @@ const createCustomIcon = (category, rank) => {
 
   // Nuovo SVG fornito con la possibilità di modificare testo e colore dinamicamente
   const svgString = renderToStaticMarkup(
-    <svg xmlns="http://www.w3.org/2000/svg" width="59" height="73" viewBox="0 0 59 73" fill={color}>
-      <g filter="url(#filter0_d_96_494)">
-        <path
-          d="M21.5 60L24 62L36 50L38 48L39.5 46L41.5 42.5L42 39.5V36.5V34L41.5 31L40.5 28L39 26L37 23.5L35.5 22L33 20L31 19L28 18L25.5 17.5H21.5L19 18L16 19L14.5 20L12 22L10 24L9 25.5L8 27L6.5 30L5.5 34V37L6 40.5L7 43.5L8.5 46L12 50L16 54L19 57.5L21.5 60Z"
-          //fill={color} // Colore fisso per questo path
-          stroke={borderColor} // Colore del bordo
-          strokeWidth="2" // Larghezza del bordo
-        />
+    <svg width="40" height="49" viewBox="0 0 40 49" xmlns="http://www.w3.org/2000/svg">
+      <path d="M34.03 5.84A19.87 19.87 0 0 0 19.934 0 19.87 19.87 0 0 0 5.838 5.84c-7.784 7.784-7.784 20.405 0 28.19l14.096 14.095L34.03 34.031c7.784-7.786 7.784-20.407 0-28.191M31.904 31" fill={color}/>
         {/* Aggiungi qui il testo del rank */}
         {rank && (
           <text
-          x="42%" // Centrato orizzontalmente
-          y="50%" // Centrato verticalmente
+          x="50%" // Centrato orizzontalmente
+          y="45%" // Centrato verticalmente
           fontSize="18" // Dimensione del testo
           fontWeight="bold"
           fontFamily="Raleway"
@@ -76,7 +70,7 @@ const createCustomIcon = (category, rank) => {
             {rankNumber}
           </text>
         )}
-      </g>
+      
     </svg>
   );
 
@@ -86,9 +80,9 @@ const createCustomIcon = (category, rank) => {
 
   return new Icon({
     iconUrl: svgUrl,
-    iconSize: [40, 50], // Dimensioni effettive dell'icona SVG
-    iconAnchor: [20, 50], // Centro inferiore (larghezza/2, altezza)
-    popupAnchor: [0, -50], // Posizione del popup rispetto all'icona
+    iconSize: [30, 36.75],
+    iconAnchor: [15, 37.5],
+    popupAnchor: [0, -37.5],
   });
 };
 
