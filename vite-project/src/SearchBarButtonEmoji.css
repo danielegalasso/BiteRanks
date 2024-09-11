@@ -1,0 +1,17 @@
+.custom-button {
+    background-color: white;
+    border: none;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  }
+
+.src-icon {
+    margin-right: 8px;
+    width: 1rem;
+}
+
+.x-icon{
+    width: 0.8rem;
+
+}

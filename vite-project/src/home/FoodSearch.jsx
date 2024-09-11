@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom"; // Import useNavigate for navigation
 import "./FoodSearch.css"; // Importiamo il file CSS
 import FoodRankItem from "./FoodRankItem";
@@ -17,11 +17,36 @@ import cinquantaTopPizzaicon from "./emoji/50-Top-Pizza.jpg";
 import michelinStaricon from "./emoji/Michelin-Star.jpg";
 import gamberoRossoicon from "./emoji/Gambero-Rosso.jpeg";
 import twcinquantabesticon from "./emoji/tw50br.jpeg";
+import closeicon from "./emoji/closeicon.png"
 
-const FoodSearch = () => {
+const FoodSearch = ({sfsv, selectedItems, setSelectedItems}) => {
+
+  const [SearchbuttonClicked, setSearchbuttonClicked] = useState(false);
+
+  const handleSearchButtonClick = () => {
+    handleCloseButtonClick();
+  };
+
+  const handleCloseButtonClick = () => {
+    setSearchbuttonClicked(true);
+  };
+  
+  useEffect(() => {
+    if (SearchbuttonClicked) {
+      // Esegui l'aggiornamento dello stato solo quando buttonClicked è true
+      sfsv(false);
+
+      // Pulizia (opzionale): Rimuovi lo stato se il componente viene smontato
+      return () => {
+        sfsv(false);
+      };
+    }
+  }, [SearchbuttonClicked, sfsv]); // Esegui l'effetto quando buttonClicked cambia
+
+
   const [searchText, setSearchText] = useState(""); // Stato per il testo della ricerca
   const [activeTab, setActiveTab] = useState("food"); // Stato per gestire quale pulsante è attivo
-  const [selectedItems, setSelectedItems] = useState([]); // Stato per gli elementi selezionati
+  
 
   const navigate = useNavigate(); // Navigation hook
 
@@ -96,6 +121,9 @@ const FoodSearch = () => {
 
   return (
     <div className="food-search-container">
+      <button className="cBttn" onClick={handleCloseButtonClick}>
+        <img src={closeicon} alt="Button Image" />
+      </button>
       
       <div className="top-buttons">
         <button
@@ -153,7 +181,7 @@ const FoodSearch = () => {
         </div>
       </div>
 
-      <button className="search-button1" onClick={handleSearchClick}>
+      <button className="search-button1" onClick={handleSearchButtonClick}>
         <TextPlusIcon text="Search" imageSrc={rocketicon} fSize="1.5rem" />
       </button>
     </div>

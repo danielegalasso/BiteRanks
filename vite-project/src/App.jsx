@@ -25,6 +25,8 @@ const MapLayout = ({ markers }) => {
 // Dati dei marker
 export default function App() {
 
+  const [selectedItems, setSelectedItems] = useState([]); // Stato per gli elementi selezionati
+
   const nomeLocale = "Panificio Menchetti";
   const classifiche = [
     ["Top Pizza in Viaggio in Italia", 25, "https://example.com/top-pizza"],
@@ -136,8 +138,8 @@ export default function App() {
         <Route path="/map" element={
           <>         
           <Map markers={markers} />
-          <SearchBarWithAutocomplete sfsv = {setFoodSearchVisible} isFSV = {isFoodSearchVisible} />
-          {isFoodSearchVisible && <FoodSearch/>}
+          <SearchBarWithAutocomplete sfsv = {setFoodSearchVisible} isFSV = {isFoodSearchVisible}  selectedItems={selectedItems} setSelectedItems={setSelectedItems}/>
+          {isFoodSearchVisible && <FoodSearch sfsv = {setFoodSearchVisible} selectedItems={selectedItems} setSelectedItems={setSelectedItems}/>}
 
           </>
         }/> 
