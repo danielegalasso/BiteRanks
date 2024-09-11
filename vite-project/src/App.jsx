@@ -4,7 +4,6 @@ import { BrowserRouter as Router, Routes, Route, Outlet } from 'react-router-dom
 import "./App.css";
 import "leaflet/dist/leaflet.css";
 import { Map } from "./Map"; // Importa il componente Map
-import { Map1 } from "./Map1"; // Importa il componente Map
 import FoodSearch from "./home/FoodSearch";
 import SchedaLocale from "./scheda/SchedaLocale";
 import SearchBarWithAutocomplete from "./SearchBar";
@@ -133,11 +132,6 @@ export default function App() {
           </>
         }/> 
 
-        <Route path="/map1" element={
-          <>         
-          <Map1 locations={locations}/>
-          </>
-        }/> 
       
         <Route path="/local" element={
           <>
