@@ -23,7 +23,7 @@
 
 /* Aggiunge un bordo interno azzurro quando il container è cliccato */
 .container.clicked {
-  border: 5px solid blue;
+  box-shadow: inset 0 0 0 6px blue; /* Bordo interno azzurro */
 }
 
 
@@ -44,6 +44,11 @@
   border-radius: 1vw;
   
 }
+
+.container.clicked .food-icon-isNotEmoji {
+  border: 6px solid blue;
+}
+
 
 .food-name {
   color: white; /* Colore del testo bianco */

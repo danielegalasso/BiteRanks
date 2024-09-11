@@ -1,4 +1,4 @@
-import React, {useState} from "react";
+import React, { useState } from "react";
 import { useNavigate } from "react-router-dom"; // Import useNavigate for navigation
 import "./FoodSearch.css"; // Importiamo il file CSS
 import FoodRankItem from "./FoodRankItem";
@@ -21,7 +21,8 @@ import twcinquantabesticon from "./emoji/tw50br.jpeg";
 const FoodSearch = () => {
   const [searchText, setSearchText] = useState(""); // Stato per il testo della ricerca
   const [activeTab, setActiveTab] = useState("food"); // Stato per gestire quale pulsante è attivo
-  const [selectedItem, setSelectedItem] = useState(null); // State for selected food
+  const [selectedItems, setSelectedItems] = useState([]); // Stato per gli elementi selezionati
+
   const navigate = useNavigate(); // Navigation hook
 
   // Lista di food-item (puoi aggiungere o modificare questi valori)
@@ -43,53 +44,70 @@ const FoodSearch = () => {
   ];
 
   const handleClickItem = (item) => {
-    console.log('Selected item:', item); // Debugging line
-    setSelectedItem(item); // Store selected item
+    setSelectedItems((prevSelectedItems) => {
+      const updatedItems = prevSelectedItems.some(selectedItem => selectedItem.name === item.name)
+        ? prevSelectedItems.filter((i) => i.name !== item.name) // Rimuovi l'item se è già selezionato
+        : [...prevSelectedItems, item]; // Aggiungi l'item se non è già selezionato
+  
+      //console.log('Updated selected items:', updatedItems); // Stampa l'array aggiornato
+  
+      return updatedItems;
+    });
+    
   };
 
- // Filtra i food/classifiche in base al testo inserito
-const filteredItems = (items) =>
-  items.filter((item) =>
-    item.name.toLowerCase().includes(searchText.toLowerCase()) // Usa includes invece di startsWith
-  );
+  // Filtra i food/classifiche in base al testo inserito
+  const filteredItems = (items) =>
+    items.filter((item) =>
+      item.name.toLowerCase().includes(searchText.toLowerCase()) // Usa includes invece di startsWith
+    );
 
-// Funzione che si attiva ogni qual volta che viene inserito un carattere nella search-bar
-const handleChange = (e) => {
-  let newText = e.target.value;
-  if (newText.startsWith(" ") && searchText === "") {
-    // Se il testo inizia con uno spazio e il campo è vuoto, rimuovi lo spazio (rende codice più robusto)
-    newText = newText.trimStart();
-  }
-  setSearchText(newText);
-};
-
+  // Funzione che si attiva ogni qual volta che viene inserito un carattere nella search-bar
+  const handleChange = (e) => {
+    let newText = e.target.value;
+    if (newText.startsWith(" ") && searchText === "") {
+      // Se il testo inizia con uno spazio e il campo è vuoto, rimuovi lo spazio (rende codice più robusto)
+      newText = newText.trimStart();
+    }
+    setSearchText(newText);
+  };
 
   // Gestore per il cambio di tab
   const handleTabChange = (tab) => {
     setActiveTab(tab);
     setSearchText("");
+    setSelectedItems([]);
+
   };
-  
+
   const handleSearchClick = () => {
-    alert(selectedItem ? `Searching for ${selectedItem.name}...` : "No item selected!"); // Alert con il nome del cibo selezionato
-    if (selectedItem) {
-      navigate('/map', { state: { selectedItem } }); // Naviga alla nuova pagina passando i dati
+    if (selectedItems.length > 0) {
+      navigate('/map', { state: { selectedItems } }); // Naviga alla nuova pagina passando i dati
+    } else {
+      alert("No items selected!");
     }
   };
 
-  return (
+  const isSelectedCheck = (foodName) => {
+    return selectedItems.some(item => item.name === foodName);
+  };
+  
 
+
+  return (
     <div className="food-search-container">
       <div className="top-buttons">
-      <button 
-        className={activeTab === "food" ? "active" : ""} 
-        onClick={() => handleTabChange("food")}>
-        <TextPlusIcon text="Food" imageSrc={foodicon} fSize="1.5rem" />
-      </button>
-      
+        <button
+          className={activeTab === "food" ? "active" : ""}
+          onClick={() => handleTabChange("food")}
+        >
+          <TextPlusIcon text="Food" imageSrc={foodicon} fSize="1.5rem" />
+        </button>
+
         <button
           className={activeTab === "ranking" ? "active" : ""}
-          onClick={() => handleTabChange("ranking")}>
+          onClick={() => handleTabChange("ranking")}
+        >
           <TextPlusIcon text="Ranking" imageSrc={medalicon} fSize="1.5rem" />
         </button>
       </div>
@@ -99,19 +117,22 @@ const handleChange = (e) => {
           type="text"
           className="search-bar"
           placeholder="Search for food..."
-          value={searchText} 
-          onChange={handleChange} 
+          value={searchText}
+          onChange={handleChange}
         />
         <div className="food-list-container">
           {/* Mostra solo gli item filtrati in base al tab attivo */}
           {activeTab === "food" ? (
             filteredItems(foodItems).map((food, index) => (
+              
               <FoodRankItem
                 isAnEmoji={true}
                 key={index}
                 icon={food.icon}
                 name={food.name}
-                onClick={() => handleClickItem(food)}  // Pass the food object
+                activeTab={activeTab}
+                isSelected={isSelectedCheck(food.name)} // Passa se l'item è selezionato
+                onClick={() => handleClickItem(food)} // Pass the food object
               />
             ))
           ) : (
@@ -122,14 +143,14 @@ const handleChange = (e) => {
                 key={index}
                 icon={ranking.icon}
                 name={ranking.name}
+                activeTab={activeTab}
+                isSelected={isSelectedCheck(ranking.name)} // Passa se l'item è selezionato
                 onClick={() => handleClickItem(ranking)}
               />
             ))
           )}
         </div>
       </div>
-
-      
 
       <button className="search-button1" onClick={handleSearchClick}>
         <TextPlusIcon text="Search" imageSrc={rocketicon} fSize="1.5rem" />
@@ -139,4 +160,3 @@ const handleChange = (e) => {
 };
 
 export default FoodSearch;
-    

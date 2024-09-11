@@ -1,20 +1,18 @@
 import React, { useState } from "react";
 import "./FoodRankItem.css"; // Importa il CSS specifico per il componente
 
-const FoodRankItem = ({ icon, name, onClick, isAnEmoji }) => {
-  const [isClicked, setIsClicked] = useState(false); // Stato per il click
+const FoodRankItem = ({ icon, name, onClick, isAnEmoji, isSelected}) => {
 
   // Determina la classe CSS da applicare in base al valore di isAnEmoji
   const iconClass = isAnEmoji ? "food-icon-isEmoji" : "food-icon-isNotEmoji";
 
   // Gestisce il click sul container
   const handleClick = () => {
-    setIsClicked(!isClicked); // Toggle dello stato del click
     if (onClick) onClick(); // Esegui la funzione di onClick se fornita
   };
 
   // Aggiunge la classe "clicked" se l'elemento è stato cliccato
-  const containerClass = `container ${isClicked ? "clicked" : ""}`;
+  const containerClass = `container ${isSelected ? "clicked" : ""}`;
 
   return (
     <div className="outer-container">
