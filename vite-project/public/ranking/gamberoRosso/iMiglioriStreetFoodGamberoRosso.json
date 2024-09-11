@@ -1,0 +1,264 @@
+{
+    "I Migliori Street Food Gambero Rosso 2024": [
+        {
+            "category": "🍢",
+            "position": null,
+            "name": "Trancio - pizza in teglia",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/trancio-pizza-in-teglia/",
+            "coord": [
+                [
+                    41.7840841,
+                    14.1060845
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍢",
+            "position": null,
+            "name": "Le Stuzzicherie - Strit Fud",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/le-stuzzicherie-strit-fud/",
+            "coord": [
+                [
+                    40.8050346,
+                    15.7334438
+                ]
+            ],
+            "website": "http://www.lestuzzicherie.it"
+        },
+        {
+            "category": "🍢",
+            "position": null,
+            "name": "Brezza Fish and Chill",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/brezza-fish-and-chill/",
+            "coord": [
+                [
+                    38.6911659,
+                    16.5461769
+                ]
+            ],
+            "website": "http://brezzafishnchill.com"
+        },
+        {
+            "category": "🍢",
+            "position": null,
+            "name": "Rostì",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/rosti-2/",
+            "coord": [
+                [
+                    40.9101303,
+                    14.3829123
+                ]
+            ],
+            "website": "http://rostipomigliano.it"
+        },
+        {
+            "category": "🍢",
+            "position": null,
+            "name": "Ragù",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/ragu/",
+            "coord": [
+                [
+                    44.4967852,
+                    11.3445211
+                ]
+            ],
+            "website": "http://ragubologna.it"
+        },
+        {
+            "category": "🍢",
+            "position": null,
+            "name": "Cemût - Piccola osteria furlana",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/cemut-piccola-osteria-furlana/",
+            "coord": [
+                [
+                    45.6479627,
+                    13.7676597
+                ]
+            ],
+            "website": "http://cemut.net"
+        },
+        {
+            "category": "🍢",
+            "position": null,
+            "name": "Becco",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/becco/",
+            "coord": [
+                [
+                    41.9088044,
+                    12.4492637
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍢",
+            "position": null,
+            "name": "Fish'n Street - Osteria di Strada",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/fishn-street-osteria-di-strada/",
+            "coord": [
+                [
+                    44.4063118,
+                    8.9422331
+                ]
+            ],
+            "website": "http://pescheriecontigenova.com"
+        },
+        {
+            "category": "🍢",
+            "position": null,
+            "name": "Forno Del Mastro",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/forno-del-mastro-3/",
+            "coord": [
+                [
+                    45.4526554,
+                    9.1789755
+                ]
+            ],
+            "website": "http://fornodelmastro.it"
+        },
+        {
+            "category": "🍢",
+            "position": null,
+            "name": "Le Pallette di Giorgio",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/le-pallette-di-giorgio/",
+            "coord": [
+                [
+                    42.9519804,
+                    13.8819954
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍢",
+            "position": null,
+            "name": "Trotta Sapori",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/trotta-sapori/",
+            "coord": [
+                [
+                    41.8324155,
+                    14.2630136
+                ]
+            ],
+            "website": "http://trottasapori.com"
+        },
+        {
+            "category": "🍢",
+            "position": null,
+            "name": "Kokoroya",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/kokoroya/",
+            "coord": [
+                [
+                    45.0759337,
+                    7.675792
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍢",
+            "position": null,
+            "name": "Evviva Maria Trattoria Veloce",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/evviva-maria-trattoria-veloce/",
+            "coord": [
+                [
+                    40.9671632,
+                    17.1138943
+                ]
+            ],
+            "website": "http://evvivamaria.it"
+        },
+        {
+            "category": "🍢",
+            "position": null,
+            "name": "La Mallicca",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-mallicca/",
+            "coord": [
+                [
+                    39.2158368,
+                    9.110814699999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍢",
+            "position": null,
+            "name": "Scollo - Salumeria e Gastronomia",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/scollo-salumeria-e-gastronomia/",
+            "coord": [
+                [
+                    37.517443,
+                    15.1045925
+                ]
+            ],
+            "website": "http://salumeriascollo.it"
+        },
+        {
+            "category": "🍢",
+            "position": null,
+            "name": "Xinge Go Go",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/xinge-go-go/",
+            "coord": [
+                [
+                    43.779108,
+                    11.2428923
+                ]
+            ],
+            "website": "http://xingegogo.com"
+        },
+        {
+            "category": "🍢",
+            "position": null,
+            "name": "Acquaefarina Petit",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/acquaefarina-petit/",
+            "coord": [
+                [
+                    46.0722523,
+                    11.125159
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍢",
+            "position": null,
+            "name": "Macelleria Pucci",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/macelleria-pucci/",
+            "coord": [
+                [
+                    42.556463,
+                    12.649209
+                ]
+            ],
+            "website": "http://macelleriapucci.it"
+        },
+        {
+            "category": "🍢",
+            "position": null,
+            "name": "Hibou Prodotti Valdostani",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/hibou-prodotti-valdostani/",
+            "coord": [
+                [
+                    45.568935,
+                    7.117679
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍢",
+            "position": null,
+            "name": "Vecia Hostaria Dai Naneti",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/vecia-hostaria-dai-naneti/",
+            "coord": [
+                [
+                    45.6656066,
+                    12.2465801
+                ]
+            ],
+            "website": null
+        }
+    ]
+}
