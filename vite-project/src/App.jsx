@@ -133,21 +133,7 @@ export default function App() {
         }/> 
 
       
-        <Route path="/local" element={
-          <>
-          <Map markers={markers} />
-          <div className="scheda-locale-container">
-          <SchedaLocale 
-            nome={nomeLocale}
-            classifiche={classifiche}
-            linkGoogleMaps={linkGoogleMaps}
-            linkIndicazioniMaps={linkIndicazioniMaps}
-            linkSitoWeb={linkSitoWeb}
-          />
-          <SearchBarWithAutocomplete />
-          </div>
-          </>
-        }/>
+
       </Routes>
     </Router>
   );
