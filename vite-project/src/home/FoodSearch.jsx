@@ -96,6 +96,7 @@ const FoodSearch = () => {
 
   return (
     <div className="food-search-container">
+      
       <div className="top-buttons">
         <button
           className={activeTab === "food" ? "active" : ""}

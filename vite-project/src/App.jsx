@@ -58,6 +58,12 @@ export default function App() {
   // State to hold markers data
   const [markers, setMarkers] = useState([]);
 
+
+  const [isFoodSearchVisible, setFoodSearchVisible] = useState(false);
+
+
+
+
   // Fetch data from the local JSON file
   useEffect(() => {
     const fetchData = async () => {
@@ -125,10 +131,14 @@ export default function App() {
         </div>
           </>
         }/>
+
+
         <Route path="/map" element={
           <>         
           <Map markers={markers} />
-          <SearchBarWithAutocomplete />
+          <SearchBarWithAutocomplete sfsv = {setFoodSearchVisible} isFSV = {isFoodSearchVisible} />
+          {isFoodSearchVisible && <FoodSearch/>}
+
           </>
         }/> 
 

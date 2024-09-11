@@ -1,17 +1,22 @@
 import React from 'react';
 import Button from './SearchBarButton.jsx';
-import {FaEdit, FaDice } from 'react-icons/fa'; 
+import {FaEdit, FaDice, FaRegWindowClose } from 'react-icons/fa'; 
+import { IoMdClose } from "react-icons/io";
 import './SearchBarButtonList.css';
 
 
-const ButtonList = () => {
+const ButtonList = ({sfsv, isFSV}) => {
   const buttonsData = [
-    { icon: <FaEdit />, backgroundColor: '#7aa8c6' },
+    {
+      icon: isFSV ? <FaRegWindowClose /> : <FaEdit />,
+      backgroundColor: isFSV ? "red" : "#7aa8c6",
+    },
     { icon: <FaDice />, backgroundColor: '#4b7158' },
   ];
 
   const handleButtonClick = (icon) => {
-    console.log(`${icon} button clicked!`);
+    
+    sfsv(!isFSV);
   };
 
   return (

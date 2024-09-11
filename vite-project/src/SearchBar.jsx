@@ -4,7 +4,7 @@ import { FaSearch, FaGlobe } from 'react-icons/fa';
 import './SearchBar.css'; 
 import ButtonList from './SearchBarButtonList.jsx';
 
-const SearchBarWithAutocomplete = () => {
+const SearchBarWithAutocomplete = ({sfsv, isFSV}) => {
   const [searchTerm, setSearchTerm] = useState('');
   const [suggestions, setSuggestions] = useState([]);
 
@@ -67,7 +67,7 @@ const SearchBarWithAutocomplete = () => {
         </ul>
       )}
 
-      <ButtonList />
+      <ButtonList sfsv={sfsv} isFSV={isFSV} />
     </div>
   );
 };
