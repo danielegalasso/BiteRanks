@@ -1,0 +1,164 @@
+{
+    "50 Top Italy Migliori Cacio E Pepe 2024": [
+        {
+            "category": "🍽️",
+            "position": "1°",
+            "name": "Roscioli Salumeria con Cucina",
+            "ref": "https://www.50topitaly.it/it/referenza/roscioli-salumeria-con-cucina-3/",
+            "address": [
+                "Via dei Giubbonari, 21, 00186 Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.894256,
+                    12.4742417
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "2°",
+            "name": "Felice a Testaccio",
+            "ref": "https://www.50topitaly.it/it/referenza/felice-a-testaccio/",
+            "address": [
+                "Via Mastro Giorgio, 29, 00153 Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.8785412,
+                    12.477493
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "3°",
+            "name": "Antica Pesa",
+            "ref": "https://www.50topitaly.it/it/referenza/antica-pesa/",
+            "address": [
+                "Via Garibaldi, 18, 00153 Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.8905078,
+                    12.4665524
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "4°",
+            "name": "Velavevodetto",
+            "ref": "https://www.50topitaly.it/it/referenza/velavevodetto/",
+            "address": [
+                "Via di Monte Testaccio, 97, 00153 Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.8765358,
+                    12.4759252
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "5°",
+            "name": "SantoPalato",
+            "ref": "https://www.50topitaly.it/it/referenza/santopalato-3/",
+            "address": [
+                "Piazza Tarquinia, 4 a/b, 00183 Roma RM"
+            ],
+            "coord": [
+                [
+                    41.8812628,
+                    12.5098805
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "6°",
+            "name": "Da Enzo al 29",
+            "ref": "https://www.50topitaly.it/it/referenza/da-enzo-al-29/",
+            "address": [
+                "Via dei Vascellari, 29, 00153 Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.8880871,
+                    12.4777878
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "7°",
+            "name": "Checchino dal 1887",
+            "ref": "https://www.50topitaly.it/it/referenza/checchino-dal-1887/",
+            "address": [
+                "Via di Monte Testaccio, 30, 00153 Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.8763821,
+                    12.4740215
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "8°",
+            "name": "Ristorante La Carbonara",
+            "ref": "https://www.50topitaly.it/it/referenza/ristorante-la-carbonara/",
+            "address": [
+                "Campo de' Fiori, 23, 00186 Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.8959344,
+                    12.4716776
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "9°",
+            "name": "Da Cesare al Casaletto",
+            "ref": "https://www.50topitaly.it/it/referenza/da-cesare-al-casaletto-2/",
+            "address": [
+                "Via del Casaletto, 45, 00151 Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.8768546,
+                    12.4407913
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "10°",
+            "name": "Trattoria da Danilo",
+            "ref": "https://www.50topitaly.it/it/referenza/trattoria-da-danilo/",
+            "address": [
+                "Via Petrarca, 13, 00185 Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.8920353,
+                    12.5053084
+                ]
+            ],
+            "website": null
+        }
+    ]
+}

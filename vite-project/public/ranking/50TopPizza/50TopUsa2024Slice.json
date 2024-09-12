@@ -1,0 +1,169 @@
+{
+    "50 Top Usa 2024 Slice": [
+        {
+            "category": "🍕",
+            "position": "1°",
+            "name": "L’industrie Pizzeria",
+            "ref": "https://www.50toppizza.it/referenza/lindustrie-pizzeria/",
+            "address": [
+                "L'Industrie Pizzeria, South 2nd Street, Brooklyn, New York, USA"
+            ],
+            "coord": [
+                [
+                    40.7116053,
+                    -73.9578691
+                ]
+            ],
+            "website": "https://www.lindustriebk.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "2°",
+            "name": "Slice & Pie",
+            "ref": "https://www.50toppizza.it/referenza/slice-pie-2/",
+            "address": [
+                "Slice & Pie, 14th Street Northwest, Washington, Distretto di Columbia, USA"
+            ],
+            "coord": [
+                [
+                    38.9199399,
+                    -77.0316729
+                ]
+            ],
+            "website": "https://www.sliceandpie.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "3°",
+            "name": "Taglio",
+            "ref": "https://www.50toppizza.it/referenza/taglio/",
+            "address": [
+                "Taglio Pizza, Mineola Boulevard, Mineola, New York, USA"
+            ],
+            "coord": [
+                [
+                    40.7410371,
+                    -73.640456
+                ]
+            ],
+            "website": "https://taglioromanpizza.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "4°",
+            "name": "Mano’s Pizzeria",
+            "ref": "https://www.50toppizza.it/referenza/manos-pizzeria/",
+            "address": [
+                "Mano's Pizzeria, Forest Avenue, Queens, New York, USA"
+            ],
+            "coord": [
+                [
+                    40.7108531,
+                    -73.9052694
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "5°",
+            "name": "Miami Slice",
+            "ref": "https://www.50toppizza.it/referenza/miami-slice/",
+            "address": [
+                "Miami Slice, Northeast Miami Court, Miami, Florida, USA",
+                "2777 S Las Vegas Blvd, Las Vegas, NV 89109, Stati Uniti"
+            ],
+            "coord": [
+                [
+                    25.7877383,
+                    -80.1930776
+                ],
+                [
+                    36.1375353,
+                    -115.1600394
+                ]
+            ],
+            "website": "https://www.miamislicepizza.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "6°",
+            "name": "Palazzo Di Pizza",
+            "ref": "https://www.50toppizza.it/referenza/palazzo-di-pizza/",
+            "address": [
+                "Palazzo Di Pizza, East Eleven Mile Road, Royal Oak, Michigan, USA"
+            ],
+            "coord": [
+                [
+                    42.4898724,
+                    -83.1298388
+                ]
+            ],
+            "website": "https://palazzodipizza.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "7°",
+            "name": "Tivoli",
+            "ref": "https://www.50toppizza.it/referenza/tivoli/",
+            "address": [
+                "Tivoli, North 34th Street, Seattle, Washington, USA"
+            ],
+            "coord": [
+                [
+                    47.6495897,
+                    -122.348467
+                ]
+            ],
+            "website": "https://www.tivoliseattle.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "8°",
+            "name": "Mama’s Boy Pizza",
+            "ref": "https://www.50toppizza.it/referenza/mamas-boy-pizza/",
+            "address": [
+                "Mama's Boy, Grand Avenue, Oakland, California, USA"
+            ],
+            "coord": [
+                [
+                    37.8113525,
+                    -122.2663919
+                ]
+            ],
+            "website": "https://www.mamasboypizza.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "9°",
+            "name": "Jimmy’s Pizza Cafe",
+            "ref": "https://www.50toppizza.it/referenza/jimmys-pizza-cafe/",
+            "address": [
+                "Jimmy's Pizza Cafe, West Montrose Avenue, Chicago, Illinois, USA"
+            ],
+            "coord": [
+                [
+                    41.9615397,
+                    -87.690125
+                ]
+            ],
+            "website": "https://jimmyspizzacafe.weborder.net/"
+        },
+        {
+            "category": "🍕",
+            "position": "10°",
+            "name": "L&B Spumoni Gardens",
+            "ref": "https://www.50toppizza.it/referenza/lb-spumoni-gardens/",
+            "address": [
+                "L&B Spumoni Gardens, 86th Street, Brooklyn, New York, USA"
+            ],
+            "coord": [
+                [
+                    40.5947277,
+                    -73.9814713
+                ]
+            ],
+            "website": "https://spumonigardens.com/"
+        }
+    ]
+}

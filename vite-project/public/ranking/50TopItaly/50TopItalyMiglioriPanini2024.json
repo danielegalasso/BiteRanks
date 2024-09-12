@@ -1,0 +1,164 @@
+{
+    "50 Top Italy Migliori Panini 2024": [
+        {
+            "category": "🍽️",
+            "position": "1°",
+            "name": "Da Gigione Gourmand",
+            "ref": "https://www.50topitaly.it/it/referenza/da-gigione-gourmand-3/",
+            "address": [
+                "Via Roma, 307, 80038 Pomigliano d'Arco NA"
+            ],
+            "coord": [
+                [
+                    40.91218,
+                    14.3912404
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "2°",
+            "name": "Bestie – Calabresi selvaggi",
+            "ref": "https://www.50topitaly.it/it/referenza/bestie-calabresi-selvaggi-3/",
+            "address": [
+                "Via Italo Balbo, 89, 88060 Montepaone, CZ, Italia"
+            ],
+            "coord": [
+                [
+                    38.7270591,
+                    16.5313096
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "3°",
+            "name": "‘Ino",
+            "ref": "https://www.50topitaly.it/it/referenza/ino-3/",
+            "address": [
+                "Via dei Georgofili, 3r/7r, 50122 Firenze FI, Italia"
+            ],
+            "coord": [
+                [
+                    43.7681726,
+                    11.2546317
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "4°",
+            "name": "Fud Bottega Sicula",
+            "ref": "https://www.50topitaly.it/it/referenza/fud-bottega-sicula-2/",
+            "address": [
+                "Piazza Olivella, 4, 90133 Palermo, Palermo PA, Italia"
+            ],
+            "coord": [
+                [
+                    38.1203329,
+                    13.3601276
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "5°",
+            "name": "Porcobrado",
+            "ref": "https://www.50topitaly.it/it/referenza/porcobrado-2/",
+            "address": [
+                "Via Jacopo dal Verme, 17, 20159 Milano, MI, Italia"
+            ],
+            "coord": [
+                [
+                    45.4875206,
+                    9.1881472
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "6°",
+            "name": "Mi’ Ndujo",
+            "ref": "https://www.50topitaly.it/it/referenza/mi-ndujo/",
+            "address": [
+                "Via G. Marconi, 82 - 87036 Rende"
+            ],
+            "coord": [
+                [
+                    39.3535206,
+                    16.2358733
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "7°",
+            "name": "Da Matti Street Food",
+            "ref": "https://www.50topitaly.it/it/referenza/da-matti-street-food-3/",
+            "address": [
+                "Via A. Vespucci, 9, 66038 Marina di San Vito, CH, Italia"
+            ],
+            "coord": [
+                [
+                    42.3076596,
+                    14.4453194
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "8°",
+            "name": "BifBurger Exclusive",
+            "ref": "https://www.50topitaly.it/it/referenza/bifburger-exclusive-2/",
+            "address": [
+                "Via Papa Giovanni XXIII, 8, 80044 Ottaviano NA, Italia"
+            ],
+            "coord": [
+                [
+                    40.8485233,
+                    14.4762652
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "9°",
+            "name": "Panino Marino",
+            "ref": "https://www.50topitaly.it/it/referenza/panino-marino-3/",
+            "address": [
+                "Piazza Caricamento, 65R, 16124 Genova, GE, Italia"
+            ],
+            "coord": [
+                [
+                    44.4107044,
+                    8.9289542
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "10°",
+            "name": "Qcècè SocialCafè",
+            "ref": "https://www.50topitaly.it/it/referenza/qcece-socialcafe/",
+            "address": [
+                "Piazza Altieri, 87020 San Nicola Arcella, CS, Italia"
+            ],
+            "coord": [
+                [
+                    39.8486071,
+                    15.794757
+                ]
+            ],
+            "website": null
+        }
+    ]
+}

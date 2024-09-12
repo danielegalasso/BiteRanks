@@ -1,0 +1,820 @@
+{
+    "I Migliori Ristoranti Italiani Nel Mondo 2024": [
+        {
+            "category": "🍽️",
+            "position": "1°",
+            "name": "Il Carpaccio",
+            "ref": "https://www.50topitaly.it/it/referenza/il-carpaccio-3/",
+            "address": [
+                "37 Av. Hoche, 75008 Parigi, Paris, Francia"
+            ],
+            "coord": [
+                [
+                    48.8757253,
+                    2.3004237
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "2°",
+            "name": "Gucci Osteria Tokyo",
+            "ref": "https://www.50topitaly.it/it/referenza/gucci-osteria-tokyo/",
+            "address": [
+                "6 Chome-6-12 Ginza, 中央区 Chuo City, Tokyo 104-0061, Giappone"
+            ],
+            "coord": [
+                [
+                    35.6704952,
+                    139.7621529
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "3°",
+            "name": "Don Alfonso",
+            "ref": "https://www.50topitaly.it/it/referenza/don-alfonso/",
+            "address": [
+                "1 Austin Terrace, Toronto, ON M5R 1X8, Canada"
+            ],
+            "coord": [
+                [
+                    43.6780371,
+                    -79.4094439
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "4°",
+            "name": "Da Vittorio Shanghai",
+            "ref": "https://www.50topitaly.it/it/referenza/da-vittorio-shanghai-3/",
+            "address": [
+                "3rd floor, N3 Building 600 Zhongshan Road Est No.2, Shanghai, Cina"
+            ],
+            "coord": [
+                [
+                    31.24618,
+                    121.427733
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "5°",
+            "name": "Il Ristorante – Luca Fantin",
+            "ref": "https://www.50topitaly.it/it/referenza/il-ristorante-luca-fantin-2/",
+            "address": [
+                "2 Chome-7-12 Ginza, Chuo City, Tokyo 104-0061, Japan"
+            ],
+            "coord": [
+                [
+                    35.672926,
+                    139.7672446
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "6°",
+            "name": "Fiola",
+            "ref": "https://www.50topitaly.it/it/referenza/fiola-3/",
+            "address": [
+                "601 Pennsylvania Ave. NW Washington, DC 20004"
+            ],
+            "coord": [
+                [
+                    38.893308,
+                    -77.020487
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "7°",
+            "name": "Rezdôra",
+            "ref": "https://www.50topitaly.it/it/referenza/rezdora-3/",
+            "address": [
+                "27 E 20th St, New York, NY 10003, United States"
+            ],
+            "coord": [
+                [
+                    40.7391458,
+                    -73.9889987
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "8°",
+            "name": "Sesamo",
+            "ref": "https://www.50topitaly.it/it/referenza/sesamo-3/",
+            "address": [
+                "El Sebti, Rue Abou Al Abbas, Marrakesh 40000, Morocco"
+            ],
+            "coord": [
+                [
+                    31.6225224,
+                    -7.9898258
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "9°",
+            "name": "Il Lago",
+            "ref": "https://www.50topitaly.it/it/referenza/il-lago-3/",
+            "address": [
+                "Quai des Bergues 33, 1201 Genève, Svizzera"
+            ],
+            "coord": [
+                [
+                    46.2070227,
+                    6.146962
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "10°",
+            "name": "Buona Terra",
+            "ref": "https://www.50topitaly.it/it/referenza/buona-terra-3/",
+            "address": [
+                "29 Scotts Rd, Singapore 228224"
+            ],
+            "coord": [
+                [
+                    1.3106807,
+                    103.8346232
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "11°",
+            "name": "Senzanome",
+            "ref": "https://www.50topitaly.it/it/referenza/senzanome-3/",
+            "address": [
+                "Pl. du Petit Sablon 1, 1000 Bruxelles, Belgium"
+            ],
+            "coord": [
+                [
+                    50.8401024,
+                    4.3567674
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "12°",
+            "name": "Acquarello",
+            "ref": "https://www.50topitaly.it/it/referenza/acquarello-3/",
+            "address": [
+                "Mühlbaurstraße 36, 81677 München, Germany"
+            ],
+            "coord": [
+                [
+                    48.1421987,
+                    11.6141245
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "13°",
+            "name": "Agli Amici Rovinj",
+            "ref": "https://www.50topitaly.it/it/referenza/agli-amici-rovinj-2/",
+            "address": [
+                "Šetalište Vijeća Europe 1-2, 52210, Rovinj, Croazia"
+            ],
+            "coord": [
+                [
+                    45.0748234,
+                    13.635605
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "14°",
+            "name": "Masseria",
+            "ref": "https://www.50topitaly.it/it/referenza/masseria-2/",
+            "address": [
+                "1340 4th Street Northeast, Washington, DC 20002, Stati Uniti"
+            ],
+            "coord": [
+                [
+                    38.9097188,
+                    -76.9991574
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "15°",
+            "name": "Locanda Locatelli",
+            "ref": "https://www.50topitaly.it/it/referenza/locanda-locatelli-3/",
+            "address": [
+                "8 Seymour St, London W1H 7JZ, United Kingdom"
+            ],
+            "coord": [
+                [
+                    51.5151228,
+                    -0.1572866
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "16°",
+            "name": "Tèrra",
+            "ref": "https://www.50topitaly.it/it/referenza/terra-3/",
+            "address": [
+                "Ryesgade 65, 2100 København, Denmark"
+            ],
+            "coord": [
+                [
+                    55.6946506,
+                    12.5705762
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "17°",
+            "name": "Torno Subito",
+            "ref": "https://www.50topitaly.it/it/referenza/torno-subito-2/",
+            "address": [
+                "4456+3Q2 - The Palm Jumeirah - Dubai - Emirati Arabi Uniti"
+            ],
+            "coord": [
+                [
+                    25.1076375,
+                    55.1118906
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "18°",
+            "name": "The Oval",
+            "ref": "https://www.50topitaly.it/it/referenza/the-oval/",
+            "address": [
+                "428 W 16th St, New York, NY 10011, Stati Uniti"
+            ],
+            "coord": [
+                [
+                    40.742656,
+                    -74.0057365
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "19°",
+            "name": "Giando",
+            "ref": "https://www.50topitaly.it/it/referenza/giando-3/",
+            "address": [
+                "Starcrest Block 1, Shop 1, G/F, Tower, 9 Star St, Wan Chai, Hong Kong"
+            ],
+            "coord": [
+                [
+                    22.2764838,
+                    114.1673676
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "20°",
+            "name": "Caffè Stern",
+            "ref": "https://www.50topitaly.it/it/referenza/caffe-stern-3/",
+            "address": [
+                "47 Pass. des Panoramas, 75002 Paris, Francia"
+            ],
+            "coord": [
+                [
+                    48.8709043,
+                    2.3415253
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "21°",
+            "name": "Armani / Ristorante Tokyo",
+            "ref": "https://www.50topitaly.it/it/referenza/armani-ristorante-tokyo/",
+            "address": [
+                "5-5-4 Ginza, Chuo-ku, Tokyo 104-0061"
+            ],
+            "coord": [
+                [
+                    35.67168,
+                    139.7639703
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "22°",
+            "name": "La Table d’Antonio Salvatore",
+            "ref": "https://www.50topitaly.it/it/referenza/la-table-dantonio-salvatore/",
+            "address": [
+                "3 Av. des Spélugues, 98000 Monaco-Ville, Monaco"
+            ],
+            "coord": [
+                [
+                    43.7404798,
+                    7.427985
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "23°",
+            "name": "Pianeta Terra",
+            "ref": "https://www.50topitaly.it/it/referenza/pianeta-terra-3/",
+            "address": [
+                "Beulingstraat 7, 1017 BA Amsterdam, Paesi Bassi"
+            ],
+            "coord": [
+                [
+                    52.3680098,
+                    4.887771
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "24°",
+            "name": "Clara",
+            "ref": "https://www.50topitaly.it/it/referenza/clara-2/",
+            "address": [
+                "69 Soi Prasat Suk, Chong Nonsi, Yan Nawa, Bangkok 10120, Thailandia"
+            ],
+            "coord": [
+                [
+                    13.7161145,
+                    100.5486967
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "25°",
+            "name": "Aromi",
+            "ref": "https://www.50topitaly.it/it/referenza/aromi-3/",
+            "address": [
+                "Náměstí Míru 1234/6, 120 00 Vinohrady, Cechia"
+            ],
+            "coord": [
+                [
+                    50.0762441,
+                    14.436545
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "26°",
+            "name": "Pastamara",
+            "ref": "https://www.50topitaly.it/it/referenza/pastamara-3/",
+            "address": [
+                "The Ritz-Carlton, Vienna, Schubertring 5-7, 1010 Wien, Austria"
+            ],
+            "coord": [
+                [
+                    48.2021957,
+                    16.3763532
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "27°",
+            "name": "Tosca",
+            "ref": "https://www.50topitaly.it/it/referenza/tosca-2/",
+            "address": [
+                "20 Rue du Cirque, 75008 Paris, Francia"
+            ],
+            "coord": [
+                [
+                    48.8711069,
+                    2.3155831
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "28°",
+            "name": "Gucci Osteria Beverly Hills",
+            "ref": "https://www.50topitaly.it/it/referenza/gucci-osteria-beverly-hills/",
+            "address": [
+                "347 N Rodeo Dr, Beverly Hills, CA 90210, Stati Uniti"
+            ],
+            "coord": [
+                [
+                    34.0685473,
+                    -118.4026638
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "29°",
+            "name": "Casa Cuomo by Salvatore Cuomo",
+            "ref": "https://www.50topitaly.it/it/referenza/casa-cuomo-by-salvatore-cuomo/",
+            "address": [
+                "Jl. Gunawarman No.57, Rw. Bar., Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12180, Indonesia"
+            ],
+            "coord": [
+                [
+                    -6.236897,
+                    106.8076865
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "30°",
+            "name": "Art di Daniele Sperindio",
+            "ref": "https://www.50topitaly.it/it/referenza/art-di-daniele-sperindio/",
+            "address": [
+                "1 St Andrew’s Road, 06-02 National Gallery, Singapore 178957"
+            ],
+            "coord": [
+                [
+                    1.2897045,
+                    103.8512862
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "31°",
+            "name": "Casa Fontana by Giorgio Diana",
+            "ref": "https://www.50topitaly.it/it/referenza/casa-fontana-by-giorgio-diana/",
+            "address": [
+                "840, Taiwan, Kaohsiung City, Dashu District, Section 1, Xuecheng Rd, 153號LB樓層"
+            ],
+            "coord": [
+                [
+                    22.7297405,
+                    120.4014837
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "32°",
+            "name": "Erasmus",
+            "ref": "https://www.50topitaly.it/it/referenza/erasmus-3/",
+            "address": [
+                "Nürnberger Str. 1, 76199 Karlsruhe, Germania"
+            ],
+            "coord": [
+                [
+                    48.9847005,
+                    8.402977
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "33°",
+            "name": "Meta",
+            "ref": "https://www.50topitaly.it/it/referenza/meta/",
+            "address": [
+                "Riva Paradiso 2, 6900 Lugano - Paradiso, Svizzera"
+            ],
+            "coord": [
+                [
+                    45.993274,
+                    8.9467949
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "34°",
+            "name": "La Sosta",
+            "ref": "https://www.50topitaly.it/it/referenza/la-sosta-3/",
+            "address": [
+                "145 Voortrek St, Swellendam, 6740, Sudafrica"
+            ],
+            "coord": [
+                [
+                    -34.0269179,
+                    20.4338457
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "35°",
+            "name": "Gellius",
+            "ref": "https://www.50topitaly.it/it/referenza/gellius/",
+            "address": [
+                "Maurice Lippensplein 26, 8300 Knokke-Heist, België"
+            ],
+            "coord": [
+                [
+                    51.340263,
+                    3.2853735
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "36°",
+            "name": "Osteria 57",
+            "ref": "https://www.50topitaly.it/it/referenza/osteria-57-3/",
+            "address": [
+                "57 W 10th St, New York, NY 10011, United States"
+            ],
+            "coord": [
+                [
+                    40.7346811,
+                    -73.9978553
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "37°",
+            "name": "Orobianco",
+            "ref": "https://www.50topitaly.it/it/referenza/orobianco-3/",
+            "address": [
+                "Partida Colina del Sol, 49A, 03710 Calp, Alicante, Spain"
+            ],
+            "coord": [
+                [
+                    38.6665738,
+                    0.0453384
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "38°",
+            "name": "Cioppino’s",
+            "ref": "https://www.50topitaly.it/it/referenza/cioppinos-3/",
+            "address": [
+                "1133 Hamilton Street, Vancouver, Columbia Britannica, Canada"
+            ],
+            "coord": [
+                [
+                    49.275687,
+                    -123.1217367
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "39°",
+            "name": "Eichhalde",
+            "ref": "https://www.50topitaly.it/it/referenza/eichhalde/",
+            "address": [
+                "Stadtstraße 91, 79104 Freiburg im Breisgau, Germania"
+            ],
+            "coord": [
+                [
+                    48.006684,
+                    7.8649176
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "40°",
+            "name": "Luca",
+            "ref": "https://www.50topitaly.it/it/referenza/luca/",
+            "address": [
+                "88 St John St, Clerkenwell, Londra EC1M 4EH, Regno Unito"
+            ],
+            "coord": [
+                [
+                    51.5220716,
+                    -0.1016703
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "41°",
+            "name": "Eden Kitchen & Bar",
+            "ref": "https://www.50topitaly.it/it/referenza/eden-kitchen-bar/",
+            "address": [
+                "Utoquai 45, 8008 Zürich, Svizzera"
+            ],
+            "coord": [
+                [
+                    47.362748,
+                    8.5474492
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "42°",
+            "name": "De La Tour",
+            "ref": "https://www.50topitaly.it/it/referenza/de-la-tour/",
+            "address": [
+                "Obergasse 33A, 2502 Biel, Svizzera"
+            ],
+            "coord": [
+                [
+                    47.1428602,
+                    7.2467437
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "43°",
+            "name": "Aroma",
+            "ref": "https://www.50topitaly.it/it/referenza/aroma/",
+            "address": [
+                "Kerkweg 1, 8171 VB Vaassen, Paesi Bassi"
+            ],
+            "coord": [
+                [
+                    52.2883467,
+                    5.9672923
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "44°",
+            "name": "Ornellaia",
+            "ref": "https://www.50topitaly.it/it/referenza/ornellaia-3/",
+            "address": [
+                "St. Annagasse 2, 8001 Zürich, Svizzera"
+            ],
+            "coord": [
+                [
+                    47.3724568,
+                    8.5377064
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "45°",
+            "name": "Antica Pesa",
+            "ref": "https://www.50topitaly.it/it/referenza/antica-pesa-2/",
+            "address": [
+                "115 Berry St, Brooklyn, NY 11249, Stati Uniti"
+            ],
+            "coord": [
+                [
+                    40.7188116,
+                    -73.9586417
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "46°",
+            "name": "Cucina Mutualité",
+            "ref": "https://www.50topitaly.it/it/referenza/cucina-mutualite/",
+            "address": [
+                "20 Rue Saint-Victor, 75005 Parigi, Paris, Francia"
+            ],
+            "coord": [
+                [
+                    48.8485473,
+                    2.3507902
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "47°",
+            "name": "Otto e Mezzo – Bombana",
+            "ref": "https://www.50topitaly.it/it/referenza/otto-e-mezzo-bombana-3/",
+            "address": [
+                "Shop 202, 18 Chater Rd, Central, Hong Kong"
+            ],
+            "coord": [
+                [
+                    22.2815422,
+                    114.1587751
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "48°",
+            "name": "Maison Ruggieri",
+            "ref": "https://www.50topitaly.it/it/referenza/maison-ruggieri/",
+            "address": [
+                "11 Rue Treilhard, 75008 Paris, France"
+            ],
+            "coord": [
+                [
+                    48.8769128,
+                    2.3140349
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "49°",
+            "name": "Restaurant Passerini",
+            "ref": "https://www.50topitaly.it/it/referenza/restaurant-passerini-3/",
+            "address": [
+                "65 Rue Traversière, 75012 Paris, France"
+            ],
+            "coord": [
+                [
+                    48.8494134,
+                    2.3748185
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "50°",
+            "name": "Picchi",
+            "ref": "https://www.50topitaly.it/it/referenza/picchi-3/",
+            "address": [
+                "R. Oscar Freire, 533 - Jardins, San Paolo - SP, 01426-001, Brazil"
+            ],
+            "coord": [
+                [
+                    -23.5663942,
+                    -46.6652596
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "50°",
+            "name": "Osteria Giulia",
+            "ref": "https://www.50topitaly.it/it/referenza/osteria-giulia/",
+            "address": [
+                "134 Avenue Road, 416, 964 8686 Toronto"
+            ],
+            "coord": [
+                [
+                    43.6743186,
+                    -79.3965865
+                ]
+            ],
+            "website": null
+        }
+    ]
+}

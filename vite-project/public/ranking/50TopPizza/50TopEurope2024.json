@@ -1,0 +1,993 @@
+{
+    "50 Top Europe 2024": [
+        {
+            "category": "🍕",
+            "position": "1°",
+            "name": "Napoli on the Road",
+            "ref": "https://www.50toppizza.it/referenza/napoli-on-the-road-3/",
+            "address": [
+                "Napoli on the Road Chiswick, Devonshire Road, London, England, Regno Unito",
+                "12 Red Lion Street, Richmond TW9 1RW, Regno Unito"
+            ],
+            "coord": [
+                [
+                    51.4921565,
+                    -0.2562073
+                ],
+                [
+                    51.4594943,
+                    -0.3047186
+                ]
+            ],
+            "website": "https://www.napoliontheroad.co.uk/"
+        },
+        {
+            "category": "🍕",
+            "position": "2°",
+            "name": "Sartoria Panatieri",
+            "ref": "https://www.50toppizza.it/referenza/sartoria-panatieri-2/",
+            "address": [
+                "Sartoria Panatieri, Carrer de l'Encarnació, Barcelona, Spain",
+                "Sartoria Panatieri, Carrer de Provença, Barcelona, Spain"
+            ],
+            "coord": [
+                [
+                    41.406654,
+                    2.1603187
+                ],
+                [
+                    41.3971746,
+                    2.1649178
+                ]
+            ],
+            "website": "https://sartoriapanatieri.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "3°",
+            "name": "Via Toledo Enopizzeria",
+            "ref": "https://www.50toppizza.it/referenza/via-toledo-enopizzeria-4/",
+            "address": [
+                "Via Toledo Enopizzeria, Laudongasse, Vienna, Austria"
+            ],
+            "coord": [
+                [
+                    48.2132332,
+                    16.3513344
+                ]
+            ],
+            "website": "https://www.viatoledo.at/"
+        },
+        {
+            "category": "🍕",
+            "position": "4°",
+            "name": "50 Kalò",
+            "ref": "https://www.50toppizza.it/referenza/50-kalo-3/",
+            "address": [
+                "50 Kalò di Ciro Salvo Pizzeria London, Northumberland Avenue, London, England, Regno Unito"
+            ],
+            "coord": [
+                [
+                    51.5070934,
+                    -0.1265376
+                ]
+            ],
+            "website": "https://www.50kalo.it/ciro__salvo.php"
+        },
+        {
+            "category": "🍕",
+            "position": "5°",
+            "name": "Baldoria",
+            "ref": "https://www.50toppizza.it/referenza/baldoria-2/",
+            "address": [
+                "Baldoria Madrid, Calle de José Ortega y Gasset, Madrid, Spain"
+            ],
+            "coord": [
+                [
+                    40.429532,
+                    -3.6708832
+                ]
+            ],
+            "website": "https://baldoriamadrid.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "6°",
+            "name": "Pizza Zulu",
+            "ref": "https://www.50toppizza.it/referenza/pizza-zulu-2/",
+            "address": [
+                "König Str. 81, 90762 Fürth, Germania"
+            ],
+            "coord": [
+                [
+                    49.4777874,
+                    10.9893237
+                ]
+            ],
+            "website": "http://www.pizzazulu.de/"
+        },
+        {
+            "category": "🍕",
+            "position": "7°",
+            "name": "IMperfetto",
+            "ref": "https://www.50toppizza.it/referenza/imperfetto-2/",
+            "address": [
+                "IMPERFETTO PIZZERIA NAPOLETANA, Boulevard Richard Wallace, Puteaux, France"
+            ],
+            "coord": [
+                [
+                    48.879201,
+                    2.241544
+                ]
+            ],
+            "website": "https://www.imperfetto.fr/"
+        },
+        {
+            "category": "🍕",
+            "position": "8°",
+            "name": "nNea",
+            "ref": "https://www.50toppizza.it/referenza/nnea-3/",
+            "address": [
+                "nNea Pizza, Bilderdijkstraat, Amsterdam, The Netherlands",
+                "Bilderdijkstraat 94a, 1053 KX Amsterdam, Paesi Bassi"
+            ],
+            "coord": [
+                [
+                    52.3694202,
+                    4.8703501
+                ],
+                [
+                    52.36934,
+                    4.870394
+                ]
+            ],
+            "website": "https://www.nneapizza.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "9°",
+            "name": "La Balmesina",
+            "ref": "https://www.50toppizza.it/referenza/la-balmesina-3/",
+            "address": [
+                "La Balmesina, Carrer de Balmes, Barcelona, Spain"
+            ],
+            "coord": [
+                [
+                    41.3970536,
+                    2.1522454
+                ]
+            ],
+            "website": "https://labalmesina.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "10°",
+            "name": "Fratelli Figurato",
+            "ref": "https://www.50toppizza.it/referenza/fratelli-figurato-3/",
+            "address": [
+                "Fratelli Figurato Pizzeria, Calle de Alonso Cano, Madrid, Spagna",
+                "Fratelli Figurato Trattoria Popolare, Calle de Larra, Madrid, Spagna",
+                "Fratelli Figurato Laboratorio, Calle de Zabaleta, Madrid, Spagna"
+            ],
+            "coord": [
+                [
+                    40.438905,
+                    -3.6978419
+                ],
+                [
+                    40.4278574,
+                    -3.7003699
+                ],
+                [
+                    40.4409908,
+                    -3.6754363
+                ]
+            ],
+            "website": "https://www.fratellifigurato.es/"
+        },
+        {
+            "category": "🍕",
+            "position": "11°",
+            "name": "La Pizza è Bella",
+            "ref": "https://www.50toppizza.it/referenza/la-pizza-e-bella/",
+            "address": [
+                "La Pizza è Bella Antwerpen, Oever, Anversa, Belgium",
+                "La Pizza è Bella Gourmet, Rue Froissart, Etterbeek, Belgio",
+                "La Pizza è Bella, Lebeaustraat, Bruxelles, Belgio"
+            ],
+            "coord": [
+                [
+                    51.2182575,
+                    4.3968465
+                ],
+                [
+                    50.8386998,
+                    4.3822273
+                ],
+                [
+                    50.8417936,
+                    4.3539204
+                ]
+            ],
+            "website": "https://lapizzaebellagourmet.be/en"
+        },
+        {
+            "category": "🍕",
+            "position": "12°",
+            "name": "Forno d’Oro",
+            "ref": "https://www.50toppizza.it/referenza/forno-doro-3/",
+            "address": [
+                "Forno d'Oro, Rua Artilharia 1, Lisbon, Portugal"
+            ],
+            "coord": [
+                [
+                    38.723474,
+                    -9.154334
+                ]
+            ],
+            "website": "https://fornodoro.pt/"
+        },
+        {
+            "category": "🍕",
+            "position": "13°",
+            "name": "Surt",
+            "ref": "https://www.50toppizza.it/referenza/surt-3/",
+            "address": [
+                "SURT, Bag Elefanterne, Copenhagen, Denmark"
+            ],
+            "coord": [
+                [
+                    55.6674741,
+                    12.5314998
+                ]
+            ],
+            "website": "https://surtcph.dk/"
+        },
+        {
+            "category": "🍕",
+            "position": "14°",
+            "name": "Franko’s Pizza & Bar",
+            "ref": "https://www.50toppizza.it/referenza/frankos-pizza-bar-3/",
+            "address": [
+                "Franko’s Pizza & Bar, Ulica kneza Branimira, Zagreb, Croatia"
+            ],
+            "coord": [
+                [
+                    45.8080352,
+                    15.9982522
+                ]
+            ],
+            "website": "https://www.frankos.hr/"
+        },
+        {
+            "category": "🍕",
+            "position": "15°",
+            "name": "Little Pyg",
+            "ref": "https://www.50toppizza.it/referenza/little-pyg-2/",
+            "address": [
+                "Little Pyg, William Street South, Dublin 2, Ireland"
+            ],
+            "coord": [
+                [
+                    53.342247,
+                    -6.2618279
+                ]
+            ],
+            "website": "https://littlepyg.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "16°",
+            "name": "Matto Napoletano",
+            "ref": "https://www.50toppizza.it/referenza/matto-napoletano-2/",
+            "address": [
+                "Matto Napoletano, Debarca, Skopje, Republic of North Macedonia"
+            ],
+            "coord": [
+                [
+                    41.9963473,
+                    21.4243335
+                ]
+            ],
+            "website": "https://mattonapoletano.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "17°",
+            "name": "Demaio",
+            "ref": "https://www.50toppizza.it/referenza/demaio-2/",
+            "address": [
+                "Demaio | Pizza Gourmet, San Frantzisko Kalea, Bilbao, Spain",
+                "Done Bikendi Plaza, 1, Bilbao, Spagna"
+            ],
+            "coord": [
+                [
+                    43.2552156,
+                    -2.9260461
+                ],
+                [
+                    43.2637216,
+                    -2.9283631
+                ]
+            ],
+            "website": "https://demaio.es/"
+        },
+        {
+            "category": "🍕",
+            "position": "18°",
+            "name": "Stile Napoletano",
+            "ref": "https://www.50toppizza.it/referenza/stile-napoletano-2/",
+            "address": [
+                "Stile Napoletano, Watergate Street, Chester, England, Regno Unito"
+            ],
+            "coord": [
+                [
+                    53.1898282,
+                    -2.8935981
+                ]
+            ],
+            "website": "https://stilenapoletanopizzeria.co.uk/"
+        },
+        {
+            "category": "🍕",
+            "position": "19°",
+            "name": "La Piola Pizza",
+            "ref": "https://www.50toppizza.it/referenza/la-piola-pizza-3/",
+            "address": [
+                "La Piola Pizza, Place Saint-Josse, Saint-Josse-ten-Noode, Brussels, Belgium",
+                "Rue du Fossé aux Loups 50, Bruxelles, Belgio",
+                "Chau. de Waterloo 864, 1180 Uccle, Belgio"
+            ],
+            "coord": [
+                [
+                    50.8494849,
+                    4.3739798
+                ],
+                [
+                    50.8499341,
+                    4.3562806
+                ],
+                [
+                    50.8069556,
+                    4.3716748
+                ]
+            ],
+            "website": "http://www.lapiolapizza.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "20°",
+            "name": "Zielona Górka",
+            "ref": "https://www.50toppizza.it/referenza/zielona-gorka-2/",
+            "address": [
+                "Zielona Górka, Zielona, Pabianice, Poland"
+            ],
+            "coord": [
+                [
+                    51.6639189,
+                    19.3402812
+                ]
+            ],
+            "website": "https://www.zielonagorka.com.pl/"
+        },
+        {
+            "category": "🍕",
+            "position": "21°",
+            "name": "Guillaume Grasso",
+            "ref": "https://www.50toppizza.it/referenza/guillaume-grasso-2/",
+            "address": [
+                "Guillaume Grasso La Vera Pizza Napoletana, Rue Brancion, Paris, France"
+            ],
+            "coord": [
+                [
+                    48.8335903,
+                    2.3044725
+                ]
+            ],
+            "website": "https://www.guillaume-grasso.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "22°",
+            "name": "450°C",
+            "ref": "https://www.50toppizza.it/referenza/450c-3/",
+            "address": [
+                "450°C, Eerikinkatu, Turku, Finland",
+                "Mannerheiminkatu 1, 21100 Naantali, Finlandia",
+                "Turku Market Hall, Eerikinkatu 16, 20100 Turku, Finlandia"
+            ],
+            "coord": [
+                [
+                    60.4498387,
+                    22.2660876
+                ],
+                [
+                    60.4691583,
+                    22.0149291
+                ],
+                [
+                    60.4497008,
+                    22.2660814
+                ]
+            ],
+            "website": "http://www.pizzeria450.fi/"
+        },
+        {
+            "category": "🍕",
+            "position": "23°",
+            "name": "MaMeMi",
+            "ref": "https://www.50toppizza.it/referenza/mamemi/",
+            "address": [
+                "MaMeMi, Mysundegade, Copenhagen, Denmark"
+            ],
+            "coord": [
+                [
+                    55.6678907,
+                    12.5480313
+                ]
+            ],
+            "website": "https://pizzeriamamemi.dk/"
+        },
+        {
+            "category": "🍕",
+            "position": "24°",
+            "name": "Forza",
+            "ref": "https://www.50toppizza.it/referenza/forza-2/",
+            "address": [
+                "Forza, Pursimiehenkatu, Helsinki, Finland"
+            ],
+            "coord": [
+                [
+                    60.1584647,
+                    24.9337305
+                ]
+            ],
+            "website": "https://forzahelsinki.fi/"
+        },
+        {
+            "category": "🍕",
+            "position": "24°",
+            "name": "Malafemmena",
+            "ref": "https://www.50toppizza.it/referenza/malafemmena-3/",
+            "address": [
+                "Malafemmena, Hauptstraße, Berlin, Germany",
+                "Malafemmena Prenzlauer Berg, Danziger Str. 16, 10435 Berlino-Pankow, Germania"
+            ],
+            "coord": [
+                [
+                    52.4737663,
+                    13.3383341
+                ],
+                [
+                    52.5402227,
+                    13.4153654
+                ]
+            ],
+            "website": "http://malafemmena.restaurant/"
+        },
+        {
+            "category": "🍕",
+            "position": "25°",
+            "name": "450 Gradi",
+            "ref": "https://www.50toppizza.it/referenza/450-gradi-3/",
+            "address": [
+                "450 Gradi, Brostugevägen, Lidingö, Sweden"
+            ],
+            "coord": [
+                [
+                    59.3439205,
+                    18.1532322
+                ]
+            ],
+            "website": "https://www.450gradi.se/"
+        },
+        {
+            "category": "🍕",
+            "position": "25°",
+            "name": "Odori",
+            "ref": "https://www.50toppizza.it/referenza/odori-2/",
+            "address": [
+                "Odori, Skouleniou, Athens, Greece"
+            ],
+            "coord": [
+                [
+                    37.9792117,
+                    23.7297526
+                ]
+            ],
+            "website": "https://odorivermuteria.gr/menu.html"
+        },
+        {
+            "category": "🍕",
+            "position": "26°",
+            "name": "L’Antica Pizzeria",
+            "ref": "https://www.50toppizza.it/referenza/lantica-pizzeria-3/",
+            "address": [
+                "L'Antica Pizzeria, Heath Street, London, England, Regno Unito"
+            ],
+            "coord": [
+                [
+                    51.5573883,
+                    -0.1781531
+                ]
+            ],
+            "website": "http://www.anticapizzeria.co.uk/"
+        },
+        {
+            "category": "🍕",
+            "position": "27°",
+            "name": "PEPPO’s",
+            "ref": "https://www.50toppizza.it/referenza/peppos/",
+            "address": [
+                "PEPPO’s - Contemporary Neapolitan Pizzeria, Miesnieku iela, Distretto centrale, Riga, Lettonia"
+            ],
+            "coord": [
+                [
+                    56.9496459,
+                    24.1032025
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "28°",
+            "name": "Ciao a Tutti",
+            "ref": "https://www.50toppizza.it/referenza/ciao-a-tutti-3/",
+            "address": [
+                "Ciao a Tutti, Aleja Niepodległości, Warsaw, Poland",
+                "Ciao a Tutti Due, Merliniego, Varsavia, Polonia",
+                "Ciao a Tutti Żoli, Zygmunta Hübnera 2, 01-756 Warszawa, Polonia"
+            ],
+            "coord": [
+                [
+                    52.217434,
+                    21.0042941
+                ],
+                [
+                    52.1954195,
+                    21.0254584
+                ],
+                [
+                    52.2581367,
+                    20.9694403
+                ]
+            ],
+            "website": "https://ciaoatutti.pl/"
+        },
+        {
+            "category": "🍕",
+            "position": "29°",
+            "name": "‘O ver",
+            "ref": "https://www.50toppizza.it/referenza/o-ver-3/",
+            "address": [
+                "'O Ver, Southwark Street, London, England, Regno Unito",
+                "1 NORRIS STREET, ST JAMES'S MARKET LONDON SW1Y 4RJ"
+            ],
+            "coord": [
+                [
+                    51.5048887,
+                    -0.0939663
+                ],
+                [
+                    51.5090092,
+                    -0.1328395
+                ]
+            ],
+            "website": "https://www.overuk.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "30°",
+            "name": "Pop’s Pizza",
+            "ref": "https://www.50toppizza.it/referenza/pops-pizza-2/",
+            "address": [
+                "Pop’s Pizza, Breg, Ljubljana, Slovenia"
+            ],
+            "coord": [
+                [
+                    46.0475623,
+                    14.5051269
+                ]
+            ],
+            "website": "https://pizza.thepopsplace.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "31°",
+            "name": "La Manifattura",
+            "ref": "https://www.50toppizza.it/referenza/la-manifattura-2/",
+            "address": [
+                "La Manifattura, Boulevard du Montparnasse, Paris, France"
+            ],
+            "coord": [
+                [
+                    48.8421114,
+                    2.3285434
+                ]
+            ],
+            "website": "https://lamanifattura-paris.fr/en"
+        },
+        {
+            "category": "🍕",
+            "position": "32°",
+            "name": "Pietra",
+            "ref": "https://www.50toppizza.it/referenza/pietra-2/",
+            "address": [
+                "Pietra Pizzeria & Cocktail Bar, Kumanovska, Belgrade, Serbia",
+                "Mali Kalemegdan bb, Beograd 11000, Serbia"
+            ],
+            "coord": [
+                [
+                    44.8053314,
+                    20.4732625
+                ],
+                [
+                    44.8223609,
+                    20.4530307
+                ]
+            ],
+            "website": "https://pietra.rs/"
+        },
+        {
+            "category": "🍕",
+            "position": "33°",
+            "name": "Arte Bianca",
+            "ref": "https://www.50toppizza.it/referenza/arte-bianca-3/",
+            "address": [
+                "Arte Bianca - Cucina Italiana - Sagres, Rua da Mareta, Sagres, Portugal",
+                "Arte Bianca 2 (Vale da Telha), Urbanização Vale da Telha, 8670-156 Vale da Telha, Portugal",
+                "Rua 25 de Abril 114, 8670-088 Aljezur, Portugal"
+            ],
+            "coord": [
+                [
+                    37.0087987,
+                    -8.9383159
+                ],
+                [
+                    37.2973924,
+                    -8.8562696
+                ],
+                [
+                    37.3143262,
+                    -8.8038285
+                ]
+            ],
+            "website": "https://artebianca.pt/"
+        },
+        {
+            "category": "🍕",
+            "position": "34°",
+            "name": "Pizza Nuova",
+            "ref": "https://www.50toppizza.it/referenza/pizza-nuova-3/",
+            "address": [
+                "Pizza Nuova, Revoluční, Città Vecchia, Prague, Czech Republic"
+            ],
+            "coord": [
+                [
+                    50.0895016,
+                    14.4277939
+                ]
+            ],
+            "website": "https://www.pizzanuova.cz/en/"
+        },
+        {
+            "category": "🍕",
+            "position": "35°",
+            "name": "Belli di Mamma",
+            "ref": "https://www.50toppizza.it/referenza/belli-di-mamma-3/",
+            "address": [
+                "Budapest, Belli di Mamma, Akácfa Street, Hungary"
+            ],
+            "coord": [
+                [
+                    47.5001059,
+                    19.0658132
+                ]
+            ],
+            "website": "http://bellidimamma.hu/home/"
+        },
+        {
+            "category": "🍕",
+            "position": "36°",
+            "name": "Sapori Italiani U Taliana",
+            "ref": "https://www.50toppizza.it/referenza/sapori-italiani-u-taliana-2/",
+            "address": [
+                "U Taliana, Krížna, Bratislava, Slovakia"
+            ],
+            "coord": [
+                [
+                    48.1553923,
+                    17.1242699
+                ]
+            ],
+            "website": "https://sapori.utaliana.sk/it"
+        },
+        {
+            "category": "🍕",
+            "position": "37°",
+            "name": "Futura Neapolitan Pizza",
+            "ref": "https://www.50toppizza.it/referenza/futura-neapolitan-pizza-3/",
+            "address": [
+                "FUTURA Neapolitan Pizza, Bänschstraße, Berlin, Germany"
+            ],
+            "coord": [
+                [
+                    52.5173285,
+                    13.4714248
+                ]
+            ],
+            "website": "https://www.futurapizza.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "37°",
+            "name": "Majstor I Margarita",
+            "ref": "https://www.50toppizza.it/referenza/majstor-i-margarita-3/",
+            "address": [
+                "Majstor i Margarita, Vuka Karadžića, Belgrade, Serbia",
+                "Bulevar kralja Aleksandra 248a, Belgrado, Serbia"
+            ],
+            "coord": [
+                [
+                    44.817587,
+                    20.4555426
+                ],
+                [
+                    44.7979054,
+                    20.4928191
+                ]
+            ],
+            "website": "https://majstorimargarita.rs/"
+        },
+        {
+            "category": "🍕",
+            "position": "38°",
+            "name": "Gasparic",
+            "ref": "https://www.50toppizza.it/referenza/gasparic/",
+            "address": [
+                "Pizzeria Gasparic, Carrer Esglesia, Can Blanc, Girona, Spain"
+            ],
+            "coord": [
+                [
+                    42.1588489,
+                    2.5108675
+                ]
+            ],
+            "website": "https://www.pizzeriagasparic.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "39°",
+            "name": "Margherita Pizzeria",
+            "ref": "https://www.50toppizza.it/referenza/margherita-pizzeria/",
+            "address": [
+                "Margherita Pizzeria & Trattoria, Lai, Tallinn, Estonia"
+            ],
+            "coord": [
+                [
+                    59.4379045,
+                    24.743146
+                ]
+            ],
+            "website": "https://margherita.ee/"
+        },
+        {
+            "category": "🍕",
+            "position": "40°",
+            "name": "Dalmata",
+            "ref": "https://www.50toppizza.it/referenza/dalmata-3/",
+            "address": [
+                "Dalmata Pizza, Rue Tiquetonne, Paris, France",
+                "Giorgio, 21 Rue de Charonne, Parigi, Francia"
+            ],
+            "coord": [
+                [
+                    48.8645246,
+                    2.3494238
+                ],
+                [
+                    48.8531875,
+                    2.3748799
+                ]
+            ],
+            "website": "https://www.gruppodalmata.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "41°",
+            "name": "Infraganti",
+            "ref": "https://www.50toppizza.it/referenza/infraganti/",
+            "address": [
+                "Infraganti Pizza Bar, Calle San Fernando, Alicante, Spain",
+                "Infraganti Pizza Bar, Calle Apóstoles, 20, 30001 Murcia, Murcia, Spagna",
+                "Plaza de la Constitución, 1, Elche de la Sierra, Spagna",
+                "Muchavista Ctra Benimagrell 7, El Campello"
+            ],
+            "coord": [
+                [
+                    38.3431734,
+                    -0.4845017
+                ],
+                [
+                    37.9838872,
+                    -1.1275676
+                ],
+                [
+                    38.4487461,
+                    -2.0458968
+                ],
+                [
+                    38.3871095,
+                    -0.4102194
+                ]
+            ],
+            "website": "https://infragantipizza.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "42°",
+            "name": "da PONE",
+            "ref": "https://www.50toppizza.it/referenza/da-pone/",
+            "address": [
+                "da PONE, Hönggerstrasse, Zürich, Switzerland"
+            ],
+            "coord": [
+                [
+                    47.3915947,
+                    8.5250597
+                ]
+            ],
+            "website": "https://www.dapone.ch/"
+        },
+        {
+            "category": "🍕",
+            "position": "43°",
+            "name": "081 Pizzeria",
+            "ref": "https://www.50toppizza.it/referenza/081-pizzeria-4/",
+            "address": [
+                "081 Pizzeria Peckham, Peckham Rye, London, England, Regno Unito"
+            ],
+            "coord": [
+                [
+                    51.4649217,
+                    -0.0666689
+                ]
+            ],
+            "website": "https://www.081pizzeria.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "43°",
+            "name": "Kytaly",
+            "ref": "https://www.50toppizza.it/referenza/kytaly-3/",
+            "address": [
+                "Kytaly, Boulevard Georges-Favon, Geneva, Switzerland"
+            ],
+            "coord": [
+                [
+                    46.2031636,
+                    6.1398579
+                ]
+            ],
+            "website": "https://www.kytaly-geneve.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "44°",
+            "name": "MOZZ.",
+            "ref": "https://www.50toppizza.it/referenza/mozz/",
+            "address": [
+                "Beytepe, MOZZ., Plevne Cd., Distretto di Çankaya/Ankara, Türkiye"
+            ],
+            "coord": [
+                [
+                    39.8498933,
+                    32.7057735
+                ]
+            ],
+            "website": "https://www.mozzankara.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "45°",
+            "name": "Lupita Pizzaria",
+            "ref": "https://www.50toppizza.it/referenza/lupita-pizzaria-2/",
+            "address": [
+                "Lupita Pizzaria, Rua de São Paulo, Lisbon, Portugal"
+            ],
+            "coord": [
+                [
+                    38.7082606,
+                    -9.1460611
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "46°",
+            "name": "‘naPizzà",
+            "ref": "https://www.50toppizza.it/referenza/napizza-2/",
+            "address": [
+                "Na’Pizza, Place Van Meyel, Etterbeek, Brussels, Belgium"
+            ],
+            "coord": [
+                [
+                    50.8370631,
+                    4.3889942
+                ]
+            ],
+            "website": "https://napizza.be/"
+        },
+        {
+            "category": "🍕",
+            "position": "47°",
+            "name": "Iovine’s",
+            "ref": "https://www.50toppizza.it/referenza/iovines/",
+            "address": [
+                "Pizzeria Iovine's, rue du Colonel-Driant, Paris, France",
+                "8 Rue Boudreau, 75009 Paris, Francia"
+            ],
+            "coord": [
+                [
+                    48.8632569,
+                    2.340547
+                ],
+                [
+                    48.8723513,
+                    2.3285329
+                ]
+            ],
+            "website": "https://iovines.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "48°",
+            "name": "Villa Severino",
+            "ref": "https://www.50toppizza.it/referenza/villa-severino-2/",
+            "address": [
+                "Villa Severino, Tatti, Helsinki, Finland"
+            ],
+            "coord": [
+                [
+                    60.2748941,
+                    25.0813131
+                ]
+            ],
+            "website": "https://www.villaseverino.fi/"
+        },
+        {
+            "category": "🍕",
+            "position": "49°",
+            "name": "ZANO",
+            "ref": "https://www.50toppizza.it/referenza/zano/",
+            "address": [
+                "Pizza Social Club ZANO, Bulevardul Tudor Vladimirescu, Iași, România"
+            ],
+            "coord": [
+                [
+                    47.1563024,
+                    27.6042508
+                ]
+            ],
+            "website": "http://zano.com.ro/acasa"
+        },
+        {
+            "category": "🍕",
+            "position": "50°",
+            "name": "Papi Mannheim",
+            "ref": "https://www.50toppizza.it/referenza/papi-mannheim/",
+            "address": [
+                "PIZZERIA PAPI MANNHEIM, Hafenstraße, Mannheim, Germany"
+            ],
+            "coord": [
+                [
+                    49.4958044,
+                    8.4576076
+                ]
+            ],
+            "website": "https://papi-mannheim.de/"
+        }
+    ]
+}

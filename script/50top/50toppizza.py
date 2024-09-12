@@ -1,9 +1,9 @@
 import re
 import requests
 from bs4 import BeautifulSoup
-from requests.exceptions import RequestException
 import json
-import re
+from time import sleep
+
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
@@ -51,6 +51,7 @@ for url in urls:
 # SECONDA PARTE: DERIVARE LA POSIZIONE
 for url in url_to_reference:
     for data in url_to_reference[url]:
+        print(data['ref'])
         response = requests.get(data['ref'], headers=headers)
         response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
@@ -84,12 +85,16 @@ for url in url_to_reference:
                         data['coord'].append([lat, lon])
                     except ValueError:
                         print(f"Errore nella conversione delle coordinate da {data['ref']}: {lat_long}")
-
-
-json_output = {}
+        sleep(1)
 
 for url, name in url_to_name.items():
+    json_output = {}
     json_output[name] = url_to_reference[url]
+    with open(f'vite-project/public/ranking/50TopPizza/{name.replace(" ", "")}.json', 'w', encoding='utf-8') as file:
+        json.dump(json_output, file, ensure_ascii=False, indent=4)
 
+'''
 with open('50toppizza.json', 'w', encoding='utf-8') as file:
     json.dump(json_output, file, ensure_ascii=False, indent=4)
+    
+'''

@@ -1,0 +1,946 @@
+{
+    "50 Top Pizza Asia Pacific 2024": [
+        {
+            "category": "🍕",
+            "position": "1°",
+            "name": "The Pizza Bar on 38th",
+            "ref": "https://www.50toppizza.it/referenza/the-pizza-bar-on-38th-4/",
+            "address": [
+                " 2 Chome-1-1 Nihonbashimuromachi, Chuo City, Tokyo 103-8328, Giappone"
+            ],
+            "coord": [
+                [
+                    35.6862904,
+                    139.7730093
+                ]
+            ],
+            "website": "https://www.mandarinoriental.com/en/tokyo/nihonbashi/dine/the-pizza-bar-on-38th?source=MOLandingPage:MOTYO:local"
+        },
+        {
+            "category": "🍕",
+            "position": "2°",
+            "name": "Crosta Pizzeria",
+            "ref": "https://www.50toppizza.it/referenza/crosta-pizzeria-3/",
+            "address": [
+                "Salcedo Village, 104 HV Dela Costa, Cor L.P. Leviste Street, Makati, Metro Manila, Filippine",
+                "Ground Floor, O-Square Bldg 2, Greenhills Shopping Center, San Juan",
+                "Molito Lifestyle Center, Madrigal Ave cor Commerce Ave, Ayala Alabang, Muntinlupa"
+            ],
+            "coord": [
+                [
+                    14.5609389,
+                    121.0179974
+                ],
+                [
+                    14.600613,
+                    121.0488476
+                ],
+                [
+                    14.4253565,
+                    121.0273634
+                ]
+            ],
+            "website": "https://crosta.ph/"
+        },
+        {
+            "category": "🍕",
+            "position": "3°",
+            "name": "RistoPizza",
+            "ref": "https://www.50toppizza.it/referenza/ristopizza/",
+            "address": [
+                "1 Chome Azabudai, Minato, Tokyo 106-0041, Giappone"
+            ],
+            "coord": [
+                [
+                    35.6619304,
+                    139.7390173
+                ]
+            ],
+            "website": "https://ristopizzatokyo.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "4°",
+            "name": "Fiata by Salvatore Fiata",
+            "ref": "https://www.50toppizza.it/referenza/fiata-by-salvatore-fiata-3/",
+            "address": [
+                "2 Staunton Street, Central, Hong Kong"
+            ],
+            "coord": [
+                [
+                    22.2815528,
+                    114.1532162
+                ]
+            ],
+            "website": "https://www.fiatapizza.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "5°",
+            "name": "48h Pizza e Gnocchi Bar",
+            "ref": "https://www.50toppizza.it/referenza/48h-pizza-e-gnocchi-bar-4/",
+            "address": [
+                "373 Malvern Road, South Yarra VIC 3141, Australia",
+                "48h Pizza e Gnocchi Bar - Elsternwick, 15 Gordon Street, Elsternwick Victoria, Australia",
+                "Grazeland 20 Booker Street, Spotswood"
+            ],
+            "coord": [
+                [
+                    -37.847385,
+                    144.99911
+                ],
+                [
+                    -37.8836747,
+                    145.0005019
+                ],
+                [
+                    -37.8302703,
+                    144.8931534
+                ]
+            ],
+            "website": "https://www.48h.com.au/"
+        },
+        {
+            "category": "🍕",
+            "position": "5°",
+            "name": "Al Taglio",
+            "ref": "https://www.50toppizza.it/referenza/al-taglio-3/",
+            "address": [
+                "102-104 Albion St, Surry Hills NSW 2010, Australia"
+            ],
+            "coord": [
+                [
+                    -33.8828552,
+                    151.2121538
+                ]
+            ],
+            "website": "https://altaglio.com.au/"
+        },
+        {
+            "category": "🍕",
+            "position": "6°",
+            "name": "Dante’s Pizzeria Napoletana",
+            "ref": "https://www.50toppizza.it/referenza/dantes-pizzeria-napoletana-3/",
+            "address": [
+                "Ponsonby Central 136/Ponsonby Road, Ponsonby, Auckland 1011, Nuova Zelanda",
+                "2/40 Hurstmere Road, Takapuna, Auckland 0622, Nuova Zelanda",
+                "215 Kepa Rd, Mission Bay, Auckland 1071"
+            ],
+            "coord": [
+                [
+                    -36.8561968,
+                    174.7462693
+                ],
+                [
+                    -36.7876892,
+                    174.7724324
+                ],
+                [
+                    -36.8606169,
+                    174.8295754
+                ]
+            ],
+            "website": "https://dantes.co.nz/"
+        },
+        {
+            "category": "🍕",
+            "position": "7°",
+            "name": "Massilia",
+            "ref": "https://www.50toppizza.it/referenza/massilia/",
+            "address": [
+                "15, 1 Soi Ruamrudee Community, Lumphini, Pathum Wan, Bangkok 10330, Thailandia",
+                "40 Soi Sukhumvit 49, Khlong Tan Nuea, Watthana, Bangkok 10110",
+                "163/2 Soi Narathiwat Ratchanakarin 5, Thung Maha Mek, Sathon, Bangkok 10120"
+            ],
+            "coord": [
+                [
+                    13.742122,
+                    100.5500561
+                ],
+                [
+                    13.7262481,
+                    100.5758568
+                ],
+                [
+                    13.7121023,
+                    100.5349624
+                ]
+            ],
+            "website": "https://www.massiliabkk.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "8°",
+            "name": "Pizzeria Braceria CESARI!!",
+            "ref": "https://www.50toppizza.it/referenza/pizzeria-braceria-cesari-4/",
+            "address": [
+                "3 Chome-36-44 Osu, Naka Ward, Nagoya, Aichi 460-0011, Giappone"
+            ],
+            "coord": [
+                [
+                    35.1586444,
+                    136.9026027
+                ]
+            ],
+            "website": "https://www.cesari.jp/"
+        },
+        {
+            "category": "🍕",
+            "position": "9°",
+            "name": "Bottega",
+            "ref": "https://www.50toppizza.it/referenza/bottega-4/",
+            "address": [
+                "1/F Jinshang Building No.20 Xinyuanli West Chaoyang District Beijing, China",
+                "UNIT. E116B, E118, 101, BUILDING 8, JINHUI RD. CHAOYANG DST.",
+                "NO. 108, XIANYANG NORTH RD, KWAH CENTRE 101B, XUHUI DST."
+            ],
+            "coord": [
+                [
+                    39.867402,
+                    116.4882929
+                ],
+                [
+                    39.9190094,
+                    116.4520603
+                ],
+                [
+                    34.3293199,
+                    108.70929
+                ]
+            ],
+            "website": "https://bfbrestaurants.com/brand/bottega/"
+        },
+        {
+            "category": "🍕",
+            "position": "10°",
+            "name": "Pizzeria Mazzie",
+            "ref": "https://www.50toppizza.it/referenza/pizzeria-mazzie-4/",
+            "address": [
+                "17 Park Lane Soi Sukhumvit 63 Road, Khwaeng Khlong Tan Nuea, Khet Watthana, Krung Thep Maha Nakhon 10110, Thailandia"
+            ],
+            "coord": [
+                [
+                    13.7232149,
+                    100.5842785
+                ]
+            ],
+            "website": "https://pizzeriamazzie.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "11°",
+            "name": "Spacca Napoli",
+            "ref": "https://www.50toppizza.it/referenza/spacca-napoli-4/",
+            "address": [
+                "28 Yanghwa-ro 6-gil, Mapo-gu, Seoul, Corea del Sud"
+            ],
+            "coord": [
+                [
+                    37.5488725,
+                    126.9156014
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "12°",
+            "name": "a mano",
+            "ref": "https://www.50toppizza.it/referenza/a-mano-3/",
+            "address": [
+                "Lopez Dr, Makati, Metro Manila, Filippine",
+                "Ground Floor (Unit LG22), One Bonifacio, Taguig, Filippine",
+                "Gateway Mall 2, 28 General Araneta, Cubao, Quezon City, 1109 Metro Manila, Filippine"
+            ],
+            "coord": [
+                [
+                    14.5646546,
+                    121.035834
+                ],
+                [
+                    14.5513175,
+                    121.0468841
+                ],
+                [
+                    14.6200192,
+                    121.0530499
+                ]
+            ],
+            "website": "https://amano.pickup.ph/"
+        },
+        {
+            "category": "🍕",
+            "position": "13°",
+            "name": "Da Susy",
+            "ref": "https://www.50toppizza.it/referenza/da-susy-2/",
+            "address": [
+                " R3 101-102, 1st floor, M3M IFC Sector-66, Gurugram, Haryana, 122102 9821923920 , 01244994089",
+                "Cross Point Mall, Dlf Phase 4, Gurugram"
+            ],
+            "coord": [
+                [
+                    28.4057165,
+                    77.0584917
+                ],
+                [
+                    28.468096,
+                    77.0833324
+                ]
+            ],
+            "website": "https://www.dasusy.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "14°",
+            "name": "Pizza Strada",
+            "ref": "https://www.50toppizza.it/referenza/pizza-strada-4/",
+            "address": [
+                "Giappone, 〒106-0045 Tokyo, Minato City, Azabujuban, 3 Chome−6−2 １F ＮＳ"
+            ],
+            "coord": [
+                [
+                    35.656936,
+                    139.7383221
+                ]
+            ],
+            "website": "http://www.pizzastrada.jp/"
+        },
+        {
+            "category": "🍕",
+            "position": "15°",
+            "name": "La Bottega EnotecaLa Bottega Enoteca\tSingapore \tSingapore",
+            "ref": "https://www.50toppizza.it/referenza/la-bottega-enoteca-3/",
+            "address": [
+                "346 Joo Chiat Rd, Singapore 427596"
+            ],
+            "coord": [
+                [
+                    1.3087948,
+                    103.9027546
+                ]
+            ],
+            "website": "https://www.labottega.sg/"
+        },
+        {
+            "category": "🍕",
+            "position": "16°",
+            "name": "Il Caffè",
+            "ref": "https://www.50toppizza.it/referenza/il-caffe-2/",
+            "address": [
+                "Jumeira Bay Island, Jumeira 2, Dubai"
+            ],
+            "coord": [
+                [
+                    25.2093716,
+                    55.2370272
+                ]
+            ],
+            "website": "https://www.bulgarihotels.com/it_IT/dubai/bars-and-restaurants/il-cafe"
+        },
+        {
+            "category": "🍕",
+            "position": "17°",
+            "name": "BACI",
+            "ref": "https://www.50toppizza.it/referenza/baci/",
+            "address": [
+                " G/F California Tower - 30-32 D’Aguilar Street - Lan Kwai Fong, Central - Hong Kong"
+            ],
+            "coord": [
+                [
+                    22.280906,
+                    114.1554893
+                ]
+            ],
+            "website": "https://lkfconcepts.com/pages/baci"
+        },
+        {
+            "category": "🍕",
+            "position": "18°",
+            "name": "PST – Pizza Studio Tamaki",
+            "ref": "https://www.50toppizza.it/referenza/pst-pizza-studio-tamaki/",
+            "address": [
+                "Giappone, 〒106-0032 Tokyo, Minato City, Roppongi, 7 Chome−6−2 六本木エムケイアートレジデンス",
+                "1-24-6-105 Higashiazabu, Minato-ku, Tokyo"
+            ],
+            "coord": [
+                [
+                    35.6645202,
+                    139.7282663
+                ],
+                [
+                    35.656068,
+                    139.741572
+                ]
+            ],
+            "website": "http://pst-tk2-ad.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "19°",
+            "name": "Pizzeria da Tigre",
+            "ref": "https://www.50toppizza.it/referenza/pizzeria-da-tigre-2/",
+            "address": [
+                "1 Chome-18-13 Shinmachi, Nishi Ward, Osaka, 550-0013, Giappone"
+            ],
+            "coord": [
+                [
+                    34.6772783,
+                    135.4943441
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "20°",
+            "name": "Le Parùle Baku",
+            "ref": "https://www.50toppizza.it/referenza/le-parule-baku/",
+            "address": [
+                "Zughulba avenue 337, Bilgah settlement, Sabuncu, Baku - Azerbaijan"
+            ],
+            "coord": [
+                [
+                    40.5811666,
+                    50.0415363
+                ]
+            ],
+            "website": "https://amburanmall.az/en/shop-dine/tastes-like-your-wishes/le-parule/"
+        },
+        {
+            "category": "🍕",
+            "position": "21°",
+            "name": "L’OLIVA",
+            "ref": "https://www.50toppizza.it/referenza/loliva/",
+            "address": [
+                "Thailandia, Bangkok, Khlong Toei, Bangkok, Soi 36 Subsoi 2, L'OLIVA"
+            ],
+            "coord": [
+                [
+                    13.7226263,
+                    100.5759252
+                ]
+            ],
+            "website": "https://www.lolivabkk.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "22°",
+            "name": "Andrea Style",
+            "ref": "https://www.50toppizza.it/referenza/andrea-style-3/",
+            "address": [
+                "104, Taiwan, Taipei City, Zhongshan District, Lane 63, Liaoning St, 15號1樓"
+            ],
+            "coord": [
+                [
+                    25.0492386,
+                    121.5428398
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "23°",
+            "name": "Queen Margherita of Savoy",
+            "ref": "https://www.50toppizza.it/referenza/queen-margherita-of-savoy-3/",
+            "address": [
+                "9/2-8 Surf Rd, Cronulla NSW 2230, Australia"
+            ],
+            "coord": [
+                [
+                    -34.0547657,
+                    151.1529496
+                ]
+            ],
+            "website": "https://www.qmos.com.au/"
+        },
+        {
+            "category": "🍕",
+            "position": "24°",
+            "name": "Little Napoli",
+            "ref": "https://www.50toppizza.it/referenza/little-napoli-3/",
+            "address": [
+                "Shop 1, 8 King Kwong St, Happy Valley, Hong Kong"
+            ],
+            "coord": [
+                [
+                    22.269284,
+                    114.1852278
+                ]
+            ],
+            "website": "https://me-page.org/r/it/4733535%20;%20https://linktr.ee/littlenapoli"
+        },
+        {
+            "category": "🍕",
+            "position": "25°",
+            "name": "MASSIMOTTAVIO",
+            "ref": "https://www.50toppizza.it/referenza/massimottavio-2/",
+            "address": [
+                "4 Chome-4-4 Eifuku, Suginami City, Tokyo 168-0064, Giappone"
+            ],
+            "coord": [
+                [
+                    35.6769717,
+                    139.6426786
+                ]
+            ],
+            "website": "https://www.massimottavio.net/"
+        },
+        {
+            "category": "🍕",
+            "position": "26°",
+            "name": "Pizzeria Peppe – Napoli sta’ ca”",
+            "ref": "https://www.50toppizza.it/referenza/pizzeria-peppe-napoli-sta-ca-4/",
+            "address": [
+                "Giappone, 〒106-0041 Tokyo, Minato City, Azabudai, 1 Chome−11−4 いんなあとりっぷビル 1F",
+                "Azabudai Hills Tower Plaza, 1-3-1 Azabudai, Minato-ku, Tokyo"
+            ],
+            "coord": [
+                [
+                    35.6602119,
+                    139.743274
+                ],
+                [
+                    35.6616308,
+                    139.7403659
+                ]
+            ],
+            "website": "https://napolistaca.jp/"
+        },
+        {
+            "category": "🍕",
+            "position": "27°",
+            "name": "Lil Franky Pizzeria",
+            "ref": "https://www.50toppizza.it/referenza/lil-franky-pizzeria/",
+            "address": [
+                "703 Princes Hwy, Tempe NSW 2044, Australia"
+            ],
+            "coord": [
+                [
+                    -33.9235651,
+                    151.1618149
+                ]
+            ],
+            "website": "https://www.lilfranky.com.au/"
+        },
+        {
+            "category": "🍕",
+            "position": "28°",
+            "name": "L’INSIEME",
+            "ref": "https://www.50toppizza.it/referenza/linsieme/",
+            "address": [
+                "1 Chome-31-7 Kameido, Koto City, Tokyo 136-0071, Giappone"
+            ],
+            "coord": [
+                [
+                    35.6947074,
+                    139.8256483
+                ]
+            ],
+            "website": "https://www.linsieme2016.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "29°",
+            "name": "La Tripletta",
+            "ref": "https://www.50toppizza.it/referenza/la-tripletta-4/",
+            "address": [
+                "3 Chome-13-12 Koyama, Shinagawa City, Tokyo 142-0062, Giappone"
+            ],
+            "coord": [
+                [
+                    35.6202886,
+                    139.705546
+                ]
+            ],
+            "website": "https://latripletta.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "30°",
+            "name": "Gigi’s",
+            "ref": "https://www.50toppizza.it/referenza/gigis/",
+            "address": [
+                "239 Darling St, Balmain NSW 2041, Australia"
+            ],
+            "coord": [
+                [
+                    -33.8576763,
+                    151.1829376
+                ]
+            ],
+            "website": "https://gigisbalmain.com.au/"
+        },
+        {
+            "category": "🍕",
+            "position": "31°",
+            "name": "Il Caminetto",
+            "ref": "https://www.50toppizza.it/referenza/il-caminetto-2/",
+            "address": [
+                "114 Pascoe Vale Rd, Moonee Ponds VIC 3039, Australia"
+            ],
+            "coord": [
+                [
+                    -37.76165,
+                    144.9261499
+                ]
+            ],
+            "website": "https://www.ilcaminetto.com.au/"
+        },
+        {
+            "category": "🍕",
+            "position": "32°",
+            "name": "Shop225",
+            "ref": "https://www.50toppizza.it/referenza/shop225-2/",
+            "address": [
+                "225 Melville Rd, Pascoe Vale South VIC 3044, Australia"
+            ],
+            "coord": [
+                [
+                    -37.7398018,
+                    144.9452779
+                ]
+            ],
+            "website": "https://www.shop225.com.au/"
+        },
+        {
+            "category": "🍕",
+            "position": "33°",
+            "name": "+39 Pizzeria",
+            "ref": "https://www.50toppizza.it/referenza/39-pizzeria-2/",
+            "address": [
+                "362 Little Bourke St, Melbourne VIC 3000, Australia"
+            ],
+            "coord": [
+                [
+                    -37.8132826,
+                    144.9617644
+                ]
+            ],
+            "website": "https://www.plus39.com.au/"
+        },
+        {
+            "category": "🍕",
+            "position": "34°",
+            "name": "Five Olives",
+            "ref": "https://www.50toppizza.it/referenza/five-olives-2/",
+            "address": [
+                "2/1 Cherngtalay, Thalang District, Phuket 83110, Thailandia"
+            ],
+            "coord": [
+                [
+                    8.0707888,
+                    98.3307468
+                ]
+            ],
+            "website": "https://fiveolives.co/"
+        },
+        {
+            "category": "🍕",
+            "position": "35°",
+            "name": "Pizzeria e trattoria da ISA",
+            "ref": "https://www.50toppizza.it/referenza/pizzeria-e-trattoria-da-isa-4/",
+            "address": [
+                "Giappone, 〒153-0042 Tokyo, Meguro City, Aobadai, 1 Chome−28, タイガーマンション"
+            ],
+            "coord": [
+                [
+                    35.6471828,
+                    139.6952655
+                ]
+            ],
+            "website": "http://www.da-isa.jp/"
+        },
+        {
+            "category": "🍕",
+            "position": "36°",
+            "name": "Pizzeria da CIRO",
+            "ref": "https://www.50toppizza.it/referenza/pizzeria-da-ciro-2/",
+            "address": [
+                "Giappone, 〒606-8417 Kyoto, Sakyo Ward, Jodoji Nishidacho, 75 1階",
+                "407-2 Gojo Karasuma-cho, Shimogyo-ku, Kyoto 600-8418"
+            ],
+            "coord": [
+                [
+                    35.0279059,
+                    135.7905859
+                ],
+                [
+                    35.0266002,
+                    135.7415863
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "37°",
+            "name": "Fresca",
+            "ref": "https://www.50toppizza.it/referenza/fresca/",
+            "address": [
+                "Kibbutz Afikim - Jordan Valley, Israel"
+            ],
+            "coord": [
+                [
+                    32.680564,
+                    35.57773
+                ]
+            ],
+            "website": "https://www.frescapizzeria.co.il/about-us"
+        },
+        {
+            "category": "🍕",
+            "position": "38°",
+            "name": "Marni",
+            "ref": "https://www.50toppizza.it/referenza/marni-2/",
+            "address": [
+                "95, 18 Montri Rd, Talad yai, Mueang Phuket District, Phuket 83000, Thailandia"
+            ],
+            "coord": [
+                [
+                    7.8823909,
+                    98.3927897
+                ]
+            ],
+            "website": "https://www.marnirestaurant.com/https"
+        },
+        {
+            "category": "🍕",
+            "position": "39°",
+            "name": "La Piedra",
+            "ref": "https://www.50toppizza.it/referenza/la-piedra-2/",
+            "address": [
+                "1 9426501, Gershon Agron St, Jerusalem, Israele",
+                "Daniel Yanovski Street 17, Gerusalemme"
+            ],
+            "coord": [
+                [
+                    31.7767924,
+                    35.2201038
+                ],
+                [
+                    31.755767,
+                    35.226176
+                ]
+            ],
+            "website": "https://lapiedra.co.il/"
+        },
+        {
+            "category": "🍕",
+            "position": "40°",
+            "name": "Pizzeria Cavalese",
+            "ref": "https://www.50toppizza.it/referenza/pizzeria-cavalese-2/",
+            "address": [
+                "TB SR, Ruko Green Lake Sunter, Jl. Danau Sunter Selatan No.15, RT.15/RW.16, Sunter Agung, Kec. Tj. Priok, Jkt Utara, Daerah Khusus Ibukota Jakarta 14350, Indonesia",
+                "ICON 5 business park, Sampora, Reggenza di Tangerang, Banten, Indonesia",
+                "Ruko Green Lake Sunter TB SR Jalan Danau Sunter Selatan Sunter Agung Tanjung Priok RT.15/RW.16 RT.15/RW.16 Sunter Agung Tanjung Priok RT.15/RW.16 Sunter Agung Tanjung Priok Jakarta Utara DKI Jakarta 14350 Indonesia"
+            ],
+            "coord": [
+                [
+                    -6.1452445,
+                    106.876761
+                ],
+                [
+                    -6.3178932,
+                    106.6442522
+                ],
+                [
+                    -6.1452445,
+                    106.876761
+                ]
+            ],
+            "website": "https://pizzeriacavalese.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "41°",
+            "name": "Lilian",
+            "ref": "https://www.50toppizza.it/referenza/lilian-3/",
+            "address": [
+                "472 Richmond Road, Grey Lynn, Auckland 1021, Nuova Zelanda"
+            ],
+            "coord": [
+                [
+                    -36.859137,
+                    174.7319564
+                ]
+            ],
+            "website": "https://www.lilian.co.nz"
+        },
+        {
+            "category": "🍕",
+            "position": "42°",
+            "name": "Beintema’s",
+            "ref": "https://www.50toppizza.it/referenza/beintemas-2/",
+            "address": [
+                "Jl. Banyak Niaga Kulon No.7, Cipeundeuy, Kec. Padalarang, Kabupaten Bandung Barat, Jawa Barat 40553, Indonesia"
+            ],
+            "coord": [
+                [
+                    -6.8727448,
+                    107.4680265
+                ]
+            ],
+            "website": "https://beintemas.id/"
+        },
+        {
+            "category": "🍕",
+            "position": "43°",
+            "name": "Maestro Sourdough Pizza",
+            "ref": "https://www.50toppizza.it/referenza/maestro-sourdough-pizza-3/",
+            "address": [
+                "111C Flora Terrace, North Beach WA 6020, Australia"
+            ],
+            "coord": [
+                [
+                    -31.8562853,
+                    115.7543827
+                ]
+            ],
+            "website": "https://maestropizza.com.au/"
+        },
+        {
+            "category": "🍕",
+            "position": "44°",
+            "name": "Leo’s",
+            "ref": "https://www.50toppizza.it/referenza/leos-2/",
+            "address": [
+                "28, Basant Lok, Vasant Vihar, New Delhi, Delhi 110057, India",
+                "CBR CHOWK, Zero Number Road, Anand Gram, Ghitorni, Nuova Delhi, Delhi, India",
+                "E - 261, Block E, Amar Colony, Lajpat Nagar 4, New Delhi, Delhi 110024, India"
+            ],
+            "coord": [
+                [
+                    28.5584259,
+                    77.1638342
+                ],
+                [
+                    28.4917681,
+                    77.1310327
+                ],
+                [
+                    28.5602054,
+                    77.2430299
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "45°",
+            "name": "SOLO Pizza Napulitana",
+            "ref": "https://www.50toppizza.it/referenza/solo-pizza-napulitana-2/",
+            "address": [
+                "Abdulmunim Riyadh Street, Kuwait City, Kuwait"
+            ],
+            "coord": [
+                [
+                    29.3690841,
+                    47.9830541
+                ]
+            ],
+            "website": "https://www.solopn.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "46°",
+            "name": "Proof Pizza and Wine",
+            "ref": "https://www.50toppizza.it/referenza/proof-pizza-and-wine/",
+            "address": [
+                " 29, Jalan Riong, Bangsar, 59100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia"
+            ],
+            "coord": [
+                [
+                    3.1244429,
+                    101.6740317
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "47°",
+            "name": "Wild Flour Italian",
+            "ref": "https://www.50toppizza.it/referenza/wild-flour-italian-3/",
+            "address": [
+                "Ground Floor, The Finance Centre, 9th Avenue corner 26th Street, Bonifacio Global City, Taguig City, 1634 Metro Manila, Filippine"
+            ],
+            "coord": [
+                [
+                    14.5470964,
+                    121.0504506
+                ]
+            ],
+            "website": "https://wildflour.com.ph/italian/"
+        },
+        {
+            "category": "🍕",
+            "position": "48°",
+            "name": "Margherí",
+            "ref": "https://www.50toppizza.it/referenza/margheri-3/",
+            "address": [
+                "R3-60 hung phuoc 4 district 7 , Ho Chi Minh City, Vietnam"
+            ],
+            "coord": [
+                [
+                    10.7297156,
+                    106.707008
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "49°",
+            "name": "A16",
+            "ref": "https://www.50toppizza.it/referenza/a16-2/",
+            "address": [
+                "Giappone, 〒231-0001 Kanagawa, Yokohama, Naka Ward, Shinko, 1 Chome−3−1 マリン＆ウォーク ヨコハマ 2F",
+                "〒100-0005 Tokyo, Chiyoda City, Marunouchi, 2 Chome−6−1 ブリック"
+            ],
+            "coord": [
+                [
+                    35.4545749,
+                    139.6420709
+                ],
+                [
+                    35.6785178,
+                    139.7627684
+                ]
+            ],
+            "website": "http://www.giraud.co.jp/a16/"
+        },
+        {
+            "category": "🍕",
+            "position": "50°",
+            "name": "Ben’s Pizzeria",
+            "ref": "https://www.50toppizza.it/referenza/bens-pizzeria/",
+            "address": [
+                "Jl. Wijaya IX No.6A, RT.2/RW.5, Melawai, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12160, Indonesia"
+            ],
+            "coord": [
+                [
+                    -6.2478398,
+                    106.8021329
+                ]
+            ],
+            "website": "https://campsite.bio/benspizzeria"
+        },
+        {
+            "category": "🍕",
+            "position": "50°",
+            "name": "Pizza Madre",
+            "ref": "https://www.50toppizza.it/referenza/pizza-madre-2/",
+            "address": [
+                "2/205 Victoria Rd, Marrickville NSW 2204, Australia"
+            ],
+            "coord": [
+                [
+                    -33.9097639,
+                    151.1619846
+                ]
+            ],
+            "website": "https://www.pizzamadre.com.au/"
+        }
+    ]
+}
