@@ -1,0 +1,951 @@
+{
+    "50 Top Pizza Latin America 2024": [
+        {
+            "category": "🍕",
+            "position": "1°",
+            "name": "Leggera Pizza Napoletana",
+            "ref": "https://www.50toppizza.it/referenza/leggera-pizza-napoletana-4/",
+            "address": [
+                "Leggera Pizza Napoletana - Rua Diana - Pompeia, San Paolo, Brazil",
+                "Rua Capitão Pinto Ferreira, 248 - Jardins, São Paulo - San Paolo, Brasile"
+            ],
+            "coord": [
+                [
+                    -23.5296049,
+                    -46.6791827
+                ],
+                [
+                    -23.5726757,
+                    -46.6562204
+                ]
+            ],
+            "website": "http://www.pizzerialeggera.com.br/"
+        },
+        {
+            "category": "🍕",
+            "position": "2°",
+            "name": "QT Pizza Bar",
+            "ref": "https://www.50toppizza.it/referenza/qt-pizza-bar-3/",
+            "address": [
+                "QT Pizza Bar - Alameda Ministro Rocha Azevedo - Cerqueira César, São Paulo - San Paolo, Brazil"
+            ],
+            "coord": [
+                [
+                    -23.5660241,
+                    -46.6644688
+                ]
+            ],
+            "website": "https://linktr.ee/qtpizza"
+        },
+        {
+            "category": "🍕",
+            "position": "3°",
+            "name": "Ti Amo",
+            "ref": "https://www.50toppizza.it/referenza/ti-amo-3/",
+            "address": [
+                "Ti Amo - Napoletan Pizza, Diagonal Toll, Adrogué, Provincia di Buenos Aires, Argentina"
+            ],
+            "coord": [
+                [
+                    -34.8007248,
+                    -58.3848622
+                ]
+            ],
+            "website": "https://tiamopizzeria.meitre.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "4°",
+            "name": "A Pizza da Mooca",
+            "ref": "https://www.50toppizza.it/referenza/a-pizza-da-mooca-4/",
+            "address": [
+                "A Pizza da Mooca - Rua da Mooca - Mooca, San Paolo, Brazil",
+                "Rua João Moura, 529 - Pinheiros, São Paulo - SP, Brasile"
+            ],
+            "coord": [
+                [
+                    -23.5546061,
+                    -46.6082067
+                ],
+                [
+                    -23.5607791,
+                    -46.6776848
+                ]
+            ],
+            "website": "https://www.apizzadamooca.com.br"
+        },
+        {
+            "category": "🍕",
+            "position": "5°",
+            "name": "Allería",
+            "ref": "https://www.50toppizza.it/referenza/alleria/",
+            "address": [
+                "Pizzeria Alleria - Malaquías Concha, Providencia, Chile"
+            ],
+            "coord": [
+                [
+                    -33.4486268,
+                    -70.6260954
+                ]
+            ],
+            "website": "https://menu.fu.do/alleria/qr-menu?fbclid=PAAaZWHDO2Vl57SUVhDBuR4Icc5AZDEqaY-I3sJTG80ydYMbAQZfl8s41M_7c"
+        },
+        {
+            "category": "🍕",
+            "position": "6°",
+            "name": "Ardente",
+            "ref": "https://www.50toppizza.it/referenza/ardente-2/",
+            "address": [
+                "Ardente, Calle Laredo, Hipódromo, Mexico City, México, Messico",
+                "Ardente, Boulevard de la Luz, Pedregal de San Ángel, Città del Messico, Distretto Federale, Messico"
+            ],
+            "coord": [
+                [
+                    19.4130163,
+                    -99.1709237
+                ],
+                [
+                    19.3090453,
+                    -99.2093038
+                ]
+            ],
+            "website": "https://ardente.com.mx/"
+        },
+        {
+            "category": "🍕",
+            "position": "7°",
+            "name": "Unica Pizzeria",
+            "ref": "https://www.50toppizza.it/referenza/unica-pizzeria/",
+            "address": [
+                "Unica Pizzeria - Rua Gabriele D'Annunzio - Campo Belo, São Paulo - San Paolo, Brazil"
+            ],
+            "coord": [
+                [
+                    -23.6259673,
+                    -46.6725343
+                ]
+            ],
+            "website": "http://www.unicapizzeria.com.br"
+        },
+        {
+            "category": "🍕",
+            "position": "8°",
+            "name": "Imilla Alzada",
+            "ref": "https://www.50toppizza.it/referenza/imilla-alzada/",
+            "address": [
+                "Imilla Alzada, Calle Alvares Plata, La Paz, Bolivia"
+            ],
+            "coord": [
+                [
+                    -16.543136,
+                    -68.0624123
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "9°",
+            "name": "Ferro e Farinha",
+            "ref": "https://www.50toppizza.it/referenza/ferro-e-farinha/",
+            "address": [
+                "Ferro e Farinha - Ipanema - Rua Maria Quitéria - Ipanema, Rio de Janeiro, Brazil",
+                "Rua Dias Ferreira, 48 - Leblon, Rio de Janeiro, Brasile",
+                "Av. Olegário Maciel, 555 - Barra da Tijuca, Rio de Janeiro, Brasile",
+                "Rua Arnaldo Quintela, 23 - Botafogo, Rio de Janeiro, Brasile"
+            ],
+            "coord": [
+                [
+                    -22.9827702,
+                    -43.2071283
+                ],
+                [
+                    -22.9856429,
+                    -43.2283001
+                ],
+                [
+                    -23.0095764,
+                    -43.304846
+                ],
+                [
+                    -22.9548889,
+                    -43.1820507
+                ]
+            ],
+            "website": "https://www.ferroefarinha.com.br/"
+        },
+        {
+            "category": "🍕",
+            "position": "10°",
+            "name": "Atte. Pizzeria Napoletana",
+            "ref": "https://www.50toppizza.it/referenza/atte-pizzeria-napoletana/",
+            "address": [
+                "Atte. Pizzeria Napoletana, El Salvador, Buenos Aires, Città Autonoma di Buenos Aires, Argentina"
+            ],
+            "coord": [
+                [
+                    -34.5799629,
+                    -58.4397268
+                ]
+            ],
+            "website": "https://attepizza.meitre.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "11°",
+            "name": "Flama",
+            "ref": "https://www.50toppizza.it/referenza/flama/",
+            "address": [
+                "Flama Pizzería, Calle Coronel Inclán, Miraflores, Perú"
+            ],
+            "coord": [
+                [
+                    -12.1168319,
+                    -77.0312792
+                ]
+            ],
+            "website": "https://linktr.ee/flamapizzeria"
+        },
+        {
+            "category": "🍕",
+            "position": "12°",
+            "name": "Veridiana",
+            "ref": "https://www.50toppizza.it/referenza/veridiana/",
+            "address": [
+                "Veridiana - Rua José Maria Lisboa - Jardim Paulista, São Paulo - San Paolo, Brazil",
+                "Rua Dona Veridiana, 661 - Higienópolis, São Paulo - SP, Brasile",
+                "Rua Turiassu, 98 - Perdizes, São Paulo - SP, Brasile"
+            ],
+            "coord": [
+                [
+                    -23.569179,
+                    -46.657201
+                ],
+                [
+                    -23.5452248,
+                    -46.651895
+                ],
+                [
+                    -23.5343611,
+                    -46.6641028
+                ]
+            ],
+            "website": "https://www.veridiana.com.brhttps:/"
+        },
+        {
+            "category": "🍕",
+            "position": "13°",
+            "name": "Grazie Pizzeria Napoletana",
+            "ref": "https://www.50toppizza.it/referenza/grazie-pizzeria-napoletana/",
+            "address": [
+                " Ref.: Na mesma galeria da Sorveteria Bali da Pajuçara - R. Dr. Lessa de Azevedo, Nº 55 - Loja 12 e 13 - Pajuçara, Maceió - AL, 57030-180, Brasile"
+            ],
+            "coord": [
+                [
+                    -9.66937,
+                    -35.7156028
+                ]
+            ],
+            "website": "https://www.graziepizza.com.br/"
+        },
+        {
+            "category": "🍕",
+            "position": "14°",
+            "name": "400 Pizzería",
+            "ref": "https://www.50toppizza.it/referenza/400-pizzeria/",
+            "address": [
+                "400 Pizzería - Abadía, Las Condes, Chile"
+            ],
+            "coord": [
+                [
+                    -33.391718,
+                    -70.5421829
+                ]
+            ],
+            "website": "https://www.400-pizzeria.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "15°",
+            "name": "Chichilo’s",
+            "ref": "https://www.50toppizza.it/referenza/chichilos/",
+            "address": [
+                "Chichilo's, Gorriti, Rosario, Santa Fe, Argentina",
+                "Catamarca, Pueyrredón &, S2000 Rosario, Santa Fe, Argentina"
+            ],
+            "coord": [
+                [
+                    -32.9233839,
+                    -60.6696196
+                ],
+                [
+                    -32.9371632,
+                    -60.6559076
+                ]
+            ],
+            "website": "https://linktr.ee/chichilospizza"
+        },
+        {
+            "category": "🍕",
+            "position": "16°",
+            "name": "Siamo nel Forno",
+            "ref": "https://www.50toppizza.it/referenza/siamo-nel-forno-2/",
+            "address": [
+                "Siamo nel Forno, Costa Rica, Buenos Aires, Città Autonoma di Buenos Aires, Argentina"
+            ],
+            "coord": [
+                [
+                    -34.5805265,
+                    -58.4376589
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "17°",
+            "name": "Baco Pizzaria",
+            "ref": "https://www.50toppizza.it/referenza/baco-pizzaria/",
+            "address": [
+                "9257___Asa Sul Comércio Local Sul 408 Baco Pizzaria - Asa Sul, Brasília - Distretto Federale, Brazil",
+                "SHCN CLN 309 - North Wing, Brasilia - Federal District, 70755-500, Brasile"
+            ],
+            "coord": [
+                [
+                    -15.8232009,
+                    -47.9006855
+                ],
+                [
+                    -15.7626168,
+                    -47.8895212
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "18°",
+            "name": "Grazie Napoli",
+            "ref": "https://www.50toppizza.it/referenza/grazie-napoli/",
+            "address": [
+                "Grazie Napoli - Rua das Aroeiras - Jardim, Santo André - San Paolo, Brazil"
+            ],
+            "coord": [
+                [
+                    -23.6460198,
+                    -46.5396959
+                ]
+            ],
+            "website": "https://www.grazienapoli.com.br"
+        },
+        {
+            "category": "🍕",
+            "position": "19°",
+            "name": "Capricciosa",
+            "ref": "https://www.50toppizza.it/referenza/capricciosa/",
+            "address": [
+                "Capricciosa Pizza - Rua Maria Angélica - Jardim Botânico, Rio de Janeiro, Brazil",
+                "Rua Vinícius de Moraes 134 Rio de Janeiro"
+            ],
+            "coord": [
+                [
+                    -22.9625216,
+                    -43.2078824
+                ],
+                [
+                    -22.983365,
+                    -43.202668
+                ]
+            ],
+            "website": "http://capricciosa.com.br"
+        },
+        {
+            "category": "🍕",
+            "position": "20°",
+            "name": "Domani – Pizza Napoletana",
+            "ref": "https://www.50toppizza.it/referenza/domani-pizza-napoletana/",
+            "address": [
+                "Domani - Granaderos, Santiago, Providencia, Chile",
+                "Domani Pizzeria Napoletana & Bar - Plaza Pedro de Valdivia - Plaza Pedro de Valdivia, Providencia, Cile",
+                "Domani Pizzeria Napoletana & Bar - Tobalaba - Tobalaba Metro Station, Santiago, Providencia, Cile",
+                "Cerro El Plomo 5630 local 201-202, Las Condes, Región Metropolitana, Cile"
+            ],
+            "coord": [
+                [
+                    -33.431011,
+                    -70.61845
+                ],
+                [
+                    -33.439406,
+                    -70.606928
+                ],
+                [
+                    -33.4250875,
+                    -70.5929687
+                ],
+                [
+                    -33.4057113,
+                    -70.574216
+                ]
+            ],
+            "website": "https://domani-pizza-bar.cluvi.cl%20%20"
+        },
+        {
+            "category": "🍕",
+            "position": "21°",
+            "name": "Coltivi",
+            "ref": "https://www.50toppizza.it/referenza/coltivi/",
+            "address": [
+                "COLTIVI - Rua Conde de Irajá - Botafogo, Rio de Janeiro, Brazil"
+            ],
+            "coord": [
+                [
+                    -22.9530395,
+                    -43.1960073
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "22°",
+            "name": "Davvero Pizzería",
+            "ref": "https://www.50toppizza.it/referenza/davvero-pizzeria/",
+            "address": [
+                "Davvero Pizzería - Avenida Presidente José Batlle Y Ordóñez, Ñuñoa, Chile"
+            ],
+            "coord": [
+                [
+                    -33.4534045,
+                    -70.582329
+                ]
+            ],
+            "website": "https://davveropizzeria.cl/"
+        },
+        {
+            "category": "🍕",
+            "position": "23°",
+            "name": "LuigiaLuigia\tFoz do Iguaçu\tBrazil",
+            "ref": "https://www.50toppizza.it/referenza/luigia-4/",
+            "address": [
+                "Luigia Pizzeria Napoletana - Foz do Iguaçu - Avenida Paraná - Centro, Foz do Iguaçu - Paraná, Brazil",
+                "R. Vicente Machado, 1028 - Centro, Cascavel - Paraná, Brasile"
+            ],
+            "coord": [
+                [
+                    -25.5406657,
+                    -54.576376
+                ],
+                [
+                    -24.9509301,
+                    -53.4452796
+                ]
+            ],
+            "website": "https://www.luigiapizzeria.com.br"
+        },
+        {
+            "category": "🍕",
+            "position": "24°",
+            "name": "Ciao Pizzeria Napoletana",
+            "ref": "https://www.50toppizza.it/referenza/ciao-pizzeria-napoletana-2/",
+            "address": [
+                "Ciao Pizzeria Napoletana - Rua General João Telles - Bom Fim, Porto Alegre - Rio Grande do Sul, Brazil",
+                "Rua General Lima e Silva, 594 - Bairro Cidade Baixa - CEP 90050-001 - Porto Alegre",
+                "Av. N. Sra. das Dores, 270 - Nossa Sra. das Dores - CEP 97090-000 - Santa Maria"
+            ],
+            "coord": [
+                [
+                    -30.0321196,
+                    -51.2122754
+                ],
+                [
+                    -30.0375542,
+                    -51.2211205
+                ],
+                [
+                    -29.6864819,
+                    -53.7952389
+                ]
+            ],
+            "website": "https://ciaopizza.com.br/"
+        },
+        {
+            "category": "🍕",
+            "position": "25°",
+            "name": "Núvola",
+            "ref": "https://www.50toppizza.it/referenza/nuvola/",
+            "address": [
+                "Nuvola Centro, Reconquista, Buenos Aires, Città Autonoma di Buenos Aires, Argentina",
+                "Av. Sta. Fe 3253, C1425 Cdad. Autónoma de Buenos Aires, Argentina"
+            ],
+            "coord": [
+                [
+                    -34.6022749,
+                    -58.3723888
+                ],
+                [
+                    -34.5883465,
+                    -58.4106883
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "26°",
+            "name": "Otto e Mezzo Pizza Verace",
+            "ref": "https://www.50toppizza.it/referenza/otto-e-mezzo-pizza-verace/",
+            "address": [
+                "Otto e Mezzo Pizza Verace - Rua Brasília - Botafogo, Bento Gonçalves - Rio Grande do Sul, Brazil"
+            ],
+            "coord": [
+                [
+                    -29.1795948,
+                    -51.513632
+                ]
+            ],
+            "website": "https://linktr.ee/ottoemezzo"
+        },
+        {
+            "category": "🍕",
+            "position": "27°",
+            "name": "Cincinnati",
+            "ref": "https://www.50toppizza.it/referenza/cincinnati/",
+            "address": [
+                "Cincinnati Pizza, Esmeralda, Buenos Aires, Città Autonoma di Buenos Aires, Argentina"
+            ],
+            "coord": [
+                [
+                    -34.5973054,
+                    -58.3788307
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "28°",
+            "name": "Locale Pizza",
+            "ref": "https://www.50toppizza.it/referenza/locale-pizza/",
+            "address": [
+                "Locale Pizza - Barata Ribeiro Street - Copacabana, Rio de Janeiro, Brazil"
+            ],
+            "coord": [
+                [
+                    -22.9701221,
+                    -43.1882441
+                ]
+            ],
+            "website": "https://www.localepizza.com.br/"
+        },
+        {
+            "category": "🍕",
+            "position": "29°",
+            "name": "Capri",
+            "ref": "https://www.50toppizza.it/referenza/capri/",
+            "address": [
+                "Pizzería Capri Resto Bar - El Rodeo, Lo Barnechea, Chile",
+                "Gerónimo de Alderete 1423, Vitacura, Cile"
+            ],
+            "coord": [
+                [
+                    -33.352261,
+                    -70.5167304
+                ],
+                [
+                    -33.3901347,
+                    -70.563487
+                ]
+            ],
+            "website": "https://www.pizzeriacapri.cl"
+        },
+        {
+            "category": "🍕",
+            "position": "30°",
+            "name": "Quintal 333",
+            "ref": "https://www.50toppizza.it/referenza/quintal-333/",
+            "address": [
+                "Quintal 333 - Avenida Jequitinhonha - Ilha dos Araújos, Governador Valadares - Minas Gerais, Brazil"
+            ],
+            "coord": [
+                [
+                    -18.86462,
+                    -41.9400293
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "31°",
+            "name": "ST Giovanni’s",
+            "ref": "https://www.50toppizza.it/referenza/st-giovannis/",
+            "address": [
+                "Pizzeria St. Giovanni’s - Rafael Sanzio, Las Condes, Chile",
+                "Badajoz 82, 7560908 Las Condes, Región Metropolitana, Chile"
+            ],
+            "coord": [
+                [
+                    -33.4037011,
+                    -70.5538078
+                ],
+                [
+                    -33.4085705,
+                    -70.5726352
+                ]
+            ],
+            "website": "https://www.stgiovannis.cl"
+        },
+        {
+            "category": "🍕",
+            "position": "32°",
+            "name": "Frasca",
+            "ref": "https://www.50toppizza.it/referenza/frasca/",
+            "address": [
+                "Frasca Pizzeria Napoletana - Carlos Barbosa - Rua Rio Branco - Centro, Carlos Barbosa - Rio Grande do Sul, Brazil"
+            ],
+            "coord": [
+                [
+                    -29.2977758,
+                    -51.5055387
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "33°",
+            "name": "Vinny’s",
+            "ref": "https://www.50toppizza.it/referenza/vinnys/",
+            "address": [
+                "SHCS Comércio Local Sul 205 Vinny's Pizzaria Napoletana - Asa Sul, Brasília - Distretto Federale, Brazil"
+            ],
+            "coord": [
+                [
+                    -15.8144622,
+                    -47.8945853
+                ]
+            ],
+            "website": "https://vinnyspizza.com.br/"
+        },
+        {
+            "category": "🍕",
+            "position": "34°",
+            "name": "Carlos",
+            "ref": "https://www.50toppizza.it/referenza/carlos/",
+            "address": [
+                "Rua Harmonia, 501 - Sumarezinho, São Paulo - SP, 05435-000, Brasil",
+                "Alameda Tietê, 658 - Jardim Paulista, San Paolo, Brasile"
+            ],
+            "coord": [
+                [
+                    -23.5540219,
+                    -46.6891577
+                ],
+                [
+                    -23.5593381,
+                    -46.6685914
+                ]
+            ],
+            "website": "http://www.carlospizza.com.br"
+        },
+        {
+            "category": "🍕",
+            "position": "35°",
+            "name": "Francisca del Fuego",
+            "ref": "https://www.50toppizza.it/referenza/francisca-del-fuego/",
+            "address": [
+                "Francisca del Fuego, Avenida Infanta Isabel, Buenos Aires, Città Autonoma di Buenos Aires, Argentina"
+            ],
+            "coord": [
+                [
+                    -34.5699492,
+                    -58.4211371
+                ]
+            ],
+            "website": "https://linktr.ee/franciscadelfuego"
+        },
+        {
+            "category": "🍕",
+            "position": "36°",
+            "name": "Pizzaiolo",
+            "ref": "https://www.50toppizza.it/referenza/pizzaiolo/",
+            "address": [
+                "pizzaiolo, Calle 8a, El Poblado, Medellín, Dipartimento di Antioquia, Colombia"
+            ],
+            "coord": [
+                [
+                    6.2079084,
+                    -75.5672536
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "37°",
+            "name": "Portarossa",
+            "ref": "https://www.50toppizza.it/referenza/portarossa-2/",
+            "address": [
+                "Pizzería Portarossa, Calle Joaquín Maneiro, Pampatar, Nuova Sparta, Venezuela"
+            ],
+            "coord": [
+                [
+                    10.9964744,
+                    -63.8002697
+                ]
+            ],
+            "website": "https://portarossa.business.site/"
+        },
+        {
+            "category": "🍕",
+            "position": "38°",
+            "name": "Paradiso",
+            "ref": "https://www.50toppizza.it/referenza/paradiso/",
+            "address": [
+                "Paradiso Pizzería Napoletana, Mariscal Francisco Solano López, Pedro Juan Caballero, Paraguay"
+            ],
+            "coord": [
+                [
+                    -22.5379448,
+                    -55.7323666
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "39°",
+            "name": "Pizzeria La Clásica",
+            "ref": "https://www.50toppizza.it/referenza/pizzeria-la-clasica/",
+            "address": [
+                "La Clásica, Avenida Masferrer Norte, San Salvador, El Salvador",
+                "3a calle poniente y, Av. Masferrer Nte., San Salvador CP 1101, El Salvador"
+            ],
+            "coord": [
+                [
+                    13.7050621,
+                    -89.2495484
+                ],
+                [
+                    13.7052379,
+                    -89.2491689
+                ]
+            ],
+            "website": "https://www.pizzerialaclasica.com"
+        },
+        {
+            "category": "🍕",
+            "position": "40°",
+            "name": "L’Incanto",
+            "ref": "https://www.50toppizza.it/referenza/lincanto/",
+            "address": [
+                "L'Incanto Ristorante, Avenue Pedragosa sierra, Punta del Este Dipartimento di Maldonado, Uruguay"
+            ],
+            "coord": [
+                [
+                    -34.9369774,
+                    -54.926179
+                ]
+            ],
+            "website": "http://www.lincantoitaliano.com"
+        },
+        {
+            "category": "🍕",
+            "position": "41°",
+            "name": "Di Bari Pizza",
+            "ref": "https://www.50toppizza.it/referenza/di-bari-pizza/",
+            "address": [
+                "Di Bari Pizza - (Ipiranga) - Rua Bom Pastor - Ipiranga, São Paulo - San Paolo, Brazil"
+            ],
+            "coord": [
+                [
+                    -23.5896718,
+                    -46.6072554
+                ]
+            ],
+            "website": "https://www.dibaripizza.com.br"
+        },
+        {
+            "category": "🍕",
+            "position": "42°",
+            "name": "Il Caminetto",
+            "ref": "https://www.50toppizza.it/referenza/il-caminetto-3/",
+            "address": [
+                "Il Caminetto, Avenida Ingeniero Roberto Pastoriza, Santo Domingo, Dominican Republic"
+            ],
+            "coord": [
+                [
+                    18.4715854,
+                    -69.9237701
+                ]
+            ],
+            "website": "https://ilcaminetto.delacarta.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "43°",
+            "name": "Seba’s",
+            "ref": "https://www.50toppizza.it/referenza/sebas/",
+            "address": [
+                "Sebas restaurant, Provincia di Puntarenas, Osa, Bahía, Costa Rica"
+            ],
+            "coord": [
+                [
+                    9.158641,
+                    -83.7473215
+                ]
+            ],
+            "website": "https://www.foood.app/sebas/"
+        },
+        {
+            "category": "🍕",
+            "position": "44°",
+            "name": "Dopodomani",
+            "ref": "https://www.50toppizza.it/referenza/dopodomani/",
+            "address": [
+                "Pizzeria Dopodomani, Avenida 97 Salvador Feo La Cruz Norte-Sur, Naguanagua, Carabobo, Venezuela"
+            ],
+            "coord": [
+                [
+                    10.2300921,
+                    -68.0071454
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "45°",
+            "name": "Pizza di Casabona",
+            "ref": "https://www.50toppizza.it/referenza/pizza-di-casabona/",
+            "address": [
+                "Pizza di Casabona, Atendimento via whatsapp - Rua Dom Lara - Boqueirão, Santos - San Paolo, Brazil"
+            ],
+            "coord": [
+                [
+                    -23.9679637,
+                    -46.3223745
+                ]
+            ],
+            "website": "https://pizza-di-casabona.goomer.app/"
+        },
+        {
+            "category": "🍕",
+            "position": "46°",
+            "name": "Piccola Fattoria",
+            "ref": "https://www.50toppizza.it/referenza/piccola-fattoria/",
+            "address": [
+                "Piccola Fattoria - Rua Professora Luiza Nogueira Gonçalves - Recreio dos Bandeirantes, Rio de Janeiro, Brazil"
+            ],
+            "coord": [
+                [
+                    -23.0056317,
+                    -43.4406666
+                ]
+            ],
+            "website": "https://piccolafattoria.com.br/piccolafattoria-pizzanapoletana/piccolafattoria-pizzanapoletana?dd=menu"
+        },
+        {
+            "category": "🍕",
+            "position": "47°",
+            "name": "L’Aperó Pizza",
+            "ref": "https://www.50toppizza.it/referenza/lapero-pizza/",
+            "address": [
+                "L' Aperó, Ruta 2, Guatemala City, Guatemala"
+            ],
+            "coord": [
+                [
+                    14.621005,
+                    -90.5141404
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "48°",
+            "name": "Wilma’s Pizza",
+            "ref": "https://www.50toppizza.it/referenza/wilmas-pizza/",
+            "address": [
+                "Wilma's Pizza - Avenida Horácio Soares - Jardim Paulista, Ourinhos - São Paulo, Brazil"
+            ],
+            "coord": [
+                [
+                    -22.9804447,
+                    -49.8771073
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "49°",
+            "name": "Vallino Pizzeria Napoletana",
+            "ref": "https://www.50toppizza.it/referenza/vallino-pizzeria-napoletana/",
+            "address": [
+                "Vallino Pizzeria Napoletana - Aracê, Domingos Martins - Espírito Santo, Brazil"
+            ],
+            "coord": [
+                [
+                    -20.3830318,
+                    -41.0229014
+                ]
+            ],
+            "website": "https://vallinopizzeria.negocio.site/"
+        },
+        {
+            "category": "🍕",
+            "position": "50°",
+            "name": "La Nonna",
+            "ref": "https://www.50toppizza.it/referenza/la-nonna/",
+            "address": [
+                "Ristorante La Nonna, Allende Oriente, Zona Centro, Aguascalientes, México"
+            ],
+            "coord": [
+                [
+                    21.880926,
+                    -102.2998089
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "50°",
+            "name": "Le Mani Pizza Napoletana",
+            "ref": "https://www.50toppizza.it/referenza/le-mani-pizza-napoletana/",
+            "address": [
+                "Le Mani Pizza Napoletana, Una Open Mall - Rua General Prestes Guimarães - Vila Rodrigues, Passo Fundo - Rio Grande do Sul, Brazil"
+            ],
+            "coord": [
+                [
+                    -28.2597423,
+                    -52.3963668
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "50°",
+            "name": "Paesano",
+            "ref": "https://www.50toppizza.it/referenza/paesano/",
+            "address": [
+                "Paesano Rosso, Avenida 51, La Plata, Provincia di Buenos Aires, Argentina",
+                "Calle 13 A & Calle 473 Bis, City Bell, Provincia di Buenos Aires, Argentina"
+            ],
+            "coord": [
+                [
+                    -34.9123402,
+                    -57.9460397
+                ],
+                [
+                    -34.8670146,
+                    -58.0430256
+                ]
+            ],
+            "website": "http://paesano.com.ar"
+        }
+    ]
+}

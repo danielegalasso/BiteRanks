@@ -18,7 +18,7 @@ class Geolocator:
 
     def __read_mapkey(self):
         try:
-            with open('mapkey.txt', 'r') as file:
+            with open('script/data/mapkey.txt', 'r') as file:
                 return file.read().strip()
         except RuntimeError as e:
             print(f'Error reading mapkey: {e}')

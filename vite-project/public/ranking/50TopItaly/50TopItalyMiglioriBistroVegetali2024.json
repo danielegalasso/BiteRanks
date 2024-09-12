@@ -1,0 +1,164 @@
+{
+    "50 Top Italy Migliori Bistro Vegetali 2024": [
+        {
+            "category": "🍽️",
+            "position": "1°",
+            "name": "Altatto",
+            "ref": "https://www.50topitaly.it/it/referenza/altatto/",
+            "address": [
+                "Via Comune Antico, 15, 20125 Milano, Milano MI, Italia"
+            ],
+            "coord": [
+                [
+                    45.5034873,
+                    9.2091683
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "2°",
+            "name": "Nativa",
+            "ref": "https://www.50topitaly.it/it/referenza/nativa/",
+            "address": [
+                "Via Umberto Moricca, 100, 00100 Roma RM"
+            ],
+            "coord": [
+                [
+                    41.9023433,
+                    12.4359245
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "3°",
+            "name": "Mezza Pagnotta – Cucina etnobotanica",
+            "ref": "https://www.50topitaly.it/it/referenza/mezza-pagnotta-cucina-etnobotanica/",
+            "address": [
+                "Villa Fenicia SP 86 Ruvo - Bisceglie, km, 2, 70037 Ruvo di Puglia BA"
+            ],
+            "coord": [
+                [
+                    41.1393661,
+                    16.4840965
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "4°",
+            "name": "Mater Terrae",
+            "ref": "https://www.50topitaly.it/it/referenza/mater-terrae/",
+            "address": [
+                "Largo Febo, 2, 00186 Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.8999814,
+                    12.4721401
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "5°",
+            "name": "Rifugio Romano",
+            "ref": "https://www.50topitaly.it/it/referenza/rifugio-romano/",
+            "address": [
+                "Via Volturno, 39/41, 00185 Roma RM"
+            ],
+            "coord": [
+                [
+                    41.9044388,
+                    12.4995988
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "6°",
+            "name": "Il Margutta",
+            "ref": "https://www.50topitaly.it/it/referenza/il-margutta/",
+            "address": [
+                "Via Margutta, 118, 00187 Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.9095208,
+                    12.4782658
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "7°",
+            "name": "Linfa",
+            "ref": "https://www.50topitaly.it/it/referenza/linfa/",
+            "address": [
+                "Via Bergognone, 24, 20144 Milano MI"
+            ],
+            "coord": [
+                [
+                    45.4537706,
+                    9.1635202
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "8°",
+            "name": "Fonderia",
+            "ref": "https://www.50topitaly.it/it/referenza/fonderia/",
+            "address": [
+                "Via Della Fonderia, 1, 50142 Firenze, FI, Italia"
+            ],
+            "coord": [
+                [
+                    43.7723245,
+                    11.2385981
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "9°",
+            "name": "Cavoli Nostri",
+            "ref": "https://www.50topitaly.it/it/referenza/cavoli-nostri/",
+            "address": [
+                "Via Palepoli, 32, 80132 Napoli, Napoli NA, Italia"
+            ],
+            "coord": [
+                [
+                    40.8308088,
+                    14.2502322
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "10°",
+            "name": "La Cucina dei Colori",
+            "ref": "https://www.50topitaly.it/it/referenza/la-cucina-dei-colori/",
+            "address": [
+                "Via S. Michele, 9, 95131 Catania, CT, Italia"
+            ],
+            "coord": [
+                [
+                    37.5059503,
+                    15.087428
+                ]
+            ],
+            "website": null
+        }
+    ]
+}

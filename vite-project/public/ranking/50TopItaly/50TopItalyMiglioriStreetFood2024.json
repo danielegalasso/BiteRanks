@@ -1,0 +1,164 @@
+{
+    "50 Top Italy Migliori Street Food 2024": [
+        {
+            "category": "🍽️",
+            "position": "1°",
+            "name": "Scirocco",
+            "ref": "https://www.50topitaly.it/it/referenza/scirocco-3/",
+            "address": [
+                "Piazza Alonzo di Benedetto n. 7, Pescheria di Catania - 95121 Catania"
+            ],
+            "coord": [
+                [
+                    37.5018805,
+                    15.0867992
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "2°",
+            "name": "Supplizio",
+            "ref": "https://www.50topitaly.it/it/referenza/supplizio-3/",
+            "address": [
+                "Via dei Banchi Vecchi, 143, 00186 Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.8974872,
+                    12.467911
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "3°",
+            "name": "Trapizzino",
+            "ref": "https://www.50topitaly.it/it/referenza/trapizzino-3/",
+            "address": [
+                "Via Giovanni Branca, 88, 00153 Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.8796455,
+                    12.4737092
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "4°",
+            "name": "Il Lampredotto",
+            "ref": "https://www.50topitaly.it/it/referenza/il-lampredotto-3/",
+            "address": [
+                "Mercato Centrale Firenze, Piazza del Mercato Centrale, 50123 Firenze FI"
+            ],
+            "coord": [
+                [
+                    43.7764676,
+                    11.2528338
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "5°",
+            "name": "Antica Focacceria S. Francesco",
+            "ref": "https://www.50topitaly.it/it/referenza/antica-focacceria-san-francesco/",
+            "address": [
+                "Via Alessandro Paternostro, 58, 90133 Palermo, PA, Italia"
+            ],
+            "coord": [
+                [
+                    38.1164521,
+                    13.3661323
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "6°",
+            "name": "Cime Di Rapa",
+            "ref": "https://www.50topitaly.it/it/referenza/cime-di-rapa-2/",
+            "address": [
+                "Via Guglielmo Oberdan, 55, 73100 Lecce, Italia"
+            ],
+            "coord": [
+                [
+                    40.3530996,
+                    18.1827878
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "7°",
+            "name": "Delicatessen in Drogheria",
+            "ref": "https://www.50topitaly.it/it/referenza/delicatessen-in-drogheria/",
+            "address": [
+                "Via Archimede, 32, Ragusa, RG, Italia"
+            ],
+            "coord": [
+                [
+                    36.9181105,
+                    14.7247165
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "8°",
+            "name": "Rosticceria Famulari",
+            "ref": "https://www.50topitaly.it/it/referenza/rosticceria-famulari/",
+            "address": [
+                "Via Cesare Battisti 143, Via Cesare Battisti 143 - 98122 Messina"
+            ],
+            "coord": [
+                [
+                    38.1886321,
+                    15.5540576
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "9°",
+            "name": "Luini",
+            "ref": "https://www.50topitaly.it/it/referenza/luini-3/",
+            "address": [
+                "Via Santa Radegonda, 16, 20121 Milano, MI, Italia"
+            ],
+            "coord": [
+                [
+                    45.4658631,
+                    9.1915447
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "10°",
+            "name": "Indegno – La Crescentina 2.0",
+            "ref": "https://www.50topitaly.it/it/referenza/indegno-la-crescentina-2-0/",
+            "address": [
+                "Via del Pratello, 84/A, 40122 Bologna, BO, Italia"
+            ],
+            "coord": [
+                [
+                    44.4952891,
+                    11.3302962
+                ]
+            ],
+            "website": null
+        }
+    ]
+}

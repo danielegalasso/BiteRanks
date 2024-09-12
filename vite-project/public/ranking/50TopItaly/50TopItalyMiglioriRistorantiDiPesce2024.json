@@ -1,0 +1,157 @@
+{
+    "50 Top Italy Migliori Ristoranti Di Pesce 2024": [
+        {
+            "category": "🍽️",
+            "position": "1°",
+            "name": "Punto Nave",
+            "ref": "https://www.50topitaly.it/it/referenza/punto-nave-3/",
+            "address": [
+                "Via Libero Bovio, 23, 80078 Monterusciello, Pozzuoli NA, Italia"
+            ],
+            "coord": [
+                [
+                    40.8776767,
+                    14.0988088
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "2°",
+            "name": "Clandestino Susci Bar",
+            "ref": "https://www.50topitaly.it/it/referenza/clandestino-susci-bar-2/",
+            "address": [
+                "Località Portonovo, 60020 Ancona AN"
+            ],
+            "coord": [
+                [
+                    43.5611908,
+                    13.599937
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "3°",
+            "name": "Ristorante ilSanLorenzo",
+            "ref": "https://www.50topitaly.it/it/referenza/ristorante-ilsanlorenzo-3/",
+            "address": [],
+            "coord": [],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "4°",
+            "name": "Romolo al Porto",
+            "ref": "https://www.50topitaly.it/it/referenza/romolo-al-porto-3/",
+            "address": [
+                "Via Porto Innocenziano, 19, 00042 Anzio, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.4452928,
+                    12.6302671
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "5°",
+            "name": "Terrazza Calabritto",
+            "ref": "https://www.50topitaly.it/it/referenza/terrazza-calabritto/",
+            "address": [
+                "Piazza Vittoria, 1, 80121 Napoli NA"
+            ],
+            "coord": [
+                [
+                    40.8332077,
+                    14.241424
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "6°",
+            "name": "L’Osteria dell’Orologio",
+            "ref": "https://www.50topitaly.it/it/referenza/losteria-dellorologio-2/",
+            "address": [
+                "Via della Torre Clementina, 114, 00054 Fiumicino RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.7715474,
+                    12.2304889
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "7°",
+            "name": "Corteinfiore",
+            "ref": "https://www.50topitaly.it/it/referenza/corteinfiore-3/",
+            "address": [
+                "Via Ognissanti, 18, 76125 Trani, BT, Italia"
+            ],
+            "coord": [
+                [
+                    41.2798872,
+                    16.4186486
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "8°",
+            "name": "Ristorante Da Tuccino",
+            "ref": "https://www.50topitaly.it/it/referenza/ristorante-da-tuccino-3/",
+            "address": [
+                "Contrada Santa Caterina, 69/f, 70044 Polignano a Mare, BA, Italia"
+            ],
+            "coord": [
+                [
+                    41.0032472,
+                    17.2024143
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "9°",
+            "name": "Pescheria",
+            "ref": "https://www.50topitaly.it/it/referenza/pescheria-3/",
+            "address": [
+                "Corso Giuseppe Garibaldi, 227, Salerno, SA, Italia"
+            ],
+            "coord": [
+                [
+                    40.6766499,
+                    14.7635167
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "10°",
+            "name": "Ristorante Da Nino",
+            "ref": "https://www.50topitaly.it/it/referenza/ristorante-da-nino/",
+            "address": [
+                "Via Luigi Rizzo, 29, 98037 Letojanni, ME, Italia"
+            ],
+            "coord": [
+                [
+                    37.8816644,
+                    15.3091337
+                ]
+            ],
+            "website": null
+        }
+    ]
+}
