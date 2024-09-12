@@ -17,7 +17,7 @@ import closeicon from "./emoji/closeicon.png"
 import defaultIcon from "../../public/ranking-icon/Empty.png"; // Percorso all'icona di default
 
 
-const FoodSearch = ({sfsv, selectedItems, setSelectedItems, setMarkers}) => {
+const FoodSearch = ({sfsv, selectedItems, setSelectedItems, markers, setMarkers}) => {
 
   const [rankingItems, setRankingItems] = useState([]);
 
@@ -137,6 +137,17 @@ const FoodSearch = ({sfsv, selectedItems, setSelectedItems, setMarkers}) => {
     }
   }, [SearchbuttonClicked, sfsv, setMarkers]); // Esegui l'effetto quando buttonClicked cambia
   
+
+  useEffect(() => {
+    // Funzione per rimuovere i marker associati agli `selectedItems` rimossi
+    const removeMarkers = () => {
+      console.log("markers");
+      
+    };
+  
+    removeMarkers(); // Richiama la funzione per rimuovere i marker
+  }, [selectedItems]); // Esegui l'effetto quando `selectedItems` cambia
+
 
 
   const [searchText, setSearchText] = useState(""); // Stato per il testo della ricerca

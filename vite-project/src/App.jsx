@@ -62,7 +62,7 @@ export default function App() {
           <>         
           <Map markers={markers} />
           <SearchBarWithAutocomplete sfsv = {setFoodSearchVisible} isFSV = {isFoodSearchVisible}  selectedItems={selectedItems} setSelectedItems={setSelectedItems}/>
-          {isFoodSearchVisible && <FoodSearch sfsv = {setFoodSearchVisible} selectedItems={selectedItems} setSelectedItems={setSelectedItems} setMarkers={setMarkers}/>}
+          {isFoodSearchVisible && <FoodSearch sfsv = {setFoodSearchVisible} selectedItems={selectedItems} setSelectedItems={setSelectedItems} markers={markers} setMarkers={setMarkers}/>}
 
           </>
         }/>

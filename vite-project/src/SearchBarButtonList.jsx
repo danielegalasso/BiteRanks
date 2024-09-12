@@ -22,6 +22,8 @@ const ButtonList = ({ sfsv, isFSV, selectedItems, setSelectedItems }) => {
     setSelectedItems((prevItems) =>
       prevItems.filter((item) => item !== itemToRemove)
     );
+
+   
   };
 
   const buttonsData = [
