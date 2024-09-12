@@ -17,8 +17,9 @@ const SchedaLocale = ({
     const params = new URLSearchParams(currentUrl.search);
     params.set('lat', coords[0]); // Aggiungi latitudine
     params.set('lng', coords[1]); // Aggiungi longitudine
-    params.set('locale', nome); // Aggiungi il nome del locale o un ID univoco
-
+    console.log("nome: ", nome, "classifiche: ", classifiche, "linkGoogleMaps: ", linkGoogleMaps, "linkIndicazioniMaps: ", linkIndicazioniMaps, "linkSitoWeb: ", linkSitoWeb, "coords: ", coords);
+    console.log("nome classifica:" ,classifiche[0][0]);
+    params.set('classifica', classifiche[0][0]); // Aggiungi classifica
     const shareableUrl = `${currentUrl.origin}${currentUrl.pathname}?${params.toString()}`;
     
     navigator.clipboard.writeText(shareableUrl)

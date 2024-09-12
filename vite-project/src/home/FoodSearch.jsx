@@ -153,6 +153,21 @@ const FoodSearch = ({sfsv, selectedItems, setSelectedItems, markers, setMarkers}
   const [searchText, setSearchText] = useState(""); // Stato per il testo della ricerca
   const [activeTab, setActiveTab] = useState("food"); // Stato per gestire quale pulsante è attivo
   
+  // Ottieni il parametro foodName dall'URL !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  useEffect(() => {
+    const searchParams = new URLSearchParams(window.location.search);
+    const foodName = searchParams.get('classifica');
+    console.log("foodName: ", foodName);
+    // Se esiste un foodName nell'URL, seleziona automaticamente quel cibo
+    if (foodName) {
+      
+      const foundFood = foodItems.find(food => food.name.toLowerCase() === foodName.toLowerCase());
+      console.log("foundFood: ", foundFood);
+      if (foundFood) {
+        handleClickItem(foundFood); // Simula il click
+      }
+    }
+  }, []); // Esegui solo una volta all'inizio
 
   const navigate = useNavigate(); // Navigation hook
 
