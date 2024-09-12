@@ -54,7 +54,11 @@ const createCustomIcon = (category, rank) => {
   // Nuovo SVG fornito con la possibilità di modificare testo e colore dinamicamente
   const svgString = renderToStaticMarkup(
     <svg width="40" height="49" viewBox="0 0 40 49" xmlns="http://www.w3.org/2000/svg">
-      <path d="M34.03 5.84A19.87 19.87 0 0 0 19.934 0 19.87 19.87 0 0 0 5.838 5.84c-7.784 7.784-7.784 20.405 0 28.19l14.096 14.095L34.03 34.031c7.784-7.786 7.784-20.407 0-28.191M31.904 31" fill={color}/>
+      <path d="M34.03 5.84A19.87 19.87 0 0 0 19.934 0 19.87 19.87 0 0 0 5.838 5.84c-7.784 7.784-7.784 20.405 0 28.19l14.096 14.095L34.03 34.031c7.784-7.786 7.784-20.407 0-28.191M31.904 31" 
+      fill={color}
+      stroke={borderColor} // Colore del bordo
+      strokeWidth="2" // Spessore del bordo (puoi modificarlo come preferisci)
+      />
         {/* Aggiungi qui il testo del rank */}
         {rank && (
           <text
