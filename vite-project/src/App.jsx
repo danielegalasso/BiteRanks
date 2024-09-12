@@ -61,33 +61,12 @@ export default function App() {
   const [markers, setMarkers] = useState([]);
 
 
-  const [isFoodSearchVisible, setFoodSearchVisible] = useState(false);
+  const [isFoodSearchVisible, setFoodSearchVisible] = useState(true);
 
 
 
 
-  // Fetch data from the local JSON file
-  useEffect(() => {
-    const fetchData = async () => {
-      try {
-        const response = await fetch("./ranking/50topitaly.json", {
-          headers: {
-            "Content-Type": "application/json",
-            Accept: "application/json",
-          },
-        });
-        const data = await response.json();
-        console.log("Data fetched: ", data);
-        // Transform data to match the markers structure
-        //const transformedMarkers = transformDataToMarkers(data);
-        setMarkers(data);
-      } catch (error) {
-        console.error("Error fetching data: ", error);
-      }
-    };
-
-    fetchData();
-  }, []);
+  
 
   const emptyMarkers = []; 
  /*
@@ -121,29 +100,16 @@ export default function App() {
     <Router>
       <Routes>
         <Route path="/" element={
-          <>
-        {/* Landing Page */}
-        <div className="app-container">
-          <div className="map-container">
-            <Map markers={emptyMarkers} />
-          </div>
-          <div className="food-search-container">
-            <FoodSearch />
-          </div>
-        </div>
+          <>         
+          <Map markers={markers} />
+          <SearchBarWithAutocomplete sfsv = {setFoodSearchVisible} isFSV = {isFoodSearchVisible}  selectedItems={selectedItems} setSelectedItems={setSelectedItems}/>
+          {isFoodSearchVisible && <FoodSearch sfsv = {setFoodSearchVisible} selectedItems={selectedItems} setSelectedItems={setSelectedItems} setMarkers={setMarkers}/>}
+
           </>
         }/>
 
 
-        <Route path="/map" element={
-          <>         
-          <Map markers={markers} />
-          <SearchBarWithAutocomplete sfsv = {setFoodSearchVisible} isFSV = {isFoodSearchVisible}  selectedItems={selectedItems} setSelectedItems={setSelectedItems}/>
-          {isFoodSearchVisible && <FoodSearch sfsv = {setFoodSearchVisible} selectedItems={selectedItems} setSelectedItems={setSelectedItems}/>}
-
-          </>
-        }/> 
-
+      
       
 
       </Routes>

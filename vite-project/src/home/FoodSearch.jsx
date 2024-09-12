@@ -19,7 +19,9 @@ import gamberoRossoicon from "./emoji/Gambero-Rosso.jpeg";
 import twcinquantabesticon from "./emoji/tw50br.jpeg";
 import closeicon from "./emoji/closeicon.png"
 
-const FoodSearch = ({sfsv, selectedItems, setSelectedItems}) => {
+const FoodSearch = ({sfsv, selectedItems, setSelectedItems, setMarkers}) => {
+
+
 
   const [SearchbuttonClicked, setSearchbuttonClicked] = useState(false);
 
@@ -31,17 +33,77 @@ const FoodSearch = ({sfsv, selectedItems, setSelectedItems}) => {
     setSearchbuttonClicked(true);
   };
   
+  
+  
   useEffect(() => {
+    const fetchData = async (item, file) => {
+      try {
+        const filePath = `${item.path}${file}`;
+        const response = await fetch(filePath, {
+          headers: {
+            "Content-Type": "application/json",
+            Accept: "application/json",
+          },
+        });
+  
+        if (!response.ok) {
+          console.error(`Errore nel recupero del file: ${filePath}`);
+          return null; // Restituisci null in caso di errore per gestirlo successivamente
+        }
+  
+        const data = await response.json();
+        return data;
+      } catch (error) {
+        console.error("Errore durante il recupero dei dati: ", error);
+        return null; // Restituisci null in caso di errore
+      }
+    };
+  
     if (SearchbuttonClicked) {
-      // Esegui l'aggiornamento dello stato solo quando buttonClicked è true
-      sfsv(false);
+      sfsv(false); // Esegui l'aggiornamento dello stato solo quando buttonClicked è true
+  
+      const fetchAllData = async () => {
+        const allData = []; // Array per raccogliere tutti i dati
+  
+        // Itera su ciascun elemento in selectedItems
+        for (const item of selectedItems) {
+          console.log(item.path);
+          
 
-      // Pulizia (opzionale): Rimuovi lo stato se il componente viene smontato
-      return () => {
-        sfsv(false);
+          const filePath = `${item.path}index.json`;
+          
+          const response = await fetch(filePath, {
+            headers: {
+              "Content-Type": "application/json",
+              Accept: "application/json",
+            },
+          });
+          if (!response.ok) {
+            console.error("Errore nel recupero dell'index.json");
+            return;
+          }
+          const files = await response.json(); // Ottieni la lista dei file
+
+          
+
+          for (const file of files) {
+            const data = await fetchData(item, file); // Usa await per attendere il risultato di fetchData
+  
+            if (data) {
+              // Aggiungi i dati all'array solo se il recupero è stato un successo
+              allData.push(data);
+            }
+          }
+        }
+  
+        console.log(allData);
+        setMarkers(allData); // Imposta i marker con tutti i dati recuperati
       };
+  
+      fetchAllData(); // Richiama la funzione asincrona per ottenere tutti i dati
     }
-  }, [SearchbuttonClicked, sfsv]); // Esegui l'effetto quando buttonClicked cambia
+  }, [SearchbuttonClicked, sfsv, setMarkers]); // Esegui l'effetto quando buttonClicked cambia
+  
 
 
   const [searchText, setSearchText] = useState(""); // Stato per il testo della ricerca
@@ -62,11 +124,12 @@ const FoodSearch = ({sfsv, selectedItems, setSelectedItems}) => {
 
   // Lista di ranking-items
   const rankingItems = [
-    { icon: cinquantaTopPizzaicon, name: "50 Top Pizza" },
-    { icon: twcinquantabesticon, name: "TW50BR" },
-    { icon: gamberoRossoicon, name: "Gambero Rosso" },
-    { icon: michelinStaricon, name: "Michelin Star" },
+    { icon: gamberoRossoicon, name: "Gambero Rosso", path:"./ranking/gamberoRosso/"},
+    { icon: michelinStaricon, name: "Le Soste", path: "./ranking/leSoste/"}
+   
   ];
+
+
 
   const handleClickItem = (item) => {
     setSelectedItems((prevSelectedItems) => {
@@ -105,13 +168,6 @@ const FoodSearch = ({sfsv, selectedItems, setSelectedItems}) => {
 
   };
 
-  const handleSearchClick = () => {
-    if (selectedItems.length > 0) {
-      navigate('/map', { state: { selectedItems } }); // Naviga alla nuova pagina passando i dati
-    } else {
-      alert("No items selected!");
-    }
-  };
 
   const isSelectedCheck = (foodName) => {
     return selectedItems.some(item => item.name === foodName);

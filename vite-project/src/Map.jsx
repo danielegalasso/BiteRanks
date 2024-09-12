@@ -92,30 +92,31 @@ export const Map = memo(({ markers }) => {
 
       {renderMarkers && (
         <MarkerClusterGroup chunkedLoading iconCreateFunction={createClusterCustomIcon}>
-          {Object.keys(markers).map((category, categoryIndex) => {
-
-            //locale = pizzeria/gelateria/ristorante presente nelle varie classifiche.
-            return markers[category].map((locale, localeIndex) =>
+        {markers.map((subclassifica, subclassificaIndex) => (
+          Object.keys(subclassifica).map((category, categoryIndex) => (
+            subclassifica[category].map((locale, localeIndex) =>
               locale.coord.map((coords, coordsIndex) => (
                 <Marker
-                  key={`${categoryIndex}-${localeIndex}-${coordsIndex}`}
+                  key={`${subclassificaIndex}-${categoryIndex}-${localeIndex}-${coordsIndex}`}
                   position={coords}
-                  icon={createCustomIcon(category,locale.position)}
+                  icon={createCustomIcon(category, locale.position)}
                 >
                   <Popup>
                     <SchedaLocale 
-                      nome={nomeLocale}
-                      classifiche={classifiche}
-                      linkGoogleMaps={linkGoogleMaps}
-                      linkIndicazioniMaps={linkIndicazioniMaps}
-                      linkSitoWeb={linkSitoWeb}
+                      nome={nomeLocale}  // Assumendo che "nome" sia una proprietà di "locale"
+                      classifiche={classifiche} // Assumendo che "classifiche" sia una proprietà di "locale"
+                      linkGoogleMaps={linkGoogleMaps} // Assumendo che "linkGoogleMaps" sia una proprietà di "locale"
+                      linkIndicazioniMaps={linkIndicazioniMaps} // Assumendo che "linkIndicazioniMaps" sia una proprietà di "locale"
+                      linkSitoWeb={linkSitoWeb} // Assumendo che "linkSitoWeb" sia una proprietà di "locale"
                     />
                   </Popup>
                 </Marker>
               ))
-            );
-          })}
-        </MarkerClusterGroup>
+            )
+          ))
+        ))}
+      </MarkerClusterGroup>
+      
       )}
     </MapContainer>
   );
