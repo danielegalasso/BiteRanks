@@ -1,0 +1,940 @@
+{
+    "50 Top Usa 2024": [
+        {
+            "category": "🍕",
+            "position": "1°",
+            "name": "Una Pizza Napoletana",
+            "ref": "https://www.50toppizza.it/referenza/una-pizza-napoletana-4/",
+            "address": [
+                "Una Pizza Napoletana, Orchard Street, New York, USA"
+            ],
+            "coord": [
+                [
+                    40.7217573,
+                    -73.9886214
+                ]
+            ],
+            "website": "https://www.unapizza.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "2°",
+            "name": "Tony’s Pizza Napoletana",
+            "ref": "https://www.50toppizza.it/referenza/tonys-pizza-napoletana-4/",
+            "address": [
+                "Tony's Pizza Napoletana, Stockton Street, San Francisco, California, USA"
+            ],
+            "coord": [
+                [
+                    37.8003359,
+                    -122.4090227
+                ]
+            ],
+            "website": "https://tonyspizzanapoletana.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "3°",
+            "name": "Pizzeria Beddia",
+            "ref": "https://www.50toppizza.it/referenza/pizzeria-beddia-2/",
+            "address": [
+                "Pizzeria Beddia, North Lee Street, Philadelphia, Pennsylvania, USA"
+            ],
+            "coord": [
+                [
+                    39.9707474,
+                    -75.1352198
+                ]
+            ],
+            "website": "https://www.pizzeriabeddia.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "4°",
+            "name": "Ribalta",
+            "ref": "https://www.50toppizza.it/referenza/ribalta-2/",
+            "address": [
+                "Ribalta, East 12th Street, New York, USA"
+            ],
+            "coord": [
+                [
+                    40.7332782,
+                    -73.9915595
+                ]
+            ],
+            "website": "http://www.ribaltanyc.com"
+        },
+        {
+            "category": "🍕",
+            "position": "5°",
+            "name": "Ken’s Artisan Pizza",
+            "ref": "https://www.50toppizza.it/referenza/kens-artisan-pizza-4/",
+            "address": [
+                "Ken's Artisan Pizza, Southeast 28th Avenue, Portland, Oregon, USA"
+            ],
+            "coord": [
+                [
+                    45.5205907,
+                    -122.6371031
+                ]
+            ],
+            "website": "https://kensartisan.com/pizza/"
+        },
+        {
+            "category": "🍕",
+            "position": "6°",
+            "name": "Jay’s",
+            "ref": "https://www.50toppizza.it/referenza/jays/",
+            "address": [
+                "Jay's Artisan Pizzeria, Delaware Avenue, Kenmore, New York, Stati Uniti"
+            ],
+            "coord": [
+                [
+                    42.9624056,
+                    -78.8701444
+                ]
+            ],
+            "website": "https://www.jaysbuffalo.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "7°",
+            "name": "Don Antonio",
+            "ref": "https://www.50toppizza.it/referenza/don-antonio-2/",
+            "address": [
+                "Don Antonio, West 50th Street, New York, USA"
+            ],
+            "coord": [
+                [
+                    40.7626548,
+                    -73.9866647
+                ]
+            ],
+            "website": "https://www.donantoniopizza.com/%20"
+        },
+        {
+            "category": "🍕",
+            "position": "8°",
+            "name": "Pizzeria Sei",
+            "ref": "https://www.50toppizza.it/referenza/pizzeria-sei-2/",
+            "address": [
+                "Pizzeria Sei, West Pico Boulevard, Los Angeles, California, USA"
+            ],
+            "coord": [
+                [
+                    34.0549589,
+                    -118.383437
+                ]
+            ],
+            "website": "https://www.pizzeriasei.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "9°",
+            "name": "La Leggenda",
+            "ref": "https://www.50toppizza.it/referenza/la-leggenda/",
+            "address": [
+                "La Leggenda Pizzeria, Española Way, Miami Beach, Florida, USA"
+            ],
+            "coord": [
+                [
+                    25.7867817,
+                    -80.1313038
+                ]
+            ],
+            "website": "https://laleggendapizzeria.com"
+        },
+        {
+            "category": "🍕",
+            "position": "10°",
+            "name": "Robert’s",
+            "ref": "https://www.50toppizza.it/referenza/roberts/",
+            "address": [
+                "Robert's Pizza and Dough Company, North McClurg Court, Chicago, Illinois, USA"
+            ],
+            "coord": [
+                [
+                    41.8905699,
+                    -87.6164505
+                ]
+            ],
+            "website": "https://www.robertspizzacompany.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "11°",
+            "name": "‘O Munaciello",
+            "ref": "https://www.50toppizza.it/referenza/o-munaciello-2/",
+            "address": [
+                "'O Munaciello MiMo District Neapolitan Pizza, Biscayne Boulevard, Miami, Florida, USA",
+                "'O Munaciello Firenze, Via Maffia, 31r, 50125 Firenze, FI, Italia",
+                "'O Munaciello Coral Way, 2250 Coral Way, Miami, FL 33145, Stati Uniti"
+            ],
+            "coord": [
+                [
+                    25.8354453,
+                    -80.183956
+                ],
+                [
+                    43.767664,
+                    11.246709
+                ],
+                [
+                    25.7502965,
+                    -80.2311815
+                ]
+            ],
+            "website": "https://www.munaciello.com/mimo-district/"
+        },
+        {
+            "category": "🍕",
+            "position": "12°",
+            "name": "Partenope Ristorante",
+            "ref": "https://www.50toppizza.it/referenza/partenope-ristorante-4/",
+            "address": [
+                "Partenope Ristorante, Main Street, Dallas, Texas, USA",
+                "110 S Greenville Ave, Richardson, TX 75081, Stati Uniti"
+            ],
+            "coord": [
+                [
+                    32.7816673,
+                    -96.7955548
+                ],
+                [
+                    32.9478558,
+                    -96.7305348
+                ]
+            ],
+            "website": "https://www.partenopedallas.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "13°",
+            "name": "Razza Pizza Artigianale",
+            "ref": "https://www.50toppizza.it/referenza/razza-pizza-artigianale-4/",
+            "address": [
+                "Razza, Grove Street, Jersey City, New Jersey, USA"
+            ],
+            "coord": [
+                [
+                    40.7177776,
+                    -74.0442612
+                ]
+            ],
+            "website": "https://razzanj.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "14°",
+            "name": "Pasquale’s",
+            "ref": "https://www.50toppizza.it/referenza/pasquales/",
+            "address": [
+                "Pasquale's Pizzeria Napoletana, South County Commons Way, Wakefield, Rhode Island, Stati Uniti"
+            ],
+            "coord": [
+                [
+                    41.4561331,
+                    -71.4710879
+                ]
+            ],
+            "website": "https://www.pasqualespizzeriari.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "15°",
+            "name": "Song’ E Napule",
+            "ref": "https://www.50toppizza.it/referenza/song-e-napule-4/",
+            "address": [
+                "Song' E Napule, West Houston Street, New York, USA",
+                "Song E Napule - Rutherford, 106 Park Ave, Rutherford, NJ 07070, Stati Uniti",
+                "464 Amsterdam Ave New York, NY 10024",
+                "132 West Houston Street, New York, NY 10012, Stati Uniti"
+            ],
+            "coord": [
+                [
+                    40.7281815,
+                    -74.0018494
+                ],
+                [
+                    40.8270704,
+                    -74.105238
+                ],
+                [
+                    40.7854626,
+                    -73.9770248
+                ],
+                [
+                    40.7279786,
+                    -74.0013633
+                ]
+            ],
+            "website": "https://songenapule.nyc/"
+        },
+        {
+            "category": "🍕",
+            "position": "16°",
+            "name": "Kesté",
+            "ref": "https://www.50toppizza.it/referenza/keste-2/",
+            "address": [
+                "Kesté Pizza e Vino, Fulton Street, New York, USA"
+            ],
+            "coord": [
+                [
+                    40.7092773,
+                    -74.0049159
+                ]
+            ],
+            "website": "https://kestepizzeria.com/en/home/"
+        },
+        {
+            "category": "🍕",
+            "position": "17°",
+            "name": "Ops",
+            "ref": "https://www.50toppizza.it/referenza/ops-4/",
+            "address": [
+                "Ops, Himrod Street, Brooklyn, New York, USA"
+            ],
+            "coord": [
+                [
+                    40.7026149,
+                    -73.9171894
+                ]
+            ],
+            "website": "http://www.opsbk.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "18°",
+            "name": "Fabrica Pizza",
+            "ref": "https://www.50toppizza.it/referenza/fabrica-pizza-3/",
+            "address": [
+                "Fabrica Pizza, South Meridian Avenue, Tampa, Florida, USA",
+                "The Hermitage  101 7th St S. St Petersburg, FL 33701"
+            ],
+            "coord": [
+                [
+                    27.9457805,
+                    -82.4482318
+                ],
+                [
+                    27.7701246,
+                    -82.6434816
+                ]
+            ],
+            "website": "http://www.fabricapizza.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "19°",
+            "name": "Pizza Secret",
+            "ref": "https://www.50toppizza.it/referenza/pizza-secret-2/",
+            "address": [
+                "Pizza Secret Ristorante e Pizzeria Napoletana, 5th Avenue, Brooklyn, New York, USA"
+            ],
+            "coord": [
+                [
+                    40.6808089,
+                    -73.9777158
+                ]
+            ],
+            "website": "https://pizzasecretnyc.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "20°",
+            "name": "Flour House",
+            "ref": "https://www.50toppizza.it/referenza/flour-house-4/",
+            "address": [
+                "Flour House, Higuera Street, San Luis Obispo, California, USA"
+            ],
+            "coord": [
+                [
+                    35.27898,
+                    -120.664877
+                ]
+            ],
+            "website": "http://www.flourhouseslo.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "21°",
+            "name": "Mission Pizza Napoletana",
+            "ref": "https://www.50toppizza.it/referenza/mission-pizza-napoletana-4/",
+            "address": [
+                "Mission Pizza, Trade Street Northwest, Winston-Salem, Carolina del Nord, USA"
+            ],
+            "coord": [
+                [
+                    36.103088,
+                    -80.2462225
+                ]
+            ],
+            "website": "https://www.missionpizzanapoletana.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "22°",
+            "name": "Inferno Pizzeria Napoletana",
+            "ref": "https://www.50toppizza.it/referenza/inferno-pizzeria-napoletana-4/",
+            "address": [
+                "Inferno Pizzeria Napoletana, Darnestown Road, Darnestown, Maryland, USA"
+            ],
+            "coord": [
+                [
+                    39.1185438,
+                    -77.2532777
+                ]
+            ],
+            "website": "http://www.inferno-pizzeria.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "23°",
+            "name": "Spacca Napoli Pizzeria",
+            "ref": "https://www.50toppizza.it/referenza/spacca-napoli-pizzeria-4/",
+            "address": [
+                "Spacca Napoli Pizzeria, West Sunnyside Avenue, Chicago, Illinois, USA"
+            ],
+            "coord": [
+                [
+                    41.9631881,
+                    -87.6737274
+                ]
+            ],
+            "website": "https://www.spaccanapolipizzeria.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "24°",
+            "name": "Il Forno",
+            "ref": "https://www.50toppizza.it/referenza/il-forno-4/",
+            "address": [
+                "Il Forno, Nogalitos Street, San Antonio, Texas, USA"
+            ],
+            "coord": [
+                [
+                    29.4084488,
+                    -98.5020596
+                ]
+            ],
+            "website": "http://www.ilfornosa.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "25°",
+            "name": "Coals Artisan Pizza",
+            "ref": "https://www.50toppizza.it/referenza/coals-artisan-pizza-4/",
+            "address": [
+                "Coals Artisan Pizza, Frankfort Avenue, Louisville, Kentucky, USA",
+                "Coals Artisan Pizza, Terminal Drive, Louisville, Kentucky, USA"
+            ],
+            "coord": [
+                [
+                    38.2528946,
+                    -85.6593755
+                ],
+                [
+                    38.1830789,
+                    -85.7412244
+                ]
+            ],
+            "website": "https://www.coalsartisanpizza.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "26°",
+            "name": "Nardò",
+            "ref": "https://www.50toppizza.it/referenza/nardo/",
+            "address": [
+                "Nardò Italian Restaurant, Pacific Coast Highway, Huntington Beach, California, USA",
+                "8022 West 3rd Street, Los Angeles, California, Stati Uniti",
+                "9725 Culver Blvd, Culver City, CA 90232, Stati Uniti"
+            ],
+            "coord": [
+                [
+                    33.6551339,
+                    -117.9980584
+                ],
+                [
+                    34.0717776,
+                    -118.3645959
+                ],
+                [
+                    34.0220902,
+                    -118.3963858
+                ]
+            ],
+            "website": "https://www.nardoitalian.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "27°",
+            "name": "GRANA",
+            "ref": "https://www.50toppizza.it/referenza/grana/",
+            "address": [
+                "GRANA Pizza Napoletana, East Burnside Street, Portland, Oregon, USA"
+            ],
+            "coord": [
+                [
+                    45.522995,
+                    -122.6369925
+                ]
+            ],
+            "website": "https://www.granapdx.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "28°",
+            "name": "Pizza Rock",
+            "ref": "https://www.50toppizza.it/referenza/pizza-rock-2/",
+            "address": [
+                "Pizza Rock, North 3rd Street, Las Vegas, Nevada, USA",
+                "Green Valley Ranch Resort & Spa 2300 Paseo Verde Parkway Henderson, NV 89052",
+                "Allegiant Stadium 3333 Al Davis Way Las Vegas, NV 89118"
+            ],
+            "coord": [
+                [
+                    36.1716049,
+                    -115.1422778
+                ],
+                [
+                    36.0202484,
+                    -115.0899679
+                ],
+                [
+                    36.0908665,
+                    -115.1833222
+                ]
+            ],
+            "website": "https://pizzarocklasvegas.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "29°",
+            "name": "Bricco Coal Fired Pizza",
+            "ref": "https://www.50toppizza.it/referenza/bricco-coal-fired-pizza-3/",
+            "address": [
+                "Bricco Coal Fired Pizza, Haddon Avenue, Haddon Township, New Jersey, USA",
+                "2110 East Route 70, Cherry Hill, NJ 08003"
+            ],
+            "coord": [
+                [
+                    39.9104736,
+                    -75.049938
+                ],
+                [
+                    39.8940301,
+                    -74.8923943
+                ]
+            ],
+            "website": "https://www.briccocoalfiredpizza.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "30°",
+            "name": "Nostrana",
+            "ref": "https://www.50toppizza.it/referenza/nostrana-3/",
+            "address": [
+                "Nostrana, Southeast Morrison Street, Portland, Oregon, USA"
+            ],
+            "coord": [
+                [
+                    45.5176308,
+                    -122.6514171
+                ]
+            ],
+            "website": "https://nostrana.com"
+        },
+        {
+            "category": "🍕",
+            "position": "31°",
+            "name": "Valentina’s",
+            "ref": "https://www.50toppizza.it/referenza/valentinas/",
+            "address": [
+                "Valentina's Pizzeria & Wine Bar, Huntsville Brownsferry Road, Madison, Alabama, USA"
+            ],
+            "coord": [
+                [
+                    34.7301393,
+                    -86.8634065
+                ]
+            ],
+            "website": "https://valentinaspizzeria.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "32°",
+            "name": "Craft 64",
+            "ref": "https://www.50toppizza.it/referenza/craft-64-4/",
+            "address": [
+                "Craft 64 Scottsdale, East Main Street, Scottsdale, Arizona, USA",
+                "Craft 64 Chandler, 68 W Buffalo St, Chandler, AZ 85225, Stati Uniti"
+            ],
+            "coord": [
+                [
+                    33.4933181,
+                    -111.9316662
+                ],
+                [
+                    33.304858,
+                    -111.8423455
+                ]
+            ],
+            "website": "https://www.craft64.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "33°",
+            "name": "Spark Pizza",
+            "ref": "https://www.50toppizza.it/referenza/spark-pizza-3/",
+            "address": [
+                "Spark Pizza, 164th Avenue Northeast, Redmond, Washington, USA"
+            ],
+            "coord": [
+                [
+                    47.6757066,
+                    -122.1212714
+                ]
+            ],
+            "website": "https://www.sparkpizzaredmond.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "34°",
+            "name": "Salsa",
+            "ref": "https://www.50toppizza.it/referenza/salsa-2/",
+            "address": [
+                "Salsa - Pizza Napoletana & Street Food, Clifford Place, Brooklyn, New York, USA"
+            ],
+            "coord": [
+                [
+                    40.7264531,
+                    -73.9552285
+                ]
+            ],
+            "website": "https://www.salsapizzeria.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "35°",
+            "name": "Antico Pizza Napoletana",
+            "ref": "https://www.50toppizza.it/referenza/antico-pizza-napoletana-2/",
+            "address": [
+                "Antico Pizza Napoletana, Hemphill Avenue Northwest, Atlanta, Georgia, Stati Uniti",
+                "Antico Pizza Tucker, 4650 Hugh Howell Rd Building 500 Suite 530, Tucker, Georgia, Stati Uniti",
+                "Antico Pizza, 3185 Avalon Boulevard, Alpharetta, Georgia, Stati Uniti",
+                "Antico Pizza Battery Park, 2605 Circle 75 Pkwy, Atlanta, GA 30339, Stati Uniti"
+            ],
+            "coord": [
+                [
+                    33.7846494,
+                    -84.4056144
+                ],
+                [
+                    33.8494074,
+                    -84.1987105
+                ],
+                [
+                    34.0713614,
+                    -84.2767148
+                ],
+                [
+                    33.8891281,
+                    -84.4688391
+                ]
+            ],
+            "website": "https://littleitalia.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "36°",
+            "name": "Tribute Pizza",
+            "ref": "https://www.50toppizza.it/referenza/tribute-pizza-3/",
+            "address": [
+                "Tribute Pizza, North Park Way, San Diego, California, USA"
+            ],
+            "coord": [
+                [
+                    32.7472929,
+                    -117.1280532
+                ]
+            ],
+            "website": "https://www.tributepizza.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "37°",
+            "name": "Zeneli",
+            "ref": "https://www.50toppizza.it/referenza/zeneli-2/",
+            "address": [
+                "Zeneli Pizzeria e cucina Napoletana, Wooster Street, New Haven, Connecticut, USA"
+            ],
+            "coord": [
+                [
+                    41.3026407,
+                    -72.9163349
+                ]
+            ],
+            "website": "https://www.zenelipizzeria.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "38°",
+            "name": "Pizza Delicious",
+            "ref": "https://www.50toppizza.it/referenza/pizza-delicious-2/",
+            "address": [
+                "Pizza Delicious, Piety, New Orleans, Louisiana, USA"
+            ],
+            "coord": [
+                [
+                    29.9624463,
+                    -90.0428873
+                ]
+            ],
+            "website": "http://pizzadelicious.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "39°",
+            "name": "Pasquale Jones",
+            "ref": "https://www.50toppizza.it/referenza/pasquale-jones-4/",
+            "address": [
+                "Pasquale Jones, Mulberry Street, New York, USA"
+            ],
+            "coord": [
+                [
+                    40.7211057,
+                    -73.9968889
+                ]
+            ],
+            "website": "https://www.pasqualejones.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "40°",
+            "name": "Pomo",
+            "ref": "https://www.50toppizza.it/referenza/pomo-3/",
+            "address": [
+                "Pomo Pizzeria Napoletana, North Scottsdale Road, Scottsdale, Arizona, USA",
+                "2502 E Camelback Rd, Phoenix, AZ 85016, Stati Uniti",
+                "Pomo Pizzeria Phoenix, 705 N 1st St UNIT 120, Phoenix, AZ 85004, Stati Uniti"
+            ],
+            "coord": [
+                [
+                    33.5668545,
+                    -111.9253212
+                ],
+                [
+                    33.5104727,
+                    -112.0270041
+                ],
+                [
+                    33.4560223,
+                    -112.0723098
+                ]
+            ],
+            "website": "https://pomopizzeria.com"
+        },
+        {
+            "category": "🍕",
+            "position": "41°",
+            "name": "Posto",
+            "ref": "https://www.50toppizza.it/referenza/posto-2/",
+            "address": [
+                "Posto, Elm Street, Somerville, Massachusetts, USA"
+            ],
+            "coord": [
+                [
+                    42.3931309,
+                    -71.1202816
+                ]
+            ],
+            "website": "https://www.postoboston.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "42°",
+            "name": "Truly Pizza",
+            "ref": "https://www.50toppizza.it/referenza/truly-pizza/",
+            "address": [
+                "Truly Pizza, Del Prado Avenue, Dana Point, California, USA"
+            ],
+            "coord": [
+                [
+                    33.4652738,
+                    -117.7039688
+                ]
+            ],
+            "website": "https://www.trulypizza.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "43°",
+            "name": "Pizza Baby",
+            "ref": "https://www.50toppizza.it/referenza/pizza-baby/",
+            "address": [
+                "Pizza Baby \"West\", Thrift Road, Charlotte, Carolina del Nord, USA",
+                "Pizza Baby \"East\", Elizabeth Avenue, Charlotte, Carolina del Nord, USA"
+            ],
+            "coord": [
+                [
+                    35.2330447,
+                    -80.8731999
+                ],
+                [
+                    35.2138358,
+                    -80.826382
+                ]
+            ],
+            "website": "https://eatpizzababy.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "44°",
+            "name": "Pizzeria Florian",
+            "ref": "https://www.50toppizza.it/referenza/pizzeria-florian/",
+            "address": [
+                "Pizzeria Florian, East Main Street, East Aurora, New York, USA"
+            ],
+            "coord": [
+                [
+                    42.7680791,
+                    -78.6104579
+                ]
+            ],
+            "website": "https://www.pizzeria-florian.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "45°",
+            "name": "DØUBLE ZERØ PIE & PUB",
+            "ref": "https://www.50toppizza.it/referenza/double-zero-pie-pub/",
+            "address": [
+                "Double Zero Pie & Pub, Spring Mountain Road, Las Vegas, Nevada, USA"
+            ],
+            "coord": [
+                [
+                    36.1261837,
+                    -115.1912022
+                ]
+            ],
+            "website": "https://www.doublezeropie.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "46°",
+            "name": "Penelope Pizza",
+            "ref": "https://www.50toppizza.it/referenza/penelope-pizza/",
+            "address": [
+                "Penelope Pizza, East Broadway Boulevard, Tucson, Arizona, USA",
+                "800 N Kolb Rd, Tucson, AZ 85710, Stati Uniti"
+            ],
+            "coord": [
+                [
+                    32.221058,
+                    -110.966397
+                ],
+                [
+                    32.2314295,
+                    -110.8405795
+                ]
+            ],
+            "website": "https://www.penelopepizza.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "47°",
+            "name": "Coda di Volpe",
+            "ref": "https://www.50toppizza.it/referenza/coda-di-volpe-2/",
+            "address": [
+                "Coda di Volpe, North Southport Avenue, Chicago, Illinois, USA"
+            ],
+            "coord": [
+                [
+                    41.9426398,
+                    -87.663589
+                ]
+            ],
+            "website": "https://www.cdvolpe.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "48°",
+            "name": "Si Cara",
+            "ref": "https://www.50toppizza.it/referenza/si-cara/",
+            "address": [
+                "Si Cara, Massachusetts Avenue, Cambridge, Massachusetts, USA"
+            ],
+            "coord": [
+                [
+                    42.3638649,
+                    -71.1004273
+                ]
+            ],
+            "website": "https://sicarapizza.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "49°",
+            "name": "Marco’s Coal Fired",
+            "ref": "https://www.50toppizza.it/referenza/marcos-coal-fired/",
+            "address": [
+                "Marco's Coal Fired | Ballpark, Larimer Street, Denver, Colorado, USA",
+                "Marco’s Coal-Fired | Englewood, 10111 Inverness Main Street, Centennial, CO 80112, Stati Uniti"
+            ],
+            "coord": [
+                [
+                    39.7545109,
+                    -104.9909853
+                ],
+                [
+                    39.5796257,
+                    -104.871282
+                ]
+            ],
+            "website": "https://www.marcoscfp.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "50°",
+            "name": "San Matteo",
+            "ref": "https://www.50toppizza.it/referenza/san-matteo/",
+            "address": [
+                "San Matteo Pizza, 2nd Avenue, New York, USA"
+            ],
+            "coord": [
+                [
+                    40.7798357,
+                    -73.9500988
+                ]
+            ],
+            "website": "https://www.sanmatteonyc.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "50°",
+            "name": "Angeli’s Pizzeria",
+            "ref": "https://www.50toppizza.it/referenza/angelis-pizzeria/",
+            "address": [
+                "Angeli’s Pizzeria, South High Street, Baltimore, Maryland, USA",
+                "Angeli’s Pizzeria, South Charles Street, Baltimore, Maryland, USA",
+                "Angeli’s Pizzeria, York Road, Baltimore, Maryland, USA"
+            ],
+            "coord": [
+                [
+                    39.285379,
+                    -76.6010509
+                ],
+                [
+                    39.2773897,
+                    -76.6142163
+                ],
+                [
+                    39.3598553,
+                    -76.6101768
+                ]
+            ],
+            "website": "https://www.angelispizzeria.com/"
+        }
+    ]
+}

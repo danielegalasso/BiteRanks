@@ -40,6 +40,8 @@ const SchedaLocale = ({
     popups.forEach(popup => popup.click());
   };
 
+
+
   return (
     <div className="outher-cont">
       <div className="containerScheda">
@@ -60,16 +62,19 @@ const SchedaLocale = ({
           <div className="divider"></div>
           {classifiche.map((classifica, index) => (
             <a key={index} href={classifica[2]} className="localeLink">
-              {classifica[1]}° {classifica[0]}
+              {classifica[1] ? `${classifica[1]} ` : ''} {classifica[0]}
             </a>
           ))}
           <div className="buttonContainer">
             <button className="mapButton" onClick={(e) => {e.preventDefault(); window.open(linkGoogleMaps, '_blank');}}>Google Maps</button>
             <button className="directionsButton" onClick={(e) => {e.preventDefault(); window.open(linkIndicazioniMaps, '_blank');}}>🧭</button>
           </div>
-          <div className="websiteButtonContainer">
-            <button className="websiteButton" onClick={(e) => {e.preventDefault(); window.open(linkSitoWeb, '_blank');}}>Website</button>
-          </div>
+          {linkSitoWeb && (
+            <div className="websiteButtonContainer">
+              <button className="websiteButton" onClick={(e) => {e.preventDefault(); window.open(linkSitoWeb, '_blank');}}>Website</button>
+            </div>
+          )}
+
         </div>
       </div>
 

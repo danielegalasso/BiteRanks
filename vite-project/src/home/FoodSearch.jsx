@@ -13,13 +13,46 @@ import sushiicon from "./emoji/sushi.png";
 import hamburgericon from "./emoji/hamburger.png";
 import steakhouseicon from "./emoji/steakhouse.png";
 import sweetsicon from "./emoji/sweets.png";
-import cinquantaTopPizzaicon from "./emoji/50-Top-Pizza.jpg";
-import michelinStaricon from "./emoji/Michelin-Star.jpg";
-import gamberoRossoicon from "./emoji/Gambero-Rosso.jpeg";
-import twcinquantabesticon from "./emoji/tw50br.jpeg";
 import closeicon from "./emoji/closeicon.png"
+import defaultIcon from "../../public/ranking-icon/Empty.png"; // Percorso all'icona di default
+
 
 const FoodSearch = ({sfsv, selectedItems, setSelectedItems, setMarkers}) => {
+
+  const [rankingItems, setRankingItems] = useState([]);
+
+  useEffect(() => {
+    // Funzione per caricare il file index.json e creare la mappa delle icone
+    const fetchRankings = async () => {
+      try {
+        // Fetch del file index.json
+        const response = await fetch('/ranking/index.json');
+        const data = await response.json();
+
+        // Creare una lista di oggetti rankingItems
+        const items = data.map((ranking) => {
+
+          const unshowedRankingName =  ranking.replace('.json', '');
+          const rankingName = ranking.replace('.json', '').replace(/_/g, ' ');
+          const iconPath = `/ranking-icon/${unshowedRankingName}.png`;
+          const rankingPath = `/ranking/${unshowedRankingName}/`;
+
+          return { 
+            icon: iconPath, 
+            name: rankingName, 
+            path: rankingPath 
+          };
+        });
+
+        // Imposta i dati nel state
+        setRankingItems(items);
+      } catch (error) {
+        console.error('Errore durante il caricamento delle classifiche:', error);
+      }
+    };
+
+    fetchRankings();
+  }, []);
 
 
 
@@ -122,12 +155,6 @@ const FoodSearch = ({sfsv, selectedItems, setSelectedItems, setMarkers}) => {
     { icon: sweetsicon, name: "Sweets" },
   ];
 
-  // Lista di ranking-items
-  const rankingItems = [
-    { icon: gamberoRossoicon, name: "Gambero Rosso", path:"./ranking/gamberoRosso/"},
-    { icon: michelinStaricon, name: "Le Soste", path: "./ranking/leSoste/"}
-   
-  ];
 
 
 
@@ -226,7 +253,7 @@ const FoodSearch = ({sfsv, selectedItems, setSelectedItems, setMarkers}) => {
               <FoodRankItem
                 isAnEmoji={false}
                 key={index}
-                icon={ranking.icon}
+                icon={ranking.icon || defaultIcon}
                 name={ranking.name}
                 activeTab={activeTab}
                 isSelected={isSelectedCheck(ranking.name)} // Passa se l'item è selezionato

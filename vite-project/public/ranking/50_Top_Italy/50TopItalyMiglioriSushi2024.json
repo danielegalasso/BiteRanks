@@ -1,0 +1,164 @@
+{
+    "50 Top Italy Migliori Sushi 2024": [
+        {
+            "category": "🍽️",
+            "position": "1°",
+            "name": "Moi",
+            "ref": "https://www.50topitaly.it/it/referenza/moi-3/",
+            "address": [
+                "Viale Piave, 10/14, 59100 Prato, PO, Italia"
+            ],
+            "coord": [
+                [
+                    43.878322,
+                    11.0985406
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "2°",
+            "name": "IYO Omakase",
+            "ref": "https://www.50topitaly.it/it/referenza/iyo-omakase-3/",
+            "address": [
+                "Piazza Alvar Aalto, Viale della Liberazione, 15, 20124 Milano MI"
+            ],
+            "coord": [
+                [
+                    45.4821607,
+                    9.1936501
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "3°",
+            "name": "Kohaku",
+            "ref": "https://www.50topitaly.it/it/referenza/kohaku/",
+            "address": [
+                "Via Marche, 66, 00187 Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.9088227,
+                    12.4900973
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "4°",
+            "name": "Wicky’s Innovative Japanese Cuisine",
+            "ref": "https://www.50topitaly.it/it/referenza/wickys-innovative-japanese-cuisine-3/",
+            "address": [
+                "Corso Italia, 6, 20123 Milano, Milano MI, Italia"
+            ],
+            "coord": [
+                [
+                    45.4599349,
+                    9.1879253
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "5°",
+            "name": "Umi",
+            "ref": "https://www.50topitaly.it/it/referenza/umi-2/",
+            "address": [
+                "Via Roma, 17, 84121 Salerno, Salerno, Italia"
+            ],
+            "coord": [
+                [
+                    40.6770189,
+                    14.7629714
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "6°",
+            "name": "Tabi Fusion Experience",
+            "ref": "https://www.50topitaly.it/it/referenza/tabi-fusion-experience-3/",
+            "address": [
+                "Via Raffaele de Cesare, 35, 80132 Napoli, Napoli NA, Italia"
+            ],
+            "coord": [
+                [
+                    40.8322988,
+                    14.2499478
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "7°",
+            "name": "Ichikawa",
+            "ref": "https://www.50topitaly.it/it/referenza/ichikawa-2/",
+            "address": [
+                "Via Lazzaro Papi, 18, 20135 Milano, Milano MI, Italia"
+            ],
+            "coord": [
+                [
+                    45.4510915,
+                    9.207839
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "8°",
+            "name": "Kensho",
+            "ref": "https://www.50topitaly.it/it/referenza/kensho-2/",
+            "address": [
+                "Via dei Mercanti, 16, 10122 Torino TO"
+            ],
+            "coord": [
+                [
+                    45.0710506,
+                    7.6804009
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "9°",
+            "name": "JAPIT",
+            "ref": "https://www.50topitaly.it/it/referenza/japit-3/",
+            "address": [
+                "Via S. Pasquale, 12, 82100 Benevento, BN, Italia"
+            ],
+            "coord": [
+                [
+                    41.1329336,
+                    14.779953
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍽️",
+            "position": "10°",
+            "name": "Kiko Sushi Bar",
+            "ref": "https://www.50topitaly.it/it/referenza/kiko-sushi-bar-3/",
+            "address": [
+                "Piazzale del Verano, 90, 00185 Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.8999926,
+                    12.5176016
+                ]
+            ],
+            "website": null
+        }
+    ]
+}

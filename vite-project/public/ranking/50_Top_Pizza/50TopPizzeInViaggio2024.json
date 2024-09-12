@@ -1,0 +1,1080 @@
+{
+    "50 Top Pizze In Viaggio 2024": [
+        {
+            "category": "🍕",
+            "position": "1°",
+            "name": "Pizzarium",
+            "ref": "https://www.50toppizza.it/referenza/pizzarium-3/",
+            "address": [
+                "Bonci Pizzarium, Via della Meloria, Roma, RM, Italia",
+                "Panificio Bonci, Via Trionfale, 36, 00195 Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.9066758,
+                    12.4466709
+                ],
+                [
+                    41.9115619,
+                    12.4536607
+                ]
+            ],
+            "website": "https://www.bonci.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "2°",
+            "name": "Lievito – Francesco Arnesano",
+            "ref": "https://www.50toppizza.it/referenza/lievito-francesco-arnesano/",
+            "address": [
+                "Lievito Pizza Pane, Viale Europa, 339, Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.8298237,
+                    12.4737904
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "3°",
+            "name": "Campana Pizza In Teglia",
+            "ref": "https://www.50toppizza.it/referenza/campana-pizza-in-teglia-2/",
+            "address": [
+                "Campana Pizza in Teglia, Via Nazionale, Corigliano Scalo, CS, Italia"
+            ],
+            "coord": [
+                [
+                    39.6279075,
+                    16.5139638
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "4°",
+            "name": "Antico Forno Roscioli",
+            "ref": "https://www.50toppizza.it/referenza/antico-forno-roscioli-3/",
+            "address": [
+                "Antico Forno Roscioli, Via dei Chiavari, Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.8945667,
+                    12.4742778
+                ]
+            ],
+            "website": "https://www.anticofornoroscioli.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "5°",
+            "name": "La Masardona",
+            "ref": "https://www.50toppizza.it/referenza/la-masardona-3/",
+            "address": [
+                "La Masardona, Via Giulio Cesare Capaccio, Napoli, NA, Campania, Italia"
+            ],
+            "coord": [
+                [
+                    40.8485423,
+                    14.2735339
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "6°",
+            "name": "‘O Fiore Mio Pizze di Strada",
+            "ref": "https://www.50toppizza.it/referenza/o-fiore-mio-pizze-di-strada-3/",
+            "address": [
+                "'O Fiore Mio Pizze di Strada, Piazza Malpighi, Bologna, BO, Emilia-Romagna, Italia",
+                "Via Montebello, 25, 20121 Milano, MI, Italia"
+            ],
+            "coord": [
+                [
+                    44.4941422,
+                    11.3366421
+                ],
+                [
+                    45.475111,
+                    9.1907871
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "7°",
+            "name": "Tiri Bakery & Caffè",
+            "ref": "https://www.50toppizza.it/referenza/tiri-bakery-caffe-2/",
+            "address": [
+                "Tiri Bakery & Caffè, Via del Gallitello, Potenza, PZ, Basilicata, Italia"
+            ],
+            "coord": [
+                [
+                    40.6397869,
+                    15.7820327
+                ]
+            ],
+            "website": "https://www.tiri1957.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "8°",
+            "name": "Tiella",
+            "ref": "https://www.50toppizza.it/referenza/tiella/",
+            "address": [
+                "TIELLA, Via Vito Giuseppe Galati, 52, Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.9107626,
+                    12.5690071
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "9°",
+            "name": "Davide Longoni",
+            "ref": "https://www.50toppizza.it/referenza/davide-longoni-2/",
+            "address": [
+                "Panificio Davide Longoni, Via Gerolamo Tiraboschi, Milano, MI, Lombardia, Italia",
+                "Via Fratelli Bronzetti, 9, Milano, MI, Italia",
+                "Mercato del suffragio, Corso Ventidue Marzo, Milano, MI, Italia",
+                "Via Tertulliano, 68, Milano, MI, Italia",
+                "Mercato Centrale Milano, Via Giovanni Battista Sammartini, Milano, MI, Italia",
+                "Viale San Michele del Carso, 10, Milano, MI, Italia"
+            ],
+            "coord": [
+                [
+                    45.4535025,
+                    9.2090934
+                ],
+                [
+                    45.4663761,
+                    9.2149219
+                ],
+                [
+                    45.4620768,
+                    9.2117293
+                ],
+                [
+                    45.4482354,
+                    9.2218547
+                ],
+                [
+                    45.4866698,
+                    9.2035192
+                ],
+                [
+                    45.4648286,
+                    9.1643283
+                ]
+            ],
+            "website": "https://www.davidelongoni.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "10°",
+            "name": "Tellia",
+            "ref": "https://www.50toppizza.it/referenza/tellia-3/",
+            "address": [
+                "TELLIA® Santa Rita, Corso Sebastopoli, Torino, TO, Italia",
+                "TELLIA® Lab, Via Maria Vittoria, 20, 10123 Torino, TO, Italia"
+            ],
+            "coord": [
+                [
+                    45.0479205,
+                    7.6365085
+                ],
+                [
+                    45.0668338,
+                    7.6871643
+                ]
+            ],
+            "website": "https://www.tellia.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "11°",
+            "name": "Sancho",
+            "ref": "https://www.50toppizza.it/referenza/sancho-3/",
+            "address": [
+                "Pizzeria Sancho Dal 1969, Via della Torre Clementina, 142, Fiumicino, RM, Italia",
+                "Pizzeria Sancho dal 1969 - ROMA, Via Giuseppe Gioachino Belli, 3a, 00193 Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.7713427,
+                    12.2291434
+                ],
+                [
+                    41.9076655,
+                    12.4719362
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "12°",
+            "name": "Porzio..ni di Pizza",
+            "ref": "https://www.50toppizza.it/referenza/porzio-ni-di-pizza/",
+            "address": [
+                "Porzio... ni di pizza, Via dell'Epomeo, Napoli, NA, Campania, Italia",
+                "Via Bernini, 43, Napoli, NA, Italia",
+                "Piazza Carlo III, 36/38, Napoli, NA, Italia",
+                "Corso Umberto I, 187, Napoli, NA, Italia",
+                "Via Antica Giardini, 32, Giugliano in Campania, NA, Italia",
+                "Piazza Municipio, 41/42, Aversa, CE, Italia",
+                "Via Passariello, 49, Pomigliano d'Arco, NA, Italia",
+                "Via Bartolo Longo, 343, Napoli, NA, Italia",
+                "Via Guglielmo Marconi, 30, Torre del Greco, NA, Italia",
+                "C.so Vittorio Emanuele 316 (Avellino)",
+                "Via Montenuovo Licola Patria 2/C (Arco Felice)",
+                "Corso Vittorio Emanuele, 90, Salerno, Italia",
+                "Centro Commerciale Quarto Nuovo, Quarto, NA, Italia",
+                "Centro Commerciale \"Vulcano Buono\", Via Boscofangone, Nola, NA, Italia",
+                "Viale Risorgimento, 48, 84043 Agropoli, SA, Italia"
+            ],
+            "coord": [
+                [
+                    40.8443571,
+                    14.2061238
+                ],
+                [
+                    40.8445297,
+                    14.2314148
+                ],
+                [
+                    40.8630242,
+                    14.2670836
+                ],
+                [
+                    40.8472476,
+                    14.2611432
+                ],
+                [
+                    40.9311656,
+                    14.2124058
+                ],
+                [
+                    40.9730592,
+                    14.2070317
+                ],
+                [
+                    40.9070918,
+                    14.3964576
+                ],
+                [
+                    40.8416682,
+                    14.3408705
+                ],
+                [
+                    40.7920879,
+                    14.370171
+                ],
+                [
+                    40.9137459,
+                    14.7879765
+                ],
+                [
+                    40.8622377,
+                    14.0657538
+                ],
+                [
+                    40.6763194,
+                    14.7682395
+                ],
+                [
+                    40.8769118,
+                    14.110065
+                ],
+                [
+                    40.9498307,
+                    14.4881588
+                ],
+                [
+                    40.3530873,
+                    14.997143
+                ]
+            ],
+            "website": "http://www.porzionidipizza.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "12°",
+            "name": "Granocielo",
+            "ref": "https://www.50toppizza.it/referenza/granocielo-3/",
+            "address": [
+                "Granocielo - Pizza al taglio, Via Camillo Corradini, Avezzano, AQ, Italia"
+            ],
+            "coord": [
+                [
+                    42.0343044,
+                    13.4227242
+                ]
+            ],
+            "website": "https://www.granocielo.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "13°",
+            "name": "Eataly Fiumicino",
+            "ref": "https://www.50toppizza.it/referenza/eataly-fiumicino/",
+            "address": [
+                "Eataly, Aeroporto di Roma - Fiumicino Leonardo da Vinci (FCO), Via dell'Aeroporto di Fiumicino, Fiumicino, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.796255,
+                    12.2518001
+                ]
+            ],
+            "website": "https://www.eataly.net/"
+        },
+        {
+            "category": "🍕",
+            "position": "14°",
+            "name": "Micro Forno Luca Pezzetta",
+            "ref": "https://www.50toppizza.it/referenza/micro-forno-luca-pezzetta/",
+            "address": [
+                "MICRO FORNO Luca Pezzetta, Via G. Battista Grassi, Fiumicino, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.7721066,
+                    12.2291548
+                ]
+            ],
+            "website": "https://shop.lucapezzetta.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "15°",
+            "name": "Oliva Pizzamore",
+            "ref": "https://www.50toppizza.it/referenza/oliva-pizzamore-3/",
+            "address": [
+                "Oliva Pizzamore, Via Don Francesco Maria Greco, Acri CS, Calabria, Italia"
+            ],
+            "coord": [
+                [
+                    39.4923887,
+                    16.3838748
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "16°",
+            "name": "Lievin",
+            "ref": "https://www.50toppizza.it/referenza/lievin/",
+            "address": [
+                "Lievin - Ian Spampatti, Via Andrea Fantoni, Castione della Presolana, BG, Lombardia, Italia"
+            ],
+            "coord": [
+                [
+                    45.914341,
+                    10.0596045
+                ]
+            ],
+            "website": "https://ianspampatti.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "17°",
+            "name": "Forno Brisa",
+            "ref": "https://www.50toppizza.it/referenza/forno-brisa-3/",
+            "address": [
+                "Forno Brisa Galliera - Bakery & Specialty Coffee, Via Galliera, Bologna, BO, Emilia-Romagna, Italia",
+                "Via Castiglione, 43, Bologna, BO, Italia",
+                "Via San Felice, 91a, Bologna, BO, Italia",
+                "Via L. Bassi Veratti 29b  Bologna",
+                "Via Nicolò Dall'Arca, 16, Bologna, BO, Italia"
+            ],
+            "coord": [
+                [
+                    44.500307,
+                    11.342944
+                ],
+                [
+                    44.4886749,
+                    11.3475282
+                ],
+                [
+                    44.4978094,
+                    11.3315497
+                ],
+                [
+                    44.4823767,
+                    11.3667635
+                ],
+                [
+                    44.5093092,
+                    11.3423623
+                ]
+            ],
+            "website": "https://www.fornobrisa.it/?utm_source=GMB&utm_medium=Organic&utm_campaign=FornoBrisaGalliera"
+        },
+        {
+            "category": "🍕",
+            "position": "18°",
+            "name": "Forno Filomena",
+            "ref": "https://www.50toppizza.it/referenza/forno-filomena/",
+            "address": [
+                "Forno Filomena, Via Arabia, Cosenza, Calabria, Italia"
+            ],
+            "coord": [
+                [
+                    39.2987486,
+                    16.2532668
+                ]
+            ],
+            "website": "http://www.fornofilomena.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "19°",
+            "name": "Fermo Pizza",
+            "ref": "https://www.50toppizza.it/referenza/fermo-pizza-2/",
+            "address": [
+                "Fermo Pizza, Via Francesco Cilea, Napoli, NA, Campania, Italia"
+            ],
+            "coord": [
+                [
+                    40.8429789,
+                    14.2221944
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "20°",
+            "name": "La Divina Pizza",
+            "ref": "https://www.50toppizza.it/referenza/la-divina-pizza-3/",
+            "address": [
+                "La Divina Pizza, Borgo Allegri, Firenze, FI, Toscana, Italia"
+            ],
+            "coord": [
+                [
+                    43.7702171,
+                    11.2646723
+                ]
+            ],
+            "website": "https://ladivinapizza.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "21°",
+            "name": "L’Orso in teglia",
+            "ref": "https://www.50toppizza.it/referenza/lorso-in-teglia-2/",
+            "address": [
+                "L'ORSO IN TEGLIA, Viale San Martino, Messina, Sicilia, Italia"
+            ],
+            "coord": [
+                [
+                    38.1827586,
+                    15.5531009
+                ]
+            ],
+            "website": "https://lorso.plateform.app/"
+        },
+        {
+            "category": "🍕",
+            "position": "22°",
+            "name": "Grigoris The Bakery",
+            "ref": "https://www.50toppizza.it/referenza/grigoris-the-bakery/",
+            "address": [
+                "Grigoris The bakery, Via San Girolamo, Venezia, VE, Italia"
+            ],
+            "coord": [
+                [
+                    45.4951504,
+                    12.2436456
+                ]
+            ],
+            "website": "https://grigorislabakery.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "23°",
+            "name": "1947 Pizza Fritta",
+            "ref": "https://www.50toppizza.it/referenza/1947-pizza-fritta/",
+            "address": [
+                "1947 Pizza Fritta Napoli, Via Pietro Colletta, Napoli, NA, Campania, Italia"
+            ],
+            "coord": [
+                [
+                    40.8500072,
+                    14.2634674
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "24°",
+            "name": "Pane E tempesta",
+            "ref": "https://www.50toppizza.it/referenza/pane-e-tempesta-3/",
+            "address": [
+                "Pane e Tempesta, Via Giovanni de Calvi, 23, Roma RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.8688212,
+                    12.4461298
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "25°",
+            "name": "Panificio Menchetti",
+            "ref": "https://www.50toppizza.it/referenza/panificio-menchetti-4/",
+            "address": [
+                "Menchetti Arezzo, Via Avvocato Fulvio Croce, Arezzo, Toscana, Italia",
+                "Via Cassia, 9, Marciano della Chiana, Arezzo, Italia",
+                "Parco Sandro Pertini, Via XXV Aprile, 37, Arezzo, AR, Italia",
+                "Menchetti: Pane toscano dal 1948, Strada Trasimeno Ovest, 7, Perugia, PG, Italia",
+                "Via Gerardo Dottori, 45, Perugia, PG, Italia",
+                "Via Maestri del Lavoro, 3, 52027 San Giovanni Valdarno, AR, Italia",
+                "Via Vittorio Emanuele, 50041 Calenzano, FI, Italia",
+                "Piazza del Grano, 5/6, 50122 Firenze, FI, Italia",
+                "Via di Stagno, 1, Lastra a Signa, FI, Italia",
+                "Via Senese Aretina, 102, 52037 Sansepolcro, AR, Italia",
+                "Via Pianigiani, 5, Siena, SI, Italia",
+                "Piazza Maestri del Lavoro, 30, Siena, SI, Italia",
+                "Carrefour Market, Viale dei Mille, 46, 53034 Colle di Val d'Elsa, SI, Italia",
+                "Viale Zambelli, 57037 Portoferraio, LI, Italia",
+                "Via Liguria, 1, 53014 Monteroni d'Arbia, SI, Italia",
+                "Via Giuseppe Di Vittorio, 2, 59013 Montemurlo, Prato, Italia",
+                "Via Farniole, 26, 52045 Farniole, AR, Italia",
+                "Carrefour Market Gms srl, Via Sirio, 25, Pieve al Toppo, AR, Italia"
+            ],
+            "coord": [
+                [
+                    43.4622166,
+                    11.8933457
+                ],
+                [
+                    43.3133818,
+                    11.8161488
+                ],
+                [
+                    43.457218,
+                    11.8837792
+                ],
+                [
+                    43.1063943,
+                    12.3616745
+                ],
+                [
+                    43.0792289,
+                    12.3459686
+                ],
+                [
+                    43.5525613,
+                    11.5420564
+                ],
+                [
+                    43.8481394,
+                    11.1733354
+                ],
+                [
+                    43.7684807,
+                    11.2567494
+                ],
+                [
+                    43.7701518,
+                    11.1232109
+                ],
+                [
+                    43.5666915,
+                    12.1208977
+                ],
+                [
+                    43.3211165,
+                    11.330253
+                ],
+                [
+                    43.3176378,
+                    11.3518303
+                ],
+                [
+                    43.4099039,
+                    11.1337
+                ],
+                [
+                    42.8128661,
+                    10.3208635
+                ],
+                [
+                    43.2196098,
+                    11.4293507
+                ],
+                [
+                    43.9119963,
+                    11.062312
+                ],
+                [
+                    43.223603,
+                    11.808843
+                ],
+                [
+                    43.4083102,
+                    11.796147
+                ]
+            ],
+            "website": "http://www.menchetti.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "26°",
+            "name": "Panificio Michelangelo Bobb",
+            "ref": "https://www.50toppizza.it/referenza/panificio-michelangelo-bobb/",
+            "address": [
+                "Panificio Michelangelo Bobb, Viale Michelangelo, Cercola, NA, Campania, Italia"
+            ],
+            "coord": [
+                [
+                    40.8552906,
+                    14.3582949
+                ]
+            ],
+            "website": "https://www.panificiomichelangelobobb.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "27°",
+            "name": "La Pia Centenaria",
+            "ref": "https://www.50toppizza.it/referenza/la-pia-centenaria-2/",
+            "address": [
+                "La Pia Centenaria, Via Magenta, La Spezia, Liguria, Italia",
+                "La Pia, Piazza John Fitzgerald Kennedy, La Spezia, SP, Italia",
+                "La Pia Porto mirabello, Via Aldo Moro, La Spezia, SP, Italia",
+                "La Pia, Viale Giuseppe Mazzini, Sarzana, SP, Italia",
+                "La Pia, Piazza Giuseppe Garibaldi, 13, Monterosso al Mare, SP, Italia"
+            ],
+            "coord": [
+                [
+                    44.1048542,
+                    9.820452
+                ],
+                [
+                    44.112201,
+                    9.835305
+                ],
+                [
+                    44.0993831,
+                    9.8261128
+                ],
+                [
+                    44.1111939,
+                    9.9631759
+                ],
+                [
+                    44.1466269,
+                    9.6555784
+                ]
+            ],
+            "website": "https://www.lapia.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "28°",
+            "name": "Forno Urbano",
+            "ref": "https://www.50toppizza.it/referenza/forno-urbano-2/",
+            "address": [
+                "Forno Urbano, Via Gianantonio Manci, Trento, TN, Trentino-Alto Adige, Italia"
+            ],
+            "coord": [
+                [
+                    46.06979,
+                    11.1221545
+                ]
+            ],
+            "website": "https://www.fornourbano.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "29°",
+            "name": "Elettroforno Frontoni",
+            "ref": "https://www.50toppizza.it/referenza/elettroforno-frontoni-2/",
+            "address": [
+                "Elettroforno Frontoni Ostiense, Via Ostiense, 387, Roma, RM, Italia",
+                "Elettroforno Frontoni via Gandiglio 123, Via Adolfo Gandiglio, Roma, RM, Lazio, Italia"
+            ],
+            "coord": [
+                [
+                    41.8530942,
+                    12.4769029
+                ],
+                [
+                    41.8629899,
+                    12.4429027
+                ]
+            ],
+            "website": "http://www.elettrofornofrontoni.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "30°",
+            "name": "Pizzeria Da Filomena",
+            "ref": "https://www.50toppizza.it/referenza/pizzeria-da-filomena-3/",
+            "address": [
+                "Pizzeria Da Filomena, Corso Giuseppe Garibaldi, Castrovillari, CS, Calabria, Italia"
+            ],
+            "coord": [
+                [
+                    39.8128396,
+                    16.201468
+                ]
+            ],
+            "website": "https://www.pizzeriadafilomena.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "31°",
+            "name": "È Bona Furia",
+            "ref": "https://www.50toppizza.it/referenza/e-bona-furia-2/",
+            "address": [
+                "\" E' Bona Furia\", Via Dino Angelini, Ascoli Piceno, AP, Marche, Italia"
+            ],
+            "coord": [
+                [
+                    42.8541214,
+                    13.5683192
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "32°",
+            "name": "Panificio Adriatico",
+            "ref": "https://www.50toppizza.it/referenza/panificio-adriatico-2/",
+            "address": [
+                "Panificio Adriatico, Via Nicola de Giosa, Bari, BA, Puglia, Italia"
+            ],
+            "coord": [
+                [
+                    41.1203852,
+                    16.8737511
+                ]
+            ],
+            "website": "https://panificioadriatico.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "33°",
+            "name": "Pizza Chef Roma",
+            "ref": "https://www.50toppizza.it/referenza/pizza-chef-roma/",
+            "address": [
+                "Pizza Chef Roma, Via Clelia, Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.875228,
+                    12.5272466
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "34°",
+            "name": "Forno Mollica",
+            "ref": "https://www.50toppizza.it/referenza/forno-mollica-3/",
+            "address": [
+                "Forno Mollica, Via Porrettana, Pontecchio Marconi, Bologna, Emilia-Romagna, Italia"
+            ],
+            "coord": [
+                [
+                    44.4124544,
+                    11.2580644
+                ]
+            ],
+            "website": "http://www.fornomollica.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "35°",
+            "name": "IBRIS – focacce e pizze",
+            "ref": "https://www.50toppizza.it/referenza/ibris-focacce-e-pizze-3/",
+            "address": [
+                "IBRIS focacce e pizze, Via Camillo Cavour, Trento, TN, Trentino-Alto Adige, Italia"
+            ],
+            "coord": [
+                [
+                    46.0679559,
+                    11.1206681
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "36°",
+            "name": "Pantera",
+            "ref": "https://www.50toppizza.it/referenza/pantera/",
+            "address": [
+                "Pantera - Pizza Rustica, Circonvallazione Ostiense, Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.8675036,
+                    12.4860051
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "37°",
+            "name": "Fulgaro Panificatori dal 1890",
+            "ref": "https://www.50toppizza.it/referenza/fulgaro-panificatori-dal-1890/",
+            "address": [
+                "Fulgaro Panificatori 1890, Piazza Oberdan, San Marco in Lamis, FG, Puglia, Italia"
+            ],
+            "coord": [
+                [
+                    41.7113848,
+                    15.6383417
+                ]
+            ],
+            "website": "https://www.fulgaropanificatori.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "38°",
+            "name": "La Taverna Pizza al taglio & More",
+            "ref": "https://www.50toppizza.it/referenza/la-taverna-pizza-al-taglio-more/",
+            "address": [
+                "La Taverna pizza al Taglio & more, Via Goffredo Mameli, Sanremo, IM, Liguria, Italia",
+                "Via S. Francesco, 3018018 Arma di Taggia IM"
+            ],
+            "coord": [
+                [
+                    43.8178504,
+                    7.7773429
+                ],
+                [
+                    43.8408678,
+                    7.8526685
+                ]
+            ],
+            "website": "https://www.latavernasanremo.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "39°",
+            "name": "Pbread",
+            "ref": "https://www.50toppizza.it/referenza/pbread/",
+            "address": [
+                "Pbread Natural Bakery, Viale Cristoforo Colombo, Cagliari, CA, Sardegna, Italia"
+            ],
+            "coord": [
+                [
+                    39.2104984,
+                    9.1162374
+                ]
+            ],
+            "website": "https://www.pbread.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "40°",
+            "name": "Focacceria Sant’Agostino",
+            "ref": "https://www.50toppizza.it/referenza/focacceria-santagostino-2/",
+            "address": [
+                "Focacceria Genovese Sant'Agostino Gran Torino, Via Sant'Agostino, Torino, TO, Piemonte, Italia"
+            ],
+            "coord": [
+                [
+                    45.0738258,
+                    7.6793947
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "41°",
+            "name": "Farinando",
+            "ref": "https://www.50toppizza.it/referenza/farinando/",
+            "address": [
+                "FARINANDO - PIZZA ALLA PALA, Viale della Vittoria, Ancona, AN, Marche, Italia"
+            ],
+            "coord": [
+                [
+                    43.6153092,
+                    13.5317029
+                ]
+            ],
+            "website": "https://www.farinando.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "42°",
+            "name": "Alimento",
+            "ref": "https://www.50toppizza.it/referenza/alimento-3/",
+            "address": [
+                "ALIMENTO, Via Agostino Gallo, Brescia, BS, Lombardia, Italia"
+            ],
+            "coord": [
+                [
+                    45.5384154,
+                    10.225725
+                ]
+            ],
+            "website": "https://alimentofood.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "43°",
+            "name": "Il Pizzicotto",
+            "ref": "https://www.50toppizza.it/referenza/il-pizzicotto-3/",
+            "address": [
+                "IL PIZZICOTTO, Via Degli Ammirati, Lecce, LE, Puglia, Italia",
+                "Via Antonio Salandra, 13b, Lecce, LE, Italia",
+                "Via Taranto, 3, Lecce, LE, Italia"
+            ],
+            "coord": [
+                [
+                    40.351967,
+                    18.170966
+                ],
+                [
+                    40.353969,
+                    18.1836398
+                ],
+                [
+                    40.3571548,
+                    18.1668801
+                ]
+            ],
+            "website": "https://ilpizzicotto.eu/"
+        },
+        {
+            "category": "🍕",
+            "position": "44°",
+            "name": "50 Teglie",
+            "ref": "https://www.50toppizza.it/referenza/50-teglie-4/",
+            "address": [
+                "50 Teglie, Via Giuseppe Grassi, Torino, TO, Italia"
+            ],
+            "coord": [
+                [
+                    45.0745146,
+                    7.6635047
+                ]
+            ],
+            "website": "https://www.50teglie.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "45°",
+            "name": "Buratto",
+            "ref": "https://www.50toppizza.it/referenza/buratto/",
+            "address": [
+                "Buratto, Via di Porta Soprana, Genova, GE, Liguria, Italia"
+            ],
+            "coord": [
+                [
+                    44.4058682,
+                    8.9339054
+                ]
+            ],
+            "website": "https://burattopizzainteglia.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "46°",
+            "name": "Panificio Graziano",
+            "ref": "https://www.50toppizza.it/referenza/panificio-graziano-3/",
+            "address": [
+                "Panificio Graziano, Via del Granatiere, Palermo, PA, Sicilia, Italia"
+            ],
+            "coord": [
+                [
+                    38.1445092,
+                    13.3438265
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "47°",
+            "name": "Lievitamente",
+            "ref": "https://www.50toppizza.it/referenza/lievitamente-3/",
+            "address": [
+                "Forno Lievitamente, Corso Giuseppe Garibaldi, Viareggio, LU, Toscana, Italia"
+            ],
+            "coord": [
+                [
+                    43.8675856,
+                    10.2505496
+                ]
+            ],
+            "website": "https://www.lievitamente.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "48°",
+            "name": "Antico Forno del Ghetto Urbani",
+            "ref": "https://www.50toppizza.it/referenza/antico-forno-del-ghetto-urbani-2/",
+            "address": [
+                "Forno del Ghetto, Piazza Costaguti, Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.8934637,
+                    12.4768453
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "49°",
+            "name": "Foorn",
+            "ref": "https://www.50toppizza.it/referenza/foorn-3/",
+            "address": [
+                "Foorn - Panificio Pizzeria Laboratorio Bottega Caffetteria, Via Variante 7 Bis, Mariglianella, NA, Italia"
+            ],
+            "coord": [
+                [
+                    40.9341015,
+                    14.4367942
+                ]
+            ],
+            "website": "https://foorn.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "50°",
+            "name": "Forno Monteforte",
+            "ref": "https://www.50toppizza.it/referenza/forno-monteforte-2/",
+            "address": [
+                "Forno Monteforte, Via del Pellegrino, 129, Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.8974078,
+                    12.4682316
+                ]
+            ],
+            "website": null
+        }
+    ]
+}

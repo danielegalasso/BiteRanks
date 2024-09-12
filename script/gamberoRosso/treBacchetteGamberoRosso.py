@@ -34,7 +34,8 @@ for ref in references:
     location = soup.find('span', id='span-2718-420208')
     website = soup.find('a', id='link-1214-365586')
 
-    map_data = locator.find_coordinates(','.join([name.text, location.text]))
+    map_data = locator.find_coordinates(','.join([name.text + ' sushi', location.text, 'Italia']))
+    print(map_data)
 
     json_output['Tre Bacchette Gambero Rosso 2024'].append({
         'category': category,

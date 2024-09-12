@@ -1,0 +1,1775 @@
+{
+    "50 Top Pizza Italia 2024": [
+        {
+            "category": "🍕",
+            "position": "1°",
+            "name": "Diego Vitagliano Pizzeria",
+            "ref": "https://www.50toppizza.it/referenza/diego-vitagliano-pizzeria/",
+            "address": [
+                "Diego Vitagliano Pizzeria - Bagnoli, Via Nuova Agnano, Napoli, NA, Campania, Italia",
+                "Diego Vitagliano Pizzeria - Pozzuoli, Via Campi Flegrei, Pozzuoli, NA, Italia",
+                "Diego Vitagliano Pizzeria - Santa Lucia, Via Santa Lucia, Napoli, NA, Italia",
+                "La Croisetta, NO 30 Doha, Qatar"
+            ],
+            "coord": [
+                [
+                    40.8170977,
+                    14.1756869
+                ],
+                [
+                    40.83481,
+                    14.1059045
+                ],
+                [
+                    40.8322776,
+                    14.2486886
+                ],
+                [
+                    25.210576,
+                    51.4587545
+                ]
+            ],
+            "website": "https://www.diegovitagliano.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "1°",
+            "name": "I Masanielli – Francesco Martucci",
+            "ref": "https://www.50toppizza.it/referenza/i-masanielli-francesco-martucci-3/",
+            "address": [
+                "I Masanielli di Francesco Martucci, Viale Giulio Douhet, Caserta, CE, Campania, Italia"
+            ],
+            "coord": [
+                [
+                    41.0723184,
+                    14.3190726
+                ]
+            ],
+            "website": "https://www.pizzeriaimasanielli.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "2°",
+            "name": "Confine",
+            "ref": "https://www.50toppizza.it/referenza/confine-2/",
+            "address": [
+                "CONFINE - PIZZA E CANTINA, Piazza Cardinal Massaia, Milano, MI, Lombardia, Italia"
+            ],
+            "coord": [
+                [
+                    45.4614393,
+                    9.1813017
+                ]
+            ],
+            "website": "http://www.confinemilano.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "3°",
+            "name": "I Tigli",
+            "ref": "https://www.50toppizza.it/referenza/i-tigli-3/",
+            "address": [
+                "i Tigli s.r.l., Via Camporosolo, San Bonifacio, VR, Veneto, Italia"
+            ],
+            "coord": [
+                [
+                    45.3947519,
+                    11.2707335
+                ]
+            ],
+            "website": "https://www.pizzeriaitigli.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "4°",
+            "name": "50 Kalò",
+            "ref": "https://www.50toppizza.it/referenza/50-kalo-4/",
+            "address": [
+                "50 Kalò, Piazza Sannazaro, Napoli, NA, Campania, Italia",
+                "50 Kalò di Ciro Salvo - Roma, Via Flavia, 3b, 00187 Roma, RM, Italia",
+                "50 Kalò - Repubblica, Piazza della Repubblica, Napoli, NA, Italia"
+            ],
+            "coord": [
+                [
+                    40.8283718,
+                    14.2202575
+                ],
+                [
+                    41.9060161,
+                    12.4957453
+                ],
+                [
+                    40.8317099,
+                    14.2254831
+                ]
+            ],
+            "website": "https://www.xn--50kal-yta.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "5°",
+            "name": "Seu Pizza Illuminati",
+            "ref": "https://www.50toppizza.it/referenza/seu-pizza-illuminati-3/",
+            "address": [
+                "Seu Pizza Illuminati, Via Angelo Bargoni, Roma RM, Italia",
+                "W Rome, Via Liguria, Roma, RM, Italia",
+                "W Ibiza, Carrer Ricardo Curtoys Gotarredona, Santa Eulària des Riu, Spagna"
+            ],
+            "coord": [
+                [
+                    41.8796558,
+                    12.4683423
+                ],
+                [
+                    41.9063131,
+                    12.4886946
+                ],
+                [
+                    38.981591,
+                    1.5312135
+                ]
+            ],
+            "website": "https://www.seupizza.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "6°",
+            "name": "I Masanielli – Sasà Martucci",
+            "ref": "https://www.50toppizza.it/referenza/i-masanielli-sasa-martucci-4/",
+            "address": [
+                "Sasà Martucci - Pizzeria I Masanielli, Via Antonio Vivaldi, Caserta, CE, Campania, Italia"
+            ],
+            "coord": [
+                [
+                    41.0679398,
+                    14.3324604
+                ]
+            ],
+            "website": "https://www.sasaimasanielli.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "7°",
+            "name": "Dry Milano",
+            "ref": "https://www.50toppizza.it/referenza/dry-milano-3/",
+            "address": [
+                "Dry, Via Solferino, Milano, MI, Lombardia, Italia"
+            ],
+            "coord": [
+                [
+                    45.4790319,
+                    9.1883898
+                ]
+            ],
+            "website": "https://www.drymilano.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "8°",
+            "name": "La Notizia",
+            "ref": "https://www.50toppizza.it/referenza/la-notizia/",
+            "address": [
+                "Pizzaria La Notizia 94, Via Michelangelo da Caravaggio, Napoli, NA, Campania, Italia",
+                "Pizzeria La Notizia 53, Via Michelangelo da Caravaggio, Napoli, NA, Italia"
+            ],
+            "coord": [
+                [
+                    40.8337567,
+                    14.2088935
+                ],
+                [
+                    40.8356642,
+                    14.2099635
+                ]
+            ],
+            "website": "http://www.pizzarialanotizia.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "9°",
+            "name": "Salvo",
+            "ref": "https://www.50toppizza.it/referenza/salvo/",
+            "address": [
+                "Pizzeria Salvo - Napoli, Riviera di Chiaia, Napoli, NA, Campania, Italia",
+                "Largo Arso, 10, San Giorgio a Cremano, NA, Italia"
+            ],
+            "coord": [
+                [
+                    40.8333925,
+                    14.2388447
+                ],
+                [
+                    40.8256702,
+                    14.3291985
+                ]
+            ],
+            "website": "https://www.pizzeriasalvo.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "10°",
+            "name": "Pizzeria Da Lioniello",
+            "ref": "https://www.50toppizza.it/referenza/pizzeria-da-lioniello-3/",
+            "address": [
+                "Pizzeria da Lioniello, Via Murelle, Succivo, CE, Campania, Italia",
+                "Pizzeria da Lioniello, Via Friuli, Milano, MI, Italia"
+            ],
+            "coord": [
+                [
+                    40.9734249,
+                    14.2592834
+                ],
+                [
+                    45.4544347,
+                    9.2135905
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "11°",
+            "name": "Cambia-Menti di Ciccio Vitiello",
+            "ref": "https://www.50toppizza.it/referenza/cambia-menti-di-ciccio-vitiello-2/",
+            "address": [
+                "Cambia-Menti di Ciccio Vitiello, Via Generale Pasquale Tenga, Caserta, CE, Italia"
+            ],
+            "coord": [
+                [
+                    41.0942324,
+                    14.3199354
+                ]
+            ],
+            "website": "https://cambia-menti.pizza/"
+        },
+        {
+            "category": "🍕",
+            "position": "12°",
+            "name": "Pepe in Grani",
+            "ref": "https://www.50toppizza.it/referenza/pepe-in-grani-3/",
+            "address": [
+                "Pepe In Grani, Vicolo San Giovanni Battista, Caiazzo, CE, Campania, Italia"
+            ],
+            "coord": [
+                [
+                    41.1771836,
+                    14.3660052
+                ]
+            ],
+            "website": "https://www.pepeingrani.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "13°",
+            "name": "180 Grammi Pizzeria Romana",
+            "ref": "https://www.50toppizza.it/referenza/180g-pizzeria-romana-3/",
+            "address": [
+                "180grammi Pizzeria Romana, Via Genazzano, 32, Roma, RM, Italia",
+                "Via Tor de' Schiavi, 53, 00172 Roma, RM, Italia",
+                "Via Efeso, 29, Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.8912031,
+                    12.5527832
+                ],
+                [
+                    41.8779627,
+                    12.5639537
+                ],
+                [
+                    41.8541685,
+                    12.4739478
+                ]
+            ],
+            "website": "https://180gpizzeriaromana.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "14°",
+            "name": "Le Grotticelle",
+            "ref": "https://www.50toppizza.it/referenza/le-grotticelle-3/",
+            "address": [
+                "Le Grotticelle, Località Le Grotticelle, Caggiano, SA, Campania, Italia"
+            ],
+            "coord": [
+                [
+                    40.5461771,
+                    15.513402
+                ]
+            ],
+            "website": "https://www.rumoloexperience.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "15°",
+            "name": "La Cascina dei Sapori",
+            "ref": "https://www.50toppizza.it/referenza/la-cascina-dei-sapori-3/",
+            "address": [
+                "La Cascina Dei Sapori, Via Evaristo Almici, Rezzato, BS, Lombardia, Italia"
+            ],
+            "coord": [
+                [
+                    45.5164541,
+                    10.3120001
+                ]
+            ],
+            "website": "https://www.lacascinadeisapori.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "16°",
+            "name": "Clementina",
+            "ref": "https://www.50toppizza.it/referenza/clementina-2/",
+            "address": [
+                "Pizzeria Clementina, Via della Torre Clementina, 158, Fiumicino, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.7714277,
+                    12.2281863
+                ]
+            ],
+            "website": "https://www.pizzeriaclementina.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "17°",
+            "name": "Sestogusto",
+            "ref": "https://www.50toppizza.it/referenza/sestogusto-3/",
+            "address": [
+                "Sestogusto Stampatori, Via Stampatori, Torino, TO, Piemonte, Italia",
+                "Sestogusto Mazzini, Via Giuseppe Mazzini, Torino, TO, Italia"
+            ],
+            "coord": [
+                [
+                    45.0727978,
+                    7.6784305
+                ],
+                [
+                    45.0615401,
+                    7.6880204
+                ]
+            ],
+            "website": "https://www.massimilianoprete.it/sestogusto-torino/"
+        },
+        {
+            "category": "🍕",
+            "position": "18°",
+            "name": "La Bolla",
+            "ref": "https://www.50toppizza.it/referenza/la-bolla-3/",
+            "address": [
+                "La Bolla, Via Archivio, Caserta, CE, Campania, Italia"
+            ],
+            "coord": [
+                [
+                    41.0670661,
+                    14.3318243
+                ]
+            ],
+            "website": "https://www.labollacaserta.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "19°",
+            "name": "BOB Alchimia a Spicchi",
+            "ref": "https://www.50toppizza.it/referenza/bob-alchimia-a-spicchi-3/",
+            "address": [
+                "Bob Alchimia A Spicchi, Via Don Luigi Sturzo, Montepaone, CZ, Calabria, Italia"
+            ],
+            "coord": [
+                [
+                    38.720005,
+                    16.5330181
+                ]
+            ],
+            "website": "https://www.bobalchimiaspicchi.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "20°",
+            "name": "Apogeo",
+            "ref": "https://www.50toppizza.it/referenza/apogeo-3/",
+            "address": [
+                "Apogeo, Via Pisanica, Pietrasanta, LU, Toscana, Italia"
+            ],
+            "coord": [
+                [
+                    43.95165,
+                    10.2003926
+                ]
+            ],
+            "website": "https://www.pizzeriaapogeo.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "21°",
+            "name": "I Vesuviani",
+            "ref": "https://www.50toppizza.it/referenza/i-vesuviani/",
+            "address": [
+                "Pizzeria I Vesuviani, Pizzeria I Vesuviani, Via Madonnelle, Castello di Cisterna, NA, Italia",
+                "Pizzeria I Vesuviani, Pizzeria I Vesuviani, Strada Statale Sannitica, 87, 80026 Casoria, NA, Italia"
+            ],
+            "coord": [
+                [
+                    40.9006057,
+                    14.4122312
+                ],
+                [
+                    40.9247997,
+                    14.2978305
+                ]
+            ],
+            "website": "https://pizzeriaivesuviani.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "22°",
+            "name": "Raf Bonetta",
+            "ref": "https://www.50toppizza.it/referenza/raf-bonetta/",
+            "address": [
+                "Corso Umberto I, 51, 80078 Pozzuoli NA, Italia"
+            ],
+            "coord": [
+                [
+                    40.8215776,
+                    14.1268839
+                ]
+            ],
+            "website": "https://www.raffaelebonetta.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "23°",
+            "name": "Denis",
+            "ref": "https://www.50toppizza.it/referenza/denis-2/",
+            "address": [
+                "Denis Milano Moscova, Via Statuto, Milano, MI, Lombardia, Italia",
+                "Denis Milano Porta Venezia, Via Melzo, 16, 20129 Milano, MI, Italia"
+            ],
+            "coord": [
+                [
+                    45.4771679,
+                    9.1853898
+                ],
+                [
+                    45.4736644,
+                    9.2095608
+                ]
+            ],
+            "website": "https://denispizza.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "24°",
+            "name": "Palazzo Petrucci Pizzeria",
+            "ref": "https://www.50toppizza.it/referenza/palazzo-petrucci-pizzeria-2/",
+            "address": [
+                "Palazzo Petrucci Pizzeria, Piazza San Domenico Maggiore, Napoli, NA, Campania, Italia",
+                "Via Posillipo, 16/c. 80123 Napoli"
+            ],
+            "coord": [
+                [
+                    40.8485352,
+                    14.2545592
+                ],
+                [
+                    40.8214698,
+                    14.2147176
+                ]
+            ],
+            "website": "https://palazzopetrucci.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "25°",
+            "name": "Sbanco",
+            "ref": "https://www.50toppizza.it/referenza/sbanco-3/",
+            "address": [
+                "Sbanco, Via Siria, 1, Roma RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.875468,
+                    12.510995
+                ]
+            ],
+            "website": "https://sbanco.eatbu.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "26°",
+            "name": "Carlo Sammarco Pizzeria",
+            "ref": "https://www.50toppizza.it/referenza/carlo-sammarco-pizzeria/",
+            "address": [
+                "Carlo Sammarco Pizzeria 2.0 - Aversa, Via Antonio Gramsci, Aversa, CE, Campania, Italia",
+                "Via Vittorio Emanuele III', Frattamaggiore NA, Italia"
+            ],
+            "coord": [
+                [
+                    40.9517073,
+                    14.2132506
+                ],
+                [
+                    40.9428867,
+                    14.267691
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "27°",
+            "name": "Le Parùle",
+            "ref": "https://www.50toppizza.it/referenza/le-parule/",
+            "address": [
+                "Pizzeria Le Parùle, Via Sacerdote Cozzolino Benedetto, Ercolano, NA, Campania, Italia"
+            ],
+            "coord": [
+                [
+                    40.8111763,
+                    14.3679237
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "28°",
+            "name": "400 Gradi",
+            "ref": "https://www.50toppizza.it/referenza/400-gradi-7/",
+            "address": [
+                "400 Gradi Lecce, Viale Porta d'Europa, Lecce, LE, Puglia, Italia"
+            ],
+            "coord": [
+                [
+                    40.3616269,
+                    18.1696855
+                ]
+            ],
+            "website": "https://www.pizzeria400gradi.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "29°",
+            "name": "Modus",
+            "ref": "https://www.50toppizza.it/referenza/modus-2/",
+            "address": [
+                "Modus, Via Andrea Maffei, Milano, MI, Lombardia, Italia",
+                "Corso Magenta, 25, 20123 Milano, Milano MI, Italia"
+            ],
+            "coord": [
+                [
+                    45.4578756,
+                    9.2079184
+                ],
+                [
+                    45.465863,
+                    9.1774583
+                ]
+            ],
+            "website": "https://landing.modusmilano.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "30°",
+            "name": "La Fenice",
+            "ref": "https://www.50toppizza.it/referenza/la-fenice/",
+            "address": [
+                "La Fenice Pizzeria Contemporanea, Via Dalmazia, Pistoia, PT, Toscana, Italia"
+            ],
+            "coord": [
+                [
+                    43.9384096,
+                    10.9101282
+                ]
+            ],
+            "website": "https://www.lafenicepizzeria.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "31°",
+            "name": "Re | Mi",
+            "ref": "https://www.50toppizza.it/referenza/re-mi-2/",
+            "address": [
+                "Re|Mi, Via Salvatore Coradduzza, Sassari, Sardegna, Italia"
+            ],
+            "coord": [
+                [
+                    40.7165634,
+                    8.5777181
+                ]
+            ],
+            "website": "https://www.remi17.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "32°",
+            "name": "‘O Scugnizzo",
+            "ref": "https://www.50toppizza.it/referenza/o-scugnizzo-3/",
+            "address": [
+                "'O Scugnizzo, Via de' Redi, Arezzo, Toscana, Italia"
+            ],
+            "coord": [
+                [
+                    43.4638796,
+                    11.8808962
+                ]
+            ],
+            "website": "https://www.lo-scugnizzo.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "33°",
+            "name": "Pupillo Pura Pizza",
+            "ref": "https://www.50toppizza.it/referenza/pupillo-pura-pizza-2/",
+            "address": [
+                "Pupillo Pura Pizza Frosinone, Viale Giuseppe Mazzini, Frosinone, FR, Italia",
+                "Via G.Matteotti 29 Priverno (LT)"
+            ],
+            "coord": [
+                [
+                    41.639486,
+                    13.3431622
+                ],
+                [
+                    41.4734979,
+                    13.1777635
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "34°",
+            "name": "‘O Fiore Mio",
+            "ref": "https://www.50toppizza.it/referenza/o-fiore-mio-2/",
+            "address": [
+                "'O Fiore Mio, Via Mura San Marco, Faenza, RA, Emilia-Romagna, Italia"
+            ],
+            "coord": [
+                [
+                    44.289362,
+                    11.8859235
+                ]
+            ],
+            "website": "https://www.ofioremio.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "35°",
+            "name": "Giangi",
+            "ref": "https://www.50toppizza.it/referenza/giangi/",
+            "address": [
+                "Pizzeria Giangi, Arielli, CH, Abruzzo, Italia"
+            ],
+            "coord": [
+                [
+                    42.2639867,
+                    14.3227219
+                ]
+            ],
+            "website": "https://www.giangipizza.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "36°",
+            "name": "Giovanni Santarpia",
+            "ref": "https://www.50toppizza.it/referenza/giovanni-santarpia-3/",
+            "address": [
+                "Pizzeria Giovanni Santarpia, Via Senese, Firenze, FI, Toscana, Italia"
+            ],
+            "coord": [
+                [
+                    43.7496062,
+                    11.2356674
+                ]
+            ],
+            "website": "https://giovannisantarpia.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "37°",
+            "name": "Meunier",
+            "ref": "https://www.50toppizza.it/referenza/meunier/",
+            "address": [
+                "Meunier Champagne e Pizza, Corciano, PG, Italia"
+            ],
+            "coord": [
+                [
+                    43.098393,
+                    12.308464
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "38°",
+            "name": "Saccharum",
+            "ref": "https://www.50toppizza.it/referenza/saccharum-pizzeria-ristorante-3/",
+            "address": [
+                "Saccharum Pizzeria Ristorante, Strada Litorale della Bruca, Altavilla Milicia, PA, Sicilia, Italia"
+            ],
+            "coord": [
+                [
+                    38.0438901,
+                    13.557333
+                ]
+            ],
+            "website": "https://www.saccharum.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "39°",
+            "name": "San Martino – Pizza & Bolle",
+            "ref": "https://www.50toppizza.it/referenza/san-martino-pizza-bolle/",
+            "address": [
+                "San Martino Pizza & Bolle - Gasometro, Lungotevere di Pietra Papa, Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.8653276,
+                    12.4746946
+                ]
+            ],
+            "website": "https://www.pizzaebolle.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "40°",
+            "name": "I Borboni",
+            "ref": "https://www.50toppizza.it/referenza/i-borboni/",
+            "address": [
+                "I Borboni Pizzeria, Via Amerigo Vespucci, Pontecagnano Faiano, SA, Campania, Italia"
+            ],
+            "coord": [
+                [
+                    40.6369094,
+                    14.8950481
+                ]
+            ],
+            "website": "https://iborbonipizzeria.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "41°",
+            "name": "La Gatta Mangiona",
+            "ref": "https://www.50toppizza.it/referenza/la-gatta-mangiona-3/",
+            "address": [
+                "La Gatta Mangiona, Via Federico Ozanam, 30-32, Roma RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.8757358,
+                    12.4477564
+                ]
+            ],
+            "website": "https://www.lagattamangiona.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "42°",
+            "name": "Officine del Cibo",
+            "ref": "https://www.50toppizza.it/referenza/officine-del-cibo-3/",
+            "address": [
+                "Officine del Cibo, Via Brigata Partigiana Ugo Muccini, Sarzana, SP, Liguria, Italia"
+            ],
+            "coord": [
+                [
+                    44.1040233,
+                    9.9426182
+                ]
+            ],
+            "website": "https://www.officinedelcibosarzana.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "43°",
+            "name": "Il Segreto di Pulcinella",
+            "ref": "https://www.50toppizza.it/referenza/il-segreto-di-pulcinella-4/",
+            "address": [
+                "Il Segreto di Pulcinella di Giuseppe Bove - Pizzeria, Via Napoli, Montesarchio, BN, Campania, Italia"
+            ],
+            "coord": [
+                [
+                    41.056451,
+                    14.6275442
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "44°",
+            "name": "Allegrìo",
+            "ref": "https://www.50toppizza.it/referenza/allegrio-2/",
+            "address": [
+                "Allegrío - Restaurant Rome, Via Veneto, Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.9084655,
+                    12.4888145
+                ]
+            ],
+            "website": "https://allegrio.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "45°",
+            "name": "Fandango",
+            "ref": "https://www.50toppizza.it/referenza/fandango-3/",
+            "address": [
+                "Fandango - Potenza, Via dei Molinari, Potenza, PZ, Basilicata, Italia"
+            ],
+            "coord": [
+                [
+                    40.6433867,
+                    15.7802743
+                ]
+            ],
+            "website": "https://www.fandangopizzeria.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "46°",
+            "name": "Sant’Isidoro – Pizza & Bolle",
+            "ref": "https://www.50toppizza.it/referenza/santisidoro-pizza-bolle/",
+            "address": [
+                "Sant'Isidoro Pizza & Bolle - Prati, Via Oslavia, 41, Roma RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.9186087,
+                    12.4616414
+                ]
+            ],
+            "website": "https://www.pizzaebolle.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "47°",
+            "name": "Bosco",
+            "ref": "https://www.50toppizza.it/referenza/bosco/",
+            "address": [
+                "Pizzeria Bosco, Via Vittorio Veneto, Tempio Pausania, SS, Sardegna, Italia"
+            ],
+            "coord": [
+                [
+                    40.9019834,
+                    9.1039171
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "48°",
+            "name": "Gigi Pipa",
+            "ref": "https://www.50toppizza.it/referenza/pizzeria-gigi-pipa-3/",
+            "address": [
+                "Pizzeria Gigi Pipa, Via Antonio Corradini, Este, PD, Veneto, Italia"
+            ],
+            "coord": [
+                [
+                    45.2218235,
+                    11.6597824
+                ]
+            ],
+            "website": "https://pizzeriagigipipa.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "49°",
+            "name": "L’Orso",
+            "ref": "https://www.50toppizza.it/referenza/lorso-3/",
+            "address": [
+                "L'Orso, Via Pasquale Calapso, Messina, Sicilia, Italia",
+                "L'orso in duomo, Piazza Duomo, Messina, ME, Italia",
+                "Blanco Beach Club, Via Consolare Pompea, Messina, ME, Italia"
+            ],
+            "coord": [
+                [
+                    38.2039833,
+                    15.5559453
+                ],
+                [
+                    38.1926303,
+                    15.5540868
+                ],
+                [
+                    38.2483008,
+                    15.5857031
+                ]
+            ],
+            "website": "https://www.orsomessina.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "50°",
+            "name": "Grigoris",
+            "ref": "https://www.50toppizza.it/referenza/grigoris-3/",
+            "address": [
+                "Grigoris, Via Asseggiano, Chirignago-Zelarino, VE, Italia"
+            ],
+            "coord": [
+                [
+                    45.4967,
+                    12.184545
+                ]
+            ],
+            "website": "https://pizzeriagrigoris.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "51°",
+            "name": "Il Vecchio e il Mare",
+            "ref": "https://www.50toppizza.it/referenza/il-vecchio-e-il-mare-3/",
+            "address": [
+                "Il Vecchio e il Mare, Via Vincenzo Gioberti, Firenze, FI, Toscana, Italia"
+            ],
+            "coord": [
+                [
+                    43.7697267,
+                    11.2760775
+                ]
+            ],
+            "website": "https://www.ilvecchioeilmare.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "52°",
+            "name": "La Contrada",
+            "ref": "https://www.50toppizza.it/referenza/la-contrada-3/",
+            "address": [
+                "La Contrada, Piazza Guglielmo Marconi, Aversa, CE, Campania, Italia"
+            ],
+            "coord": [
+                [
+                    40.9761782,
+                    14.2015984
+                ]
+            ],
+            "website": "https://lacontradaristorante.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "53°",
+            "name": "Enosteria Lipen",
+            "ref": "https://www.50toppizza.it/referenza/enosteria-lipen-3/",
+            "address": [
+                "Enosteria Lipen, Via Conte Paolo Taverna, Triuggio, MB, Lombardia, Italia"
+            ],
+            "coord": [
+                [
+                    45.6596305,
+                    9.2901536
+                ]
+            ],
+            "website": "https://www.lipen.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "54°",
+            "name": "Masardona by Cristiano Piccirillo",
+            "ref": "https://www.50toppizza.it/referenza/antica-friggitoria-masardona-roma-3/",
+            "address": [
+                "Antica Friggitoria La Masardona Roma, Piazza dell'Oro, Roma, Roma, Italia"
+            ],
+            "coord": [
+                [
+                    41.899938,
+                    12.4649615
+                ]
+            ],
+            "website": "https://masardonaroma.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "55°",
+            "name": "Frumento",
+            "ref": "https://www.50toppizza.it/referenza/frumento-3/",
+            "address": [
+                "Frumento Pizzeria Acireale, Piazza Giuseppe Mazzini, Acireale, CT, Sicilia, Italia",
+                "Piazza S. Francesco d’Assisi 14, Catania",
+                "Frumento Modica, Corso Umberto I, 13, Modica, RG, Italia"
+            ],
+            "coord": [
+                [
+                    37.6118624,
+                    15.1646193
+                ],
+                [
+                    37.503078,
+                    15.084668
+                ],
+                [
+                    36.8568643,
+                    14.7601751
+                ]
+            ],
+            "website": "https://frumentoacireale.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "56°",
+            "name": "Giotto Pizzeria",
+            "ref": "https://www.50toppizza.it/referenza/giotto-pizzeria-bistrot-3/",
+            "address": [
+                "Giotto Pizzeria Firenze, Via Panzani, Firenze, FI, Italia",
+                "Giotto pizzeria bistrot, Via Francesco Veracini, Firenze, FI, Italia"
+            ],
+            "coord": [
+                [
+                    43.7743745,
+                    11.2504192
+                ],
+                [
+                    43.7868222,
+                    11.2316444
+                ]
+            ],
+            "website": "https://www.pizzeriagiotto.it/#/"
+        },
+        {
+            "category": "🍕",
+            "position": "57°",
+            "name": "I Fontana",
+            "ref": "https://www.50toppizza.it/referenza/i-fontana-3/",
+            "address": [
+                "I Fontana Pizzeria, Via Annunziata, Somma Vesuviana, NA, Campania, Italia",
+                "Via Aldo Moro, 36, 80049 Somma Vesuviana, NA, Italia",
+                "Via Fiume, 68, 80038 Pomigliano d'Arco, NA, Italia"
+            ],
+            "coord": [
+                [
+                    40.876794,
+                    14.4436752
+                ],
+                [
+                    40.8720773,
+                    14.4398097
+                ],
+                [
+                    40.9097587,
+                    14.3905987
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "58°",
+            "name": "Piccola Piedigrotta",
+            "ref": "https://www.50toppizza.it/referenza/piccola-piedigrotta-3/",
+            "address": [
+                "Piccola Piedigrotta, Piazza XXV Aprile, Reggio Emilia, RE, Emilia-Romagna, Italia"
+            ],
+            "coord": [
+                [
+                    44.7011223,
+                    10.6282855
+                ]
+            ],
+            "website": "https://www.piccolapiedigrotta.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "59°",
+            "name": "Chicco",
+            "ref": "https://www.50toppizza.it/referenza/chicco/",
+            "address": [
+                "PIZZERIA CHICCO, Via Giuseppe Garibaldi, Colle di Val D'Elsa, SI, Toscana, Italia"
+            ],
+            "coord": [
+                [
+                    43.4227936,
+                    11.1260058
+                ]
+            ],
+            "website": "https://www.chiccocolle.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "60°",
+            "name": "Pizzeria Elite Rossi",
+            "ref": "https://www.50toppizza.it/referenza/pizzeria-elite-rossi-3/",
+            "address": [
+                "Pizzeria elite Pasqualino Rossi, Corso Umberto I°, Alvignano CE, Campania, Italia"
+            ],
+            "coord": [
+                [
+                    41.246253,
+                    14.336691
+                ]
+            ],
+            "website": "https://www.pizzeriaeliterossi.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "61°",
+            "name": "Framento",
+            "ref": "https://www.50toppizza.it/referenza/framento-4/",
+            "address": [
+                "Framento, Corso Vittorio Emanuele II, Cagliari, CA, Sardegna, Italia"
+            ],
+            "coord": [
+                [
+                    39.2180837,
+                    9.1111611
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "62°",
+            "name": "La Piedigrotta",
+            "ref": "https://www.50toppizza.it/referenza/la-piedigrotta-3/",
+            "address": [
+                "La Piedigrotta Varese, Via Gian Domenico Romagnosi, Varese, VA, Lombardia, Italia"
+            ],
+            "coord": [
+                [
+                    45.818319,
+                    8.825986
+                ]
+            ],
+            "website": "https://www.piedigrottavarese.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "63°",
+            "name": "Maiori",
+            "ref": "https://www.50toppizza.it/referenza/maiori-3/",
+            "address": [
+                "Maiori Cagliari, Vico Logudoro, Cagliari, CA, Sardegna, Italia"
+            ],
+            "coord": [
+                [
+                    39.213668,
+                    9.1215364
+                ]
+            ],
+            "website": "https://www.pizzeriemaiori.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "64°",
+            "name": "La Sorgente",
+            "ref": "https://www.50toppizza.it/referenza/la-sorgente/",
+            "address": [
+                "Pizzeria \"La Sorgente\", Via Antonio Gramsci, Guardiagrele CH, Abruzzo, Italia"
+            ],
+            "coord": [
+                [
+                    42.1959237,
+                    14.2203772
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "65°",
+            "name": "Pizza Canneto Beach 2",
+            "ref": "https://www.50toppizza.it/referenza/pizza-canneto-beach-2-2/",
+            "address": [
+                "Canneto Beach 2 Pizza, Via Forno Vecchio, Margherita di Savoia, BT, Puglia, Italia"
+            ],
+            "coord": [
+                [
+                    41.379557,
+                    16.1449415
+                ]
+            ],
+            "website": "https://www.riontino.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "66°",
+            "name": "Battil’oro",
+            "ref": "https://www.50toppizza.it/referenza/battiloro-3/",
+            "address": [
+                "Battil'oro fuochi + lieviti + spiriti, Via Asilo, Querceta, LU, Toscana, Italia"
+            ],
+            "coord": [
+                [
+                    43.9779073,
+                    10.2034063
+                ]
+            ],
+            "website": "https://battiloro-fuochi-lieviti-spiriti-pizza-restaurant.business.site/?m=true"
+        },
+        {
+            "category": "🍕",
+            "position": "67°",
+            "name": "Archestrato di Gela",
+            "ref": "https://www.50toppizza.it/referenza/archestrato-di-gela-3/",
+            "address": [
+                "Archestrato di Gela (Palermo), Via Emanuele Notarbartolo, Palermo, PA, Sicilia, Italia",
+                "Archestrato di Gela (Monreale), Via B. d'Acquisto, 25, Monreale, PA, Italia"
+            ],
+            "coord": [
+                [
+                    38.1333286,
+                    13.3489862
+                ],
+                [
+                    38.0830176,
+                    13.2928656
+                ]
+            ],
+            "website": "https://www.archestratodigela.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "68°",
+            "name": "Fuori Tempo",
+            "ref": "https://www.50toppizza.it/referenza/fuori-tempo/",
+            "address": [
+                "FUORITEMPO CANALE - Pizzeria Ristorante, Corso Asti, Canale CN, Piemonte, Italia",
+                "FUORI TEMPO CHIERI - Il bistrot dei lievitati, Via Principe Amedeo, Chieri, TO, Italia"
+            ],
+            "coord": [
+                [
+                    44.798472,
+                    8.0012253
+                ],
+                [
+                    45.0094551,
+                    7.8202447
+                ]
+            ],
+            "website": "https://www.fuoritempo.com/pizzeria-fuoritempo-canale/"
+        },
+        {
+            "category": "🍕",
+            "position": "69°",
+            "name": "Inedito",
+            "ref": "https://www.50toppizza.it/referenza/inedito-3/",
+            "address": [
+                "Inedito Pizzeria, Via Antonio Gramsci, Brescia, BS, Lombardia, Italia"
+            ],
+            "coord": [
+                [
+                    45.5350139,
+                    10.2182434
+                ]
+            ],
+            "website": "https://www.ineditopizzeria.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "70°",
+            "name": "Sa Scolla",
+            "ref": "https://www.50toppizza.it/referenza/sa-scolla-3/",
+            "address": [
+                "Sa Scolla, Via Galvani, Cagliari, CA, Sardegna, Italia"
+            ],
+            "coord": [
+                [
+                    39.2302547,
+                    9.1336286
+                ]
+            ],
+            "website": "https://www.sascolla.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "71°",
+            "name": "Angelo Pezzella – Pizzeria con Cucina",
+            "ref": "https://www.50toppizza.it/referenza/angelo-pezzella-pizzeria-con-cucina-3/",
+            "address": [
+                "Angelo Pezzella - Pizzeria con cucina, Via Appia Nuova, 1095, Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.8287492,
+                    12.5581307
+                ]
+            ],
+            "website": "https://www.angelopezzella.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "72°",
+            "name": "Bro.",
+            "ref": "https://www.50toppizza.it/referenza/bro/",
+            "address": [
+                "Bro. di Ciro e Antonio Tutino, Piazza Mercato, Napoli, NA, Campania, Italia"
+            ],
+            "coord": [
+                [
+                    40.8472542,
+                    14.2669595
+                ]
+            ],
+            "website": "https://brociroeantoniotutino.superbexperience.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "73°",
+            "name": "La Pizza – Romualdo Rizzuti",
+            "ref": "https://www.50toppizza.it/referenza/la-pizza-romualdo-rizzuti/",
+            "address": [
+                "Le Follie di Romualdo, Piazza del Mercato Centrale, Firenze, FI, Toscana, Italia"
+            ],
+            "coord": [
+                [
+                    43.7767403,
+                    11.2538599
+                ]
+            ],
+            "website": "https://www.lefolliediromualdo.it/it/"
+        },
+        {
+            "category": "🍕",
+            "position": "74°",
+            "name": "A Rota",
+            "ref": "https://www.50toppizza.it/referenza/a-rota-2/",
+            "address": [
+                "A Rota Pizzeria Romanesca, Via di Torpignattara, 190, Roma RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.8749383,
+                    12.5411217
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "75°",
+            "name": "Don Antonio 1970",
+            "ref": "https://www.50toppizza.it/referenza/don-antonio-1970-3/",
+            "address": [
+                "Don Antonio 1970, Via Molo Manfredi, Salerno, Campania, Italia"
+            ],
+            "coord": [
+                [
+                    40.6778899,
+                    14.7522938
+                ]
+            ],
+            "website": "http://donantonio1970.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "76°",
+            "name": "Bas",
+            "ref": "https://www.50toppizza.it/referenza/bas-co-2/",
+            "address": [
+                "Bas & Co, Via Guglielmo Marconi, Pesche, IS, Molise, Italia"
+            ],
+            "coord": [
+                [
+                    41.6105967,
+                    14.2817136
+                ]
+            ],
+            "website": "https://www.baspizzeria.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "77°",
+            "name": "Pizzeria Gorizia 1916",
+            "ref": "https://www.50toppizza.it/referenza/pizzeria-gorizia-1916-3/",
+            "address": [
+                "Ristorante Pizzeria Gorizia 1916, Via Gian Lorenzo Bernini, Napoli, NA, Campania, Italia"
+            ],
+            "coord": [
+                [
+                    40.8433623,
+                    14.2317055
+                ]
+            ],
+            "website": "https://www.gorizia1916.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "78°",
+            "name": "Bottega Dani",
+            "ref": "https://www.50toppizza.it/referenza/bottega-dani-2/",
+            "address": [
+                "Bottega Dani, Via Vecchia Livornese, Cecina, LI, Toscana, Italia"
+            ],
+            "coord": [
+                [
+                    43.3265604,
+                    10.4911558
+                ]
+            ],
+            "website": "https://bottegadani.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "79°",
+            "name": "Fermenta",
+            "ref": "https://www.50toppizza.it/referenza/fermenta-2/",
+            "address": [
+                "Fermenta, Viale della Unità D'Italia, Chieti, CH, Abruzzo, Italia"
+            ],
+            "coord": [
+                [
+                    42.3728704,
+                    14.1435541
+                ]
+            ],
+            "website": "https://www.fermentapizzeria.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "80°",
+            "name": "Capuano’s",
+            "ref": "https://www.50toppizza.it/referenza/capuanos/",
+            "address": [
+                "Via Pietro Orseolo, 1, Milano, MI, Italia",
+                "Via Francesco Londonio, 22, Milano, MI, Italia",
+                "Viale Carmelo Bene, 141-145, Roma, RM, Italia",
+                "Piazza Rimembranze, 1, Porto Recanati, MC, Italia"
+            ],
+            "coord": [
+                [
+                    45.4565521,
+                    9.1685165
+                ],
+                [
+                    45.4807379,
+                    9.1687525
+                ],
+                [
+                    41.973599,
+                    12.535943
+                ],
+                [
+                    43.430241,
+                    13.6645603
+                ]
+            ],
+            "website": "https://capuanos.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "81°",
+            "name": "Tavolo Riservato",
+            "ref": "https://www.50toppizza.it/referenza/tavolo-riservato/",
+            "address": [
+                "Tavolo Riservato Pizzeria, Via Caio Duilio, Napoli, NA, Campania, Italia"
+            ],
+            "coord": [
+                [
+                    40.82779,
+                    14.20788
+                ]
+            ],
+            "website": "https://tavoloriservato.superbexperience.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "82°",
+            "name": "Pizzarè",
+            "ref": "https://www.50toppizza.it/referenza/pizzare-3/",
+            "address": [
+                "Pizzaré, Via Municipio, Rizziconi, RC, Calabria, Italia"
+            ],
+            "coord": [
+                [
+                    38.4123017,
+                    15.9587609
+                ]
+            ],
+            "website": "https://www.pizzarerizziconi.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "83°",
+            "name": "TAC – Thin and Crunchy",
+            "ref": "https://www.50toppizza.it/referenza/tac-thin-and-crunchy/",
+            "address": [
+                "TAC Thin and Crunchy, Via Fiume delle Perle, Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.8086267,
+                    12.4387602
+                ]
+            ],
+            "website": "https://www.seupizza.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "84°",
+            "name": "Da Ezio",
+            "ref": "https://www.50toppizza.it/referenza/da-ezio/",
+            "address": [
+                "Pizzeria Da Ezio, Piazza Licini, Alano di Piave BL, Veneto, Italia"
+            ],
+            "coord": [
+                [
+                    45.9090655,
+                    11.9130677
+                ]
+            ],
+            "website": "https://pizzeriadaezio.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "85°",
+            "name": "Luigi Cippitelli Pizzeria",
+            "ref": "https://www.50toppizza.it/referenza/luigi-cippitelli-pizzeria/",
+            "address": [
+                "Pizzeria Luigi Cippitelli, Via Astalonga, San Giuseppe Vesuviano, NA, Campania, Italia"
+            ],
+            "coord": [
+                [
+                    40.8367424,
+                    14.4954329
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "86°",
+            "name": "Extremis",
+            "ref": "https://www.50toppizza.it/referenza/extremis-2024/",
+            "address": [
+                "Extremis, Via del Casale Rocchi, 22, Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.9280677,
+                    12.5447548
+                ]
+            ],
+            "website": "https://extremis.superbexperience.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "87°",
+            "name": "Kilo",
+            "ref": "https://www.50toppizza.it/referenza/kilo/",
+            "address": [
+                "Kilo, Lungomare Cristoforo Colombo, Imperia, Liguria, Italia"
+            ],
+            "coord": [
+                [
+                    43.8701631,
+                    8.0038451
+                ]
+            ],
+            "website": "https://kilolievitati.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "88°",
+            "name": "Fiore di Latte",
+            "ref": "https://www.50toppizza.it/referenza/pizzeria-fiore-di-latte-3/",
+            "address": [
+                "Fiore di Latte Pizzeria, Via G. Verdi, Baveno, VB, Piemonte, Italia"
+            ],
+            "coord": [
+                [
+                    45.9292145,
+                    8.4801527
+                ]
+            ],
+            "website": "http://fioredilatte.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "89°",
+            "name": "Piano B",
+            "ref": "https://www.50toppizza.it/referenza/piano-b-3/",
+            "address": [
+                "Piano B, Via Cairoli, Siracusa, SR, Sicilia, Italia"
+            ],
+            "coord": [
+                [
+                    37.0647251,
+                    15.2879183
+                ]
+            ],
+            "website": "https://www.pianobsiracusa.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "90°",
+            "name": "PiGreco",
+            "ref": "https://www.50toppizza.it/referenza/pigreco/",
+            "address": [
+                "PiGreco Pizzeria, Via Famiglietti, Volla, NA, Campania, Italia"
+            ],
+            "coord": [
+                [
+                    40.8764342,
+                    14.3450294
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "91°",
+            "name": "Claudio Alvicolo",
+            "ref": "https://www.50toppizza.it/referenza/claudio-alvicolo-3/",
+            "address": [
+                "Claudio AlVicolo, Via di Piazza del Popolo, Orvieto, TR, Umbria, Italia"
+            ],
+            "coord": [
+                [
+                    42.7186544,
+                    12.1095756
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "92°",
+            "name": "Glamour – Antonello Scatorchia",
+            "ref": "https://www.50toppizza.it/referenza/glamour-the-fashion-pizza-3/",
+            "address": [
+                "Glamour Antonello Scatorchia, Piazzale Foggia, Rionero In Vulture, PZ, Basilicata, Italia"
+            ],
+            "coord": [
+                [
+                    40.920739,
+                    15.675488
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "93°",
+            "name": "Vadolì",
+            "ref": "https://www.50toppizza.it/referenza/vadoli-2/",
+            "address": [
+                "Vadolì, Via Salvatore Scervini, Acri, CS, Calabria, Italia"
+            ],
+            "coord": [
+                [
+                    39.4947282,
+                    16.3803912
+                ]
+            ],
+            "website": "https://vadoli.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "94°",
+            "name": "Antica Pizzeria Ciro 1923",
+            "ref": "https://www.50toppizza.it/referenza/antica-pizzeria-ciro-1923-3/",
+            "address": [
+                "Antica Pizzeria da Ciro, Molo Sant'Antonio, Via Lungomare G. Caboto, Gaeta, LT, Italia"
+            ],
+            "coord": [
+                [
+                    41.2135712,
+                    13.5787693
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "95°",
+            "name": "Sileo",
+            "ref": "https://www.50toppizza.it/referenza/sileo-2024/",
+            "address": [
+                "Sileo Pizzeria di Andrea Brunetti, Via Nazionale, Nucetto, CN, Piemonte, Italia"
+            ],
+            "coord": [
+                [
+                    44.3410037,
+                    8.0605604
+                ]
+            ],
+            "website": "https://sileopizzeria.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "96°",
+            "name": "CUORE – Luca Brancati",
+            "ref": "https://www.50toppizza.it/referenza/cuore-luca-brancati/",
+            "address": [
+                "Via Monte Pasubio, 9, 36035 Marano Vicentino, VI, Italia"
+            ],
+            "coord": [
+                [
+                    45.6916601,
+                    11.4259711
+                ]
+            ],
+            "website": null
+        },
+        {
+            "category": "🍕",
+            "position": "97°",
+            "name": "Luppolo & Farina",
+            "ref": "https://www.50toppizza.it/referenza/luppolo-farina-3/",
+            "address": [
+                "Luppolo & Farina, Via Francesco D'Ippolito, Latiano, BR, Puglia, Italia"
+            ],
+            "coord": [
+                [
+                    40.5525383,
+                    17.7146017
+                ]
+            ],
+            "website": "https://luppoloefarinapizzeria.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "98°",
+            "name": "iSaulle",
+            "ref": "https://www.50toppizza.it/referenza/isaulle/",
+            "address": [
+                "Località Amérique, 11, 11020 Quart, AO, Italia"
+            ],
+            "coord": [
+                [
+                    45.7410274,
+                    7.3811672
+                ]
+            ],
+            "website": "https://www.isaulle.com/"
+        },
+        {
+            "category": "🍕",
+            "position": "99°",
+            "name": "Sitari",
+            "ref": "https://www.50toppizza.it/referenza/sitari-sorce-family/",
+            "address": [
+                "Sitári, Viale Leonardo Sciascia, Agrigento, AG, Sicilia, Italia"
+            ],
+            "coord": [
+                [
+                    37.2710169,
+                    13.6264258
+                ]
+            ],
+            "website": "https://www.sitari.it/"
+        },
+        {
+            "category": "🍕",
+            "position": "100°",
+            "name": "Lombardi Pizzeria",
+            "ref": "https://www.50toppizza.it/referenza/lombardi-pizzeria/",
+            "address": [
+                "Lombardi Pizzeria, Via Forche Caudine, Maddaloni, CE, Campania, Italia"
+            ],
+            "coord": [
+                [
+                    41.0233789,
+                    14.3789479
+                ]
+            ],
+            "website": null
+        }
+    ]
+}
