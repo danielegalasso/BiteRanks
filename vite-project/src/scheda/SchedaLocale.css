@@ -161,6 +161,8 @@
   background-color: #444;
 }
 
+
+
 @media (orientation: portrait) {
   .outher-cont {
     width: calc(68.38vw * 0.75); /* Scala la larghezza */

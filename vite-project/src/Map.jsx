@@ -115,6 +115,7 @@ export const Map = memo(({ markers }) => {
   const linkIndicazioniMaps = "https://maps.google.com/dir/?api=1&destination=Panificio+Menchetti";
   const linkSitoWeb = "https://www.panificiomenchetti.it";
 
+  
   return (
     <MapContainer center={defaultPosition} zoom={5} zoomControl={false}>
       {position && <MoveToLocation position={position} geolocationEnabled={geolocationEnabled}/>}
@@ -132,35 +133,47 @@ export const Map = memo(({ markers }) => {
       <ZoomControl position="bottomright" />
       </div>
 
+      
+
       {renderMarkers && (
         <MarkerClusterGroup chunkedLoading iconCreateFunction={createClusterCustomIcon}>
         {markers.map((subclassifica, subclassificaIndex) => (
           Object.keys(subclassifica).map((category, categoryIndex) => (
             subclassifica[category].map((locale, localeIndex) =>
-              locale.coord.map((coords, coordsIndex) => (
-                <Marker
-                  key={`${subclassificaIndex}-${categoryIndex}-${localeIndex}-${coordsIndex}`}
-                  position={coords}
-                  icon={createCustomIcon(category,locale.position)}
-                  ref={el => markerRefs.current[`${categoryIndex}-${localeIndex}-${coordsIndex}`] = el
-                }
-                >
-                  <Popup>
-                    <SchedaLocale 
-                      nome={nomeLocale}
-                      classifiche={classifiche}
-                      linkGoogleMaps={linkGoogleMaps}
-                      linkIndicazioniMaps={linkIndicazioniMaps}
-                      linkSitoWeb={linkSitoWeb}
-                      coords={coords}
-                    />
-                  </Popup>
-                </Marker>
-              ))
+              locale.coord.map((coords, coordsIndex) => {
+                const nomeLocale = locale.name;
+                const classifiche = [
+                  [Object.keys(subclassifica)[0], locale.position, locale.ref],
+                ];
+                const linkGoogleMaps = `https://www.google.com/maps?q=${coords[0]},${coords[1]}`;
+                const linkIndicazioniMaps = `https://www.google.com/maps/dir/?api=1&destination=${coords[0]},${coords[1]}`;
+                const linkSitoWeb = locale.webisite;
+      
+                return (
+                  <Marker
+                    key={`${subclassificaIndex}-${categoryIndex}-${localeIndex}-${coordsIndex}`}
+                    position={coords}
+                    icon={createCustomIcon(category, locale.position)}
+                    ref={el => markerRefs.current[`${categoryIndex}-${localeIndex}-${coordsIndex}`] = el}
+                  >
+                    <Popup>
+                      <SchedaLocale
+                        nome={nomeLocale}
+                        classifiche={classifiche}
+                        linkGoogleMaps={linkGoogleMaps}
+                        linkIndicazioniMaps={linkIndicazioniMaps}
+                        linkSitoWeb={linkSitoWeb}
+                        coords={coords}
+                      />
+                    </Popup>
+                  </Marker>
+                );
+              })
             )
           ))
         ))}
       </MarkerClusterGroup>
+      
       
       )}
     </MapContainer>
