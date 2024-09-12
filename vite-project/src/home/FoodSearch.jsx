@@ -19,6 +19,41 @@ import defaultIcon from "../../public/ranking-icon/Empty.png"; // Percorso all'i
 
 const FoodSearch = ({sfsv, selectedItems, setSelectedItems, setMarkers}) => {
 
+  const [rankingItems, setRankingItems] = useState([]);
+
+  useEffect(() => {
+    // Funzione per caricare il file index.json e creare la mappa delle icone
+    const fetchRankings = async () => {
+      try {
+        // Fetch del file index.json
+        const response = await fetch('/ranking/index.json');
+        const data = await response.json();
+
+        // Creare una lista di oggetti rankingItems
+        const items = data.map((ranking) => {
+
+          const unshowedRankingName =  ranking.replace('.json', '');
+          const rankingName = ranking.replace('.json', '').replace(/_/g, ' ');
+          const iconPath = `/ranking-icon/${unshowedRankingName}.png`;
+          const rankingPath = `/ranking/${unshowedRankingName}/`;
+
+          return { 
+            icon: iconPath, 
+            name: rankingName, 
+            path: rankingPath 
+          };
+        });
+
+        // Imposta i dati nel state
+        setRankingItems(items);
+      } catch (error) {
+        console.error('Errore durante il caricamento delle classifiche:', error);
+      }
+    };
+
+    fetchRankings();
+  }, []);
+
 
 
   const [SearchbuttonClicked, setSearchbuttonClicked] = useState(false);
@@ -120,12 +155,6 @@ const FoodSearch = ({sfsv, selectedItems, setSelectedItems, setMarkers}) => {
     { icon: sweetsicon, name: "Sweets" },
   ];
 
-  // Lista di ranking-items
-  const rankingItems = [
-    { icon: "", name: "Gambero Rosso", path:"./ranking/gamberoRosso/"},
-    { icon: "", name: "Le Soste", path: "./ranking/leSoste/"}
-   
-  ];
 
 
 
