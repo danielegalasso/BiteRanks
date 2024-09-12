@@ -7,14 +7,24 @@ const SchedaLocale = ({
   classifiche, 
   linkGoogleMaps, 
   linkIndicazioniMaps, 
-  linkSitoWeb 
+  linkSitoWeb,
+  coords
 }) => {
   const [copied, setCopied] = useState(false); // Stato per monitorare se il link è stato copiato
 
   const copyToClipboard = () => {
-    navigator.clipboard.writeText(window.location.href)
+    const currentUrl = new URL(window.location.href);
+    const params = new URLSearchParams(currentUrl.search);
+    params.set('lat', coords[0]); // Aggiungi latitudine
+    params.set('lng', coords[1]); // Aggiungi longitudine
+    params.set('locale', nome); // Aggiungi il nome del locale o un ID univoco
+
+    const shareableUrl = `${currentUrl.origin}${currentUrl.pathname}?${params.toString()}`;
+    
+    navigator.clipboard.writeText(shareableUrl)
       .then(() => {
         setCopied(true); // Imposta lo stato a true quando il link è copiato
+        console.log("Link copiato: ", shareableUrl);
       })
       .catch(err => {
         console.error("Errore nel copiare il link: ", err);
