@@ -7,7 +7,7 @@ import MarkerClusterGroup from "react-leaflet-cluster";
 import createClusterCustomIcon from "./CreateClusterCustomIcon";
 import createCustomIcon from "./CreateCustomIcon";
 import SchedaLocale from "./scheda/SchedaLocale";
-
+//chidi
 // Component to move the map to the user's location
 function MoveToLocation({ position, geolocationEnabled}) {
   const map = useMap();
