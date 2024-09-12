@@ -49,7 +49,7 @@ export const Map = memo(({ markers }) => {
 
     if (lat && lng) {
       // Se ci sono lat e lng nell'URL, sposta la mappa a quelle coordinate
-      setPosition([parseFloat(lat), parseFloat(lng)]);
+      setPosition(parseFloat(lat), parseFloat(lng));
     } else if (navigator.geolocation) {
       navigator.geolocation.getCurrentPosition(
         (pos) => {
@@ -68,31 +68,43 @@ export const Map = memo(({ markers }) => {
   }, [searchParams]);
 
   // Load markers after a delay to avoid lag during transitions
-  // NON USO PIU IL DELAY
+  // FUNZIONE HOOK che si attiva ogni volta che la variabile position cambia
   useEffect(() => {
     if (position) {
       setRenderMarkers(true);
     }
   }, [position]);
-
+  
   useEffect(() => {
-    if (position) {
+    // Stampa i riferimenti e i marker nel log per debug
+    console.log("Riferimenti ai marker creati: ", Object.keys(markerRefs.current).length);
+    console.log("Numero totale dei marker attesi: ", Object.keys(markers).reduce((total, cat) => total + markers[cat].length, 0));
+    
+    // Calcola il numero totale di marker attesi, ovvero la somma di tutti i marker per categoria
+    const expectedMarkersCount = Object.keys(markers).reduce((total, cat) => total + markers[cat].length, 0);
+    
+    // Se tutti i marker sono stati caricati, apri il popup del marker corrispondente alle coordinate nell'URL
+    if (Object.keys(markerRefs.current).length >= expectedMarkersCount - 1) {
+      console.log("Tutti i marker sono stati caricati");
       const lat = searchParams.get('lat');
       const lng = searchParams.get('lng');
 
+      console.log("Latitudine e longitudine dall'URL: ", lat, lng);
       if (lat && lng) {
         const targetCoords = [parseFloat(lat), parseFloat(lng)];
+      
+        // Utilizza setTimeout per ritardare l'apertura del popup dopo 500ms (puoi modificare il tempo in base alle tue esigenze)
         setTimeout(() => {
           Object.values(markerRefs.current).forEach(marker => {
-            console.log("coordinate del markerEach: "+marker.getLatLng()+"marker passato: "+ targetCoords);
             if (marker && marker.getLatLng().equals(targetCoords)) {
+              console.log("Apertura popup per il marker alle coordinate: ", targetCoords);
               marker.openPopup();
             }
           });
-        }, 500); // Adjust the timeout if necessary
+        }, 500);
       }
     }
-  }, [position, searchParams]);
+  }, [markerRefs.current, markers]); 
 
   const nomeLocale = "Panificio Menchetti";
   const classifiche = [
@@ -131,7 +143,8 @@ export const Map = memo(({ markers }) => {
                   key={`${categoryIndex}-${localeIndex}-${coordsIndex}`}
                   position={coords}
                   icon={createCustomIcon(category,locale.position)}
-                  ref={el => markerRefs.current[`${categoryIndex}-${localeIndex}-${coordsIndex}`] = el}
+                  ref={el => markerRefs.current[`${categoryIndex}-${localeIndex}-${coordsIndex}`] = el
+                }
                 >
                   <Popup>
                     <SchedaLocale 
