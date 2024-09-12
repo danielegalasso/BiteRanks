@@ -1,6 +1,7 @@
-import React, { useState, useEffect, memo } from "react";
+import React, { useState, useEffect, memo, useRef} from "react";
 import "./Map.css";
 import "leaflet/dist/leaflet.css";
+import { useSearchParams, useLocation } from 'react-router-dom'; // Aggiunto
 import { MapContainer, TileLayer, Marker, Popup, useMap, ZoomControl } from "react-leaflet";
 import MarkerClusterGroup from "react-leaflet-cluster";
 import createClusterCustomIcon from "./CreateClusterCustomIcon";
@@ -8,29 +9,48 @@ import createCustomIcon from "./CreateCustomIcon";
 import SchedaLocale from "./scheda/SchedaLocale";
 
 // Component to move the map to the user's location
-function MoveToLocation({ position, geolocationEnabled }) {
+function MoveToLocation({ position, geolocationEnabled}) {
   const map = useMap();
-
+  const location = useLocation();
+  
   useEffect(() => {
-    if (position) {
+    const searchParams = new URLSearchParams(location.search);
+    const lat = searchParams.get('lat');
+    const lng = searchParams.get('lng');
+
+    if (lat && lng) {
+      // Se le coordinate sono presenti nell'URL, imposta lo zoom a 17
+      const targetCoords = [parseFloat(lat), parseFloat(lng)];
+      map.setView(targetCoords, 17);
+      
+    } else if (position) {
+      // Se la geolocalizzazione è attiva zoomma a 7, altrimenti a 5 (quando l'utente non imposta la geolocalizzazione)
       const zoomLevel = geolocationEnabled ? 7 : 5;
       map.setView(position, zoomLevel);
     }
-  }, [position, map, geolocationEnabled]);
+  }, [position, map, geolocationEnabled, location]);
+
   return null;
 }
 
 //export function Map({ markers }) {
 export const Map = memo(({ markers }) => {
-  console.log("Map component rendered"); // Questo ti dirà ogni volta che il componente viene ri-renderizzato.
-
+  //console.log("Map component rendered"); // Questo ti dirà ogni volta che il componente viene ri-renderizzato.
   const [position, setPosition] = useState(null);
   const [renderMarkers, setRenderMarkers] = useState(false);
   const [geolocationEnabled, setGeolocationEnabled] = useState(false);
   const defaultPosition = [48.8566, 2.3522]; // Paris fallback
+  const [searchParams] = useSearchParams(); // Aggiunto per leggere i parametri
+  const markerRefs = useRef({}); // To store references to markers
 
   useEffect(() => {
-    if (navigator.geolocation) {
+    const lat = searchParams.get('lat');
+    const lng = searchParams.get('lng');
+
+    if (lat && lng) {
+      // Se ci sono lat e lng nell'URL, sposta la mappa a quelle coordinate
+      setPosition(parseFloat(lat), parseFloat(lng));
+    } else if (navigator.geolocation) {
       navigator.geolocation.getCurrentPosition(
         (pos) => {
           setPosition([pos.coords.latitude, pos.coords.longitude]);
@@ -45,18 +65,46 @@ export const Map = memo(({ markers }) => {
       setPosition(defaultPosition);
       setGeolocationEnabled(false);
     }
-  }, []);
+  }, [searchParams]);
 
   // Load markers after a delay to avoid lag during transitions
+  // FUNZIONE HOOK che si attiva ogni volta che la variabile position cambia
   useEffect(() => {
     if (position) {
-      const timer = setTimeout(() => {
-        setRenderMarkers(true);
-      }, 1000);
-      return () => clearTimeout(timer);
+      setRenderMarkers(true);
     }
   }, [position]);
 
+  useEffect(() => {
+    // Stampa i riferimenti e i marker nel log per debug
+    console.log("Riferimenti ai marker creati: ", Object.keys(markerRefs.current).length);
+    console.log("Numero totale dei marker attesi: ", Object.keys(markers).reduce((total, cat) => total + markers[cat].length, 0));
+    
+    // Calcola il numero totale di marker attesi, ovvero la somma di tutti i marker per categoria
+    const expectedMarkersCount = Object.keys(markers).reduce((total, cat) => total + markers[cat].length, 0);
+    
+    // Se tutti i marker sono stati caricati, apri il popup del marker corrispondente alle coordinate nell'URL
+    if (Object.keys(markerRefs.current).length >= expectedMarkersCount - 1) {
+      console.log("Tutti i marker sono stati caricati");
+      const lat = searchParams.get('lat');
+      const lng = searchParams.get('lng');
+
+      console.log("Latitudine e longitudine dall'URL: ", lat, lng);
+      if (lat && lng) {
+        const targetCoords = [parseFloat(lat), parseFloat(lng)];
+      
+        // Utilizza setTimeout per ritardare l'apertura del popup dopo 500ms (puoi modificare il tempo in base alle tue esigenze)
+        setTimeout(() => {
+          Object.values(markerRefs.current).forEach(marker => {
+            if (marker && marker.getLatLng().equals(targetCoords)) {
+              console.log("Apertura popup per il marker alle coordinate: ", targetCoords);
+              marker.openPopup();
+            }
+          });
+        }, 500);
+      }
+    }
+  }, [markerRefs.current, markers]); 
   
   return (
     <MapContainer center={defaultPosition} zoom={5} zoomControl={false}>
@@ -75,12 +123,11 @@ export const Map = memo(({ markers }) => {
       <ZoomControl position="bottomright" />
       </div>
 
-      
-
       {renderMarkers && (
         <MarkerClusterGroup chunkedLoading iconCreateFunction={createClusterCustomIcon}>
         {markers.map((subclassifica, subclassificaIndex) => (
           Object.keys(subclassifica).map((category, categoryIndex) => (
+            //locale = pizzeria/gelateria/ristorante presente nelle varie classifiche.
             subclassifica[category].map((locale, localeIndex) =>
               locale.coord.map((coords, coordsIndex) => {
                 const nomeLocale = locale.name;
