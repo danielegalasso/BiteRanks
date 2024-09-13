@@ -20,6 +20,19 @@ import defaultIcon from "../../public/ranking-icon/Empty.png"; // Percorso all'i
 const FoodSearch = ({sfsv, selectedItems, setSelectedItems, markers, setMarkers}) => {
 
   const [rankingItems, setRankingItems] = useState([]);
+  const [foodItems, setFoodItems]= useState([]);
+
+    // Lista di food-item (puoi aggiungere o modificare questi valori)
+    //const foodItems = [
+    //  { icon: pizzaicon, name: "Pizza" },
+    //  { icon: icecreamicon, name: "Ice Cream" },
+    //  { icon: sushiicon, name: "Sushi" },
+    //  { icon: hamburgericon, name: "Hamburger" },
+    //  { icon: steakhouseicon, name: "Steak House" },
+    //  { icon: sweetsicon, name: "Sweets" },
+    //];
+  
+  
 
   useEffect(() => {
     const fetchData = async (item, file) => {
@@ -45,13 +58,12 @@ const FoodSearch = ({sfsv, selectedItems, setSelectedItems, markers, setMarkers}
       }
     };
     // Funzione asincrona per caricare il file index.json e creare la mappa delle icone
-    const fetchRankingsAndFindParam = async () => {
+    const fetchRankingsFoodsAndFindParam = async () => {
       try {
-        // Fetch del file index.json
+        // Fetch Rankings
         const response = await fetch('/ranking/index.json');
         const data = await response.json();
 
-        // Creare una lista di oggetti rankingItems
         const items = data.map((ranking) => {
           const unshowedRankingName = ranking.replace('.json', '');
           const rankingName = ranking.replace('.json', '').replace(/_/g, ' ');
@@ -65,16 +77,43 @@ const FoodSearch = ({sfsv, selectedItems, setSelectedItems, markers, setMarkers}
           };
         });
 
-        // Imposta i dati nello state
         setRankingItems(items);
-        console.log("rankingItems loaded");
-        console.log(items);
+        console.log("RankingItems:")
+        console.log(items)
+
+        
+        // Fetch Foods
+        const response1 = await fetch('/food/index.json'); // Modifica il percorso per puntare al file index.json di "Food"
+        const data1 = await response1.json();
+
+        const items1 = data1.map((category) => {
+          const unshowedCategoryName = category.replace('.json', '');
+          const categoryName = category.replace('.json', '').replace(/_/g, ' ');
+          const iconPath = `/food-icon/${unshowedCategoryName}.png`; // Modifica il percorso dell'icona per il cibo
+          const categoryPath = `/food/${unshowedCategoryName}/`; // Modifica il percorso per la categoria di cibo
+
+          return {
+            icon: iconPath,
+            name: categoryName,
+            path: categoryPath
+          };
+        });
+
+        setFoodItems(items1); // Modifica il set per gli elementi di "Food"
+        console.log("FoodItems:")
+        console.log(items1)
+
+
+
+        
 
 
 
 
 
-        // Ottieni il parametro dalla URL
+
+
+        // Find Param
         const searchParams = new URLSearchParams(window.location.search);
         const rankParm = searchParams.get('ranking');
         console.log("rankParm: ", rankParm);
@@ -87,8 +126,7 @@ const FoodSearch = ({sfsv, selectedItems, setSelectedItems, markers, setMarkers}
           console.log(rankParm.toLowerCase());
           console.log("foundFood: ", foundItem);
           if (foundItem) {
-            console.log("SIIIIIIIIIIIIIIIIIIi");
-            console.log(foundItem);
+
             const fileToFetch = subRankParm.replace(/ /g, '') + '.json';
 
             const data = await fetchData(foundItem, fileToFetch); // Recupera i dati della sub-classifica
@@ -108,7 +146,7 @@ const FoodSearch = ({sfsv, selectedItems, setSelectedItems, markers, setMarkers}
       }
     };
 
-    fetchRankingsAndFindParam();
+    fetchRankingsFoodsAndFindParam();
   }, []); // Esegui solo una volta all'inizio
 
   const handleClickItem = (item) => {
@@ -223,16 +261,6 @@ const FoodSearch = ({sfsv, selectedItems, setSelectedItems, markers, setMarkers}
  
 
   const navigate = useNavigate(); // Navigation hook
-
-  // Lista di food-item (puoi aggiungere o modificare questi valori)
-  const foodItems = [
-    { icon: pizzaicon, name: "Pizza" },
-    { icon: icecreamicon, name: "Ice Cream" },
-    { icon: sushiicon, name: "Sushi" },
-    { icon: hamburgericon, name: "Hamburger" },
-    { icon: steakhouseicon, name: "Steak House" },
-    { icon: sweetsicon, name: "Sweets" },
-  ];
 
 
 
