@@ -170,9 +170,7 @@ const SearchBarWithAutocomplete = ({sfsv, isFSV , selectedItems, setSelectedItem
   const handleClickOutside = (event) => {
     // Controlla se searchBarRef esiste e se il clic non è all'interno della search bar
     const clickedOutsideSearchBar = searchBarRef.current && !searchBarRef.current.contains(event.target);
-    // Controlla se suggestionsRef esiste e se il clic non è all'interno della lista suggerimenti
     const clickedOutsideSuggestions = suggestionsRef.current && !suggestionsRef.current.contains(event.target);
-
     // Se il clic è al di fuori sia della search bar che dei suggerimenti, resetta i suggerimenti
     if (clickedOutsideSearchBar && clickedOutsideSuggestions) {
       setSuggestions([]);
@@ -210,7 +208,6 @@ const SearchBarWithAutocomplete = ({sfsv, isFSV , selectedItems, setSelectedItem
               {suggestion.name}
             </li>
           ))}
-          {userPosition && (
             <li
               key="user-position"
               onClick={handleUserPositionClick}
@@ -218,7 +215,6 @@ const SearchBarWithAutocomplete = ({sfsv, isFSV , selectedItems, setSelectedItem
             >
               <FaCompass className="compass-icon" /> La tua posizione
             </li>
-          )}
         </ul>
       )}
 

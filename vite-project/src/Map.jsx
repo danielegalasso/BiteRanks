@@ -49,29 +49,14 @@ function MoveToLocation({ position, geolocationEnabled}) {
     const type = searchParams.get('type'); //TYPE POSSIBILI: road, attraction, neighbourhood, city, country
     const distanceArea = searchParams.get('distance'); // distanza in km della citta (simile all'area)
     if (lat && lng) {
-      if(distanceArea){
+      if(distanceArea){ //se è presente distanceArea nell'url grazie al FoodSearch 
         const zoomLevel = getZoomLevelByDistance(parseFloat(distanceArea));
         map.setView([parseFloat(lat), parseFloat(lng)], zoomLevel);
       }
-      /*
-      if(type === 'country'){
-        map.setView([parseFloat(lat), parseFloat(lng)], 8);
-      }
-      else if(type === 'city'){
-        map.setView([parseFloat(lat), parseFloat(lng)], 11);
-      }
-      else if(type === 'neighbourhood'){
-        map.setView([parseFloat(lat), parseFloat(lng)], 16);
-      }
-      else{
-        // Se è una road o un attraction, oppure non è presente type in quanto è un link inviato da un utente di una posizione
-        //zoomo al massimo
-        const targetCoords = [parseFloat(lat), parseFloat(lng)];
-        map.setView(targetCoords, 17);
-      }
-        */
-      
-    } else if (position) {
+      else{ //se non è presente distanceArea nell'url, ma sono presenti le coordinate, vuol dire che è il link per la posizione di un ristorante
+        map.setView([parseFloat(lat), parseFloat(lng)], 15);
+      }      
+    } else if (position) { //se non è presente ho è un link, oppure ho acceduto normalmente
       // Se la geolocalizzazione è attiva zoomma a 7, altrimenti a 5 (quando l'utente non imposta la geolocalizzazione)
       const zoomLevel = geolocationEnabled ? 7 : 5;
       map.setView(position, zoomLevel);
