@@ -67,3 +67,7 @@ if __name__ == "__main__":
         print("Utilizzo: python script.py <input_path> <output_path> <classifiche_file>")
     else:
         estrai_cibi(sys.argv[1], sys.argv[2], sys.argv[3])
+
+# How to use it:
+# python script.py "path_da_cui_estrarre_cibi" "path_dove_salvare_file" "file_helper.json"
+# python .\generate_food.py ..\vite-project\public\ranking ..\vite-project\public\food ..\vite-project\public\food\helper.json
