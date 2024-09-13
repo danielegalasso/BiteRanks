@@ -125,43 +125,45 @@ export const Map = memo(({ markers }) => {
 
       {renderMarkers && (
         <MarkerClusterGroup chunkedLoading iconCreateFunction={createClusterCustomIcon}>
-        {markers.map((subclassifica, subclassificaIndex) => (
-          Object.keys(subclassifica).map((category, categoryIndex) => (
-            //locale = pizzeria/gelateria/ristorante presente nelle varie classifiche.
-            subclassifica[category].map((locale, localeIndex) =>
-              locale.coord.map((coords, coordsIndex) => {
-                const nomeLocale = locale.name;
-                const classifiche = [
-                  [Object.keys(subclassifica)[0], locale.position, locale.ref],
-                ];
-                const linkGoogleMaps = `https://www.google.com/maps?q=${coords[0]},${coords[1]}`;
-                const linkIndicazioniMaps = `https://www.google.com/maps/dir/?api=1&destination=${coords[0]},${coords[1]}`;
-                const linkSitoWeb = locale.webisite;
-      
-                return (
-                  <Marker
-                    key={`${subclassificaIndex}-${categoryIndex}-${localeIndex}-${coordsIndex}`}
-                    position={coords}
-                    icon={createCustomIcon(category, locale.position)}
-                    ref={el => markerRefs.current[`${categoryIndex}-${localeIndex}-${coordsIndex}`] = el}
-                  >
-                    <Popup>
-                      <SchedaLocale
-                        nome={nomeLocale}
-                        classifiche={classifiche}
-                        linkGoogleMaps={linkGoogleMaps}
-                        linkIndicazioniMaps={linkIndicazioniMaps}
-                        linkSitoWeb={linkSitoWeb}
-                        coords={coords}
-                      />
-                    </Popup>
-                  </Marker>
-                );
-              })
-            )
+        {Object.entries(markers).map(([classificaKey, classifica], classificaIndex) => (
+          Object.entries(classifica).map(([subclassificaKey, subclassifica], subclassificaIndex) => (
+            Object.entries(subclassifica).map(([categoryKey, category], categoryIndex) => (
+              category.map((locale, localeIndex) =>
+                locale.coord.map((coords, coordsIndex) => {
+                  const nomeLocale = locale.name;
+                  const nomeClassifica = classificaKey;
+                  const subclassifiche = [[Object.keys(subclassifica), locale.position, locale.ref]];
+                  const linkGoogleMaps = `https://www.google.com/maps?q=${coords[0]},${coords[1]}`;
+                  const linkIndicazioniMaps = `https://www.google.com/maps/dir/?api=1&destination=${coords[0]},${coords[1]}`;
+                  const linkSitoWeb = locale.website; // Corretto da `webisite` a `website`
+        
+                  return (
+                    <Marker
+                      key={`${classificaIndex}-${subclassificaIndex}-${categoryIndex}-${localeIndex}-${coordsIndex}`}
+                      position={coords}
+                      icon={createCustomIcon(categoryKey, locale.position)}
+                      ref={el => markerRefs.current[`${categoryIndex}-${localeIndex}-${coordsIndex}`] = el}
+                    >
+                      <Popup>
+                        <SchedaLocale
+                          nome={nomeLocale}
+                          nomeClassifica = {nomeClassifica}
+                          subclassifiche={subclassifiche}
+                          linkGoogleMaps={linkGoogleMaps}
+                          linkIndicazioniMaps={linkIndicazioniMaps}
+                          linkSitoWeb={linkSitoWeb}
+                          coords={coords}
+                        />
+                      </Popup>
+                    </Marker>
+                  );
+                })
+              )
+            ))
           ))
         ))}
       </MarkerClusterGroup>
+      
       
       
       )}

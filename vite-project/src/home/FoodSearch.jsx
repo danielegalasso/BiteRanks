@@ -22,8 +22,30 @@ const FoodSearch = ({sfsv, selectedItems, setSelectedItems, markers, setMarkers}
   const [rankingItems, setRankingItems] = useState([]);
 
   useEffect(() => {
-    // Funzione per caricare il file index.json e creare la mappa delle icone
-    const fetchRankings = async () => {
+    const fetchData = async (item, file) => {
+      try {
+        const filePath = `${item.path}${file}`;
+        const response = await fetch(filePath, {
+          headers: {
+            "Content-Type": "application/json",
+            Accept: "application/json",
+          },
+        });
+  
+        if (!response.ok) {
+          console.error(`Errore nel recupero del file: ${filePath}`);
+          return null; // Restituisci null in caso di errore per gestirlo successivamente
+        }
+  
+        const data = await response.json();
+        return data;
+      } catch (error) {
+        console.error("Errore durante il recupero dei dati: ", error);
+        return null; // Restituisci null in caso di errore
+      }
+    };
+    // Funzione asincrona per caricare il file index.json e creare la mappa delle icone
+    const fetchRankingsAndFindParam = async () => {
       try {
         // Fetch del file index.json
         const response = await fetch('/ranking/index.json');
@@ -31,30 +53,80 @@ const FoodSearch = ({sfsv, selectedItems, setSelectedItems, markers, setMarkers}
 
         // Creare una lista di oggetti rankingItems
         const items = data.map((ranking) => {
-
-          const unshowedRankingName =  ranking.replace('.json', '');
+          const unshowedRankingName = ranking.replace('.json', '');
           const rankingName = ranking.replace('.json', '').replace(/_/g, ' ');
           const iconPath = `/ranking-icon/${unshowedRankingName}.png`;
           const rankingPath = `/ranking/${unshowedRankingName}/`;
 
-          return { 
-            icon: iconPath, 
-            name: rankingName, 
-            path: rankingPath 
+          return {
+            icon: iconPath,
+            name: rankingName,
+            path: rankingPath
           };
         });
 
-        // Imposta i dati nel state
+        // Imposta i dati nello state
         setRankingItems(items);
+        console.log("rankingItems loaded");
+        console.log(items);
+
+
+
+
+
+        // Ottieni il parametro dalla URL
+        const searchParams = new URLSearchParams(window.location.search);
+        const rankParm = searchParams.get('ranking');
+        console.log("rankParm: ", rankParm);
+        const subRankParm = searchParams.get('subranking');
+        console.log("subRankParm: ", subRankParm);
+
+        // Se esiste un foodName nell'URL, seleziona automaticamente quel cibo
+        if (rankParm) {
+          const foundItem = items.find(ranking => ranking.name.toLowerCase() === rankParm.toLowerCase());
+          console.log(rankParm.toLowerCase());
+          console.log("foundFood: ", foundItem);
+          if (foundItem) {
+            console.log("SIIIIIIIIIIIIIIIIIIi");
+            console.log(foundItem);
+            const fileToFetch = subRankParm.replace(/ /g, '') + '.json';
+
+            const data = await fetchData(foundItem, fileToFetch); // Recupera i dati della sub-classifica
+            
+            const allData = {};
+            allData[foundItem.name] = []
+            if (data) {
+              // Aggiungi i dati all'array solo se il recupero è stato un successo
+              allData[foundItem.name].push(data);
+            }
+            setMarkers(allData);
+            
+          }
+        }
       } catch (error) {
         console.error('Errore durante il caricamento delle classifiche:', error);
       }
     };
 
-    fetchRankings();
-  }, []);
+    fetchRankingsAndFindParam();
+  }, []); // Esegui solo una volta all'inizio
+
+  const handleClickItem = (item) => {
 
 
+
+    setSelectedItems((prevSelectedItems) => {
+
+      const updatedItems = prevSelectedItems.some(selectedItem => selectedItem.name === item.name)
+        ? prevSelectedItems.filter((i) => i.name !== item.name) // Rimuovi l'item se è già selezionato
+        : [...prevSelectedItems, item]; // Aggiungi l'item se non è già selezionato
+  
+      console.log('Updated selected items:', updatedItems); // Stampa l'array aggiornato
+  
+      return updatedItems;
+    });
+    
+  };
 
   const [SearchbuttonClicked, setSearchbuttonClicked] = useState(false);
 
@@ -91,18 +163,16 @@ const FoodSearch = ({sfsv, selectedItems, setSelectedItems, markers, setMarkers}
         return null; // Restituisci null in caso di errore
       }
     };
+
   
     if (SearchbuttonClicked) {
       sfsv(false); // Esegui l'aggiornamento dello stato solo quando buttonClicked è true
   
       const fetchAllData = async () => {
-        const allData = []; // Array per raccogliere tutti i dati
-  
+        const allData = {}; // Dizionario per raccogliere tutti i dati
+
         // Itera su ciascun elemento in selectedItems
         for (const item of selectedItems) {
-          console.log(item.path);
-          
-
           const filePath = `${item.path}index.json`;
           
           const response = await fetch(filePath, {
@@ -111,24 +181,32 @@ const FoodSearch = ({sfsv, selectedItems, setSelectedItems, markers, setMarkers}
               Accept: "application/json",
             },
           });
+          
           if (!response.ok) {
             console.error("Errore nel recupero dell'index.json");
             return;
           }
+          
           const files = await response.json(); // Ottieni la lista dei file
 
-          
+          // Inizializza un array vuoto per le sub-classifiche
+          allData[item.name] = [];
 
           for (const file of files) {
-            const data = await fetchData(item, file); // Usa await per attendere il risultato di fetchData
-  
+            console.log("item");
+            console.log(item);
+            console.log("file");
+            console.log(file);
+            const data = await fetchData(item, file); // Recupera i dati della sub-classifica
+
             if (data) {
               // Aggiungi i dati all'array solo se il recupero è stato un successo
-              allData.push(data);
+              allData[item.name].push(data);
             }
           }
         }
-  
+
+        console.log("allData");
         console.log(allData);
         setMarkers(allData); // Imposta i marker con tutti i dati recuperati
       };
@@ -138,36 +216,11 @@ const FoodSearch = ({sfsv, selectedItems, setSelectedItems, markers, setMarkers}
   }, [SearchbuttonClicked, sfsv, setMarkers]); // Esegui l'effetto quando buttonClicked cambia
   
 
-  useEffect(() => {
-    // Funzione per rimuovere i marker associati agli `selectedItems` rimossi
-    const removeMarkers = () => {
-      console.log("markers");
-      
-    };
-  
-    removeMarkers(); // Richiama la funzione per rimuovere i marker
-  }, [selectedItems]); // Esegui l'effetto quando `selectedItems` cambia
-
-
 
   const [searchText, setSearchText] = useState(""); // Stato per il testo della ricerca
   const [activeTab, setActiveTab] = useState("food"); // Stato per gestire quale pulsante è attivo
   
-  // Ottieni il parametro foodName dall'URL !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-  useEffect(() => {
-    const searchParams = new URLSearchParams(window.location.search);
-    const foodName = searchParams.get('classifica');
-    console.log("foodName: ", foodName);
-    // Se esiste un foodName nell'URL, seleziona automaticamente quel cibo
-    if (foodName) {
-      
-      const foundFood = foodItems.find(food => food.name.toLowerCase() === foodName.toLowerCase());
-      console.log("foundFood: ", foundFood);
-      if (foundFood) {
-        handleClickItem(foundFood); // Simula il click
-      }
-    }
-  }, []); // Esegui solo una volta all'inizio
+ 
 
   const navigate = useNavigate(); // Navigation hook
 
@@ -184,18 +237,7 @@ const FoodSearch = ({sfsv, selectedItems, setSelectedItems, markers, setMarkers}
 
 
 
-  const handleClickItem = (item) => {
-    setSelectedItems((prevSelectedItems) => {
-      const updatedItems = prevSelectedItems.some(selectedItem => selectedItem.name === item.name)
-        ? prevSelectedItems.filter((i) => i.name !== item.name) // Rimuovi l'item se è già selezionato
-        : [...prevSelectedItems, item]; // Aggiungi l'item se non è già selezionato
   
-      //console.log('Updated selected items:', updatedItems); // Stampa l'array aggiornato
-  
-      return updatedItems;
-    });
-    
-  };
 
   // Filtra i food/classifiche in base al testo inserito
   const filteredItems = (items) =>

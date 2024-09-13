@@ -4,7 +4,8 @@ import triangoloNero2 from "./Black_triangle.png";
 
 const SchedaLocale = ({ 
   nome, 
-  classifiche, 
+  subclassifiche, 
+  nomeClassifica,
   linkGoogleMaps, 
   linkIndicazioniMaps, 
   linkSitoWeb,
@@ -17,9 +18,10 @@ const SchedaLocale = ({
     const params = new URLSearchParams(currentUrl.search);
     params.set('lat', coords[0]); // Aggiungi latitudine
     params.set('lng', coords[1]); // Aggiungi longitudine
-    console.log("nome: ", nome, "classifiche: ", classifiche, "linkGoogleMaps: ", linkGoogleMaps, "linkIndicazioniMaps: ", linkIndicazioniMaps, "linkSitoWeb: ", linkSitoWeb, "coords: ", coords);
-    console.log("nome classifica:" ,classifiche[0][0]);
-    params.set('classifica', classifiche[0][0]); // Aggiungi classifica
+    console.log("nome: ", nome, "subclassifiche: ", subclassifiche, "linkGoogleMaps: ", linkGoogleMaps, "linkIndicazioniMaps: ", linkIndicazioniMaps, "linkSitoWeb: ", linkSitoWeb, "coords: ", coords);
+    console.log("nome classifica:" ,subclassifiche[0][0]);
+    params.set('ranking', nomeClassifica); // Aggiungi classifica
+    params.set('subranking', subclassifiche[0][0]); // Aggiungi classifica
     const shareableUrl = `${currentUrl.origin}${currentUrl.pathname}?${params.toString()}`;
     
     navigator.clipboard.writeText(shareableUrl)
@@ -61,7 +63,7 @@ const SchedaLocale = ({
             </button>
           </div>
           <div className="divider"></div>
-          {classifiche.map((classifica, index) => (
+          {subclassifiche.map((classifica, index) => (
             <a key={index} href={classifica[2]} className="localeLink">
               {classifica[1] ? `${classifica[1]} ` : ''} {classifica[0]}
             </a>
