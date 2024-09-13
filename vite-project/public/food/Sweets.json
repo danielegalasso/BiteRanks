@@ -1,0 +1,2746 @@
+{
+    "Sweets": [
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Torte Gambero Rosso 2024",
+            "emoji": "🍰",
+            "position": null,
+            "name": "Pasticceria Veneto",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/pasticceria-veneto/",
+            "address": [
+                "Pasticceria Veneto, 8, Via Salvo D'Acquisto, Sant'Eustacchio, Zona Nord, Brescia, Lombardia, 25128, Italia"
+            ],
+            "coord": [
+                [
+                    45.5531796,
+                    10.2174269
+                ]
+            ],
+            "website": "http://iginiomassari.it"
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Torte Gambero Rosso 2024",
+            "emoji": "🍰",
+            "position": null,
+            "name": "Biasetto",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/biasetto/",
+            "address": [
+                "Pasticceria Biasetto, 12, Via Jacopo Facciolati, Santa Rita, Sant'Osvaldo, Padova, Veneto, 35123, Italia"
+            ],
+            "coord": [
+                [
+                    45.3992373,
+                    11.8857335
+                ]
+            ],
+            "website": "http://pasticceriabiasetto.it"
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Torte Gambero Rosso 2024",
+            "emoji": "🍰",
+            "position": null,
+            "name": "Besuschio",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/besuschio/",
+            "address": [
+                "Cascina Besuschio, Abbiategrasso, Milano, Lombardia, 20087, Italia"
+            ],
+            "coord": [
+                [
+                    45.4084981,
+                    8.8887746
+                ]
+            ],
+            "website": "http://pasticceriabesuschio.it"
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Torte Gambero Rosso 2024",
+            "emoji": "🍰",
+            "position": null,
+            "name": "Walter Musco - Bompiani",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/walter-musco-bompiani/",
+            "address": [
+                "Largo Benedetto Bompiani, 8, 00147 Roma RM, Italy"
+            ],
+            "coord": [
+                [
+                    41.858902,
+                    12.5022354
+                ]
+            ],
+            "website": "http://pasticceriawaltermusco.it"
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Torte Gambero Rosso 2024",
+            "emoji": "🍰",
+            "position": null,
+            "name": "Gruè",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/grue/",
+            "address": [
+                "Via Carlantonio Grue, Torre Angela, Municipio Roma VI, Torrenova, Roma, Roma Capitale, Lazio, 00133, Italia"
+            ],
+            "coord": [
+                [
+                    41.8722709,
+                    12.619067
+                ]
+            ],
+            "website": "http://gruepasticceria.it"
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Torte Gambero Rosso 2024",
+            "emoji": "🍰",
+            "position": null,
+            "name": "Nuovo Mondo",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/nuovo-mondo/",
+            "address": [
+                "Pasticceria Nuovo Mondo, Via Giuseppe Garibaldi, il Cantiere, Prato, Toscana, 59100, Italia"
+            ],
+            "coord": [
+                [
+                    43.881392,
+                    11.098744
+                ]
+            ],
+            "website": "http://pasticcerianuovomondo.com"
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Torte Gambero Rosso 2024",
+            "emoji": "🍰",
+            "position": null,
+            "name": "Belle Hélène",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/belle-helene/",
+            "address": [
+                "Belle Helene, 12, Via Giuseppe Garibaldi, Tarquinia, Viterbo, Lazio, 01016, Italia"
+            ],
+            "coord": [
+                [
+                    42.2538468,
+                    11.757691
+                ]
+            ],
+            "website": "http://pasticceriabellehelene.it"
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Torte Gambero Rosso 2024",
+            "emoji": "🍰",
+            "position": null,
+            "name": "Caffè Cavour 1880",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/caffe-cavour-1880/",
+            "address": [
+                "Pasticceria Cavour 1880, 7, Via Gombito, Città Alta, Bergamo, Lombardia, 24129, Italia"
+            ],
+            "coord": [
+                [
+                    45.7039233,
+                    9.6635768
+                ]
+            ],
+            "website": "http://cavour1880.com"
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Torte Gambero Rosso 2024",
+            "emoji": "🍰",
+            "position": null,
+            "name": "Fusto Milano",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/fusto-milano/",
+            "address": [
+                "Via S. Prospero, 4, 20121 Milano MI, Italy"
+            ],
+            "coord": [
+                [
+                    45.4661598,
+                    9.1857996
+                ]
+            ],
+            "website": "http://gianlucafusto.com"
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Torte Gambero Rosso 2024",
+            "emoji": "🍰",
+            "position": null,
+            "name": "Ernst K Knam",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/ernst-k-knam/",
+            "address": [
+                "Via Augusto Anfossi, 10, 20135 Milano MI, Italy"
+            ],
+            "coord": [
+                [
+                    45.4600656,
+                    9.210224300000002
+                ]
+            ],
+            "website": "http://eknam.com"
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Torte Gambero Rosso 2024",
+            "emoji": "🍰",
+            "position": null,
+            "name": "Pasticceria Marisa",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/pasticceria-marisa/",
+            "address": [
+                "Pasticceria Marisa, 422, Via Roma, Arsego, San Giorgio delle Pertiche, Padova, Veneto, 35010, Italia"
+            ],
+            "coord": [
+                [
+                    45.5409538,
+                    11.874864
+                ]
+            ],
+            "website": "http://pasticceriamarisa.it"
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Torte Gambero Rosso 2024",
+            "emoji": "🍰",
+            "position": null,
+            "name": "Dolciarte",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/dolciarte/",
+            "address": [
+                "Via SantissimaTrinità, 52, 83100 Avellino AV, Italy"
+            ],
+            "coord": [
+                [
+                    40.9157945,
+                    14.7938234
+                ]
+            ],
+            "website": "http://dolciarte.it"
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Torte Gambero Rosso 2024",
+            "emoji": "🍰",
+            "position": null,
+            "name": "Pepe Mastro Dolciere",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/pepe-mastro-dolciere/",
+            "address": [
+                "Pepe Mastro Dolciere, 2/4, Via Nazionale, Tuori, Sant'Egidio del Monte Albino, Salerno, Campania, 84010, Italia"
+            ],
+            "coord": [
+                [
+                    40.7479622,
+                    14.5971761
+                ]
+            ],
+            "website": "http://www.pepemastrodolciere.shop"
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Torte Gambero Rosso 2024",
+            "emoji": "🍰",
+            "position": null,
+            "name": "Pasticceria Roberto",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/pasticceria-roberto/",
+            "address": [
+                "Via Provinciale, 38, 25030 Erbusco BS, Italy"
+            ],
+            "coord": [
+                [
+                    45.6002561,
+                    9.967813
+                ]
+            ],
+            "website": "http://pasticceriaroberto.com"
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Torte Gambero Rosso 2024",
+            "emoji": "🍰",
+            "position": null,
+            "name": "Martesana",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/martesana/",
+            "address": [
+                "Martesana, Milano, Lombardia, Italia"
+            ],
+            "coord": [
+                [
+                    45.5300974,
+                    9.400404084177211
+                ]
+            ],
+            "website": "http://martesanamilano.com"
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Torte Gambero Rosso 2024",
+            "emoji": "🍰",
+            "position": null,
+            "name": "Alessandro Servida",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/alessandro-servida/",
+            "address": [
+                "Viale Piave, 9, 20129 Milano MI, Italy"
+            ],
+            "coord": [
+                [
+                    45.4699129,
+                    9.2066103
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Torte Gambero Rosso 2024",
+            "emoji": "🍰",
+            "position": null,
+            "name": "Dolce Reale",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/dolce-reale/",
+            "address": [
+                "Via Mantova, 158, 25018 Montichiari BS, Italy"
+            ],
+            "coord": [
+                [
+                    45.4102462,
+                    10.403806
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Torte Gambero Rosso 2024",
+            "emoji": "🍰",
+            "position": null,
+            "name": "Cortinovis",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/cortinovis/",
+            "address": [
+                "Via Tenente Franco Cortinovis, Ranica, Bergamo, Lombardia, 24124, Italia"
+            ],
+            "coord": [
+                [
+                    45.7204554,
+                    9.713376
+                ]
+            ],
+            "website": "http://pasticceriacortinovis.it"
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Torte Gambero Rosso 2024",
+            "emoji": "🍰",
+            "position": null,
+            "name": "Luca Mannori",
+            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/luca-mannori/",
+            "address": [
+                "Luca mannori, Via Lazzerini, Soccorso, Prato, Toscana, 59100, Italia"
+            ],
+            "coord": [
+                [
+                    43.8753834,
+                    11.0939205
+                ]
+            ],
+            "website": "http://lucamannori.com"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "1°",
+            "name": "Pastéis de Belém",
+            "ref": "https://www.tasteatlas.com/PasteisDeBelem",
+            "address": null,
+            "coord": [
+                [
+                    38.6974982,
+                    -9.2032527
+                ]
+            ],
+            "website": "http://www.pasteisdebelem.pt"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "2°",
+            "name": "Hafız Mustafa",
+            "ref": "https://www.tasteatlas.com/hafiz-mustafa-eminonu",
+            "address": null,
+            "coord": [
+                [
+                    41.0155632,
+                    28.9743734
+                ]
+            ],
+            "website": "http://www.hafizmustafa.com"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "3°",
+            "name": "Café Central",
+            "ref": "https://www.tasteatlas.com/CafeCentral",
+            "address": null,
+            "coord": [
+                [
+                    48.210879,
+                    16.3652716
+                ]
+            ],
+            "website": "https://www.cafecentral.wien/en/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "4°",
+            "name": "Pastelería Ideal",
+            "ref": "https://www.tasteatlas.com/pasteleria-ideal",
+            "address": null,
+            "coord": [
+                [
+                    19.4329995,
+                    -99.13983820000001
+                ]
+            ],
+            "website": "https://www.pasteleriaideal.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "5°",
+            "name": "Café du Monde",
+            "ref": "https://www.tasteatlas.com/CafeDuMonde",
+            "address": null,
+            "coord": [
+                [
+                    29.957561,
+                    -90.0618544
+                ]
+            ],
+            "website": "http://www.cafedumonde.com"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "6°",
+            "name": "Karaköy Güllüoğlu",
+            "ref": "https://www.tasteatlas.com/KarakoyGulluoglu",
+            "address": null,
+            "coord": [
+                [
+                    41.0230973,
+                    28.9779408
+                ]
+            ],
+            "website": "http://www.karakoygulluoglu.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "7°",
+            "name": "Rapanui",
+            "ref": "https://www.tasteatlas.com/rapanui",
+            "address": null,
+            "coord": [
+                [
+                    -34.5941894,
+                    -58.399699
+                ]
+            ],
+            "website": "http://chocolatesrapanui.com.ar/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "8°",
+            "name": "Confeitaria Colombo",
+            "ref": "https://www.tasteatlas.com/ConfeitariaColombo",
+            "address": null,
+            "coord": [
+                [
+                    -22.9051703,
+                    -43.1787441
+                ]
+            ],
+            "website": "http://www.confeitariacolombo.com.br"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "9°",
+            "name": "Café Tortoni",
+            "ref": "https://www.tasteatlas.com/CafeTortoni",
+            "address": null,
+            "coord": [
+                [
+                    -33.89206529591837,
+                    -60.57484494489796
+                ]
+            ],
+            "website": "http://www.cafetortoni.com.ar"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "10°",
+            "name": "Chocolatería San Ginés",
+            "ref": "https://www.tasteatlas.com/ChocolateriaSanGines",
+            "address": null,
+            "coord": [
+                [
+                    40.4167707,
+                    -3.706803
+                ]
+            ],
+            "website": "https://chocolateriasangines.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "11°",
+            "name": "Café Louvre",
+            "ref": "https://www.tasteatlas.com/CafeLouvre",
+            "address": null,
+            "coord": [
+                [
+                    50.0820667,
+                    14.4187313
+                ]
+            ],
+            "website": "http://www.cafelouvre.cz"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "12°",
+            "name": "Ted Drewes Frozen Custard",
+            "ref": "https://www.tasteatlas.com/ted-drewes-frozen-custard",
+            "address": null,
+            "coord": [
+                [
+                    38.5894419,
+                    -90.30765835070429
+                ]
+            ],
+            "website": "http://www.teddrewes.com"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "13°",
+            "name": "Leopold's Ice Cream",
+            "ref": "https://www.tasteatlas.com/leopolds-ice-cream",
+            "address": null,
+            "coord": [
+                [
+                    32.07849125,
+                    -81.08926934153857
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "14°",
+            "name": "Daubner Cukrászda",
+            "ref": "https://www.tasteatlas.com/DaubnerCukraszda",
+            "address": null,
+            "coord": [
+                [
+                    47.52832315,
+                    19.032033483439573
+                ]
+            ],
+            "website": "http://www.daubnercukraszda.hu"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "15°",
+            "name": "Giolitti",
+            "ref": "https://www.tasteatlas.com/giolitti",
+            "address": null,
+            "coord": [
+                [
+                    41.9010406,
+                    12.4771139
+                ]
+            ],
+            "website": "http://www.giolitti.it/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "16°",
+            "name": "Majestic Café",
+            "ref": "https://www.tasteatlas.com/majestic-cafe",
+            "address": null,
+            "coord": [
+                [
+                    41.1474097,
+                    -8.6066578
+                ]
+            ],
+            "website": "https://www.cafemajestic.com/en/Utilities/Homepage.aspx"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "17°",
+            "name": "Café Landtmann",
+            "ref": "https://www.tasteatlas.com/CafeLandtmann",
+            "address": null,
+            "coord": [
+                [
+                    48.2115624,
+                    16.3614497
+                ]
+            ],
+            "website": "http://www.landtmann.at/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "18°",
+            "name": "Kayani Bakery",
+            "ref": "https://www.tasteatlas.com/kayani-bakery",
+            "address": null,
+            "coord": [
+                [
+                    18.5148734,
+                    73.8801153
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "19°",
+            "name": "Angelina",
+            "ref": "https://www.tasteatlas.com/Angelina",
+            "address": null,
+            "coord": [
+                [
+                    48.8650778,
+                    2.3284104
+                ]
+            ],
+            "website": "http://www.angelina-paris.fr"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "20°",
+            "name": "Pasticceria Savia",
+            "ref": "https://www.tasteatlas.com/PasticceriaSavia",
+            "address": null,
+            "coord": [
+                [
+                    37.5061543,
+                    15.0865383
+                ]
+            ],
+            "website": "http://www.savia.it"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "21°",
+            "name": "Ghirardelli Square",
+            "ref": "https://www.tasteatlas.com/GhirardelliSquare",
+            "address": null,
+            "coord": [
+                [
+                    37.8057631,
+                    -122.422294
+                ]
+            ],
+            "website": "http://www.ghirardelli.com"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "22°",
+            "name": "Round Rock Donuts",
+            "ref": "https://www.tasteatlas.com/round-rock-donuts",
+            "address": null,
+            "coord": [
+                [
+                    30.509541249999998,
+                    -97.67991332972375
+                ]
+            ],
+            "website": "https://roundrockdonuts.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "23°",
+            "name": "Leonard's Bakery",
+            "ref": "https://www.tasteatlas.com/leonards-bakery",
+            "address": null,
+            "coord": [
+                [
+                    21.28491055,
+                    -157.8132819810558
+                ]
+            ],
+            "website": "https://www.leonardshawaii.com/home/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "24°",
+            "name": "Katmerci Zekeriya Usta",
+            "ref": "https://www.tasteatlas.com/KatmerciZekeriyaUsta",
+            "address": null,
+            "coord": [
+                [
+                    36.9907413,
+                    37.2115829
+                ]
+            ],
+            "website": "http://www.katmercizekeriya.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "25°",
+            "name": "K.C. Das",
+            "ref": "https://www.tasteatlas.com/kc-das",
+            "address": null,
+            "coord": [
+                [
+                    22.5656865,
+                    88.350378
+                ]
+            ],
+            "website": "http://www.kcdas.co.in"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "26°",
+            "name": "Flurys",
+            "ref": "https://www.tasteatlas.com/flurys",
+            "address": null,
+            "coord": [
+                [
+                    22.5507275,
+                    88.3544606
+                ]
+            ],
+            "website": "https://www.flurys.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "27°",
+            "name": "Caffè Pedrocchi",
+            "ref": "https://www.tasteatlas.com/caffe-pedrocchi",
+            "address": null,
+            "coord": [
+                [
+                    45.4076922,
+                    11.8770946
+                ]
+            ],
+            "website": "https://www.caffepedrocchi.it/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "28°",
+            "name": "Junior's Cheesecake",
+            "ref": "https://www.tasteatlas.com/JuniorsCheesecake",
+            "address": null,
+            "coord": [
+                [
+                    40.6899605,
+                    -73.98155299999999
+                ]
+            ],
+            "website": "http://www.juniorscheesecake.com"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "29°",
+            "name": "Karachi Bakery",
+            "ref": "https://www.tasteatlas.com/karachi-bakery",
+            "address": null,
+            "coord": [
+                [
+                    17.4088453,
+                    78.45059
+                ]
+            ],
+            "website": "https://www.karachibakery.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "30°",
+            "name": "Carlo's Bakery",
+            "ref": "https://www.tasteatlas.com/carlos-bakery",
+            "address": null,
+            "coord": [
+                [
+                    40.7371855,
+                    -74.0307861
+                ]
+            ],
+            "website": "http://www.carlosbakery.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "31°",
+            "name": "Bettys Café Tea Rooms Harrogate",
+            "ref": "https://www.tasteatlas.com/BettysHarrogate",
+            "address": null,
+            "coord": [
+                [
+                    53.9928579,
+                    -1.5426567
+                ]
+            ],
+            "website": "https://www.bettys.co.uk/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "32°",
+            "name": "New York Café",
+            "ref": "https://www.tasteatlas.com/new-york-cafe",
+            "address": null,
+            "coord": [
+                [
+                    47.4984674,
+                    19.070521
+                ]
+            ],
+            "website": "https://newyorkcafe.hu/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "33°",
+            "name": "Ladurée",
+            "ref": "https://www.tasteatlas.com/Laduree",
+            "address": null,
+            "coord": [
+                [
+                    48.8684273,
+                    2.3236138
+                ]
+            ],
+            "website": "https://www.laduree.fr/en/laduree-paris-royale.html"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "34°",
+            "name": "Palazzo del Freddo di Giovanni Fassi",
+            "ref": "https://www.tasteatlas.com/PalazzoDelFreddoDiGiovanniFassi",
+            "address": null,
+            "coord": [
+                [
+                    41.8936284,
+                    12.5080236
+                ]
+            ],
+            "website": "http://www.gelateriafassi.com"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "35°",
+            "name": "Café Sacher Wien ",
+            "ref": "https://www.tasteatlas.com/CafeSacherWien",
+            "address": null,
+            "coord": [
+                [
+                    48.2038726,
+                    16.3698025
+                ]
+            ],
+            "website": "http://www.sacher.com"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "36°",
+            "name": "Demel",
+            "ref": "https://www.tasteatlas.com/CafeDemel",
+            "address": null,
+            "coord": [
+                [
+                    48.2086403,
+                    16.3671894
+                ]
+            ],
+            "website": "http://www.demel.at"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "37°",
+            "name": "Balaram Mullick & Radharaman Mullick",
+            "ref": "https://www.tasteatlas.com/balaram-mullick--radharaman-mullick",
+            "address": null,
+            "coord": [
+                [
+                    22.5336329,
+                    88.351506
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "38°",
+            "name": "Ca'n Joan De S'aigo",
+            "ref": "https://www.tasteatlas.com/can-joan-de-saigo",
+            "address": null,
+            "coord": [
+                [
+                    39.56987549999999,
+                    2.652632
+                ]
+            ],
+            "website": "http://canjoandesaigo.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "39°",
+            "name": "El Mejor Pan de Tecate",
+            "ref": "https://www.tasteatlas.com/el-mejor-pan-de-tecate",
+            "address": null,
+            "coord": [
+                [
+                    32.5739945,
+                    -116.624001
+                ]
+            ],
+            "website": "http://elmejorpandetecate.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "40°",
+            "name": "Café A Brasileira",
+            "ref": "https://www.tasteatlas.com/cafe-a-brasileira",
+            "address": null,
+            "coord": [
+                [
+                    38.7106819,
+                    -9.1420119
+                ]
+            ],
+            "website": "https://www.abrasileira.pt/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "41°",
+            "name": "Café Niederegger",
+            "ref": "https://www.tasteatlas.com/cafe-niederegger",
+            "address": null,
+            "coord": [
+                [
+                    53.8665224,
+                    10.6857907
+                ]
+            ],
+            "website": "https://www.niederegger.de/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "42°",
+            "name": "Habibah",
+            "ref": "https://www.tasteatlas.com/habibah",
+            "address": null,
+            "coord": [
+                [
+                    32.0105002,
+                    35.9404491
+                ]
+            ],
+            "website": "http://habibahsweets.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "43°",
+            "name": "Les Deux Magots",
+            "ref": "https://www.tasteatlas.com/LesDeuxMagots",
+            "address": null,
+            "coord": [
+                [
+                    48.8542327,
+                    2.33321
+                ]
+            ],
+            "website": "http://www.lesdeuxmagots.fr"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "44°",
+            "name": "Café de Flore",
+            "ref": "https://www.tasteatlas.com/cafe-de-flore",
+            "address": null,
+            "coord": [
+                [
+                    48.8541278,
+                    2.3325499
+                ]
+            ],
+            "website": "https://cafedeflore.fr/?lang=en"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "45°",
+            "name": "Antica Dolceria Bonajuto",
+            "ref": "https://www.tasteatlas.com/AnticaDolceriaBonajuto",
+            "address": null,
+            "coord": [
+                [
+                    36.8582746,
+                    14.760672
+                ]
+            ],
+            "website": "http://www.bonajuto.it"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "46°",
+            "name": "La Mallorquina",
+            "ref": "https://www.tasteatlas.com/LaMallorquina",
+            "address": null,
+            "coord": [
+                [
+                    40.4166158,
+                    -3.704829
+                ]
+            ],
+            "website": "http://www.pastelerialamallorquina.es"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "47°",
+            "name": "Piriquita",
+            "ref": "https://www.tasteatlas.com/piriquita",
+            "address": null,
+            "coord": [
+                [
+                    38.79666599999999,
+                    -9.3904977
+                ]
+            ],
+            "website": "https://www.piriquita.pt/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "48°",
+            "name": "Café Savoy",
+            "ref": "https://www.tasteatlas.com/cafe-savoy",
+            "address": null,
+            "coord": [
+                [
+                    50.0809567,
+                    14.4072114
+                ]
+            ],
+            "website": "http://cafesavoy.ambi.cz/en/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "49°",
+            "name": "K. Rustom & Co.",
+            "ref": "https://www.tasteatlas.com/k-rustom--co",
+            "address": null,
+            "coord": [
+                [
+                    18.9322612,
+                    72.8247394
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "50°",
+            "name": "Trigona Elenidi",
+            "ref": "https://www.tasteatlas.com/trigona-elenidi",
+            "address": null,
+            "coord": [
+                [
+                    40.6289183,
+                    22.948447
+                ]
+            ],
+            "website": "https://elenidis.gr/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "51°",
+            "name": "Antico Forno delle Sfogliatelle Calde Fratelli Attanasio",
+            "ref": "https://www.tasteatlas.com/antico-forno-delle-sfogliatelle-calde-fratelli-attanasio",
+            "address": null,
+            "coord": [
+                [
+                    40.8538418,
+                    14.2684164
+                ]
+            ],
+            "website": "http://sfogliatelleattanasio.it/home.html"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "52°",
+            "name": "Winkel 43",
+            "ref": "https://www.tasteatlas.com/Winkel43",
+            "address": null,
+            "coord": [
+                [
+                    52.3790741,
+                    4.886185288565386
+                ]
+            ],
+            "website": "http://www.winkel43.nl"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "53°",
+            "name": "Chalet Ciro Gelato",
+            "ref": "https://www.tasteatlas.com/chalet-ciro-gelato",
+            "address": null,
+            "coord": [
+                [
+                    40.831707,
+                    14.2288138
+                ]
+            ],
+            "website": "http://www.chaletciro.it/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "54°",
+            "name": "Scaturchio",
+            "ref": "https://www.tasteatlas.com/Scaturchio",
+            "address": null,
+            "coord": [
+                [
+                    40.8482041,
+                    14.2549306
+                ]
+            ],
+            "website": "http://www.scaturchio.it"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "55°",
+            "name": "Gelateria La Romana",
+            "ref": "https://www.tasteatlas.com/gelateria-la-romana",
+            "address": null,
+            "coord": [
+                [
+                    44.0619161,
+                    12.5674172
+                ]
+            ],
+            "website": "https://www.gelateriaromana.com/16-gelateria-rimini-centro.php"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "56°",
+            "name": "Casa do Preto",
+            "ref": "https://www.tasteatlas.com/casa-do-preto",
+            "address": null,
+            "coord": [
+                [
+                    38.7923329,
+                    -9.3735418
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "57°",
+            "name": "Bougatsa Iordanis",
+            "ref": "https://www.tasteatlas.com/BougatsaIordanis",
+            "address": null,
+            "coord": [
+                [
+                    35.5128824,
+                    24.0199158
+                ]
+            ],
+            "website": "http://www.iordanis.gr/#"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "58°",
+            "name": "Confiserie Sprüngli",
+            "ref": "https://www.tasteatlas.com/confiserie-sprungli",
+            "address": null,
+            "coord": [
+                [
+                    47.3694816,
+                    8.5391402
+                ]
+            ],
+            "website": "https://www.spruengli.ch/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "59°",
+            "name": "Café Gerbeaud",
+            "ref": "https://www.tasteatlas.com/Gerbeaud",
+            "address": null,
+            "coord": [
+                [
+                    47.497007,
+                    19.0503393
+                ]
+            ],
+            "website": "http://www.gerbeaud.hu"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "60°",
+            "name": "Dondurmacı Ali Usta",
+            "ref": "https://www.tasteatlas.com/DondurmacAliUsta",
+            "address": null,
+            "coord": [
+                [
+                    40.9816483,
+                    29.0228717
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "61°",
+            "name": "Nakamura Tokichi",
+            "ref": "https://www.tasteatlas.com/nakamura-tokichi",
+            "address": null,
+            "coord": [
+                [
+                    34.8914552,
+                    135.8063434
+                ]
+            ],
+            "website": "https://tokichi.jp/en"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "62°",
+            "name": "The Pancake Bakery",
+            "ref": "https://www.tasteatlas.com/ThePancakeBakery",
+            "address": null,
+            "coord": [
+                [
+                    52.3775885,
+                    4.8862637
+                ]
+            ],
+            "website": "http://www.pancake.nl/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "63°",
+            "name": "Les Deux Moulins",
+            "ref": "https://www.tasteatlas.com/LesDeuxMoulins",
+            "address": null,
+            "coord": [
+                [
+                    48.8848988,
+                    2.3337032
+                ]
+            ],
+            "website": "http://cafedesdeuxmoulins.fr/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "64°",
+            "name": "Café Iruña",
+            "ref": "https://www.tasteatlas.com/cafe-iruna",
+            "address": null,
+            "coord": [
+                [
+                    42.8174051,
+                    -1.6433882
+                ]
+            ],
+            "website": "https://cafeiruna.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "65°",
+            "name": "Ruszwurm Cukrászda",
+            "ref": "https://www.tasteatlas.com/RuszwurmCukraszda",
+            "address": null,
+            "coord": [
+                [
+                    47.5012693,
+                    19.0329039
+                ]
+            ],
+            "website": "http://www.ruszwurm.hu"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "66°",
+            "name": "Stohrer",
+            "ref": "https://www.tasteatlas.com/Stohrer",
+            "address": null,
+            "coord": [
+                [
+                    48.865239,
+                    2.3468478
+                ]
+            ],
+            "website": "http://www.stohrer.fr"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "67°",
+            "name": "Kuremal Mohanlal Kulfi Wale",
+            "ref": "https://www.tasteatlas.com/kuremal-mohanlal-kulfi-wale",
+            "address": null,
+            "coord": [
+                [
+                    28.6484637,
+                    77.2273754
+                ]
+            ],
+            "website": "https://www.kuremalkulfi.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "68°",
+            "name": "Gelateria Gabriele",
+            "ref": "https://www.tasteatlas.com/gelateria-gabriele",
+            "address": null,
+            "coord": [
+                [
+                    40.6618299,
+                    14.4257498
+                ]
+            ],
+            "website": "https://www.gabrieleitalia.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "69°",
+            "name": "Caffè Al Bicerin",
+            "ref": "https://www.tasteatlas.com/caffe-al-bicerin",
+            "address": null,
+            "coord": [
+                [
+                    45.0762364,
+                    7.678984
+                ]
+            ],
+            "website": "http://www.bicerin.it/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "70°",
+            "name": "Granja M. Viader",
+            "ref": "https://www.tasteatlas.com/GranjaMViader",
+            "address": null,
+            "coord": [
+                [
+                    41.383021,
+                    2.1710542
+                ]
+            ],
+            "website": "http://www.granjaviader.cat/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "71°",
+            "name": "Pancake Pantry",
+            "ref": "https://www.tasteatlas.com/PancakePantry",
+            "address": null,
+            "coord": [
+                [
+                    35.7125821,
+                    -83.51421999072299
+                ]
+            ],
+            "website": "http://www.pancakepantry.com"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "72°",
+            "name": "Suzukien",
+            "ref": "https://www.tasteatlas.com/suzukien",
+            "address": null,
+            "coord": [
+                [
+                    35.7163685,
+                    139.7970277
+                ]
+            ],
+            "website": "https://www.tocha.co.jp/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "73°",
+            "name": "Café Leopold Hawelka",
+            "ref": "https://www.tasteatlas.com/CafeLeopoldHawelka",
+            "address": null,
+            "coord": [
+                [
+                    48.2079556,
+                    16.3698053
+                ]
+            ],
+            "website": "http://www.hawelka.at/cafe/de/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "74°",
+            "name": "Gerstner K.u.K. Hofzuckerbäcker",
+            "ref": "https://www.tasteatlas.com/gerstner-kuk-hofzuckerbacker",
+            "address": null,
+            "coord": [
+                [
+                    48.2032863,
+                    16.3703903
+                ]
+            ],
+            "website": "http://www.gerstner-konditorei.at"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "75°",
+            "name": "Antico Caffè Greco",
+            "ref": "https://www.tasteatlas.com/antico-caffe-greco",
+            "address": null,
+            "coord": [
+                [
+                    41.9056653,
+                    12.4816137
+                ]
+            ],
+            "website": "http://anticocaffegreco.eu/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "76°",
+            "name": "Berthillon",
+            "ref": "https://www.tasteatlas.com/Berthillon",
+            "address": null,
+            "coord": [
+                [
+                    48.8504082,
+                    2.3600926
+                ]
+            ],
+            "website": "http://www.berthillon.fr"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "77°",
+            "name": "Prakash Kulfi",
+            "ref": "https://www.tasteatlas.com/PrakashKulfi",
+            "address": null,
+            "coord": [
+                [
+                    26.8484675,
+                    80.9395378
+                ]
+            ],
+            "website": "https://www.facebook.com/PrakashKulfiAminabad/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "78°",
+            "name": "Serendipity 3",
+            "ref": "https://www.tasteatlas.com/serendipity-3",
+            "address": null,
+            "coord": [
+                [
+                    40.7618022,
+                    -73.9649381
+                ]
+            ],
+            "website": "https://serendipity3.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "79°",
+            "name": "Caffe Sicilia",
+            "ref": "https://www.tasteatlas.com/CaffeSicilia",
+            "address": null,
+            "coord": [
+                [
+                    36.8911112,
+                    15.0697024
+                ]
+            ],
+            "website": "https://www.caffesicilia.it/index.html"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "80°",
+            "name": "Mike's Pastry",
+            "ref": "https://www.tasteatlas.com/MikesPastry",
+            "address": null,
+            "coord": [
+                [
+                    42.3641884,
+                    -71.0542414
+                ]
+            ],
+            "website": "http://www.mikespastry.com"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "81°",
+            "name": "Levain Bakery",
+            "ref": "https://www.tasteatlas.com/LevainBakery",
+            "address": null,
+            "coord": [
+                [
+                    40.7798995,
+                    -73.9803421
+                ]
+            ],
+            "website": "http://www.levainbakery.com"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "82°",
+            "name": "Café de la Paix",
+            "ref": "https://www.tasteatlas.com/CafeDeLaPaix",
+            "address": null,
+            "coord": [
+                [
+                    48.8709426,
+                    2.3317527
+                ]
+            ],
+            "website": "http://www.cafedelapaix.fr"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "83°",
+            "name": "Café Sperl ",
+            "ref": "https://www.tasteatlas.com/CafeSperl",
+            "address": null,
+            "coord": [
+                [
+                    48.1998385,
+                    16.3611697
+                ]
+            ],
+            "website": "http://www.cafesperl.at/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "84°",
+            "name": "Cukrarna Myšák ",
+            "ref": "https://www.tasteatlas.com/cukrarna-mysak",
+            "address": null,
+            "coord": [
+                [
+                    50.08125675,
+                    14.42431978331435
+                ]
+            ],
+            "website": "https://www.mysak.ambi.cz/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "85°",
+            "name": "Chitale Bandhu Mithaiwale",
+            "ref": "https://www.tasteatlas.com/ChitaleBandhuMithaiwale",
+            "address": null,
+            "coord": [
+                [
+                    18.5099638,
+                    73.8537695
+                ]
+            ],
+            "website": "http://www.chitalebandhu.in"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "86°",
+            "name": "Gelateria Vivoli",
+            "ref": "https://www.tasteatlas.com/Vivoli",
+            "address": null,
+            "coord": [
+                [
+                    43.7699351,
+                    11.2600892
+                ]
+            ],
+            "website": "http://www.vivoli.it"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "87°",
+            "name": "K.u.K. Café-Konditorei L. Heiner",
+            "ref": "https://www.tasteatlas.com/KUKCafeKonditoreiLHeiner",
+            "address": null,
+            "coord": [
+                [
+                    48.2061081,
+                    16.3716732
+                ]
+            ],
+            "website": "http://www.heiner.co.at"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "88°",
+            "name": "Gelateria Dondoli",
+            "ref": "https://www.tasteatlas.com/gelateria-dondoli",
+            "address": null,
+            "coord": [
+                [
+                    43.4673758,
+                    11.04372627016459
+                ]
+            ],
+            "website": "http://www.gelateriadondoli.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "89°",
+            "name": "Gran Caffè Gambrinus",
+            "ref": "https://www.tasteatlas.com/GranCaffeGambrinus",
+            "address": null,
+            "coord": [
+                [
+                    40.8367413,
+                    14.2484715
+                ]
+            ],
+            "website": "https://grancaffegambrinus.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "90°",
+            "name": "Café König",
+            "ref": "https://www.tasteatlas.com/CafeKonig",
+            "address": null,
+            "coord": [
+                [
+                    48.7601316,
+                    8.2401511
+                ]
+            ],
+            "website": "http://www.chocolatier.de/kh_koenig.php"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "91°",
+            "name": "Nannini",
+            "ref": "https://www.tasteatlas.com/Nannini",
+            "address": null,
+            "coord": [
+                [
+                    43.3201388,
+                    11.331189
+                ]
+            ],
+            "website": "http://www.pasticcerienannini.it"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "92°",
+            "name": "Gelateria Nico",
+            "ref": "https://www.tasteatlas.com/gelateria-nico",
+            "address": null,
+            "coord": [
+                [
+                    45.4296328,
+                    12.3260731
+                ]
+            ],
+            "website": "https://www.gelaterianico.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "93°",
+            "name": "Old Famous Jalebi Wala",
+            "ref": "https://www.tasteatlas.com/old-famous-jalebi-wala",
+            "address": null,
+            "coord": [
+                [
+                    28.6558247,
+                    77.23358259999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "94°",
+            "name": "Vete-Katten",
+            "ref": "https://www.tasteatlas.com/VeteKatten",
+            "address": null,
+            "coord": [
+                [
+                    59.334112,
+                    18.058346
+                ]
+            ],
+            "website": "http://www.vetekatten.se"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "95°",
+            "name": "Maison Dandoy",
+            "ref": "https://www.tasteatlas.com/MaisonDandoy",
+            "address": null,
+            "coord": [
+                [
+                    50.846158,
+                    4.3519807
+                ]
+            ],
+            "website": "http://www.maisondandoy.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "96°",
+            "name": "Konditorei Buchwald",
+            "ref": "https://www.tasteatlas.com/KonditoreiBuchwald",
+            "address": null,
+            "coord": [
+                [
+                    52.521226,
+                    13.3476767
+                ]
+            ],
+            "website": "http://www.konditorei-buchwald.de"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "97°",
+            "name": "Confitería La Campana",
+            "ref": "https://www.tasteatlas.com/confiteria-la-campana",
+            "address": null,
+            "coord": [
+                [
+                    37.3910271,
+                    -5.994537
+                ]
+            ],
+            "website": "https://www.confiterialacampana.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "98°",
+            "name": "Ted's Bakery",
+            "ref": "https://www.tasteatlas.com/TedsBakery",
+            "address": null,
+            "coord": [
+                [
+                    21.67743805,
+                    -158.03638726058205
+                ]
+            ],
+            "website": "http://www.tedsbakery.com"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "99°",
+            "name": "Margie's Candies",
+            "ref": "https://www.tasteatlas.com/MargiesCandies",
+            "address": null,
+            "coord": [
+                [
+                    41.961427,
+                    -87.675
+                ]
+            ],
+            "website": "http://www.margiesfinecandies.com"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "100°",
+            "name": "Conditorei Sluka",
+            "ref": "https://www.tasteatlas.com/conditorei-sluka",
+            "address": null,
+            "coord": [
+                [
+                    48.2066576,
+                    16.3717684
+                ]
+            ],
+            "website": "https://www.sluka.at/&ts=1701884026561"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "101°",
+            "name": "Sankt Peders Bageri ",
+            "ref": "https://www.tasteatlas.com/SanktPedersBageri",
+            "address": null,
+            "coord": [
+                [
+                    55.6790932,
+                    12.5692407
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "102°",
+            "name": "Caffè Fiorio",
+            "ref": "https://www.tasteatlas.com/caffe-fiorio",
+            "address": null,
+            "coord": [
+                [
+                    45.0694059,
+                    7.6881141
+                ]
+            ],
+            "website": "http://www.caffefiorio.it/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "103°",
+            "name": "Baratti & Milano",
+            "ref": "https://www.tasteatlas.com/BarattiMilano",
+            "address": null,
+            "coord": [
+                [
+                    45.0707357,
+                    7.6848198
+                ]
+            ],
+            "website": "http://www.barattiemilano.it"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "104°",
+            "name": "Krinos",
+            "ref": "https://www.tasteatlas.com/krinos",
+            "address": null,
+            "coord": [
+                [
+                    37.9804078,
+                    23.7284482
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "105°",
+            "name": "Lanskroon",
+            "ref": "https://www.tasteatlas.com/lanskroon",
+            "address": null,
+            "coord": [
+                [
+                    52.3687493,
+                    4.8882618
+                ]
+            ],
+            "website": "http://www.lanskroon.nl/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "106°",
+            "name": "BeaverTails Rideau Canal",
+            "ref": "https://www.tasteatlas.com/BeavertailsRideauCanal",
+            "address": null,
+            "coord": [
+                [
+                    45.4273586,
+                    -75.6916904
+                ]
+            ],
+            "website": "http://www.beavertails.com"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "107°",
+            "name": "A.Blikle",
+            "ref": "https://www.tasteatlas.com/Ablikle",
+            "address": null,
+            "coord": [
+                [
+                    52.23378495,
+                    21.018311228260266
+                ]
+            ],
+            "website": "http://www.blikle.pl"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "108°",
+            "name": "Slaščičarna Zima",
+            "ref": "https://www.tasteatlas.com/SlascicarnaZima",
+            "address": null,
+            "coord": [
+                [
+                    46.3715308,
+                    14.1054774
+                ]
+            ],
+            "website": "https://slascicarna-zima.si/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "109°",
+            "name": "Café Husaren",
+            "ref": "https://www.tasteatlas.com/cafe-husaren",
+            "address": null,
+            "coord": [
+                [
+                    57.6983825,
+                    11.9597489
+                ]
+            ],
+            "website": "http://www.cafehusaren.se/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "110°",
+            "name": "Café Mozart",
+            "ref": "https://www.tasteatlas.com/cafemozartsalzburg",
+            "address": null,
+            "coord": [
+                [
+                    47.8000821,
+                    13.0426305
+                ]
+            ],
+            "website": "http://www.cafemozartsalzburg.at/en"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "111°",
+            "name": "Cafè de l'Òpera",
+            "ref": "https://www.tasteatlas.com/cafe-de-lopera",
+            "address": null,
+            "coord": [
+                [
+                    41.3809698,
+                    2.1737766
+                ]
+            ],
+            "website": "https://www.cafeoperabcn.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "112°",
+            "name": "Rikuro Ojisan",
+            "ref": "https://www.tasteatlas.com/rikuro-ojisan",
+            "address": null,
+            "coord": [
+                [
+                    34.6661368,
+                    135.5015647
+                ]
+            ],
+            "website": "http://www.rikuro.co.jp/shoplist/134.html"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "113°",
+            "name": "Du Pain et Des Idées",
+            "ref": "https://www.tasteatlas.com/DuPainEtDesIdees",
+            "address": null,
+            "coord": [
+                [
+                    48.871197,
+                    2.3628861
+                ]
+            ],
+            "website": "http://www.dupainetdesidees.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "114°",
+            "name": "Tai Cheong Bakery",
+            "ref": "https://www.tasteatlas.com/tai-cheong-bakery",
+            "address": null,
+            "coord": [
+                [
+                    22.282628,
+                    114.153578
+                ]
+            ],
+            "website": "http://www.taoheung.com"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "115°",
+            "name": "Euro Bar",
+            "ref": "https://www.tasteatlas.com/euro-bar",
+            "address": null,
+            "coord": [
+                [
+                    37.9662613,
+                    12.6503464
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "116°",
+            "name": "Mihashi Ueno Honten",
+            "ref": "https://www.tasteatlas.com/MihashiUenoHonten",
+            "address": null,
+            "coord": [
+                [
+                    35.715837,
+                    139.7798051
+                ]
+            ],
+            "website": "http://www.mihashi.co.jp/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "117°",
+            "name": "Kam Wah Cafe",
+            "ref": "https://www.tasteatlas.com/kam-wah-cafe",
+            "address": null,
+            "coord": [
+                [
+                    22.3222989,
+                    114.1697498
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "118°",
+            "name": "Ross Bakery Inn",
+            "ref": "https://www.tasteatlas.com/ross-bakery-inn",
+            "address": null,
+            "coord": [
+                [
+                    -42.0289028,
+                    147.4926697
+                ]
+            ],
+            "website": "https://www.rossbakery.com.au/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "119°",
+            "name": "Pasticceria Confetteria Cova",
+            "ref": "https://www.tasteatlas.com/PasticceriaConfetteriaCova",
+            "address": null,
+            "coord": [
+                [
+                    45.4681152,
+                    9.1955192
+                ]
+            ],
+            "website": "http://www.pasticceriacova.it"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "120°",
+            "name": "Auguszt Cukrászda",
+            "ref": "https://www.tasteatlas.com/AugusztCukraszda",
+            "address": null,
+            "coord": [
+                [
+                    47.4941714,
+                    19.0576938
+                ]
+            ],
+            "website": "http://www.augusztcukraszda.hu"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "121°",
+            "name": "Tsuruya Yoshinobu",
+            "ref": "https://www.tasteatlas.com/tsuruya-yoshinobu",
+            "address": null,
+            "coord": [
+                [
+                    35.0298519,
+                    135.751447
+                ]
+            ],
+            "website": "https://www.tsuruyayoshinobu.jp/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "122°",
+            "name": "Pasticceria Marchesi",
+            "ref": "https://www.tasteatlas.com/PasticceriaMarchesi",
+            "address": null,
+            "coord": [
+                [
+                    45.4654862,
+                    9.1806527
+                ]
+            ],
+            "website": "http://www.pasticceriamarchesi.it"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "123°",
+            "name": "Bar Scimone",
+            "ref": "https://www.tasteatlas.com/bar-scimone",
+            "address": null,
+            "coord": [
+                [
+                    38.2061354,
+                    13.3251446
+                ]
+            ],
+            "website": "http://www.pasticceriascimone.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "124°",
+            "name": "Aux Merveilleux de Fred",
+            "ref": "https://www.tasteatlas.com/AuxMerveilleuxDeFred",
+            "address": null,
+            "coord": [
+                [
+                    48.8568586,
+                    2.2789417
+                ]
+            ],
+            "website": "http://www.auxmerveilleux.com/home_en"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "125°",
+            "name": "Maison Adam",
+            "ref": "https://www.tasteatlas.com/maison-adam",
+            "address": null,
+            "coord": [
+                [
+                    43.3890478,
+                    -1.6602981
+                ]
+            ],
+            "website": "https://www.maisonadam.fr/fr/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "126°",
+            "name": "Gelateria Pepino",
+            "ref": "https://www.tasteatlas.com/gelateria-pepino",
+            "address": null,
+            "coord": [
+                [
+                    45.0690264,
+                    7.6845754
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "127°",
+            "name": "Jindrak",
+            "ref": "https://www.tasteatlas.com/Jindrak",
+            "address": null,
+            "coord": [
+                [
+                    48.3023995,
+                    14.2998452
+                ]
+            ],
+            "website": "https://www.jindrak.at/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "128°",
+            "name": "Konditorei Zauner",
+            "ref": "https://www.tasteatlas.com/konditorei-zauner",
+            "address": null,
+            "coord": [
+                [
+                    47.7108645,
+                    13.6218323
+                ]
+            ],
+            "website": "https://www.zauner.at"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "129°",
+            "name": "Casa Garcia",
+            "ref": "https://www.tasteatlas.com/casa-garcia",
+            "address": null,
+            "coord": [
+                [
+                    -23.5570456,
+                    -46.6587446
+                ]
+            ],
+            "website": "https://www.casagarciaimportadora.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "130°",
+            "name": "Pralus",
+            "ref": "https://www.tasteatlas.com/pralus",
+            "address": null,
+            "coord": [
+                [
+                    46.0363886,
+                    4.0708196
+                ]
+            ],
+            "website": "https://www.chocolats-pralus.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "131°",
+            "name": "Dominique Ansel Bakery",
+            "ref": "https://www.tasteatlas.com/DominiqueAnsel",
+            "address": null,
+            "coord": [
+                [
+                    40.725171,
+                    -74.00295
+                ]
+            ],
+            "website": "http://www.dominiqueansel.com"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "132°",
+            "name": "American Doughnut Kitchen",
+            "ref": "https://www.tasteatlas.com/american-doughnut-kitchen",
+            "address": null,
+            "coord": [
+                [
+                    -37.8071333,
+                    144.9581598
+                ]
+            ],
+            "website": "https://www.adk1950.com.au/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "133°",
+            "name": "Casa Mira",
+            "ref": "https://www.tasteatlas.com/casa-mira",
+            "address": null,
+            "coord": [
+                [
+                    40.4164778,
+                    -3.699248
+                ]
+            ],
+            "website": "https://casamira.es"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "134°",
+            "name": "Toraya",
+            "ref": "https://www.tasteatlas.com/toraya",
+            "address": null,
+            "coord": [
+                [
+                    35.6748892,
+                    139.7338629
+                ]
+            ],
+            "website": "https://www.toraya-group.co.jp"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "135°",
+            "name": "Eitaro Sohonpo",
+            "ref": "https://www.tasteatlas.com/eitaro-sohonpo",
+            "address": null,
+            "coord": [
+                [
+                    35.6834314,
+                    139.7734732
+                ]
+            ],
+            "website": "https://www.eitaro.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "136°",
+            "name": "Slastičarnica Vincek",
+            "ref": "https://www.tasteatlas.com/SlasticarnicaVincek",
+            "address": null,
+            "coord": [
+                [
+                    45.81327865,
+                    15.97333518660228
+                ]
+            ],
+            "website": "http://www.vincek.com.hr/en/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "137°",
+            "name": "Maison Auer",
+            "ref": "https://www.tasteatlas.com/maison-auer",
+            "address": null,
+            "coord": [
+                [
+                    43.6958354,
+                    7.2724892
+                ]
+            ],
+            "website": "https://www.maison-auer.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "138°",
+            "name": "El Riojano",
+            "ref": "https://www.tasteatlas.com/ElRiojano",
+            "address": null,
+            "coord": [
+                [
+                    40.4164726,
+                    -3.7060265
+                ]
+            ],
+            "website": "http://www.confiteriaelriojano.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "139°",
+            "name": "La Tarte Tropézienne",
+            "ref": "https://www.tasteatlas.com/la-tarte-tropezienne",
+            "address": null,
+            "coord": [
+                [
+                    43.2701765,
+                    6.6409468
+                ]
+            ],
+            "website": "https://www.latartetropezienne.fr/fr/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "140°",
+            "name": "Ginza Kimuraya",
+            "ref": "https://www.tasteatlas.com/GinzaKimuraya",
+            "address": null,
+            "coord": [
+                [
+                    35.6712864,
+                    139.7657382
+                ]
+            ],
+            "website": "http://www.kimuraya-sohonten.co.jp/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "141°",
+            "name": "Akasaka Aono",
+            "ref": "https://www.tasteatlas.com/akasaka-aono",
+            "address": null,
+            "coord": [
+                [
+                    35.6691356,
+                    139.7320701
+                ]
+            ],
+            "website": "https://akasaka-aono.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "142°",
+            "name": "Izutsu Yatsuhashi Honpo",
+            "ref": "https://www.tasteatlas.com/IzutsuYatsuhashiHonpo",
+            "address": null,
+            "coord": [
+                [
+                    35.004735100000005,
+                    135.7723352158161
+                ]
+            ],
+            "website": "http://www.yatsuhashi.co.jp/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "143°",
+            "name": "Morihachi",
+            "ref": "https://www.tasteatlas.com/morihachi",
+            "address": null,
+            "coord": [
+                [
+                    36.5693532,
+                    136.6639456
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "144°",
+            "name": "Bashodo",
+            "ref": "https://www.tasteatlas.com/Bashodo",
+            "address": null,
+            "coord": [
+                [
+                    34.7047335,
+                    135.49069
+                ]
+            ],
+            "website": "http://www.bashoudo.com/english/index.html"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "145°",
+            "name": "Magnolia Bakery",
+            "ref": "https://www.tasteatlas.com/MagnoliaBakery",
+            "address": null,
+            "coord": [
+                [
+                    40.7358879,
+                    -74.005
+                ]
+            ],
+            "website": "http://www.magnoliabakery.com"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "146°",
+            "name": "Daoxiangcun",
+            "ref": "https://www.tasteatlas.com/daoxiangcun",
+            "address": null,
+            "coord": [
+                [
+                    39.939894,
+                    116.4191492
+                ]
+            ],
+            "website": "http://www.daoxiangcun.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "147°",
+            "name": "Koi Kei Bakery",
+            "ref": "https://www.tasteatlas.com/koi-kei-bakery",
+            "address": null,
+            "coord": [
+                [
+                    22.1947187,
+                    113.5375132
+                ]
+            ],
+            "website": "http://www.koikei.com/index.php"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "148°",
+            "name": "Takemura",
+            "ref": "https://www.tasteatlas.com/takemura",
+            "address": null,
+            "coord": [
+                [
+                    35.6966267,
+                    139.7689761
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "149°",
+            "name": "La King's Confectionery",
+            "ref": "https://www.tasteatlas.com/la-kings-confectionery",
+            "address": null,
+            "coord": [
+                [
+                    29.3066557,
+                    -94.79518327224888
+                ]
+            ],
+            "website": "https://lakingsconfectionery.com/"
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Dessert Places 23/24",
+            "emoji": "🍰",
+            "position": "150°",
+            "name": "Confeitaria Nacional",
+            "ref": "https://www.tasteatlas.com/ConfeitariaNacional",
+            "address": null,
+            "coord": [
+                [
+                    38.7131861,
+                    -9.1379474
+                ]
+            ],
+            "website": "http://www.confeitarianacional.com/pt/"
+        }
+    ]
+}

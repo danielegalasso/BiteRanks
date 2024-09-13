@@ -1,0 +1,680 @@
+{
+    "Burger": [
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "50 Top Italy Migliori Panini 2024",
+            "emoji": "🍔",
+            "position": "1°",
+            "name": "Da Gigione Gourmand",
+            "ref": "https://www.50topitaly.it/it/referenza/da-gigione-gourmand-3/",
+            "address": [
+                "Via Roma, 307, 80038 Pomigliano d'Arco NA"
+            ],
+            "coord": [
+                [
+                    40.91218,
+                    14.3912404
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "50 Top Italy Migliori Panini 2024",
+            "emoji": "🍔",
+            "position": "2°",
+            "name": "Bestie – Calabresi selvaggi",
+            "ref": "https://www.50topitaly.it/it/referenza/bestie-calabresi-selvaggi-3/",
+            "address": [
+                "Via Italo Balbo, 89, 88060 Montepaone, CZ, Italia"
+            ],
+            "coord": [
+                [
+                    38.7270591,
+                    16.5313096
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "50 Top Italy Migliori Panini 2024",
+            "emoji": "🍔",
+            "position": "3°",
+            "name": "‘Ino",
+            "ref": "https://www.50topitaly.it/it/referenza/ino-3/",
+            "address": [
+                "Via dei Georgofili, 3r/7r, 50122 Firenze FI, Italia"
+            ],
+            "coord": [
+                [
+                    43.7681726,
+                    11.2546317
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "50 Top Italy Migliori Panini 2024",
+            "emoji": "🍔",
+            "position": "4°",
+            "name": "Fud Bottega Sicula",
+            "ref": "https://www.50topitaly.it/it/referenza/fud-bottega-sicula-2/",
+            "address": [
+                "Piazza Olivella, 4, 90133 Palermo, Palermo PA, Italia"
+            ],
+            "coord": [
+                [
+                    38.1203329,
+                    13.3601276
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "50 Top Italy Migliori Panini 2024",
+            "emoji": "🍔",
+            "position": "5°",
+            "name": "Porcobrado",
+            "ref": "https://www.50topitaly.it/it/referenza/porcobrado-2/",
+            "address": [
+                "Via Jacopo dal Verme, 17, 20159 Milano, MI, Italia"
+            ],
+            "coord": [
+                [
+                    45.4875206,
+                    9.1881472
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "50 Top Italy Migliori Panini 2024",
+            "emoji": "🍔",
+            "position": "6°",
+            "name": "Mi’ Ndujo",
+            "ref": "https://www.50topitaly.it/it/referenza/mi-ndujo/",
+            "address": [
+                "Via G. Marconi, 82 - 87036 Rende"
+            ],
+            "coord": [
+                [
+                    39.3535206,
+                    16.2358733
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "50 Top Italy Migliori Panini 2024",
+            "emoji": "🍔",
+            "position": "7°",
+            "name": "Da Matti Street Food",
+            "ref": "https://www.50topitaly.it/it/referenza/da-matti-street-food-3/",
+            "address": [
+                "Via A. Vespucci, 9, 66038 Marina di San Vito, CH, Italia"
+            ],
+            "coord": [
+                [
+                    42.3076596,
+                    14.4453194
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "50 Top Italy Migliori Panini 2024",
+            "emoji": "🍔",
+            "position": "8°",
+            "name": "BifBurger Exclusive",
+            "ref": "https://www.50topitaly.it/it/referenza/bifburger-exclusive-2/",
+            "address": [
+                "Via Papa Giovanni XXIII, 8, 80044 Ottaviano NA, Italia"
+            ],
+            "coord": [
+                [
+                    40.8485233,
+                    14.4762652
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "50 Top Italy Migliori Panini 2024",
+            "emoji": "🍔",
+            "position": "9°",
+            "name": "Panino Marino",
+            "ref": "https://www.50topitaly.it/it/referenza/panino-marino-3/",
+            "address": [
+                "Piazza Caricamento, 65R, 16124 Genova, GE, Italia"
+            ],
+            "coord": [
+                [
+                    44.4107044,
+                    8.9289542
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "50 Top Italy Migliori Panini 2024",
+            "emoji": "🍔",
+            "position": "10°",
+            "name": "Qcècè SocialCafè",
+            "ref": "https://www.50topitaly.it/it/referenza/qcece-socialcafe/",
+            "address": [
+                "Piazza Altieri, 87020 San Nicola Arcella, CS, Italia"
+            ],
+            "coord": [
+                [
+                    39.8486071,
+                    15.794757
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "White Rabbit",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    41.9230845,
+                    12.5152446
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Opificio Vescovio",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    41.9333129,
+                    12.5124986
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Il Locandiere De Core e De Panza",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    41.7914615,
+                    13.1317503
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "BikerBistrot",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    41.6441803,
+                    13.3460816
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Pub El Encanto",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    42.1026567,
+                    13.8116339
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "St. James Irish pub",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    42.3536051,
+                    14.1659356
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Trattoria MA’",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    42.3708685,
+                    14.2927053
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Junò Osteria Pizzeria",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    43.2285385,
+                    13.17748
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Dal Tramonto all’Alba",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    42.3094072,
+                    14.4447985
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Hamburger Paisàni",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    40.9681741,
+                    14.2040137
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Belle Epoque – Ministry of Quality",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    43.1800057,
+                    13.7984255
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "The Juicy Lucy",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    40.8536474,
+                    14.23329
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Sturgis Beerhouse",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    40.9218758,
+                    14.4202377
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Paradise Playcenter (Vincitore edizione 2018)",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    43.5638633,
+                    13.2802909
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Torre Birraia",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    40.7563106,
+                    14.443945
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "The Big Brothers Pub",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    40.6199287,
+                    14.9481212
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Myriù Pizzeria Braceria Birreria",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    40.7244677,
+                    15.2931898
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Ciccio’s Smoke And BBQ",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    44.3298133,
+                    10.8268846
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "The Butcher – Hamburgeria (Vincitore edizione 2023)",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    41.08643350000001,
+                    16.7865802
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Pub Garibaldi (Vincitore edizione 2019)",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    40.9527699,
+                    17.3026662
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "BurgeRino",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    45.4467717,
+                    11.0273795
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Cucchi Pub – Bar, Paninoteca e Birreria",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    45.6769423,
+                    12.2838037
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Agorà Cafè di Filippini Marisa (Vincitrice edizione 2022)",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    45.6048991,
+                    10.5150992
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Torre d’Ercole",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    45.538434,
+                    10.2250957
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Birreria 58 (Vincitore edizione 2020)",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    45.5906288,
+                    10.1106312
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Burger Eat Gourmet",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    40.5597106,
+                    17.8088801
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Trinken Haus",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    38.8202395,
+                    16.6148518
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Be Steak",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    45.4658602,
+                    9.1912975
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Pizburg Pizzeria Hamburgeria",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    45.5309801,
+                    9.134149
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Smoky Burger&Ribs",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    45.6208227,
+                    9.2341378
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Pub Excalibur",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": null,
+            "coord": [
+                [
+                    44.6566327,
+                    7.3915673
+                ]
+            ],
+            "website": null
+        }
+    ]
+}
