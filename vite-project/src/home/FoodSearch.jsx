@@ -33,7 +33,7 @@ const FoodSearch = ({sfsv, selectedItems, setSelectedItems, markers, setMarkers}
     //];
   
   
-
+  //fetch Dall'indice NomiRanking e NomiCibi
   useEffect(() => {
     const fetchData = async (item, file) => {
       try {
@@ -90,7 +90,7 @@ const FoodSearch = ({sfsv, selectedItems, setSelectedItems, markers, setMarkers}
           const unshowedCategoryName = category.replace('.json', '');
           const categoryName = category.replace('.json', '').replace(/_/g, ' ');
           const iconPath = `/food-icon/${unshowedCategoryName}.png`; // Modifica il percorso dell'icona per il cibo
-          const categoryPath = `/food/${unshowedCategoryName}/`; // Modifica il percorso per la categoria di cibo
+          const categoryPath = `/food/${category}`; // Modifica il percorso per la categoria di cibo
 
           return {
             icon: iconPath,
@@ -177,7 +177,7 @@ const FoodSearch = ({sfsv, selectedItems, setSelectedItems, markers, setMarkers}
   };
   
   
-  
+  // fetch Dati sulla mappa
   useEffect(() => {
     const fetchData = async (item, file) => {
       try {
@@ -209,39 +209,70 @@ const FoodSearch = ({sfsv, selectedItems, setSelectedItems, markers, setMarkers}
       const fetchAllData = async () => {
         const allData = {}; // Dizionario per raccogliere tutti i dati
 
-        // Itera su ciascun elemento in selectedItems
-        for (const item of selectedItems) {
-          const filePath = `${item.path}index.json`;
-          
-          const response = await fetch(filePath, {
-            headers: {
-              "Content-Type": "application/json",
-              Accept: "application/json",
-            },
-          });
-          
-          if (!response.ok) {
-            console.error("Errore nel recupero dell'index.json");
-            return;
+        // se gli elementi appartengono a Ranking fai questo fetch
+        if (activeTab === "ranking"){
+          for (const item of selectedItems) {
+            const filePath = `${item.path}index.json`;
+            
+            const response = await fetch(filePath, {
+              headers: {
+                "Content-Type": "application/json",
+                Accept: "application/json",
+              },
+            });
+            
+            if (!response.ok) {
+              console.error("Errore nel recupero dell'index.json");
+              return;
+            }
+            
+            const files = await response.json(); // Ottieni la lista dei file
+
+            // Inizializza un array vuoto per le sub-classifiche
+            allData[item.name] = [];
+
+            for (const file of files) {
+              console.log("item");
+              console.log(item);
+              console.log("file");
+              console.log(file);
+              const data = await fetchData(item, file); // Recupera i dati della sub-classifica
+
+              if (data) {
+                // Aggiungi i dati all'array solo se il recupero è stato un successo
+                allData[item.name].push(data);
+              }
+            }
           }
-          
-          const files = await response.json(); // Ottieni la lista dei file
+        }
+        // se gli elementi appartengono a Food fai questo fetch
+        else {
 
-          // Inizializza un array vuoto per le sub-classifiche
-          allData[item.name] = [];
-
-          for (const file of files) {
-            console.log("item");
+          for (const item of selectedItems) {
+            console.log("item:");
             console.log(item);
-            console.log("file");
-            console.log(file);
-            const data = await fetchData(item, file); // Recupera i dati della sub-classifica
+
+
+            // Inizializza un array vuoto per le sub-classifiche
+            allData[item.name] = [];
+
+            
+            const data = await fetchData(item, ""); // Recupera i dati della sub-classifica
+
+            console.log("data:");
+            console.log(data);
 
             if (data) {
               // Aggiungi i dati all'array solo se il recupero è stato un successo
               allData[item.name].push(data);
             }
+            
           }
+
+
+
+
+
         }
 
         console.log("allData");
