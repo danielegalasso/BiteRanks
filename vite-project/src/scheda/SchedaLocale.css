@@ -26,10 +26,7 @@
   width: calc(32.38vw * 0.75); /* Scala la larghezza */
   aspect-ratio: 1.46;
 
-  background-image: url('./../imgs/figures2.png');
-  background-repeat: no-repeat;
-  background-position: bottom left;
-  background-size: 90% 33%; /* Scala le dimensioni del background */
+  
   background-color: #E7E0D0;
 
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.075); /* Scala l'ombra */
