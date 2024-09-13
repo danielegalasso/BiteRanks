@@ -1,10 +1,13 @@
 {
     "Le Soste": [
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Al sorriso",
             "ref": "https://lesoste.it/al-sorriso/",
+            "address": null,
             "coord": [
                 [
                     45.7408178,
@@ -14,10 +17,13 @@
             "website": "https://www.alsorriso.com/en/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "All'Enoteca",
             "ref": "https://lesoste.it/all-enoteca/",
+            "address": null,
             "coord": [
                 [
                     44.7975652,
@@ -27,10 +33,13 @@
             "website": "https://www.davidepalluda.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Ca' Vittoria",
             "ref": "https://lesoste.it/ca-vittoria/",
+            "address": null,
             "coord": [
                 [
                     44.88677089999999,
@@ -40,10 +49,13 @@
             "website": "https://www.ristorantevittoria.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Christian & Manuel Ristorante",
             "ref": "https://lesoste.it/christian-e-manuel-ristorante/",
+            "address": null,
             "coord": [
                 [
                     45.3202692,
@@ -53,10 +65,13 @@
             "website": "https://www.christianemanuel.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Dolce stil novo alla Reggia",
             "ref": "https://lesoste.it/dolce-stil-novo-alla-reggia/",
+            "address": null,
             "coord": [
                 [
                     45.1353979,
@@ -66,10 +81,13 @@
             "website": "http://www.dolcestilnovo.com/online/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Il Cascinalenuovo",
             "ref": "https://lesoste.it/il-cascinale-nuovo/",
+            "address": null,
             "coord": [
                 [
                     44.8275313,
@@ -79,10 +97,13 @@
             "website": "https://walterferretto.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "La Madernassa",
             "ref": "https://lesoste.it/la-madernassa/",
+            "address": null,
             "coord": [
                 [
                     44.7362768,
@@ -92,10 +113,13 @@
             "website": "https://lamadernassa.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Magorabin",
             "ref": "https://lesoste.it/magorabin/",
+            "address": null,
             "coord": [
                 [
                     45.0718771,
@@ -105,10 +129,13 @@
             "website": "https://www.magorabin.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Piazza Duomo",
             "ref": "https://lesoste.it/piazza-duomo/",
+            "address": null,
             "coord": [
                 [
                     44.7006658,
@@ -118,10 +145,13 @@
             "website": "https://www.piazzaduomoalba.it/it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Piccolo Lago",
             "ref": "https://lesoste.it/piccolo-lago/",
+            "address": null,
             "coord": [
                 [
                     45.9470015,
@@ -131,10 +161,13 @@
             "website": "https://www.piccololago.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Villa Crespi",
             "ref": "https://lesoste.it/villa-crespi/",
+            "address": null,
             "coord": [
                 [
                     45.79637325,
@@ -144,10 +177,13 @@
             "website": "https://shop.antoninocannavacciuolo.it/store/gift-card/villa-crespi-degustazione-itinerario?gad_source=1&gclid=Cj0KCQjwqP2pBhDMARIsAJQ0CzojJCLZp-_0djXqH6Qw32F2GUN6HowhMEElkvREmMsEsHcvh9G1-zcaAgklEALw_wcB"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Sarri",
             "ref": "https://lesoste.it/sarri/",
+            "address": null,
             "coord": [
                 [
                     43.8701011,
@@ -157,10 +193,13 @@
             "website": "https://www.ristorantesarri.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "D'O",
             "ref": "https://lesoste.it/do-di-davide-oldani/",
+            "address": null,
             "coord": [
                 [
                     45.487057,
@@ -170,10 +209,13 @@
             "website": "https://www.cucinapop.do/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Da Vittorio",
             "ref": "https://lesoste.it/da-vittorio/",
+            "address": null,
             "coord": [
                 [
                     45.6776782,
@@ -183,10 +225,13 @@
             "website": "https://www.davittorio.com/en/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Dal Pescatore Santini",
             "ref": "https://lesoste.it/dal-pescatore-santini-3/",
+            "address": null,
             "coord": [
                 [
                     45.150177,
@@ -196,10 +241,13 @@
             "website": "http://www.dalpescatore.com/it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Enrico Bartolini",
             "ref": "https://lesoste.it/enrico-bartolini-ristorante/",
+            "address": null,
             "coord": [
                 [
                     45.4520455,
@@ -209,10 +257,13 @@
             "website": "https://www.enricobartolini.net/ristorante-mudec-milano"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Il Cantinone",
             "ref": "https://lesoste.it/il-cantinone/",
+            "address": null,
             "coord": [
                 [
                     46.4365647,
@@ -222,10 +273,13 @@
             "website": "https://ristorantecantinone.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Il Cigno Trattoria dei Martini",
             "ref": "https://lesoste.it/il-cigno-trattoria-dei-martini/",
+            "address": null,
             "coord": [
                 [
                     45.1606194,
@@ -235,10 +289,13 @@
             "website": "https://www.ristoranteilcignomantova.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Il Luogo di Aimo e Nadia",
             "ref": "https://lesoste.it/il-luogo-di-aimo-e-nadia/",
+            "address": null,
             "coord": [
                 [
                     45.4583963,
@@ -248,10 +305,13 @@
             "website": "https://www.illuogoaimoenadia.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Il Saraceno",
             "ref": "https://lesoste.it/il-saraceno/",
+            "address": null,
             "coord": [
                 [
                     45.6248356,
@@ -261,10 +321,13 @@
             "website": "https://www.ristorante-ilsaraceno.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Ilario Vinciguerra Restaurant",
             "ref": "https://lesoste.it/ilario-vinciguerra/",
+            "address": null,
             "coord": [
                 [
                     45.6623843,
@@ -274,10 +337,13 @@
             "website": "https://www.ilariovinciguerra.it/it/home/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Joia",
             "ref": "https://lesoste.it/joia-di-pietro-leemann/",
+            "address": null,
             "coord": [
                 [
                     45.476986,
@@ -287,10 +353,13 @@
             "website": "https://joia.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "La Terrazza Gualtiero Marchesi",
             "ref": "https://lesoste.it/la-terrazza-gualtiero-marchesi/",
+            "address": null,
             "coord": [
                 [
                     45.98491869999999,
@@ -300,10 +369,13 @@
             "website": "https://www.grandhoteltremezzo.com/it/esperienza-gourmet/ristorante-la-terrazza/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Lido 84",
             "ref": "https://lesoste.it/lido-84/",
+            "address": null,
             "coord": [
                 [
                     45.6252976,
@@ -313,10 +385,13 @@
             "website": "https://www.ristorantelido84.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Lio Pellegrini",
             "ref": "https://lesoste.it/lio-pellegrini/",
+            "address": null,
             "coord": [
                 [
                     45.7034454,
@@ -326,10 +401,13 @@
             "website": "https://www.liopellegrini.it/site/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Miramonti l'altro",
             "ref": "https://lesoste.it/miramonti-laltro/",
+            "address": null,
             "coord": [
                 [
                     45.6137175,
@@ -339,10 +417,13 @@
             "website": "https://www.miramontilaltro.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Osteria della Brughiera",
             "ref": "https://lesoste.it/osteria-della-brughiera/",
+            "address": null,
             "coord": [
                 [
                     45.7379252,
@@ -352,10 +433,13 @@
             "website": "https://www.osteriadellabrughiera.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Pierino Penati",
             "ref": "https://lesoste.it/pierino-penati/",
+            "address": null,
             "coord": [
                 [
                     45.7277798,
@@ -365,10 +449,13 @@
             "website": "https://pierinopenati.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Pomiroeu",
             "ref": "https://lesoste.it/pomiroeu-morelli-giancarlo/",
+            "address": null,
             "coord": [
                 [
                     45.651054,
@@ -378,10 +465,13 @@
             "website": "https://www.pomiroeu.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Ristorante Andrea Aprea",
             "ref": "https://lesoste.it/ristorante-di-andrea-aprea-2/",
+            "address": null,
             "coord": [
                 [
                     45.4733779,
@@ -391,10 +481,13 @@
             "website": "https://www.andreaaprea.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Ristorante Cracco in Galleria",
             "ref": "https://lesoste.it/ristorante-cracco-in-galleria/",
+            "address": null,
             "coord": [
                 [
                     45.4657212,
@@ -404,10 +497,13 @@
             "website": "https://www.ristorantecracco.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Sadler",
             "ref": "https://lesoste.it/sadler-2/",
+            "address": null,
             "coord": [
                 [
                     45.4726831,
@@ -417,10 +513,13 @@
             "website": "https://ristorantesadler.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Seta by Antonio Guida",
             "ref": "https://lesoste.it/seta/",
+            "address": null,
             "coord": [
                 [
                     45.4698121,
@@ -430,10 +529,13 @@
             "website": "https://www.mandarinoriental.com/it/milan/la-scala/dine/seta"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Umberto De Martino",
             "ref": "https://lesoste.it/umberto-de-martino/",
+            "address": null,
             "coord": [
                 [
                     45.6941548,
@@ -443,10 +545,13 @@
             "website": "https://www.florianmaison.com/ristorante-umberto-de-martino/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Viva Viviana Varese",
             "ref": "https://lesoste.it/viva-viviana-varese/",
+            "address": null,
             "coord": [
                 [
                     45.4806249,
@@ -456,10 +561,13 @@
             "website": "https://www.vivavivianavarese.it/en/viva-restaurant/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Atelier Moessmer di Norbert Niederkofler",
             "ref": "https://lesoste.it/atelier-moessmer-di-norbert-niederkofler/",
+            "address": null,
             "coord": [
                 [
                     46.7927308,
@@ -469,10 +577,13 @@
             "website": "https://ateliernorbertniederkofler.com/en/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Castel Finedining",
             "ref": "https://lesoste.it/castelfinedining/",
+            "address": null,
             "coord": [
                 [
                     46.686475,
@@ -482,10 +593,13 @@
             "website": "https://hotel-castel.com/restaurants-bars/castel-fine-dining/?lang=en"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "El Molin",
             "ref": "https://lesoste.it/el-molin/",
+            "address": null,
             "coord": [
                 [
                     46.2921054,
@@ -495,10 +609,13 @@
             "website": "https://www.alessandrogilmozzi.com/?lang=en"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Locanda Margon",
             "ref": "https://lesoste.it/locanda-margon/",
+            "address": null,
             "coord": [
                 [
                     46.0245772,
@@ -508,10 +625,13 @@
             "website": "https://locandamargon.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Schoneck",
             "ref": "https://lesoste.it/schoneck/",
+            "address": null,
             "coord": [
                 [
                     46.8187327,
@@ -521,10 +641,13 @@
             "website": "https://www.schoeneck.it/de/home"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Zum Loewen",
             "ref": "https://lesoste.it/zum-loewen/",
+            "address": null,
             "coord": [
                 [
                     46.5632745,
@@ -534,10 +657,13 @@
             "website": "https://www.zumloewen.it/it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Antica Osteria da Cera",
             "ref": "https://lesoste.it/antica-osteria-da-cera/",
+            "address": null,
             "coord": [
                 [
                     45.38805275,
@@ -547,10 +673,13 @@
             "website": "https://www.osteriacera.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Casa Perbellini 12 Apostoli",
             "ref": "https://lesoste.it/casa-perbellini-12-apostoli/",
+            "address": null,
             "coord": [
                 [
                     45.4426684,
@@ -560,10 +689,13 @@
             "website": "https://www.casaperbellini.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Il Desco",
             "ref": "https://lesoste.it/il-desco/",
+            "address": null,
             "coord": [
                 [
                     45.4416309,
@@ -573,10 +705,13 @@
             "website": "https://ristoranteildesco.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "La Peca",
             "ref": "https://lesoste.it/la-peca/",
+            "address": null,
             "coord": [
                 [
                     45.3848468,
@@ -586,10 +721,13 @@
             "website": "https://lapeca.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Oseleta",
             "ref": "https://lesoste.it/oseleta/",
+            "address": null,
             "coord": [
                 [
                     45.5249163,
@@ -599,10 +737,13 @@
             "website": "https://www.ristoranteoseleta.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Tivoli",
             "ref": "https://lesoste.it/tivoli/",
+            "address": null,
             "coord": [
                 [
                     46.5335786,
@@ -612,10 +753,13 @@
             "website": "https://www.ristorantetivolicortina.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Laite",
             "ref": "https://lesoste.it/laite/",
+            "address": null,
             "coord": [
                 [
                     46.5684477,
@@ -625,10 +769,13 @@
             "website": "https://www.ristorantelaite.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Antica Corte Pallavicina",
             "ref": "https://lesoste.it/antica-corte-pallavicina/",
+            "address": null,
             "coord": [
                 [
                     45.0212209,
@@ -638,10 +785,13 @@
             "website": "https://www.anticacortepallavicinarelais.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Inkiostro",
             "ref": "https://lesoste.it/inkiostro/",
+            "address": null,
             "coord": [
                 [
                     44.8286686,
@@ -651,10 +801,13 @@
             "website": "https://www.ristoranteinkiostro.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "L'Erba del Re",
             "ref": "https://lesoste.it/lerba-del-re/",
+            "address": null,
             "coord": [
                 [
                     44.6492043,
@@ -664,10 +817,13 @@
             "website": "https://www.lerbadelre.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "La Buca",
             "ref": "https://lesoste.it/la-buca/",
+            "address": null,
             "coord": [
                 [
                     44.2004036,
@@ -677,10 +833,13 @@
             "website": "https://www.labucaristorante.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Magnolia",
             "ref": "https://lesoste.it/magnolia/",
+            "address": null,
             "coord": [
                 [
                     44.0729103,
@@ -690,10 +849,13 @@
             "website": "https://www.magnoliaristorante.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Osteria Francescana",
             "ref": "https://lesoste.it/osteria-francescana/",
+            "address": null,
             "coord": [
                 [
                     44.6447968,
@@ -703,10 +865,13 @@
             "website": "https://osteriafrancescana.it/it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Paolo Taverini",
             "ref": "https://lesoste.it/paolo-teverini/",
+            "address": null,
             "coord": [
                 [
                     43.8328117,
@@ -716,10 +881,13 @@
             "website": "https://www.hoteltoscoromagnolo.it/it/ristoranti.php"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Piastrino",
             "ref": "https://lesoste.it/piastrino/",
+            "address": null,
             "coord": [
                 [
                     43.8190929,
@@ -729,10 +897,13 @@
             "website": "https://www.piastrino.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "San Domenico",
             "ref": "https://lesoste.it/san-domenico/",
+            "address": null,
             "coord": [
                 [
                     44.355779,
@@ -742,10 +913,13 @@
             "website": "https://www.sandomenico.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Arnolfo",
             "ref": "https://lesoste.it/arnolfo/",
+            "address": null,
             "coord": [
                 [
                     43.4230425,
@@ -755,10 +929,13 @@
             "website": "https://www.arnolfo.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Caino",
             "ref": "https://lesoste.it/caino/",
+            "address": null,
             "coord": [
                 [
                     42.6220749,
@@ -768,10 +945,13 @@
             "website": "https://www.dacaino.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Il Falconiere",
             "ref": "https://lesoste.it/il-falconiere/",
+            "address": null,
             "coord": [
                 [
                     43.2813314,
@@ -781,10 +961,13 @@
             "website": "https://www.ilfalconiere.it/it/hotel-toscana-con-ristorante-stellato/ristorante-il-falconiere"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Il Piccolo Principe",
             "ref": "https://lesoste.it/il-piccolo-principe/",
+            "address": null,
             "coord": [
                 [
                     43.8813891,
@@ -794,10 +977,13 @@
             "website": "https://www.ristoranteilpiccoloprincipe.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Lorenzo",
             "ref": "https://lesoste.it/lorenzo/",
+            "address": null,
             "coord": [
                 [
                     43.9558943,
@@ -807,10 +993,13 @@
             "website": "https://www.ristorantelorenzo.com/it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Romano",
             "ref": "https://lesoste.it/romano/",
+            "address": null,
             "coord": [
                 [
                     43.8230143,
@@ -820,10 +1009,13 @@
             "website": "https://www.romanoristorante.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Andreina",
             "ref": "https://lesoste.it/andreina/",
+            "address": null,
             "coord": [
                 [
                     43.4403344,
@@ -833,10 +1025,13 @@
             "website": "https://www.ristoranteandreina.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Madonnina del Pescatore",
             "ref": "https://lesoste.it/madonnina-del-pescatore/",
+            "address": null,
             "coord": [
                 [
                     43.6815703,
@@ -846,10 +1041,13 @@
             "website": "https://www.morenocedroni.it/la-madonnina-del-pescatore/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Nostrano",
             "ref": "https://lesoste.it/nostrano/",
+            "address": null,
             "coord": [
                 [
                     43.9144747,
@@ -859,10 +1057,13 @@
             "website": "https://www.nostranoristorante.it/it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Uliassi",
             "ref": "https://lesoste.it/uliassi/",
+            "address": null,
             "coord": [
                 [
                     43.71951675,
@@ -872,10 +1073,13 @@
             "website": "https://www.uliassi.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Aminta",
             "ref": "https://lesoste.it/aminta/",
+            "address": null,
             "coord": [
                 [
                     41.8110324,
@@ -885,10 +1089,13 @@
             "website": "https://www.amintaresort.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "La Pergola",
             "ref": "https://lesoste.it/la-pergola/",
+            "address": null,
             "coord": [
                 [
                     41.9188923,
@@ -898,10 +1105,13 @@
             "website": "https://romecavalieri.com/it/la-pergola-it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "La Trota dal '63",
             "ref": "https://lesoste.it/la-trota-dal-63/",
+            "address": null,
             "coord": [
                 [
                     42.49846429999999,
@@ -911,10 +1121,13 @@
             "website": "https://www.latrota.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Pipero",
             "ref": "https://lesoste.it/pipero/",
+            "address": null,
             "coord": [
                 [
                     41.89668,
@@ -924,10 +1137,13 @@
             "website": "https://www.piperoroma.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "La Bandiera",
             "ref": "https://lesoste.it/la-bandiera/",
+            "address": null,
             "coord": [
                 [
                     42.3695627,
@@ -937,10 +1153,13 @@
             "website": "https://www.labandiera.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Reale",
             "ref": "https://lesoste.it/reale-2/",
+            "address": null,
             "coord": [
                 [
                     41.7691301,
@@ -950,10 +1169,13 @@
             "website": "https://www.nikoromito.com/reale-ristorante/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Villa Maiella",
             "ref": "https://lesoste.it/villa-maiella/",
+            "address": null,
             "coord": [
                 [
                     42.1887427,
@@ -963,10 +1185,13 @@
             "website": "https://www.villamaiella.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Don Alfonso 1890",
             "ref": "https://lesoste.it/don-alfonso-1890/",
+            "address": null,
             "coord": [
                 [
                     40.6080421,
@@ -976,10 +1201,13 @@
             "website": "https://www.donalfonso.com/it/hotel-con-ristorante-costiera-sorrentina"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Il Comandante",
             "ref": "https://lesoste.it/il-comandante-restaurant/",
+            "address": null,
             "coord": [
                 [
                     40.8406847,
@@ -989,10 +1217,13 @@
             "website": "https://theromeocollection.com/it/romeo-napoli/ristoranti-bar/il-comandante-ristorante/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "La Torre del Saracino",
             "ref": "https://lesoste.it/la-torre-del-saracino/",
+            "address": null,
             "coord": [
                 [
                     40.6605808,
@@ -1002,10 +1233,13 @@
             "website": "https://torredelsaracino.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Oasis sapori antichi",
             "ref": "https://lesoste.it/oasis-sapori-antichi/",
+            "address": null,
             "coord": [
                 [
                     41.063271,
@@ -1015,10 +1249,13 @@
             "website": "https://oasis-saporiantichi.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Quattro passi",
             "ref": "https://lesoste.it/quattro-passi/",
+            "address": null,
             "coord": [
                 [
                     40.58642690000001,
@@ -1028,10 +1265,13 @@
             "website": "https://www.ristorantequattropassi.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Relais Blu",
             "ref": "https://lesoste.it/relais-blu/",
+            "address": null,
             "coord": [
                 [
                     40.5894386,
@@ -1041,10 +1281,13 @@
             "website": "https://www.relaisblu.com/it/restaurant"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Taverna del Capitano",
             "ref": "https://lesoste.it/taverna-del-capitano/",
+            "address": null,
             "coord": [
                 [
                     40.5835975,
@@ -1054,10 +1297,13 @@
             "website": "https://www.tavernadelcapitano.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Taverna Estia",
             "ref": "https://lesoste.it/taverna-estia/",
+            "address": null,
             "coord": [
                 [
                     40.9035251,
@@ -1067,10 +1313,13 @@
             "website": "https://www.tavernaestia.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Angelo Sabatelli",
             "ref": "https://lesoste.it/angelo-sabatelli-3/",
+            "address": null,
             "coord": [
                 [
                     40.8500652,
@@ -1080,10 +1329,13 @@
             "website": "https://www.angelosabatelliristorante.com/it/home/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "La Locanda di Alia",
             "ref": "https://lesoste.it/la-locanda-di-alia/",
+            "address": null,
             "coord": [
                 [
                     39.8150191,
@@ -1093,10 +1345,13 @@
             "website": "https://www.instagram.com/la_locanda_di_alia/?hl=en"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Duomo",
             "ref": "https://lesoste.it/duomo/",
+            "address": null,
             "coord": [
                 [
                     36.9266705,
@@ -1106,10 +1361,13 @@
             "website": "https://www.cicciosultano.it/ristorante-duomo/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "La Madia",
             "ref": "https://lesoste.it/la-madia/",
+            "address": null,
             "coord": [
                 [
                     37.1106193,
@@ -1119,10 +1377,13 @@
             "website": "https://www.ristorantelamadia.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Locanda Don Serafino",
             "ref": "https://lesoste.it/locanda-don-serafino/",
+            "address": null,
             "coord": [
                 [
                     36.9245442,
@@ -1132,10 +1393,13 @@
             "website": "https://www.locandadonserafino.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Shalai",
             "ref": "https://lesoste.it/shalai-resort/",
+            "address": null,
             "coord": [
                 [
                     37.8423028,
@@ -1145,10 +1409,13 @@
             "website": "https://www.shalai.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Signum",
             "ref": "https://lesoste.it/signum/",
+            "address": null,
             "coord": [
                 [
                     38.5802344,
@@ -1158,10 +1425,13 @@
             "website": "https://www.hotelsignum.it/ristorante-gourmet-eolie.html"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Mosconi",
             "ref": "https://lesoste.it/mosconi/",
+            "address": null,
             "coord": [
                 [
                     49.6089932,
@@ -1171,10 +1441,13 @@
             "website": "http://www.mosconi.lu/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Le Louis XV",
             "ref": "https://lesoste.it/le-louis-xv/",
+            "address": null,
             "coord": [
                 [
                     43.7390094,
@@ -1184,10 +1457,13 @@
             "website": "https://www.montecarlosbm.com/it/ristorante-monaco/le-louis-xv-alain-ducasse-hotel-de-paris"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Pri Lojetzu",
             "ref": "https://lesoste.it/pri-lojzetu/",
+            "address": null,
             "coord": [
                 [
                     45.8554486,
@@ -1197,10 +1473,13 @@
             "website": "https://www.prilojzetu.si/it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Krone",
             "ref": "https://lesoste.it/krone/",
+            "address": null,
             "coord": [
                 [
                     46.499197800000005,
@@ -1210,10 +1489,13 @@
             "website": "https://kronesanktmoritz.ch/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Principe Leopoldo",
             "ref": "https://lesoste.it/principe-leopoldo/",
+            "address": null,
             "coord": [
                 [
                     45.99343349999999,
@@ -1223,10 +1505,13 @@
             "website": "https://www.leopoldohotel.com/it/ristorante.html"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Segreto",
             "ref": "https://lesoste.it/segreto/",
+            "address": null,
             "coord": [
                 [
                     47.4506574,
@@ -1236,10 +1521,13 @@
             "website": "https://www.segreto.ch/it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Le Soste",
+            "sub-ranking": "Le Soste",
+            "emoji": "🍽️",
             "position": null,
             "name": "Talvo by Dalsass",
             "ref": "https://lesoste.it/talvo-by-dalsass/",
+            "address": null,
             "coord": [
                 [
                     46.47842915,

@@ -153,6 +153,9 @@ export const Map = memo(({ markers }) => {
       }
     }
   }, [markerRefs.current, markers]); 
+
+  console.log("markers:");
+  console.log(markers)
   
   return (
     <MapContainer center={defaultPosition} zoom={5} zoomControl={false}>
@@ -179,8 +182,9 @@ export const Map = memo(({ markers }) => {
               category.map((locale, localeIndex) =>
                 locale.coord.map((coords, coordsIndex) => {
                   const nomeLocale = locale.name;
-                  const nomeClassifica = classificaKey;
-                  const subclassifiche = [[Object.keys(subclassifica), locale.position, locale.ref]];
+
+                  const nomeClassifica = locale.ranking;
+                  const subclassifiche = [[locale["sub-ranking"], locale.position, locale.ref]];
                   const linkGoogleMaps = `https://www.google.com/maps?q=${coords[0]},${coords[1]}`;
                   const linkIndicazioniMaps = `https://www.google.com/maps/dir/?api=1&destination=${coords[0]},${coords[1]}`;
                   const linkSitoWeb = locale.website; // Corretto da `webisite` a `website`

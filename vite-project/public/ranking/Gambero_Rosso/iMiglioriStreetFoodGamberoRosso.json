@@ -1,10 +1,13 @@
 {
     "I Migliori Street Food Gambero Rosso 2024": [
         {
-            "category": "🍢",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "I Migliori Street Food Gambero Rosso 2024",
+            "emoji": "🍢",
             "position": null,
             "name": "Trancio - pizza in teglia",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/trancio-pizza-in-teglia/",
+            "address": null,
             "coord": [
                 [
                     41.7840841,
@@ -14,10 +17,13 @@
             "website": null
         },
         {
-            "category": "🍢",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "I Migliori Street Food Gambero Rosso 2024",
+            "emoji": "🍢",
             "position": null,
             "name": "Le Stuzzicherie - Strit Fud",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/le-stuzzicherie-strit-fud/",
+            "address": null,
             "coord": [
                 [
                     40.8050346,
@@ -27,10 +33,13 @@
             "website": "http://www.lestuzzicherie.it"
         },
         {
-            "category": "🍢",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "I Migliori Street Food Gambero Rosso 2024",
+            "emoji": "🍢",
             "position": null,
             "name": "Brezza Fish and Chill",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/brezza-fish-and-chill/",
+            "address": null,
             "coord": [
                 [
                     38.6911659,
@@ -40,10 +49,13 @@
             "website": "http://brezzafishnchill.com"
         },
         {
-            "category": "🍢",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "I Migliori Street Food Gambero Rosso 2024",
+            "emoji": "🍢",
             "position": null,
             "name": "Rostì",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/rosti-2/",
+            "address": null,
             "coord": [
                 [
                     40.9101303,
@@ -53,10 +65,13 @@
             "website": "http://rostipomigliano.it"
         },
         {
-            "category": "🍢",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "I Migliori Street Food Gambero Rosso 2024",
+            "emoji": "🍢",
             "position": null,
             "name": "Ragù",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/ragu/",
+            "address": null,
             "coord": [
                 [
                     44.4967852,
@@ -66,10 +81,13 @@
             "website": "http://ragubologna.it"
         },
         {
-            "category": "🍢",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "I Migliori Street Food Gambero Rosso 2024",
+            "emoji": "🍢",
             "position": null,
             "name": "Cemût - Piccola osteria furlana",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/cemut-piccola-osteria-furlana/",
+            "address": null,
             "coord": [
                 [
                     45.6479627,
@@ -79,10 +97,13 @@
             "website": "http://cemut.net"
         },
         {
-            "category": "🍢",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "I Migliori Street Food Gambero Rosso 2024",
+            "emoji": "🍢",
             "position": null,
             "name": "Becco",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/becco/",
+            "address": null,
             "coord": [
                 [
                     41.9088044,
@@ -92,10 +113,13 @@
             "website": null
         },
         {
-            "category": "🍢",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "I Migliori Street Food Gambero Rosso 2024",
+            "emoji": "🍢",
             "position": null,
             "name": "Fish'n Street - Osteria di Strada",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/fishn-street-osteria-di-strada/",
+            "address": null,
             "coord": [
                 [
                     44.4063118,
@@ -105,10 +129,13 @@
             "website": "http://pescheriecontigenova.com"
         },
         {
-            "category": "🍢",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "I Migliori Street Food Gambero Rosso 2024",
+            "emoji": "🍢",
             "position": null,
             "name": "Forno Del Mastro",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/forno-del-mastro-3/",
+            "address": null,
             "coord": [
                 [
                     45.4526554,
@@ -118,10 +145,13 @@
             "website": "http://fornodelmastro.it"
         },
         {
-            "category": "🍢",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "I Migliori Street Food Gambero Rosso 2024",
+            "emoji": "🍢",
             "position": null,
             "name": "Le Pallette di Giorgio",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/le-pallette-di-giorgio/",
+            "address": null,
             "coord": [
                 [
                     42.9519804,
@@ -131,10 +161,13 @@
             "website": null
         },
         {
-            "category": "🍢",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "I Migliori Street Food Gambero Rosso 2024",
+            "emoji": "🍢",
             "position": null,
             "name": "Trotta Sapori",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/trotta-sapori/",
+            "address": null,
             "coord": [
                 [
                     41.8324155,
@@ -144,10 +177,13 @@
             "website": "http://trottasapori.com"
         },
         {
-            "category": "🍢",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "I Migliori Street Food Gambero Rosso 2024",
+            "emoji": "🍢",
             "position": null,
             "name": "Kokoroya",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/kokoroya/",
+            "address": null,
             "coord": [
                 [
                     45.0759337,
@@ -157,10 +193,13 @@
             "website": null
         },
         {
-            "category": "🍢",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "I Migliori Street Food Gambero Rosso 2024",
+            "emoji": "🍢",
             "position": null,
             "name": "Evviva Maria Trattoria Veloce",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/evviva-maria-trattoria-veloce/",
+            "address": null,
             "coord": [
                 [
                     40.9671632,
@@ -170,10 +209,13 @@
             "website": "http://evvivamaria.it"
         },
         {
-            "category": "🍢",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "I Migliori Street Food Gambero Rosso 2024",
+            "emoji": "🍢",
             "position": null,
             "name": "La Mallicca",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-mallicca/",
+            "address": null,
             "coord": [
                 [
                     39.2158368,
@@ -183,10 +225,13 @@
             "website": null
         },
         {
-            "category": "🍢",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "I Migliori Street Food Gambero Rosso 2024",
+            "emoji": "🍢",
             "position": null,
             "name": "Scollo - Salumeria e Gastronomia",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/scollo-salumeria-e-gastronomia/",
+            "address": null,
             "coord": [
                 [
                     37.517443,
@@ -196,10 +241,13 @@
             "website": "http://salumeriascollo.it"
         },
         {
-            "category": "🍢",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "I Migliori Street Food Gambero Rosso 2024",
+            "emoji": "🍢",
             "position": null,
             "name": "Xinge Go Go",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/xinge-go-go/",
+            "address": null,
             "coord": [
                 [
                     43.779108,
@@ -209,10 +257,13 @@
             "website": "http://xingegogo.com"
         },
         {
-            "category": "🍢",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "I Migliori Street Food Gambero Rosso 2024",
+            "emoji": "🍢",
             "position": null,
             "name": "Acquaefarina Petit",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/acquaefarina-petit/",
+            "address": null,
             "coord": [
                 [
                     46.0722523,
@@ -222,10 +273,13 @@
             "website": null
         },
         {
-            "category": "🍢",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "I Migliori Street Food Gambero Rosso 2024",
+            "emoji": "🍢",
             "position": null,
             "name": "Macelleria Pucci",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/macelleria-pucci/",
+            "address": null,
             "coord": [
                 [
                     42.556463,
@@ -235,10 +289,13 @@
             "website": "http://macelleriapucci.it"
         },
         {
-            "category": "🍢",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "I Migliori Street Food Gambero Rosso 2024",
+            "emoji": "🍢",
             "position": null,
             "name": "Hibou Prodotti Valdostani",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/hibou-prodotti-valdostani/",
+            "address": null,
             "coord": [
                 [
                     45.568935,
@@ -248,10 +305,13 @@
             "website": null
         },
         {
-            "category": "🍢",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "I Migliori Street Food Gambero Rosso 2024",
+            "emoji": "🍢",
             "position": null,
             "name": "Vecia Hostaria Dai Naneti",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/vecia-hostaria-dai-naneti/",
+            "address": null,
             "coord": [
                 [
                     45.6656066,

@@ -1,10 +1,13 @@
 {
     "Tre Pani Gambero Rosso 2024": [
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Førma bakery",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/forma-bakery/",
+            "address": null,
             "coord": [
                 [
                     42.3486313,
@@ -14,10 +17,13 @@
             "website": "http://www.formarestaurant.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Mercato del Pane",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/mercato-del-pane/",
+            "address": null,
             "coord": [
                 [
                     42.5024315,
@@ -27,10 +33,13 @@
             "website": "http://mercatodelpane.com"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Pane e Pace",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/pane-e-pace/",
+            "address": null,
             "coord": [
                 [
                     40.6712678,
@@ -40,10 +49,13 @@
             "website": "http://paneepace.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "La Francesina Boulangerie",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/la-francesina-boulangerie/",
+            "address": null,
             "coord": [
                 [
                     40.8125108,
@@ -53,10 +65,13 @@
             "website": null
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Malafronte",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/malafronte/",
+            "address": null,
             "coord": [
                 [
                     40.6940558,
@@ -66,10 +81,13 @@
             "website": "http://malafronte.org"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Foorn",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/foorn-2/",
+            "address": null,
             "coord": [
                 [
                     40.933705,
@@ -79,10 +97,13 @@
             "website": "http://foorn.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Antica Forneria Molettieri",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/antica-forneria-molettieri/",
+            "address": null,
             "coord": [
                 [
                     40.8396895,
@@ -92,10 +113,13 @@
             "website": "http://anticaforneriamolettieri.com"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Forno Brisa",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/forno-brisa-3/",
+            "address": null,
             "coord": [
                 [
                     44.4978072,
@@ -105,10 +129,13 @@
             "website": "http://fornobrisa.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Micropanificio Mollica",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/micropanificio-mollica/",
+            "address": null,
             "coord": [
                 [
                     44.78373999999999,
@@ -118,10 +145,13 @@
             "website": null
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Nel Nome del Pane Cappelletti & Bongiovanni",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/nel-nome-del-pane-cappelletti-bongiovanni/",
+            "address": null,
             "coord": [
                 [
                     44.1218199,
@@ -131,10 +161,13 @@
             "website": "http://nelnomedelpane.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "La Butega ad Franton",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/la-butega-ad-franton/",
+            "address": null,
             "coord": [
                 [
                     44.9212597,
@@ -144,10 +177,13 @@
             "website": "http://breadness.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Il Forno di Calzolari",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/il-forno-di-calzolari/",
+            "address": null,
             "coord": [
                 [
                     44.219215,
@@ -157,10 +193,13 @@
             "website": "http://fornocalzolari.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Il Posto di Follador",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/il-posto-di-follador/",
+            "address": null,
             "coord": [
                 [
                     45.9571132,
@@ -170,10 +209,13 @@
             "website": "http://panificiofollador.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Jerian",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/jerian/",
+            "address": null,
             "coord": [
                 [
                     45.6647522,
@@ -183,10 +225,13 @@
             "website": "http://jerian.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Mamm Pane, Vino e Cucina",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/mamm-pane-vino-e-cucina/",
+            "address": null,
             "coord": [
                 [
                     46.0664702,
@@ -196,10 +241,13 @@
             "website": "http://mamm-udine.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Pezz de Pane",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/pezz-de-pane/",
+            "address": null,
             "coord": [
                 [
                     41.6415258,
@@ -209,10 +257,13 @@
             "website": "http://robertapezzella.com"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Panificio  Bonci",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/panificio-bonci/",
+            "address": null,
             "coord": [
                 [
                     41.9115619,
@@ -222,10 +273,13 @@
             "website": "http://bonci.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Antico Forno Roscioli",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/antico-forno-roscioli/",
+            "address": null,
             "coord": [
                 [
                     41.8946562,
@@ -235,10 +289,13 @@
             "website": "http://anticofornoroscioli.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Tulipane",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/tulipane/",
+            "address": null,
             "coord": [
                 [
                     41.8986743,
@@ -248,10 +305,13 @@
             "website": "http://tulipane.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Triticum Micropanificio Agricolo",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/triticum-micropanificio-agricolo/",
+            "address": null,
             "coord": [
                 [
                     41.8649441,
@@ -261,10 +321,13 @@
             "website": "http://triticummicropanificio.com"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Panificio Marè",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/panificio-mare/",
+            "address": null,
             "coord": [
                 [
                     41.85865949999999,
@@ -274,10 +337,13 @@
             "website": "http://panificiomareprati.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Lievito Francesco Arnesano",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/lievito-francesco-arnesano/",
+            "address": null,
             "coord": [
                 [
                     41.8300955,
@@ -287,10 +353,13 @@
             "website": "http://lievitopizzapane.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Zampa Forno Etico",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/zampa-forno-etico/",
+            "address": null,
             "coord": [
                 [
                     41.85717,
@@ -300,10 +369,13 @@
             "website": null
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Il Pane di Maurizio Sarioli",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/il-pane-di-maurizio-sarioli/",
+            "address": null,
             "coord": [
                 [
                     45.5399736,
@@ -313,10 +385,13 @@
             "website": null
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Grazioli",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/grazioli/",
+            "address": null,
             "coord": [
                 [
                     45.5944099,
@@ -326,10 +401,13 @@
             "website": "http://panificiograzioli.com"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Panetteria Rio dal 1929",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/panetteria-rio-dal-1929/",
+            "address": null,
             "coord": [
                 [
                     45.1590441,
@@ -339,10 +417,13 @@
             "website": null
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Crosta",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/crosta-3/",
+            "address": null,
             "coord": [
                 [
                     45.4708436,
@@ -352,10 +433,13 @@
             "website": "http://crosta.eu"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Davide Longoni Pane",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/davide-longoni-pane/",
+            "address": null,
             "coord": [
                 [
                     45.4535025,
@@ -365,10 +449,13 @@
             "website": "http://davidelongoni.com"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "LePolveri - panificio diurno",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/lepolveri-panificio-diurno/",
+            "address": null,
             "coord": [
                 [
                     45.4534196,
@@ -378,10 +465,13 @@
             "website": null
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Forno Del Mastro",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/forno-del-mastro/",
+            "address": null,
             "coord": [
                 [
                     45.5842778,
@@ -391,10 +481,13 @@
             "website": "http://fornodelmastro.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Tilde Forno Artigiano",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/tilde-forno-artigiano/",
+            "address": null,
             "coord": [
                 [
                     45.5508376,
@@ -404,10 +497,13 @@
             "website": "http://tildeforno.com"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Cerere - L' Atelier del Pane",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/cerere-l-atelier-del-pane/",
+            "address": null,
             "coord": [
                 [
                     45.6488921,
@@ -417,10 +513,13 @@
             "website": "http://cererecanonica.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "L' Assalto ai Forni",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/l-assalto-ai-forni/",
+            "address": null,
             "coord": [
                 [
                     42.8536196,
@@ -430,10 +529,13 @@
             "website": "http://assaltoaiforni.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Pandefrà",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/pandefra-2/",
+            "address": null,
             "coord": [
                 [
                     43.7157086,
@@ -443,10 +545,13 @@
             "website": "http://pandefra.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Panetteria Fagnola dal 1923",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/panetteria-fagnola-dal-1923/",
+            "address": null,
             "coord": [
                 [
                     44.7048244,
@@ -456,10 +561,13 @@
             "website": "http://panetteriafagnola.myadj.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Cuore di Pane Bio",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/cuore-di-pane-bio/",
+            "address": null,
             "coord": [
                 [
                     44.6754048,
@@ -469,10 +577,13 @@
             "website": "http://laboratoriocuoredipane.bio/labSite/"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Vulaiga",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/vulaiga/",
+            "address": null,
             "coord": [
                 [
                     45.8904214,
@@ -482,10 +593,13 @@
             "website": null
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Marcarino Roddino",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/marcarino-roddino/",
+            "address": null,
             "coord": [
                 [
                     44.5682218,
@@ -495,10 +609,13 @@
             "website": "http://marcarinoroddino.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "GRANO - Fornai in Fermento",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/grano-fornai-in-fermento/",
+            "address": null,
             "coord": [
                 [
                     44.9500874,
@@ -508,10 +625,13 @@
             "website": null
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Luca Scarcella - Il Forno dell'Angolo",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/luca-scarcella-il-forno-dellangolo/",
+            "address": null,
             "coord": [
                 [
                     45.0599009,
@@ -521,10 +641,13 @@
             "website": "http://lucascarcella.com"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Spoto Bakery Voglia di Pane",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/spoto-bakery-voglia-di-pane/",
+            "address": null,
             "coord": [
                 [
                     45.0956594,
@@ -534,10 +657,13 @@
             "website": "http://alessandrospoto.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Ficini",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/ficini/",
+            "address": null,
             "coord": [
                 [
                     45.0579703,
@@ -547,10 +673,13 @@
             "website": "http://ficinipanificio.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Perino Vesco",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/perino-vesco/",
+            "address": null,
             "coord": [
                 [
                     45.0652603,
@@ -560,10 +689,13 @@
             "website": "http://perinovesco.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Panificio Adriatico",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/panificio-adriatico-2/",
+            "address": null,
             "coord": [
                 [
                     41.1203852,
@@ -573,10 +705,13 @@
             "website": "http://panificioadriatico.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Spacciagrani - Forno indipendente",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/spacciagrani-forno-indipendente/",
+            "address": null,
             "coord": [
                 [
                     40.96416139999999,
@@ -586,10 +721,13 @@
             "website": "http://spacciagrani.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Il Toscano",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/il-toscano/",
+            "address": null,
             "coord": [
                 [
                     41.1492106,
@@ -599,10 +737,13 @@
             "website": "http://panificioiltoscano.com"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Forno Sammarco",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/forno-sammarco/",
+            "address": null,
             "coord": [
                 [
                     41.7125357,
@@ -612,10 +753,13 @@
             "website": "http://fornosammarco.com"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Lula - Pane e Dessert",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/lula-pane-e-dessert/",
+            "address": null,
             "coord": [
                 [
                     41.2724457,
@@ -625,10 +769,13 @@
             "website": "http://lulatrani.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Madriga",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/madriga-2/",
+            "address": null,
             "coord": [
                 [
                     39.2170476,
@@ -638,10 +785,13 @@
             "website": null
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "PBread Natural Bakery",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/pbread-natural-bakery-2/",
+            "address": null,
             "coord": [
                 [
                     39.2106281,
@@ -651,10 +801,13 @@
             "website": "http://pbread.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Forno Biancuccia",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/forno-biancuccia/",
+            "address": null,
             "coord": [
                 [
                     37.5139296,
@@ -664,10 +817,13 @@
             "website": "http://biancuccia.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Francesco Arena Mastro Fornaio",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/francesco-arena-mastro-fornaio/",
+            "address": null,
             "coord": [
                 [
                     38.1873139,
@@ -677,10 +833,13 @@
             "website": "http://francescoarena.me"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Panificio Guccione",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/panificio-guccione-2/",
+            "address": null,
             "coord": [
                 [
                     38.1359393,
@@ -690,10 +849,13 @@
             "website": null
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Martinez",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/martinez/",
+            "address": null,
             "coord": [
                 [
                     37.9867106,
@@ -703,10 +865,13 @@
             "website": "http://peppemartinez.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Pank La Bulangeria",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/pank-la-bulangeria/",
+            "address": null,
             "coord": [
                 [
                     43.77660669999999,
@@ -716,10 +881,13 @@
             "website": "http://mercatocentrale.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Lievitamente",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/lievitamente-2/",
+            "address": null,
             "coord": [
                 [
                     43.8675856,
@@ -729,10 +897,13 @@
             "website": "http://lievitamente.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Panificio  Moderno",
             "ref": "https://www.gamberorosso.it/ristoranti/pasticceria/panificio-moderno/",
+            "address": null,
             "coord": [
                 [
                     45.8843347,
@@ -742,10 +913,13 @@
             "website": "http://panificiomoderno.net"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Le Coin du Pain",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/le-coin-du-pain/",
+            "address": null,
             "coord": [
                 [
                     45.74597989999999,
@@ -755,10 +929,13 @@
             "website": null
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Olivieri 1882",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/olivieri-1882/",
+            "address": null,
             "coord": [
                 [
                     45.5166692,
@@ -768,10 +945,13 @@
             "website": "http://olivieri1882.com"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Marinato",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/marinato/",
+            "address": null,
             "coord": [
                 [
                     45.8248596,
@@ -781,10 +961,13 @@
             "website": "http://panificiomarinato.business.site"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Grigoris LaBakery",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/grigoris-labakery/",
+            "address": null,
             "coord": [
                 [
                     45.5110378,
@@ -794,10 +977,13 @@
             "website": "http://grigorislabakery.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Forno Veneziano",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/forno-veneziano/",
+            "address": null,
             "coord": [
                 [
                     45.2969021,
@@ -807,10 +993,13 @@
             "website": "http://fornoveneziano.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Renato Bosco Bakery",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/renato-bosco-bakery/",
+            "address": null,
             "coord": [
                 [
                     45.4225874,
@@ -820,10 +1009,13 @@
             "website": "http://boscorenato.it"
         },
         {
-            "category": "🥖",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2024",
+            "emoji": "🥖",
             "position": null,
             "name": "Il Fornaio Fratelli Zenatti dal 1979",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/il-fornaio-fratelli-zenatti-dal-1979/",
+            "address": null,
             "coord": [
                 [
                     45.4069551,

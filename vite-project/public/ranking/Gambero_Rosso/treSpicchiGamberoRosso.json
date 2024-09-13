@@ -1,10 +1,13 @@
 {
     "Tre Spicchi Gambero Rosso 2024": [
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "I Masanielli",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/i-masanielli/",
+            "address": null,
             "coord": [
                 [
                     41.0723174,
@@ -14,10 +17,13 @@
             "website": "http://pizzeriaimasanielli.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "I Tigli",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/i-tigli/",
+            "address": null,
             "coord": [
                 [
                     45.3950071,
@@ -27,10 +33,13 @@
             "website": "http://pizzeriaitigli.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Pepe in Grani",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/pepe-in-grani/",
+            "address": null,
             "coord": [
                 [
                     41.1773009,
@@ -40,10 +49,13 @@
             "website": "http://pepeingrani.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Renato Bosco Pizzeria",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/renato-bosco-pizzeria/",
+            "address": null,
             "coord": [
                 [
                     45.4225874,
@@ -53,10 +65,13 @@
             "website": "http://boscorenato.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "10 Diego Vitagliano",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/10-diego-vitagliano-2/",
+            "address": null,
             "coord": [
                 [
                     40.8209893,
@@ -66,10 +81,13 @@
             "website": "http://pizzeria10.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "10 Diego Vitagliano",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/10-diego-vitagliano/",
+            "address": null,
             "coord": [
                 [
                     40.8170586,
@@ -79,10 +97,13 @@
             "website": "http://diegovitagliano.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Francesco & Salvatore  Salvo",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/francesco-salvatore-salvo/",
+            "address": null,
             "coord": [
                 [
                     40.8517983,
@@ -92,10 +113,13 @@
             "website": "http://pizzeriasalvo.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "50 Kalò",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/50-kalo/",
+            "address": null,
             "coord": [
                 [
                     40.8284227,
@@ -105,10 +129,13 @@
             "website": "http://50kalo.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Gusto Divino",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/gusto-divino/",
+            "address": null,
             "coord": [
                 [
                     44.64593,
@@ -118,10 +145,13 @@
             "website": "http://gustodivinosaluzzo.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "La Notizia",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-notizia/",
+            "address": null,
             "coord": [
                 [
                     40.8356722,
@@ -131,10 +161,13 @@
             "website": "http://enzococcia.com"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Oliva da Concettina ai Tre Santi",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/oliva-da-concettina-ai-tre-santi/",
+            "address": null,
             "coord": [
                 [
                     40.8574657,
@@ -144,10 +177,13 @@
             "website": "http://pizzeriaoliva.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Pizzeria Salvo",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/pizzeria-salvo/",
+            "address": null,
             "coord": [
                 [
                     40.82554355,
@@ -157,10 +193,13 @@
             "website": "http://pizzeriasalvo.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Sestogusto",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/sestogusto/",
+            "address": null,
             "coord": [
                 [
                     45.0615307,
@@ -170,10 +209,13 @@
             "website": "http://sestogustotorino.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Apogeo Giovannini",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/apogeo-giovannini/",
+            "address": null,
             "coord": [
                 [
                     43.95165,
@@ -183,10 +225,13 @@
             "website": "http://pizzeriaapogeo.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Gusto Madre",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/gusto-madre/",
+            "address": null,
             "coord": [
                 [
                     44.6971515,
@@ -196,10 +241,13 @@
             "website": "http://gustomadre.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Impastatori Pompetti",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/impastatori-pompetti/",
+            "address": null,
             "coord": [
                 [
                     42.6616404,
@@ -209,10 +257,13 @@
             "website": "http://tropicaldue.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "La Notizia",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-notizia-2/",
+            "address": null,
             "coord": [
                 [
                     40.8356722,
@@ -222,10 +273,13 @@
             "website": "http://enzococcia.com"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Patrick Ricci. Terra, Grani, Esplorazioni",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/patrick-ricci-terra-grani-esplorazioni/",
+            "address": null,
             "coord": [
                 [
                     45.1017508,
@@ -235,10 +289,13 @@
             "website": "http://patrickricci.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Sasà Martucci - I Masanielli",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/sasa-martucci-i-masanielli/",
+            "address": null,
             "coord": [
                 [
                     41.0679021,
@@ -248,10 +305,13 @@
             "website": "http://sasaimasanielli.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Archestrato di Gela",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/archestrato-di-gela/",
+            "address": null,
             "coord": [
                 [
                     38.176228,
@@ -261,10 +321,13 @@
             "website": "http://archestrato-di-gela.business.site"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Battil'oro Fuochi + Lieviti + Spiriti",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/battiloro-fuochi-lieviti-spiriti/",
+            "address": null,
             "coord": [
                 [
                     43.9779073,
@@ -274,10 +337,13 @@
             "website": "http://gennarobattiloro.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "BOB Alchimia a Spicchi",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/bob-alchimia-a-spicchi/",
+            "address": null,
             "coord": [
                 [
                     38.720005,
@@ -287,10 +353,13 @@
             "website": "http://bobalchimiaspicchi.com"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Bottega Dani",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/bottega-dani/",
+            "address": null,
             "coord": [
                 [
                     43.3265752,
@@ -300,10 +369,13 @@
             "website": "http://bottegadani.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Chicco",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/chicco/",
+            "address": null,
             "coord": [
                 [
                     43.422676,
@@ -313,10 +385,13 @@
             "website": "http://chiccocolle.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Da Clara",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/da-clara/",
+            "address": null,
             "coord": [
                 [
                     38.1931007,
@@ -326,10 +401,13 @@
             "website": "http://pizzeriadaclara.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Da Lioniello",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/da-lioniello/",
+            "address": null,
             "coord": [
                 [
                     40.9734335,
@@ -339,10 +417,13 @@
             "website": "http://salvatorelionello.eu"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Fandango",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/fandango/",
+            "address": null,
             "coord": [
                 [
                     40.6419079,
@@ -352,10 +433,13 @@
             "website": null
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Framento",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/framento/",
+            "address": null,
             "coord": [
                 [
                     39.2181167,
@@ -365,10 +449,13 @@
             "website": "http://framento.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Gigi Pipa",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/gigi-pipa/",
+            "address": null,
             "coord": [
                 [
                     45.2305688,
@@ -378,10 +465,13 @@
             "website": "http://pizzeriagigipipa.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Giotto",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/giotto-2/",
+            "address": null,
             "coord": [
                 [
                     43.7735286,
@@ -391,10 +481,13 @@
             "website": "http://pizzeriagiottofirenze.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Giovanni Santarpia",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/giovanni-santarpia/",
+            "address": null,
             "coord": [
                 [
                     43.7495928,
@@ -404,10 +497,13 @@
             "website": "http://giovannisantarpia.com"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Il Vecchio e il Mare",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/il-vecchio-e-il-mare/",
+            "address": null,
             "coord": [
                 [
                     43.7696985,
@@ -417,10 +513,13 @@
             "website": null
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "La Contrada",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-contrada/",
+            "address": null,
             "coord": [
                 [
                     40.976418800000005,
@@ -430,10 +529,13 @@
             "website": "http://lacontradaristorante.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "La Pergola",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-pergola-4/",
+            "address": null,
             "coord": [
                 [
                     43.2617055,
@@ -443,10 +545,13 @@
             "website": "http://lapergolaradicondoli.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "La Sorgente",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-sorgente/",
+            "address": null,
             "coord": [
                 [
                     42.1959237,
@@ -456,10 +561,13 @@
             "website": "http://lasorgentepizzeria.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "La Ventola",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-ventola/",
+            "address": null,
             "coord": [
                 [
                     43.3353815,
@@ -469,10 +577,13 @@
             "website": "http://laventola.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Màdia",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/madia/",
+            "address": null,
             "coord": [
                 [
                     40.681899,
@@ -482,10 +593,13 @@
             "website": "http://pizzeriamadia.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Officine del Cibo",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/officine-del-cibo-2/",
+            "address": null,
             "coord": [
                 [
                     44.1039921,
@@ -495,10 +609,13 @@
             "website": "http://officinedelcibosarzana.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Panisfizio",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/panisfizio/",
+            "address": null,
             "coord": [
                 [
                     45.5016619,
@@ -508,10 +625,13 @@
             "website": "http://panisfizio.com"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Piano B",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/piano-b/",
+            "address": null,
             "coord": [
                 [
                     37.0647877,
@@ -521,10 +641,13 @@
             "website": "http://pianobsiracusa.com"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Piccola Piedigrotta",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/piccola-piedigrotta/",
+            "address": null,
             "coord": [
                 [
                     44.7010747,
@@ -534,10 +657,13 @@
             "website": "http://piccolapiedigrotta.com"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "ZenZero Osteria della Pizza",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/zenzero-osteria-della-pizza/",
+            "address": null,
             "coord": [
                 [
                     43.7263928,
@@ -547,10 +673,13 @@
             "website": "http://osteriadellapizza.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "'O Scugnizzo",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/o-scugnizzo/",
+            "address": null,
             "coord": [
                 [
                     43.4638535,
@@ -560,10 +689,13 @@
             "website": "http://lo-scugnizzo.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "400 Gradi",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/400-gradi/",
+            "address": null,
             "coord": [
                 [
                     40.361646,
@@ -573,10 +705,13 @@
             "website": "http://pizzeria400gradi.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Da Attilio alla Pignasecca",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/da-attilio-alla-pignasecca/",
+            "address": null,
             "coord": [
                 [
                     40.8451846,
@@ -586,10 +721,13 @@
             "website": "http://pizzeriadattilio.com"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Da Ezio",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/da-ezio/",
+            "address": null,
             "coord": [
                 [
                     45.9089962,
@@ -599,10 +737,13 @@
             "website": "http://pizzeriadaezio.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Giotto",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/giotto/",
+            "address": null,
             "coord": [
                 [
                     43.7735286,
@@ -612,10 +753,13 @@
             "website": "http://pizzeriagiotto.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Guglielmo & Enrico  Vuolo",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/guglielmo-enrico-vuolo/",
+            "address": null,
             "coord": [
                 [
                     45.4452049,
@@ -625,10 +769,13 @@
             "website": "http://guglielmovuolo.com"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "I Vesuviani",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/i-vesuviani/",
+            "address": null,
             "coord": [
                 [
                     40.9006057,
@@ -638,10 +785,13 @@
             "website": null
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "L' Orso",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/l-orso/",
+            "address": null,
             "coord": [
                 [
                     38.2516889,
@@ -651,10 +801,13 @@
             "website": "http://lorsomessina.com"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "La Divina Pizza",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-divina-pizza/",
+            "address": null,
             "coord": [
                 [
                     43.7701831,
@@ -664,10 +817,13 @@
             "website": "http://ladivinapizza.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "La Pizza by Romualdo Rizzuti",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-pizza-by-romualdo-rizzuti/",
+            "address": null,
             "coord": [
                 [
                     43.7699685,
@@ -677,10 +833,13 @@
             "website": null
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Le Parùle",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/le-parule/",
+            "address": null,
             "coord": [
                 [
                     40.8111763,
@@ -690,10 +849,13 @@
             "website": "http://leparule.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Lo Spela",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/lo-spela/",
+            "address": null,
             "coord": [
                 [
                     43.6547393,
@@ -703,10 +865,13 @@
             "website": "http://lospela.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Mamma Rosa",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/mamma-rosa/",
+            "address": null,
             "coord": [
                 [
                     43.0258403,
@@ -716,10 +881,13 @@
             "website": "http://pizzeriamammarosa.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Pizzeria Bosco",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/pizzeria-bosco/",
+            "address": null,
             "coord": [
                 [
                     40.9019834,
@@ -729,10 +897,13 @@
             "website": null
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Re | Mi",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/re-mi/",
+            "address": null,
             "coord": [
                 [
                     40.7165634,
@@ -742,10 +913,13 @@
             "website": null
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Verace Elettrica",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/verace-elettrica/",
+            "address": null,
             "coord": [
                 [
                     38.1863198,
@@ -755,10 +929,13 @@
             "website": "http://veraceelettrica.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "'O Fiore Mio",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/o-fiore-mio/",
+            "address": null,
             "coord": [
                 [
                     44.2893846,
@@ -768,10 +945,13 @@
             "website": "http://ofioremio.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Berberè",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/berbere-3/",
+            "address": null,
             "coord": [
                 [
                     44.5688938,
@@ -781,10 +961,13 @@
             "website": "http://berbere.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Cambia-Menti di Ciccio Vitiello",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/cambia-menti-di-ciccio-vitiello/",
+            "address": null,
             "coord": [
                 [
                     41.0942324,
@@ -794,10 +977,13 @@
             "website": "http://cambia-menti.pizza"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Canneto Beach 2",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/canneto-beach-2-2/",
+            "address": null,
             "coord": [
                 [
                     41.379557,
@@ -807,10 +993,13 @@
             "website": "http://ristorantecannetobeach2.com"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Farina",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/farina-2/",
+            "address": null,
             "coord": [
                 [
                     43.9161839,
@@ -820,10 +1009,13 @@
             "website": "http://pizzeriafarina.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Fuori Tempo",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/fuori-tempo/",
+            "address": null,
             "coord": [
                 [
                     44.798472,
@@ -833,10 +1025,13 @@
             "website": "http://fuoritempo.com"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Giangi Pizza e Ricerca",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/giangi-pizza-e-ricerca/",
+            "address": null,
             "coord": [
                 [
                     42.2639867,
@@ -846,10 +1041,13 @@
             "website": "http://giangipizza.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Grigoris",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/grigoris/",
+            "address": null,
             "coord": [
                 [
                     45.4967,
@@ -859,10 +1057,13 @@
             "website": "http://pizzeriagrigoris.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "La  Braciera",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-braciera/",
+            "address": null,
             "coord": [
                 [
                     38.1656313,
@@ -872,10 +1073,13 @@
             "website": "http://labraciera.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Le Grotticelle",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/le-grotticelle/",
+            "address": null,
             "coord": [
                 [
                     40.54617710000001,
@@ -885,10 +1089,13 @@
             "website": "http://legrotticelle.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Libery Pizza & Artigianal Beer",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/libery-pizza-artigianal-beer/",
+            "address": null,
             "coord": [
                 [
                     45.0607193,
@@ -898,10 +1105,13 @@
             "website": "http://libery.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Luppolo & Farina",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/luppolo-farina/",
+            "address": null,
             "coord": [
                 [
                     40.5525174,
@@ -911,10 +1121,13 @@
             "website": "http://luppoloefarinapizzeria.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Maiori",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/maiori/",
+            "address": null,
             "coord": [
                 [
                     39.2711019,
@@ -924,10 +1137,13 @@
             "website": "http://maioricagliari.com"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Meunier Champagne & Pizza",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/meunier-champagne-pizza/",
+            "address": null,
             "coord": [
                 [
                     43.098393,
@@ -937,10 +1153,13 @@
             "website": null
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Perbacco",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/perbacco-2/",
+            "address": null,
             "coord": [
                 [
                     44.638527,
@@ -950,10 +1169,13 @@
             "website": "http://pizzeriaperbacco.com"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Saccharum",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/saccharum/",
+            "address": null,
             "coord": [
                 [
                     38.03934,
@@ -963,10 +1185,13 @@
             "website": null
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Sorbillo",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/sorbillo/",
+            "address": null,
             "coord": [
                 [
                     40.8317081,
@@ -976,10 +1201,13 @@
             "website": "http://sorbillo.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Starita",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/starita-2/",
+            "address": null,
             "coord": [
                 [
                     40.6350432,
@@ -989,10 +1217,13 @@
             "website": "http://pizzeriastarita.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Villa Giovanna",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/villa-giovanna/",
+            "address": null,
             "coord": [
                 [
                     40.834268449999996,
@@ -1002,10 +1233,13 @@
             "website": "http://villagiovannavesuvio.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "180g Pizzeria Romana",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/180g-pizzeria-romana/",
+            "address": null,
             "coord": [
                 [
                     41.8780128,
@@ -1015,10 +1249,13 @@
             "website": "http://180gpizzeriaromana.com"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "50 Kalò di Ciro Salvo",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/50-kalo-di-ciro-salvo/",
+            "address": null,
             "coord": [
                 [
                     41.9060262,
@@ -1028,10 +1265,13 @@
             "website": "http://50kalò.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "A Rota",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/a-rota/",
+            "address": null,
             "coord": [
                 [
                     41.8749586,
@@ -1041,10 +1281,13 @@
             "website": null
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Agriristorante Il Casaletto",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/agriristorante-il-casaletto/",
+            "address": null,
             "coord": [
                 [
                     42.520668,
@@ -1054,10 +1297,13 @@
             "website": "http://ilcasaletto.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Allegrío",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/allegrio/",
+            "address": null,
             "coord": [
                 [
                     41.90846550000001,
@@ -1067,10 +1313,13 @@
             "website": "http://allegrio.com"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Anima Romita",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/anima-romita/",
+            "address": null,
             "coord": [
                 [
                     45.3649707,
@@ -1080,10 +1329,13 @@
             "website": "http://animaromita.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Casale Rufini",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/casale-rufini/",
+            "address": null,
             "coord": [
                 [
                     41.8604736,
@@ -1093,10 +1345,13 @@
             "website": "http://casalerufini.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Confine - Pizza e Cantina",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/confine-pizza-e-cantina/",
+            "address": null,
             "coord": [
                 [
                     45.4614393,
@@ -1106,10 +1361,13 @@
             "website": "http://confinemilano.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Crosta",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/crosta-2/",
+            "address": null,
             "coord": [
                 [
                     45.4708436,
@@ -1119,10 +1377,13 @@
             "website": "http://crosta.eu"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Diego Vitagliano Pizzeria",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/diego-vitagliano-pizzeria/",
+            "address": null,
             "coord": [
                 [
                     41.9414671,
@@ -1132,10 +1393,13 @@
             "website": "http://diegovitagliano.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Dry Milano",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/dry-milano/",
+            "address": null,
             "coord": [
                 [
                     45.4789193,
@@ -1145,10 +1409,13 @@
             "website": "http://drymilano.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Enosteria Lipen",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/enosteria-lipen/",
+            "address": null,
             "coord": [
                 [
                     45.6596305,
@@ -1158,10 +1425,13 @@
             "website": "http://lipen.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Inedito",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/inedito/",
+            "address": null,
             "coord": [
                 [
                     45.5350139,
@@ -1171,10 +1441,13 @@
             "website": "http://ineditopizzeria.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "La Cascina dei Sapori",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-cascina-dei-sapori/",
+            "address": null,
             "coord": [
                 [
                     45.5164799,
@@ -1184,10 +1457,13 @@
             "website": "http://lacascinadeisapori.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "La Filiale a L'Albereta",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-filiale-a-lalbereta/",
+            "address": null,
             "coord": [
                 [
                     45.6081008,
@@ -1197,10 +1473,13 @@
             "website": "http://albereta.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "La Gatta Mangiona",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-gatta-mangiona/",
+            "address": null,
             "coord": [
                 [
                     41.8757312,
@@ -1210,10 +1489,13 @@
             "website": "http://lagattamangiona.com"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Lievito Francesco Arnesano",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/lievito-francesco-arnesano-2/",
+            "address": null,
             "coord": [
                 [
                     41.8300955,
@@ -1223,10 +1505,13 @@
             "website": "http://lievitopizzapane.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Mater",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/mater/",
+            "address": null,
             "coord": [
                 [
                     42.15856195,
@@ -1236,10 +1521,13 @@
             "website": "http://mater.bio"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Modus",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/modus/",
+            "address": null,
             "coord": [
                 [
                     45.4578756,
@@ -1249,10 +1537,13 @@
             "website": "http://landing.modusmilano.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Montegrigna - Tric Trac",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/montegrigna-tric-trac/",
+            "address": null,
             "coord": [
                 [
                     45.5940972,
@@ -1262,10 +1553,13 @@
             "website": "http://montegrignalegnano.com"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Pizzeria Clementina",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/pizzeria-clementina/",
+            "address": null,
             "coord": [
                 [
                     41.7714277,
@@ -1275,10 +1569,13 @@
             "website": "http://pizzeriaclementina.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Pupillo Pura Pizza",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/pupillo-pura-pizza/",
+            "address": null,
             "coord": [
                 [
                     41.6394691,
@@ -1288,10 +1585,13 @@
             "website": "http://pupillopurapizza.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Pupillo Pura Pizza",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/pupillo-pura-pizza-2/",
+            "address": null,
             "coord": [
                 [
                     41.4734979,
@@ -1301,10 +1601,13 @@
             "website": "http://pupillopurapizza.com"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "San Martino Pizza & Bolle",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/san-martino-pizza-bolle/",
+            "address": null,
             "coord": [
                 [
                     41.8653276,
@@ -1314,10 +1617,13 @@
             "website": "http://pizzaebolle.it"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Sbanco",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/sbanco/",
+            "address": null,
             "coord": [
                 [
                     41.875468,
@@ -1327,10 +1633,13 @@
             "website": "http://sbanco.eatbu.com"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Seu Pizza Illuminati",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/seu-pizza-illuminati/",
+            "address": null,
             "coord": [
                 [
                     41.8797377,
@@ -1340,10 +1649,13 @@
             "website": "http://seupizza.com"
         },
         {
-            "category": "🍕",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "emoji": "🍕",
             "position": null,
             "name": "Tonda",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/tonda/",
+            "address": null,
             "coord": [
                 [
                     41.896063,
