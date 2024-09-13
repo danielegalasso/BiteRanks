@@ -8,6 +8,35 @@ import createClusterCustomIcon from "./CreateClusterCustomIcon";
 import createCustomIcon from "./CreateCustomIcon";
 import SchedaLocale from "./scheda/SchedaLocale";
 
+const getZoomLevelByDistance = (distance) => {
+  // Punti di riferimento per distanza e zoom
+  const referencePoints = [
+    { distance: 0.22, zoom: 18 },
+    { distance: 16, zoom: 14 },
+    { distance: 162, zoom: 10 },
+    { distance: 694, zoom: 8 },
+    { distance: 1656.38, zoom: 6 }
+  ];
+  // Ordina i punti di riferimento per distanza crescente
+  referencePoints.sort((a, b) => a.distance - b.distance);
+  // Trova i due punti di riferimento tra i quali la distanza rientra
+  for (let i = 0; i < referencePoints.length - 1; i++) {
+    const start = referencePoints[i];
+    const end = referencePoints[i + 1];
+    if (distance >= start.distance && distance <= end.distance) {
+      // Interpola tra i due punti di riferimento
+      const ratio = (distance - start.distance) / (end.distance - start.distance);
+      return start.zoom + ratio * (end.zoom - start.zoom);
+    }
+  }
+  // Se la distanza è inferiore al primo punto di riferimento, restituisci il livello di zoom massimo
+  if (distance < referencePoints[0].distance) {
+    return referencePoints[0].zoom;
+  }
+  // Se la distanza è superiore all'ultimo punto di riferimento, restituisci il livello di zoom minimo
+  return referencePoints[referencePoints.length - 1].zoom;
+};
+
 // Component to move the map to the user's location
 function MoveToLocation({ position, geolocationEnabled}) {
   const map = useMap();
@@ -17,11 +46,30 @@ function MoveToLocation({ position, geolocationEnabled}) {
     const searchParams = new URLSearchParams(location.search);
     const lat = searchParams.get('lat');
     const lng = searchParams.get('lng');
-
+    const type = searchParams.get('type'); //TYPE POSSIBILI: road, attraction, neighbourhood, city, country
+    const distanceArea = searchParams.get('distance'); // distanza in km della citta (simile all'area)
     if (lat && lng) {
-      // Se le coordinate sono presenti nell'URL, imposta lo zoom a 17
-      const targetCoords = [parseFloat(lat), parseFloat(lng)];
-      map.setView(targetCoords, 17);
+      if(distanceArea){
+        const zoomLevel = getZoomLevelByDistance(parseFloat(distanceArea));
+        map.setView([parseFloat(lat), parseFloat(lng)], zoomLevel);
+      }
+      /*
+      if(type === 'country'){
+        map.setView([parseFloat(lat), parseFloat(lng)], 8);
+      }
+      else if(type === 'city'){
+        map.setView([parseFloat(lat), parseFloat(lng)], 11);
+      }
+      else if(type === 'neighbourhood'){
+        map.setView([parseFloat(lat), parseFloat(lng)], 16);
+      }
+      else{
+        // Se è una road o un attraction, oppure non è presente type in quanto è un link inviato da un utente di una posizione
+        //zoomo al massimo
+        const targetCoords = [parseFloat(lat), parseFloat(lng)];
+        map.setView(targetCoords, 17);
+      }
+        */
       
     } else if (position) {
       // Se la geolocalizzazione è attiva zoomma a 7, altrimenti a 5 (quando l'utente non imposta la geolocalizzazione)

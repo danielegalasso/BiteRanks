@@ -1,6 +1,7 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import axios from 'axios';
-import { FaSearch, FaGlobe } from 'react-icons/fa';
+import { LatLngBounds } from 'leaflet'; // Assicurati di avere Leaflet importato
+import { FaSearch, FaGlobe, FaCompass } from 'react-icons/fa';
 import { useNavigate } from 'react-router-dom'; // Importa useNavigate
 import './SearchBar.css'; 
 import ButtonList from './SearchBarButtonList.jsx';
@@ -26,7 +27,15 @@ const SearchBarWithAutocomplete = ({sfsv, isFSV , selectedItems, setSelectedItem
   const [userPosition, setUserPosition] = useState(null);
   const [countryCode, setCountryCode] = useState(null); // Aggiungi uno stato per il codice paese
   const [selectedCoordinates, setSelectedCoordinates] = useState(null); // Stato per le coordinate selezionate
+  const [suggestionType, setSuggestionType] = useState(''); // per memorizzare il tipo di luogo selezionato (nel suggerimento API), puo essere city, country
+  const [distanceArea, setDistanceArea] = useState(null); // calcola la distanza di una bounding box (per capire l'area di una città) quanto è grande
+  //ma non è proprio un'area, è una distanza tra i due angoli estremi della bounding box di una citta
   const navigate = useNavigate(); // Inizializza useNavigate
+
+  //devo usare una ref anche per i suggerimenti dell'API in quanto non sono considerati parte della search-bar, e io devo 
+  //nasconderli quando clicco fuori dalla search-bar e dalla lista dei suggerimenti
+  const searchBarRef = useRef(null);
+  const suggestionsRef = useRef(null); // Riferimento anche per i suggerimenti
 
   // Ottenere la posizione dell'utente al caricamento della pagina
   useEffect(() => {
@@ -79,6 +88,19 @@ const SearchBarWithAutocomplete = ({sfsv, isFSV , selectedItems, setSelectedItem
           name: result.formatted,
           lat: result.geometry.lat,
           lon: result.geometry.lng,
+          type: result.components._type, // Aggiungiamo il tipo di luogo (es. city, country)
+          //TYPE POSSIBILI: road, attraction, neighbourhood, city, country
+          //esempio road: "via dei condotti", attraction: "colosseo", neighbourhood: "trastevere", city: "roma", country: "italia"
+          boundingBox: result.bounds ? { // Verifica se result.bounds esiste prima di usarlo
+            southwest: {
+              lat: result.bounds.southwest.lat,
+              lon: result.bounds.southwest.lng
+            },
+            northeast: {
+              lat: result.bounds.northeast.lat,
+              lon: result.bounds.northeast.lng
+            }
+          } : null // Imposta a null se la boundingBox non è presente
         }));
 
         // Se abbiamo la posizione dell'utente, ordina i risultati per vicinanza
@@ -102,7 +124,11 @@ const SearchBarWithAutocomplete = ({sfsv, isFSV , selectedItems, setSelectedItem
   const handleSuggestionClick = (suggestion) => {
     setSearchTerm(suggestion.name);
     setSelectedCoordinates({ lat: suggestion.lat, lon: suggestion.lon }); // Memorizza le coordinate
-    console.log("lat: ", suggestion.lat, "lon: ", suggestion.lon);
+    setSuggestionType(suggestion.type);
+    console.log("bounding box: ", suggestion.boundingBox);
+    const distance = calculateBoundingBoxDistance(suggestion.boundingBox);
+    setDistanceArea(distance);
+    //console.log("lat: ", suggestion.lat, "lon: ", suggestion.lon);
     setSuggestions([]); // Nascondi la lista di suggerimenti dopo la selezione
   };
 
@@ -110,12 +136,57 @@ const SearchBarWithAutocomplete = ({sfsv, isFSV , selectedItems, setSelectedItem
   const handleSearchClick = () => {
     if (selectedCoordinates) {
       // Naviga verso un nuovo URL con le coordinate
-      navigate(`/?lat=${selectedCoordinates.lat}&lng=${selectedCoordinates.lon}`);
+      navigate(`/?lat=${selectedCoordinates.lat}&lng=${selectedCoordinates.lon}&type=${suggestionType}&distance=${distanceArea}`);
+      resetState(); // Resetta lo stato
     }
   };
+  // Funzione per zoomare sulla posizione dell'utente
+  const handleUserPositionClick = () => {
+    if (userPosition) {
+      navigate(`/?lat=${userPosition.lat}&lng=${userPosition.lon}`);
+      resetState(); // Resetta lo stato
+    }
+  };
+  const resetState = () => {
+    setSearchTerm(''); // Resetta il termine di ricerca
+    setSelectedCoordinates(null); // Resetta le coordinate selezionate
+    setUserPosition(null); // Resetta la posizione dell'utente
+    setSuggestionType(''); // Resetta il tipo di luogo
+    setDistanceArea(null); // Resetta la distanza dell'area
+  };
+  
+  // Funzione per calcolare la distanza tra due coordinate (latitudine e longitudine)
+  const calculateBoundingBoxDistance = (boundingBox) => {
+    const sw = boundingBox.southwest; // Coordinate dell'angolo sud-ovest
+    const ne = boundingBox.northeast; // Coordinate dell'angolo nord-est
+
+    // Calcola la distanza diagonale tra i due angoli della bounding box usando la formula dell'Haversine
+    return calculateDistance(sw.lat, sw.lon, ne.lat, ne.lon);
+  };
+
+  //ORA CHE CLICCO FUORI LA SEARCHBAR I SUGGERIMENTI SPARISCONO
+  // Funzione per gestire i clic al di fuori della SearchBar
+  // Funzione per gestire i clic al di fuori della SearchBar e dei suggerimenti
+  const handleClickOutside = (event) => {
+    // Controlla se searchBarRef esiste e se il clic non è all'interno della search bar
+    const clickedOutsideSearchBar = searchBarRef.current && !searchBarRef.current.contains(event.target);
+    // Controlla se suggestionsRef esiste e se il clic non è all'interno della lista suggerimenti
+    const clickedOutsideSuggestions = suggestionsRef.current && !suggestionsRef.current.contains(event.target);
+
+    // Se il clic è al di fuori sia della search bar che dei suggerimenti, resetta i suggerimenti
+    if (clickedOutsideSearchBar && clickedOutsideSuggestions) {
+      setSuggestions([]);
+    }
+  };
+  useEffect(() => {
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => {
+      document.removeEventListener('mousedown', handleClickOutside);
+    };
+  }, []);
 
   return (
-    <div className="search-container">
+    <div className="search-container" ref={searchBarRef}>
       <div className="search-box">
         <FaGlobe className="icon" />
         <input
@@ -129,7 +200,7 @@ const SearchBarWithAutocomplete = ({sfsv, isFSV , selectedItems, setSelectedItem
       </div>
 
       {suggestions.length > 0 && (
-        <ul className="suggestion-list">
+        <ul className="suggestion-list" ref={suggestionsRef}>
           {suggestions.map((suggestion, index) => (
             <li
               key={index}
@@ -139,6 +210,15 @@ const SearchBarWithAutocomplete = ({sfsv, isFSV , selectedItems, setSelectedItem
               {suggestion.name}
             </li>
           ))}
+          {userPosition && (
+            <li
+              key="user-position"
+              onClick={handleUserPositionClick}
+              className="suggestion-item user-position-item"
+            >
+              <FaCompass className="compass-icon" /> La tua posizione
+            </li>
+          )}
         </ul>
       )}
 
