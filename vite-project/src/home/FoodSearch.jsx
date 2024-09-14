@@ -17,7 +17,7 @@ import closeicon from "./emoji/closeicon.png"
 import defaultIcon from "../../public/ranking-icon/Empty.png"; // Percorso all'icona di default
 
 
-const FoodSearch = ({sfsv, selectedItems, setSelectedItems, markers, setMarkers}) => {
+const FoodSearch = ({sfsv, selectedItems, setSelectedItems, markers, setMarkers, activeTab, setActiveTab}) => {
 
   const [rankingItems, setRankingItems] = useState([]);
   const [foodItems, setFoodItems]= useState([]);
@@ -287,7 +287,7 @@ const FoodSearch = ({sfsv, selectedItems, setSelectedItems, markers, setMarkers}
 
 
   const [searchText, setSearchText] = useState(""); // Stato per il testo della ricerca
-  const [activeTab, setActiveTab] = useState("food"); // Stato per gestire quale pulsante è attivo
+  
   
  
 
