@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useState} from 'react';
 import Button from './SearchBarButton.jsx';
 import ButtonEmoji from './SearchBarButtonEmoji.jsx';
 import { FaEdit, FaDice, FaRegWindowClose } from 'react-icons/fa'; 
@@ -7,6 +7,8 @@ import './SearchBarButtonList.css';
 import { all } from 'axios';
 
 const ButtonList = ({ sfsv, isFSV, selectedItems, setSelectedItems, markers, setMarkers}) => {
+  const [suggestedIndices, setSuggestedIndices] = useState([]);
+
   // Funzione per il bottone che cambia isFSV
   const handleEditOrCloseClick = () => {
     sfsv(!isFSV);
@@ -15,28 +17,48 @@ const ButtonList = ({ sfsv, isFSV, selectedItems, setSelectedItems, markers, set
   // Funzione per il bottone Dice
   const handleDiceClick = () => {
     console.log("Dice button clicked!");
-    const allMarkers = Object.values(window.globalMarkers || {});
-    console.log("allMarkers: ", allMarkers);
-    console.log("allMarkers.length: ", allMarkers.length);
 
-    if (allMarkers.length > 0) {
-      const randomIndex = Math.floor(Math.random() * allMarkers.length);
-      const randomMarker = allMarkers[randomIndex];
+    // Access the map instance
+    const map = window.mapInstance;
+    if (!map) {
+      console.log("Map instance not found.");
+      return;
+    }
+
+    // Get the current bounds of the map's view
+    const bounds = map.getBounds();
+    const allMarkers = Object.values(window.globalMarkers || {});
+    const markersInView = allMarkers.filter(marker => {
+      const markerLatLng = marker.getLatLng();
+      return bounds.contains(markerLatLng);
+    });
+    console.log("markersInView: ", markersInView);
+    console.log("markersInView.length: ", markersInView.length);
+
+    // Filter out markers that have already been suggested
+    const unSuggestedMarkers = markersInView.filter((marker, index) => !suggestedIndices.includes(index));
+
+    if (unSuggestedMarkers.length > 0) {
+      const randomIndex = Math.floor(Math.random() * unSuggestedMarkers.length);
+      const randomMarker = unSuggestedMarkers[randomIndex];
+      const randomMarkerIndex = markersInView.indexOf(randomMarker);
       const randomMarkerCoords = randomMarker.getLatLng();
       console.log("randomMarkerCoords: ", randomMarkerCoords);
+      
+      map.setView(randomMarkerCoords, 17);
+      randomMarker.openPopup();
+      /*
+      allMarkers.forEach(marker => {
+        if(marker.getLatLng().equals(randomMarkerCoords)) {
+          marker.openPopup();
+        }
+      })
+        */
 
-      const map = window.mapInstance;
-      if (map) {
-        map.setView(randomMarkerCoords, 17);
-
-        allMarkers.forEach(marker => {
-          if(marker.getLatLng().equals(randomMarkerCoords)) {
-            marker.openPopup();
-          }
-        })
-      }
+      // Update the list of suggested indices
+      setSuggestedIndices(prevIndices => [...prevIndices, randomMarkerIndex]);
     } else {
-      console.log("Nessun marker disponibile per la selezione casuale.");
+      console.log("Nessun marker disponibile nella visuale attuale.");
     }
   };
 
