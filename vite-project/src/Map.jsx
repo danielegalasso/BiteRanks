@@ -186,7 +186,7 @@ export const Map = memo(({ markers }) => {
                     <Marker
                       key={`${classificaIndex}-${subclassificaIndex}-${categoryIndex}-${localeIndex}-${coordsIndex}`}
                       position={coords}
-                      icon={createCustomIcon(categoryKey, locale.position)}
+                      icon={createCustomIcon(nomeClassifica, categoryKey, locale.position, locale["sub-ranking"], nomeChiaveJson)}
                       ref={el => {
                         markerRefs.current[`${categoryIndex}-${localeIndex}-${coordsIndex}`] = el
                         window.globalMarkers = markerRefs.current; // Salva i marker globalmente
