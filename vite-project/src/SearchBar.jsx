@@ -21,7 +21,7 @@ const calculateDistance = (lat1, lon1, lat2, lon2) => {
   return distance;
 };
 
-const SearchBarWithAutocomplete = ({sfsv, isFSV , selectedItems, setSelectedItems}) => {
+const SearchBarWithAutocomplete = ({sfsv, isFSV , selectedItems, setSelectedItems, markers, setMarkers}) => {
   const [searchTerm, setSearchTerm] = useState('');
   const [suggestions, setSuggestions] = useState([]);
   const [userPosition, setUserPosition] = useState(null);
@@ -218,7 +218,7 @@ const SearchBarWithAutocomplete = ({sfsv, isFSV , selectedItems, setSelectedItem
         </ul>
       )}
 
-      <ButtonList sfsv={sfsv} isFSV={isFSV } selectedItems={selectedItems} setSelectedItems={setSelectedItems} />
+      <ButtonList sfsv={sfsv} isFSV={isFSV } selectedItems={selectedItems} setSelectedItems={setSelectedItems} markers={markers} setMarkers={setMarkers} />
     </div>
   );
 };

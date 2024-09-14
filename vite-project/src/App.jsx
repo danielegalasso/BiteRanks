@@ -45,6 +45,8 @@ export default function App() {
             isFSV = {isFoodSearchVisible}  
             selectedItems={selectedItems} 
             setSelectedItems={setSelectedItems}
+            markers={markers} 
+            setMarkers={setMarkers}
           />
           {isFoodSearchVisible && <FoodSearch sfsv = {setFoodSearchVisible} selectedItems={selectedItems} setSelectedItems={setSelectedItems} markers={markers} setMarkers={setMarkers} activeTab={activeTab} setActiveTab={setActiveTab}/>}
           </>

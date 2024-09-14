@@ -5,7 +5,7 @@ import { FaEdit, FaDice, FaRegWindowClose } from 'react-icons/fa';
 import { IoMdClose } from "react-icons/io";
 import './SearchBarButtonList.css';
 
-const ButtonList = ({ sfsv, isFSV, selectedItems, setSelectedItems }) => {
+const ButtonList = ({ sfsv, isFSV, selectedItems, setSelectedItems, markers, setMarkers}) => {
   
   // Funzione per il bottone che cambia isFSV
   const handleEditOrCloseClick = () => {
@@ -18,13 +18,21 @@ const ButtonList = ({ sfsv, isFSV, selectedItems, setSelectedItems }) => {
     // Inserisci qui la logica che vuoi eseguire quando il bottone Dice viene cliccato
   };
 
-  const removeItem = (itemToRemove) => {
+  const removeItem = (itemToRemove) => { 
     setSelectedItems((prevItems) =>
-      prevItems.filter((item) => item !== itemToRemove)
+        prevItems.filter((item) => item !== itemToRemove)
     );
 
-   
-  };
+    const markers1 = { ...markers };
+    delete markers1[itemToRemove.name];
+    setMarkers(markers1);
+
+
+
+    
+};
+
+  
 
   const buttonsData = [
     {
@@ -46,6 +54,7 @@ const ButtonList = ({ sfsv, isFSV, selectedItems, setSelectedItems }) => {
           key={index} // Usa l'indice se non hai un identificatore unico
           iconSrc={item.icon}
           onClick={() => removeItem(item)}
+
         />
       ))}
 
