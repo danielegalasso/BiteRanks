@@ -129,7 +129,7 @@ function getBestTextColor(backgroundColor) {
 }
 
 // Funzione per generare l'icona SVG
-const createCustomIcon = (rankName, category, rank) => {
+const createCustomIcon = (rankName, category, rank, subranking, nomeChiaveJson) => {
   const color = stringToColor(rankName, category); // Genera un colore unico per la categoria
 
   // Imposta il testo del rank se è fornito

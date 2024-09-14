@@ -173,12 +173,15 @@ export const Map = memo(({ markers }) => {
                   const linkGoogleMaps = `https://www.google.com/maps?q=${coords[0]},${coords[1]}`;
                   const linkIndicazioniMaps = `https://www.google.com/maps/dir/?api=1&destination=${coords[0]},${coords[1]}`;
                   const linkSitoWeb = locale.website; // Corretto da `webisite` a `website`
-        
+
+                  const nomeChiaveJson = Object.keys(markers)[0];
+                  
                   return (
                     <Marker
                       key={`${classificaIndex}-${subclassificaIndex}-${categoryIndex}-${localeIndex}-${coordsIndex}`}
                       position={coords}
-                      icon={createCustomIcon(nomeClassifica, categoryKey, locale.position)}
+                      //icon={createCustomIcon(nomeClassifica, categoryKey, locale.position)}
+                      icon={createCustomIcon(nomeClassifica, categoryKey, locale.position, locale["sub-ranking"], nomeChiaveJson)}
                       ref={el => markerRefs.current[`${categoryIndex}-${localeIndex}-${coordsIndex}`] = el}
                     >
                       <Popup>
