@@ -1,6 +1,6 @@
 // App.jsx
 import React, { useState, useEffect } from "react";
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 import "./App.css";
 import "leaflet/dist/leaflet.css";
 import { Map } from "./Map"; // Importa il componente Map
@@ -42,39 +42,39 @@ export default function App() {
   } : {};
 
   return (
-    <Router>
-      <Routes>
-        <Route path="/" element={
-          <>
-            {/* Overlay scuro per tutto il contenuto */}
-            {isFoodSearchVisible && <div style={overlayStyle} />}
-            
-            {/* Contenuto principale */}
-            <div style={{ position: 'relative', zIndex: 0 }}>
-              <Map markers={markers} />
-              <SearchBarWithAutocomplete 
-                sfsv={setFoodSearchVisible} 
-                isFSV={isFoodSearchVisible}  
-                selectedItems={selectedItems} 
-                setSelectedItems={setSelectedItems}
-                markers={markers} 
-                setMarkers={setMarkers}
-              />
-               </div>
-              {isFoodSearchVisible && 
-                <FoodSearch 
+      <Router>
+        <Routes>
+          <Route path="/" element={
+            <>
+              {/* Overlay scuro per tutto il contenuto */}
+              {isFoodSearchVisible && <div style={overlayStyle} />}
+              
+              {/* Contenuto principale */}
+              <div style={{ position: 'relative', zIndex: 0 }}>
+                <Map markers={markers} />
+                <SearchBarWithAutocomplete 
                   sfsv={setFoodSearchVisible} 
+                  isFSV={isFoodSearchVisible}  
                   selectedItems={selectedItems} 
-                  setSelectedItems={setSelectedItems} 
+                  setSelectedItems={setSelectedItems}
                   markers={markers} 
-                  setMarkers={setMarkers} 
-                  activeTab={activeTab} 
-                  setActiveTab={setActiveTab}
-                />}
-           
-          </>
-        }/>
-      </Routes>
-    </Router>
+                  setMarkers={setMarkers}
+                />
+                </div>
+                {isFoodSearchVisible && 
+                  <FoodSearch 
+                    sfsv={setFoodSearchVisible} 
+                    selectedItems={selectedItems} 
+                    setSelectedItems={setSelectedItems} 
+                    markers={markers} 
+                    setMarkers={setMarkers} 
+                    activeTab={activeTab} 
+                    setActiveTab={setActiveTab}
+                  />}
+            
+            </>
+          }/>
+        </Routes>
+      </Router>
   );
 }

@@ -58,6 +58,16 @@
     padding: 10px;
     border-bottom: 1px solid #ddd;
   }
+
+  .geolocation-icon {
+    color: #007bff; /* Colore azzurro-blu */
+    font-size: 1.2rem; /* Puoi regolare la dimensione a tuo piacimento */
+    vertical-align: middle; /* Allineamento verticale dell'icona rispetto al testo */
+    margin-right: 5px;
+  }
+  .geolocation-text{
+    color: #007bff;
+  }
   
   /* to make it responsive, for mobile dev */
   @media (orientation: portrait) {

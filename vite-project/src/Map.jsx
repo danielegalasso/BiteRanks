@@ -41,6 +41,10 @@ const getZoomLevelByDistance = (distance) => {
 function MoveToLocation({ position, geolocationEnabled}) {
   const map = useMap();
   const location = useLocation();
+
+  useEffect(() => {
+    window.mapInstance = map; // Salva l'istanza della mappa globalmente
+  }, [map]);
   
   useEffect(() => {
     const searchParams = new URLSearchParams(location.search);
@@ -55,10 +59,11 @@ function MoveToLocation({ position, geolocationEnabled}) {
       }
       else{ //se non è presente distanceArea nell'url, ma sono presenti le coordinate, vuol dire che è il link per la posizione di un ristorante
         map.setView([parseFloat(lat), parseFloat(lng)], 15);
-      }      
+      }  
     } else if (position) { //se non è presente ho è un link, oppure ho acceduto normalmente
       // Se la geolocalizzazione è attiva zoomma a 7, altrimenti a 5 (quando l'utente non imposta la geolocalizzazione)
-      const zoomLevel = geolocationEnabled ? 7 : 5;
+      //const zoomLevel = geolocationEnabled ? 7 : 5;
+      const zoomLevel = 10;  // lo metto sempre a 7 per ottimizzazione del codice al caricamento della pagina
       map.setView(position, zoomLevel);
     }
   }, [position, map, geolocationEnabled, location]);
@@ -110,19 +115,19 @@ export const Map = memo(({ markers }) => {
 
   useEffect(() => {
     // Stampa i riferimenti e i marker nel log per debug
-    console.log("Riferimenti ai marker creati: ", Object.keys(markerRefs.current).length);
-    console.log("Numero totale dei marker attesi: ", Object.keys(markers).reduce((total, cat) => total + markers[cat].length, 0));
+    //console.log("Riferimenti ai marker creati: ", Object.keys(markerRefs.current).length);
+    //console.log("Numero totale dei marker attesi: ", Object.keys(markers).reduce((total, cat) => total + markers[cat].length, 0));
     
     // Calcola il numero totale di marker attesi, ovvero la somma di tutti i marker per categoria
     const expectedMarkersCount = Object.keys(markers).reduce((total, cat) => total + markers[cat].length, 0);
     
     // Se tutti i marker sono stati caricati, apri il popup del marker corrispondente alle coordinate nell'URL
     if (Object.keys(markerRefs.current).length >= expectedMarkersCount - 1) {
-      console.log("Tutti i marker sono stati caricati");
+      //console.log("Tutti i marker sono stati caricati");
       const lat = searchParams.get('lat');
       const lng = searchParams.get('lng');
 
-      console.log("Latitudine e longitudine dall'URL: ", lat, lng);
+      //console.log("Latitudine e longitudine dall'URL: ", lat, lng);
       if (lat && lng) {
         const targetCoords = [parseFloat(lat), parseFloat(lng)];
       
@@ -130,7 +135,7 @@ export const Map = memo(({ markers }) => {
         setTimeout(() => {
           Object.values(markerRefs.current).forEach(marker => {
             if (marker && marker.getLatLng().equals(targetCoords)) {
-              console.log("Apertura popup per il marker alle coordinate: ", targetCoords);
+              //console.log("Apertura popup per il marker alle coordinate: ", targetCoords);
               marker.openPopup();
             }
           });
@@ -139,8 +144,8 @@ export const Map = memo(({ markers }) => {
     }
   }, [markerRefs.current, markers]); 
 
-  console.log("markers:");
-  console.log(markers)
+  //console.log("markers:");
+  //console.log(markers)
   
   return (
     <MapContainer center={defaultPosition} zoom={5} zoomControl={false}>
@@ -179,7 +184,10 @@ export const Map = memo(({ markers }) => {
                       key={`${classificaIndex}-${subclassificaIndex}-${categoryIndex}-${localeIndex}-${coordsIndex}`}
                       position={coords}
                       icon={createCustomIcon(categoryKey, locale.position)}
-                      ref={el => markerRefs.current[`${categoryIndex}-${localeIndex}-${coordsIndex}`] = el}
+                      ref={el => {
+                        markerRefs.current[`${categoryIndex}-${localeIndex}-${coordsIndex}`] = el
+                        window.globalMarkers = markerRefs.current; // Salva i marker globalmente
+                      }}
                     >
                       <Popup>
                         <SchedaLocale

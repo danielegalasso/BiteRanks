@@ -220,7 +220,8 @@ const SearchBarWithAutocomplete = ({sfsv, isFSV , selectedItems, setSelectedItem
           onClick={handleUserPositionClick}
           className="suggestion-item user-position-item"
         >
-          <FaCompass className="compass-icon" /> La tua posizione
+          <FaCompass className="compass-icon geolocation-icon"/> 
+          <text className='geolocation-text'> La tua posizione </text>
         </li>
       </ul>
     )}
