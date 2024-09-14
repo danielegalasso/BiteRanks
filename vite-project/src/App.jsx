@@ -25,8 +25,10 @@ export default function App() {
     // Estrai lat, lng, e locale dalla query string
     const lat = searchParams.get('lat');
     const lng = searchParams.get('lng');
+    const ranking = searchParams.get('ranking');
+    const subranking = searchParams.get('subranking');
 
-    if (lat && lng) {
+    if (lat && lng && ranking && subranking) {
       setFoodSearchVisible(false);
     }
   }, []);
