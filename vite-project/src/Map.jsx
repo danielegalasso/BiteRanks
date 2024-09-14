@@ -77,7 +77,7 @@ export const Map = memo(({ markers }) => {
   const [position, setPosition] = useState(null);
   const [renderMarkers, setRenderMarkers] = useState(false);
   const [geolocationEnabled, setGeolocationEnabled] = useState(false);
-  const defaultPosition = [48.8566, 2.3522]; // Paris fallback
+  const defaultPosition = [41.9028, 12.4964]; // Rome fallback
   const [searchParams] = useSearchParams(); // Aggiunto per leggere i parametri
   const markerRefs = useRef({}); // To store references to markers
 
