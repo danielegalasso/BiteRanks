@@ -6,7 +6,6 @@ import { useNavigate } from 'react-router-dom'; // Importa useNavigate
 import './SearchBar.css'; 
 import ButtonList from './SearchBarButtonList.jsx';
 
-
 // Funzione per calcolare la distanza tra due punti usando la formula dell'Haversine
 const calculateDistance = (lat1, lon1, lat2, lon2) => {
   const R = 6371; // Raggio della Terra in km
@@ -197,9 +196,11 @@ const SearchBarWithAutocomplete = ({sfsv, isFSV , selectedItems, setSelectedItem
         <FaSearch className="icon search-icon" onClick={handleSearchClick} /> 
       </div>
 
-      {suggestions.length > 0 && (
-        <ul className="suggestion-list" ref={suggestionsRef}>
-          {suggestions.map((suggestion, index) => (
+      {/* Se ci sono suggerimenti, mostriamo la lista dei suggerimenti */}
+    {(suggestions.length > 0 || searchTerm.length > 0) && (
+      <ul className="suggestion-list" ref={suggestionsRef}>
+        {suggestions.length > 0 ? (
+          suggestions.map((suggestion, index) => (
             <li
               key={index}
               onClick={() => handleSuggestionClick(suggestion)}
@@ -207,16 +208,22 @@ const SearchBarWithAutocomplete = ({sfsv, isFSV , selectedItems, setSelectedItem
             >
               {suggestion.name}
             </li>
-          ))}
-            <li
-              key="user-position"
-              onClick={handleUserPositionClick}
-              className="suggestion-item user-position-item"
-            >
-              <FaCompass className="compass-icon" /> La tua posizione
-            </li>
-        </ul>
-      )}
+          ))
+        ) : (
+          // Messaggio personalizzato se non ci sono suggerimenti
+          <li className="suggestion-item no-click">
+          </li>
+        )}
+        {/* La posizione dell'utente sarà sempre visibile come ultima opzione */}
+        <li
+          key="user-position"
+          onClick={handleUserPositionClick}
+          className="suggestion-item user-position-item"
+        >
+          <FaCompass className="compass-icon" /> La tua posizione
+        </li>
+      </ul>
+    )}
 
       <ButtonList sfsv={sfsv} isFSV={isFSV } selectedItems={selectedItems} setSelectedItems={setSelectedItems} />
     </div>
