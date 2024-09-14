@@ -1,7 +1,92 @@
 import { Icon } from "leaflet";
 import { renderToStaticMarkup } from 'react-dom/server';
 
-// Function to dynamically generate colors based on category name
+// Function to generate base Hue from a string
+function stringToHue(str) {
+  let hash = 0;
+  for (let i = 0; i < str.length; i++) {
+      hash = (hash << 5) - hash + str.charCodeAt(i);
+  }
+  return Math.abs((hash * 137.508) % 360);
+}
+
+// Function to adjust saturation and lightness within a range
+function stringToAdjustment(str, min, max) {
+  let hash = 0;
+  for (let i = 0; i < str.length; i++) {
+      hash = (hash << 5) - hash + str.charCodeAt(i);
+  }
+  return Math.min(max, Math.max(min, Math.abs(hash % (max - min)) + min));
+}
+
+// HSL to RGB conversion remains the same
+function hslToRgb(h, s, l) {
+  s /= 100;
+  l /= 100;
+
+  let r, g, b;
+
+  if (s === 0) {
+      r = g = b = l; // Grayscale
+  } else {
+      const hueToRgb = (p, q, t) => {
+          if (t < 0) t += 1;
+          if (t > 1) t -= 1;
+          if (t < 1 / 6) return p + (q - p) * 6 * t;
+          if (t < 1 / 2) return q;
+          if (t < 2 / 3) return p + (q - p) * (2 / 3 - t) * 6;
+          return p;
+      };
+
+      const q = l < 0.5 ? l * (1 + s) : l + s - l * s;
+      const p = 2 * l - q;
+
+      r = hueToRgb(p, q, h / 360 + 1 / 3);
+      g = hueToRgb(p, q, h / 360);
+      b = hueToRgb(p, q, h / 360 - 1 / 3);
+  }
+
+  return {
+      r: Math.round(r * 255),
+      g: Math.round(g * 255),
+      b: Math.round(b * 255)
+  };
+}
+
+// Function to generate a small hue adjustment based on the second string
+function adjustHueWithSecondString(hue, str2) {
+  // Generate an adjustment value in the range of -10% to +10% of the hue
+  const adjustment = stringToAdjustment(str2, -36, 36); // 10% of 360 is 36
+  let newHue = hue + adjustment;
+  
+  // Keep hue within the 0-360 range
+  if (newHue < 0) newHue += 360;
+  if (newHue >= 360) newHue -= 360;
+
+  return newHue;
+}
+
+// Main function to generate distinguishable color
+function stringToColor(str1, str2) {
+  let hue = stringToHue(str1);  // Base hue from first string
+  hue = adjustHueWithSecondString(hue, str2); // Adjust hue with second string
+  
+  const sat = stringToAdjustment(str2, 40, 90); // Higher saturation for vibrancy
+  let light = stringToAdjustment(str2, 30, 70); // Adjust lightness to ensure good contrast
+
+  let rgb = hslToRgb(hue, sat, light);
+  const luminance = calculateLuminance(`rgb(${rgb.r},${rgb.g},${rgb.b})`);
+
+  // Adjust lightness if color is too dark for visibility
+  if (luminance < 0.2) {
+      light = Math.min(85, light + 20);
+      rgb = hslToRgb(hue, sat, light);
+  }
+
+  return `rgb(${rgb.r},${rgb.g},${rgb.b})`;
+}
+
+/*
 function stringToColor(str) {
   let hash = 0;
   for (let i = 0; i < str.length; i++) {
@@ -12,6 +97,7 @@ function stringToColor(str) {
   const b = hash & 0xff;
   return `rgb(${r},${g},${b})`;
 }
+  */
 // Function to lighten a color
 function lightenColor(color, percent) {
   const [r, g, b] = color.match(/\d+/g).map(Number);
@@ -43,8 +129,8 @@ function getBestTextColor(backgroundColor) {
 }
 
 // Funzione per generare l'icona SVG
-const createCustomIcon = (category, rank) => {
-  const color = stringToColor(category); // Genera un colore unico per la categoria
+const createCustomIcon = (rankName, category, rank, subranking, nomeChiaveJson) => {
+  const color = stringToColor(rankName, category); // Genera un colore unico per la categoria
 
   // Imposta il testo del rank se è fornito
   const rankNumber = rank ? `${rank}` : ''; // Solo il numero del rank
