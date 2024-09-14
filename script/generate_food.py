@@ -30,13 +30,13 @@ def estrai_cibi(input_path, output_path, classifiche_file):
 
             # Itera su ciascun locale nella sub-classifica
             for locale in sub_classifica_data[sub_classifica_name]:
-                category = locale.get("category")
+                category = locale.get("emoji")
                 # Trova la categoria corrispondente nel file classifiche da estrarre
                 for nome_categoria, info_categoria in classifiche_data.items():
                     if category == info_categoria["emoji"]:
                         item = {
-                            "ranking": classifica.replace('_', ' '),
-                            "sub-ranking": sub_classifica_name,
+                            "ranking": locale.get("ranking"),
+                            "sub-ranking": locale.get("sub-ranking"),
                             "emoji": category,
                             "position": locale.get("position"),
                             "name": locale.get("name"),
