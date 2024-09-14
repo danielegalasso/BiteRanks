@@ -1,7 +1,6 @@
 import { Icon } from "leaflet";
 import { renderToStaticMarkup } from 'react-dom/server';
 
-// Function to generate base Hue from a string
 function stringToHue(str) {
   let hash = 0;
   for (let i = 0; i < str.length; i++) {
@@ -67,7 +66,16 @@ function adjustHueWithSecondString(hue, str2) {
 }
 
 // Main function to generate distinguishable color
-function stringToColor(str1, str2) {
+function stringToColor(str1, str2, condition) {
+  if (condition) {
+    // If condition is true, generate and return the color based only on str1
+    const hue = stringToHue(str2);  // Base hue from first string
+    const sat = stringToAdjustment(str2, 30, 90); // Use str1 for saturation
+    let light = stringToAdjustment(str2, 30, 80); // Use str1 for lightness
+
+    let rgb = hslToRgb(hue, sat, light);
+    return `rgb(${rgb.r},${rgb.g},${rgb.b})`;
+  }
   let hue = stringToHue(str1);  // Base hue from first string
   hue = adjustHueWithSecondString(hue, str2); // Adjust hue with second string
   
@@ -86,18 +94,6 @@ function stringToColor(str1, str2) {
   return `rgb(${rgb.r},${rgb.g},${rgb.b})`;
 }
 
-/*
-function stringToColor(str) {
-  let hash = 0;
-  for (let i = 0; i < str.length; i++) {
-    hash = str.charCodeAt(i) + ((hash << 5) - hash);
-  }
-  const r = (hash >> 16) & 0xff;
-  const g = (hash >> 8) & 0xff;
-  const b = hash & 0xff;
-  return `rgb(${r},${g},${b})`;
-}
-  */
 // Function to lighten a color
 function lightenColor(color, percent) {
   const [r, g, b] = color.match(/\d+/g).map(Number);
@@ -129,8 +125,13 @@ function getBestTextColor(backgroundColor) {
 }
 
 // Funzione per generare l'icona SVG
-const createCustomIcon = (rankName, category, rank, subranking, nomeChiaveJson) => {
-  const color = stringToColor(rankName, category); // Genera un colore unico per la categoria
+const createCustomIcon = (rankName, category, rank, nomeChiaveJson) => {
+  let colorCondition = true;
+  if (nomeChiaveJson.includes(rankName)) {
+    colorCondition = false;
+  }
+  // console.log(colorCondition);
+  const color = stringToColor(rankName, category, colorCondition); // Genera un colore unico per la categoria
 
   // Imposta il testo del rank se è fornito
   const rankNumber = rank ? `${rank}` : ''; // Solo il numero del rank
