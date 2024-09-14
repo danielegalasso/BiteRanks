@@ -15,6 +15,7 @@ export default function App() {
   // State to hold markers data
   const [markers, setMarkers] = useState([]);
   const [isFoodSearchVisible, setFoodSearchVisible] = useState(true);
+  const [activeTab, setActiveTab] = useState("food"); // Stato per gestire quale pulsante è attivo
 
   const emptyMarkers = []; 
 
@@ -45,7 +46,7 @@ export default function App() {
             selectedItems={selectedItems} 
             setSelectedItems={setSelectedItems}
           />
-          {isFoodSearchVisible && <FoodSearch sfsv = {setFoodSearchVisible} selectedItems={selectedItems} setSelectedItems={setSelectedItems} markers={markers} setMarkers={setMarkers}/>}
+          {isFoodSearchVisible && <FoodSearch sfsv = {setFoodSearchVisible} selectedItems={selectedItems} setSelectedItems={setSelectedItems} markers={markers} setMarkers={setMarkers} activeTab={activeTab} setActiveTab={setActiveTab}/>}
           </>
         }/>
       </Routes>
