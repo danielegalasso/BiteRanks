@@ -13,34 +13,77 @@ Each folder will be a Tab inside the "Ranking Tab", each of those folder have su
 
 Here there is how each .json must be structured:
 {
-    "50 Top Italy Migliori Panini 2024": [
+    "Most Legendary Restaurants 23-24": [
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23-24",
+            "emoji": "🍽️",
             "position": "1°",
-            "name": "Da Gigione Gourmand",
-            "ref": "https://www.50topitaly.it/it/referenza/da-gigione-gourmand-3/",
-            "address": [
-                "Via Roma, 307, 80038 Pomigliano d'Arco NA"
-            ],
+            "name": "Figlmüller",
+            "ref": "https://www.tasteatlas.com/Figlmuller",
+            "address": null,
             "coord": [
                 [
-                    40.91218,
-                    14.3912404
+                    48.2092948,
+                    16.3755253
                 ]
             ],
-            "website": null
+            "website": "http://www.figlmueller.at"
         },
         ...
     ]
 }
 
 
-After you have create "Your New Ranking" folder with your sub-folders, you have to name the folder using '_' instead of ' '
-so it will became 'Your_New_Ranking'.
+After you have create for example "Taste Atlas" folder with your sub-ranking files, you have to name the folder using '_' instead of ' '
+so it will became 'Taste_Atlas'.
+
+You must name each sub-ranking files with the same name used inside "sub-ranking" using '' instead of ' ' so it will became in this case "MostLegendaryRestaurants23-24.json"
+
+note: don't use in any name (those are dangerous char for naming)
+/ (forward slash)
+\ (backslash)
+: (colon)
+* (asterisk)
+? (question mark)
+" (double quote)
+< (less than)
+> (greater than)
+| (pipe)
+
+pay attenction also to the category to use in the "emoji" section, there is a file containing all the category available here: "vite-project\public\food\helper.json". You can also add New Category, see sections below.
+
 
 After that you have to create inside the folder \vite-project\public\ranking-icon a pefectly SQUARED image .png (you can use https://squareanimage.com/) 
 
-Finally you can run this piece of code to update everything:
-python script\generate_index.py ..\vite-project\public\ranking
+Now you can run this piece of code to update indexing:
+> python script\generate_index.py ..\vite-project\public\ranking
+
+Finally you can the script to update the Foods:
+> python .\generate_food.py ..\vite-project\public\ranking ..\vite-project\public\food ..\vite-project\public\food\helper.json
 
 
+
+# How to modify a place coordinates/emoji/position/name/website?
+
+Go to the file of the ranking of that place, search for that name and set the value of the correct coordinates.
+
+Finally you can the script to update the Foods:
+> python .\generate_food.py ..\vite-project\public\ranking ..\vite-project\public\food ..\vite-project\public\food\helper.json
+
+
+# How add new Food Categories?
+Fist check if there is already a category inside "vite-project\public\food\helper.json"
+
+
+
+You have to modify the file "vite-project\public\food\helper.json" adding another category using the same type of formatting,
+you have also to add an icon with the path. Here's an example:
+
+"Street Food":{
+        "emoji": "🍢",
+        "icon":"../food/Street_Food.png"
+}
+
+Finally you can the script to update the Foods:
+> python .\generate_food.py ..\vite-project\public\ranking ..\vite-project\public\food ..\vite-project\public\food\helper.json
