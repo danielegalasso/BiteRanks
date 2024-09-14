@@ -54,6 +54,7 @@ const ButtonList = ({ sfsv, isFSV, selectedItems, setSelectedItems, markers, set
           key={index} // Usa l'indice se non hai un identificatore unico
           iconSrc={item.icon}
           onClick={() => removeItem(item)}
+          
 
         />
       ))}
