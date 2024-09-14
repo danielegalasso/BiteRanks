@@ -172,6 +172,7 @@ export const Map = memo(({ markers }) => {
               category.map((locale, localeIndex) =>
                 locale.coord.map((coords, coordsIndex) => {
                   const nomeLocale = locale.name;
+                  //const nomeLocale = Object.keys(markers);
 
                   const nomeClassifica = locale.ranking;
                   const subclassifiche = [[locale["sub-ranking"], locale.position, locale.ref]];
@@ -179,7 +180,7 @@ export const Map = memo(({ markers }) => {
                   const linkIndicazioniMaps = `https://www.google.com/maps/dir/?api=1&destination=${coords[0]},${coords[1]}`;
                   const linkSitoWeb = locale.website; // Corretto da `webisite` a `website`
 
-                  const nomeChiaveJson = Object.keys(markers)[0];
+                  const nomeChiaveJson = Object.keys(markers);
                   
                   return (
                     <Marker
