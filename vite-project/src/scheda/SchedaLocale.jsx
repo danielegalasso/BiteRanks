@@ -64,7 +64,7 @@ const SchedaLocale = ({
           </div>
           <div className="divider"></div>
           {subclassifiche.map((classifica, index) => (
-            <a key={index} href={classifica[2]} className="localeLink">
+            <a key={index} href={classifica[2]} className="localeLink" target="_blank">
               {classifica[1] ? `${classifica[1]} ` : ''} {classifica[0]}
             </a>
           ))}

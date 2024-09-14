@@ -141,7 +141,7 @@ export const Map = memo(({ markers }) => {
                     <Marker
                       key={`${classificaIndex}-${subclassificaIndex}-${categoryIndex}-${localeIndex}-${coordsIndex}`}
                       position={coords}
-                      icon={createCustomIcon(categoryKey, locale.position)}
+                      icon={createCustomIcon(nomeClassifica, categoryKey, locale.position)}
                       ref={el => markerRefs.current[`${categoryIndex}-${localeIndex}-${coordsIndex}`] = el}
                     >
                       <Popup>
