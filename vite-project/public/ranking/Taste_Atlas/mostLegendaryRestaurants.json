@@ -1,10 +1,13 @@
 {
     "Most Legendary Restaurants 23/24": [
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "1°",
             "name": "Figlmüller",
             "ref": "https://www.tasteatlas.com/Figlmuller",
+            "address": null,
             "coord": [
                 [
                     48.2092948,
@@ -14,10 +17,13 @@
             "website": "http://www.figlmueller.at"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "2°",
             "name": "L'Antica Pizzeria da Michele",
             "ref": "https://www.tasteatlas.com/LanticaPizzeriaDaMichele",
+            "address": null,
             "coord": [
                 [
                     40.8497493,
@@ -27,10 +33,13 @@
             "website": "http://www.damichele.net"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "3°",
             "name": "Hofbräuhaus München",
             "ref": "https://www.tasteatlas.com/HofbrauhausMunchen",
+            "address": null,
             "coord": [
                 [
                     48.1376334,
@@ -40,10 +49,13 @@
             "website": "http://www.hofbraeuhaus.de"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "4°",
             "name": "Gino e Toto Sorbillo",
             "ref": "https://www.tasteatlas.com/GinoeTotoSorbillo",
+            "address": null,
             "coord": [
                 [
                     40.8503878,
@@ -53,10 +65,13 @@
             "website": "http://www.sorbillo.it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "5°",
             "name": "Paragon Restaurant",
             "ref": "https://www.tasteatlas.com/paragon-restaurant",
+            "address": null,
             "coord": [
                 [
                     11.2702991,
@@ -66,10 +81,13 @@
             "website": "https://www.paragonrestaurant.net/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "6°",
             "name": "Tunday Kababi",
             "ref": "https://www.tasteatlas.com/tundaykababi",
+            "address": null,
             "coord": [
                 [
                     26.8483062,
@@ -79,10 +97,13 @@
             "website": "https://www.tundaykababi.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "7°",
             "name": "Café de Tacuba",
             "ref": "https://www.tasteatlas.com/CafeDeTacuba",
+            "address": null,
             "coord": [
                 [
                     19.4358935,
@@ -92,10 +113,13 @@
             "website": "http://www.cafedetacuba.com.mx"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "8°",
             "name": "Trattoria Vecchia Roma",
             "ref": "https://www.tasteatlas.com/TrattoriaVecchiaRoma",
+            "address": null,
             "coord": [
                 [
                     41.8930143,
@@ -105,10 +129,13 @@
             "website": "http://www.trattoriavecchiaroma.it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "9°",
             "name": "Warung Mak Beng",
             "ref": "https://www.tasteatlas.com/WarungMakBeng",
+            "address": null,
             "coord": [
                 [
                     -8.673840799999999,
@@ -118,10 +145,13 @@
             "website": null
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "10°",
             "name": "Peter Cat",
             "ref": "https://www.tasteatlas.com/PeterCat",
+            "address": null,
             "coord": [
                 [
                     22.5529683,
@@ -131,10 +161,13 @@
             "website": null
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "11°",
             "name": "Katz's Delicatessen",
             "ref": "https://www.tasteatlas.com/KatzsDelicatessen",
+            "address": null,
             "coord": [
                 [
                     40.7223431,
@@ -144,10 +177,13 @@
             "website": "http://www.katzsdelicatessen.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "12°",
             "name": "Karne Garibaldi Santa Tere",
             "ref": "https://www.tasteatlas.com/karne-garibaldi-santa-tere",
+            "address": null,
             "coord": [
                 [
                     20.6814288,
@@ -157,10 +193,13 @@
             "website": "http://www.karnegaribaldi.com.mx/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "13°",
             "name": "El Pimpi",
             "ref": "https://www.tasteatlas.com/el-pimpi",
+            "address": null,
             "coord": [
                 [
                     36.72179735,
@@ -170,10 +209,13 @@
             "website": "https://elpimpi.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "14°",
             "name": "La Fonda Del Tío",
             "ref": "https://www.tasteatlas.com/LaFondaDelTio",
+            "address": null,
             "coord": [
                 [
                     -41.135009600000004,
@@ -183,10 +225,13 @@
             "website": "http://www.lafondadeltio.com.ar"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "15°",
             "name": "Hyman's Seafood",
             "ref": "https://www.tasteatlas.com/HymansSeafood",
+            "address": null,
             "coord": [
                 [
                     32.78354578520475,
@@ -196,10 +241,13 @@
             "website": "http://www.hymanseafood.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "16°",
             "name": "Amrik Sukhdev",
             "ref": "https://www.tasteatlas.com/AmrikSukhdev",
+            "address": null,
             "coord": [
                 [
                     29.0311473,
@@ -209,10 +257,13 @@
             "website": "https://www.amriksukhdev.com/?fbclid=IwAR3sc2con7p2TMquENfeXDiDzmiCrVW32fZAj9rOupMt91hpyrGr3ZPYyHc"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "17°",
             "name": "Casa Labra",
             "ref": "https://www.tasteatlas.com/CasaLabra",
+            "address": null,
             "coord": [
                 [
                     40.4171759,
@@ -222,10 +273,13 @@
             "website": "http://www.casalabra.es/en"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "18°",
             "name": "Peter Luger Steak House",
             "ref": "https://www.tasteatlas.com/PeterLugerSteakHouse",
+            "address": null,
             "coord": [
                 [
                     40.7098661,
@@ -235,10 +289,13 @@
             "website": "http://www.peterluger.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "19°",
             "name": "Bouillon Chartier",
             "ref": "https://www.tasteatlas.com/le-bouillon-chartier",
+            "address": null,
             "coord": [
                 [
                     48.8719356,
@@ -248,10 +305,13 @@
             "website": "http://www.bouillon-chartier.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "20°",
             "name": "Din Tai Fung",
             "ref": "https://www.tasteatlas.com/din-tai-fung-xinyi-restaurant",
+            "address": null,
             "coord": [
                 [
                     25.0335035,
@@ -261,10 +321,13 @@
             "website": "https://www.dintaifung.com.tw/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "21°",
             "name": "Bolsi",
             "ref": "https://www.tasteatlas.com/bolsi",
+            "address": null,
             "coord": [
                 [
                     -25.2822888,
@@ -274,10 +337,13 @@
             "website": "http://www.bolsi.com.py/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "22°",
             "name": "Caru' cu Bere",
             "ref": "https://www.tasteatlas.com/caru-cu-bere",
+            "address": null,
             "coord": [
                 [
                     44.4320009,
@@ -287,10 +353,13 @@
             "website": "http://www.carucubere.ro/en/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "23°",
             "name": "Pizzeria Starita a Materdei",
             "ref": "https://www.tasteatlas.com/PizzeriaStaritaaMaterdei",
+            "address": null,
             "coord": [
                 [
                     40.8560589,
@@ -300,10 +369,13 @@
             "website": "http://www.pizzeriestarita.it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "24°",
             "name": "Hibiya Matsumotoro",
             "ref": "https://www.tasteatlas.com/hibiya-matsumotoro",
+            "address": null,
             "coord": [
                 [
                     35.6739515,
@@ -313,10 +385,13 @@
             "website": "http://www.matsumotoro.co.jp/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "25°",
             "name": "Au Pied de Cochon",
             "ref": "https://www.tasteatlas.com/AuPiedDeCochon-Paris",
+            "address": null,
             "coord": [
                 [
                     48.8634867,
@@ -326,10 +401,13 @@
             "website": "https://www.pieddecochon.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "26°",
             "name": "Joe's Stone Crab",
             "ref": "https://www.tasteatlas.com/JoesStoneCrab",
+            "address": null,
             "coord": [
                 [
                     25.7680806,
@@ -339,10 +417,13 @@
             "website": "http://www.joesstonecrab.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "27°",
             "name": "El Rinconcillo",
             "ref": "https://www.tasteatlas.com/ElRinconcillo",
+            "address": null,
             "coord": [
                 [
                     37.3946735,
@@ -352,10 +433,13 @@
             "website": "http://www.elrinconcillo.es/en/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "28°",
             "name": "İmam Çağdaş Kebap ve Baklava Salonu",
             "ref": "https://www.tasteatlas.com/ImamCagdasKebapVeBaklavaSalonu",
+            "address": null,
             "coord": [
                 [
                     37.065953,
@@ -365,10 +449,13 @@
             "website": "http://www.imamcagdas.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "29°",
             "name": "Zeughauskeller",
             "ref": "https://www.tasteatlas.com/zeughauskeller",
+            "address": null,
             "coord": [
                 [
                     47.3702045,
@@ -378,10 +465,13 @@
             "website": "http://www.zeughauskeller.ch"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "30°",
             "name": "Café Imperial",
             "ref": "https://www.tasteatlas.com/CafeImperial",
+            "address": null,
             "coord": [
                 [
                     50.0898184,
@@ -391,10 +481,13 @@
             "website": "http://www.cafeimperial.cz"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "31°",
             "name": "Güerrin",
             "ref": "https://www.tasteatlas.com/Guerrin",
+            "address": null,
             "coord": [
                 [
                     -34.6041048,
@@ -404,10 +497,13 @@
             "website": "http://www.pizzeriaguerrin.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "32°",
             "name": "Mavalli Tiffin Rooms",
             "ref": "https://www.tasteatlas.com/MavalliTiffinRooms",
+            "address": null,
             "coord": [
                 [
                     12.9628968,
@@ -417,10 +513,13 @@
             "website": "http://www.mavallitiffinrooms.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "33°",
             "name": "Café Santiago",
             "ref": "https://www.tasteatlas.com/CafeSantiago",
+            "address": null,
             "coord": [
                 [
                     41.14643115,
@@ -430,10 +529,13 @@
             "website": "https://cafesantiago.pt/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "34°",
             "name": "Quanjude Roast Duck ",
             "ref": "https://www.tasteatlas.com/QuanjudeRoastDuck",
+            "address": null,
             "coord": [
                 [
                     39.8952903,
@@ -443,10 +545,13 @@
             "website": "http://quanjude.com.cn/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "35°",
             "name": "Union Oyster House",
             "ref": "https://www.tasteatlas.com/UnionOysterHouse",
+            "address": null,
             "coord": [
                 [
                     42.3612749,
@@ -456,10 +561,13 @@
             "website": "http://www.unionoysterhouse.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "36°",
             "name": "Adega das Gravatas",
             "ref": "https://www.tasteatlas.com/AdegaDasGravatas",
+            "address": null,
             "coord": [
                 [
                     38.7605031,
@@ -469,10 +577,13 @@
             "website": "http://www.adegadasgravatas.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "37°",
             "name": "Zehnder's of Frankenmuth",
             "ref": "https://www.tasteatlas.com/zehnders-of-frankenmuth",
+            "address": null,
             "coord": [
                 [
                     43.3270507,
@@ -482,10 +593,13 @@
             "website": "https://www.zehnders.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "38°",
             "name": "Mother’s Restaurant",
             "ref": "https://www.tasteatlas.com/MothersRestaurant",
+            "address": null,
             "coord": [
                 [
                     29.9490291,
@@ -495,10 +609,13 @@
             "website": "http://www.mothersrestaurant.net"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "39°",
             "name": "Uludağ Kebapçısı Cemal & Cemil Usta",
             "ref": "https://www.tasteatlas.com/uludag-kebapcs-cemal-cemil-usta",
+            "address": null,
             "coord": [
                 [
                     40.2000016,
@@ -508,10 +625,13 @@
             "website": "http://www.uludagkebapcisi.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "40°",
             "name": "Brasserie Georges",
             "ref": "https://www.tasteatlas.com/brasserie-georges",
+            "address": null,
             "coord": [
                 [
                     45.7483905,
@@ -521,10 +641,13 @@
             "website": "https://www.brasseriegeorges.com/en/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "41°",
             "name": "Antica Pizzeria e Friggitoria Di Matteo",
             "ref": "https://www.tasteatlas.com/AnticaPizzeriaFriggitoriaMatteo",
+            "address": null,
             "coord": [
                 [
                     40.8512861,
@@ -534,10 +657,13 @@
             "website": "http://www.pizzeriadimatteo.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "42°",
             "name": "Commander's Palace",
             "ref": "https://www.tasteatlas.com/CommandersPalace",
+            "address": null,
             "coord": [
                 [
                     29.928834000000002,
@@ -547,10 +673,13 @@
             "website": "http://www.commanderspalace.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "43°",
             "name": "7 Mehmet",
             "ref": "https://www.tasteatlas.com/7-mehmet",
+            "address": null,
             "coord": [
                 [
                     36.8785177,
@@ -560,10 +689,13 @@
             "website": "http://www.7mehmet.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "44°",
             "name": "Restaurante Botín",
             "ref": "https://www.tasteatlas.com/RestauranteBotin",
+            "address": null,
             "coord": [
                 [
                     40.4141745,
@@ -573,10 +705,13 @@
             "website": "http://www.botin.es"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "45°",
             "name": "Früh am Dom",
             "ref": "https://www.tasteatlas.com/FruhAmDom",
+            "address": null,
             "coord": [
                 [
                     50.9398402,
@@ -586,10 +721,13 @@
             "website": "https://www.frueh-gastronomie.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "46°",
             "name": "Tri Šešira",
             "ref": "https://www.tasteatlas.com/tri-sesira",
+            "address": null,
             "coord": [
                 [
                     44.8181486,
@@ -599,10 +737,13 @@
             "website": "http://www.trisesira.rs/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "47°",
             "name": "Hanu' lui Manuc",
             "ref": "https://www.tasteatlas.com/hanu-lui-manuc",
+            "address": null,
             "coord": [
                 [
                     44.4298321,
@@ -612,10 +753,13 @@
             "website": "https://www.hanumanucrestaurant.ro/ro/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "48°",
             "name": "Thipsamai ",
             "ref": "https://www.tasteatlas.com/ThipSamai",
+            "address": null,
             "coord": [
                 [
                     13.75275,
@@ -625,10 +769,13 @@
             "website": "https://thipsamai.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "49°",
             "name": "The Salt Lick BBQ",
             "ref": "https://www.tasteatlas.com/TheSaltLickBbq",
+            "address": null,
             "coord": [
                 [
                     30.1316265,
@@ -638,10 +785,13 @@
             "website": "http://www.saltlickbbq.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "50°",
             "name": "La Pepica",
             "ref": "https://www.tasteatlas.com/LaPepica",
+            "address": null,
             "coord": [
                 [
                     39.4633865,
@@ -651,10 +801,13 @@
             "website": "http://www.lapepica.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "51°",
             "name": "Felice a Testaccio",
             "ref": "https://www.tasteatlas.com/FeliceATestaccio",
+            "address": null,
             "coord": [
                 [
                     41.8785014,
@@ -664,10 +817,13 @@
             "website": "http://www.feliceatestaccio.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "52°",
             "name": "El Cuartito",
             "ref": "https://www.tasteatlas.com/ElCuartito",
+            "address": null,
             "coord": [
                 [
                     -34.5978238,
@@ -677,10 +833,13 @@
             "website": null
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "53°",
             "name": "Café Iruña",
             "ref": "https://www.tasteatlas.com/CafeIruna",
+            "address": null,
             "coord": [
                 [
                     43.2624606,
@@ -690,10 +849,13 @@
             "website": "http://www.cafeirunabilbao.net/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "54°",
             "name": "Ippudo Daimyo",
             "ref": "https://www.tasteatlas.com/ippudodaimyo",
+            "address": null,
             "coord": [
                 [
                     33.587776,
@@ -703,10 +865,13 @@
             "website": "www.ippudo.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "55°",
             "name": "Chez Leon",
             "ref": "https://www.tasteatlas.com/chez-leon",
+            "address": null,
             "coord": [
                 [
                     50.8482061,
@@ -716,10 +881,13 @@
             "website": "http://www.chezleon.be/en/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "56°",
             "name": "Don Julio",
             "ref": "https://www.tasteatlas.com/DonJulio",
+            "address": null,
             "coord": [
                 [
                     -34.5863225,
@@ -729,10 +897,13 @@
             "website": "http://www.parrilladonjulio.com.ar"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "57°",
             "name": "Schwartz's",
             "ref": "https://www.tasteatlas.com/Schwartzs",
+            "address": null,
             "coord": [
                 [
                     45.5163277,
@@ -742,10 +913,13 @@
             "website": "http://www.schwartzsdeli.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "58°",
             "name": "Le Procope",
             "ref": "https://www.tasteatlas.com/LeProcope",
+            "address": null,
             "coord": [
                 [
                     48.8530058,
@@ -755,10 +929,13 @@
             "website": "http://www.procope.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "59°",
             "name": "Taberna Gandarias",
             "ref": "https://www.tasteatlas.com/TabernaGandarias",
+            "address": null,
             "coord": [
                 [
                     43.3239936,
@@ -768,10 +945,13 @@
             "website": "http://www.restaurantegandarias.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "60°",
             "name": "Yoshizuka Unagi",
             "ref": "https://www.tasteatlas.com/yoshizuka-unagi",
+            "address": null,
             "coord": [
                 [
                     33.600004,
@@ -781,10 +961,13 @@
             "website": "http://yoshizukaunagi.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "61°",
             "name": "Galindo",
             "ref": "https://www.tasteatlas.com/galindo",
+            "address": null,
             "coord": [
                 [
                     -33.4331379,
@@ -794,10 +977,13 @@
             "website": null
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "62°",
             "name": "Ćevabdžinica Željo",
             "ref": "https://www.tasteatlas.com/Zeljo",
+            "address": null,
             "coord": [
                 [
                     43.8581711,
@@ -807,10 +993,13 @@
             "website": null
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "63°",
             "name": "Koshary Abou Tarek",
             "ref": "https://www.tasteatlas.com/KosharyAbouTarek",
+            "address": null,
             "coord": [
                 [
                     30.0502864,
@@ -820,10 +1009,13 @@
             "website": "https://www.koshariaboutarek.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "64°",
             "name": "The Ivy",
             "ref": "https://www.tasteatlas.com/the-ivy",
+            "address": null,
             "coord": [
                 [
                     51.5131063,
@@ -833,10 +1025,13 @@
             "website": "http://www.the-ivy.co.uk"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "65°",
             "name": "Can Culleretes",
             "ref": "https://www.tasteatlas.com/can-culleretes",
+            "address": null,
             "coord": [
                 [
                     41.381215,
@@ -846,10 +1041,13 @@
             "website": "https://www.culleretes.com/en/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "66°",
             "name": "El Bolivariano",
             "ref": "https://www.tasteatlas.com/el-bolivariano",
+            "address": null,
             "coord": [
                 [
                     -12.0766207,
@@ -859,10 +1057,13 @@
             "website": "https://elbolivariano.net/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "67°",
             "name": "Senoji Kibininė",
             "ref": "https://www.tasteatlas.com/SenojiKibinine",
+            "address": null,
             "coord": [
                 [
                     54.650991,
@@ -872,10 +1073,13 @@
             "website": "http://www.kibinas.lt"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "68°",
             "name": "Churrascaria Palace",
             "ref": "https://www.tasteatlas.com/churrascaria-palace",
+            "address": null,
             "coord": [
                 [
                     -22.9666838,
@@ -885,10 +1089,13 @@
             "website": "https://www.churrascariapalace.com.br/en"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "69°",
             "name": "Los Panchos",
             "ref": "https://www.tasteatlas.com/LosPanchos",
+            "address": null,
             "coord": [
                 [
                     19.4251834,
@@ -898,10 +1105,13 @@
             "website": "http://www.lospanchos.mx"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "70°",
             "name": "Kiskőrössy Halászcsárda",
             "ref": "https://www.tasteatlas.com/kiskorossy-halaszcsarda",
+            "address": null,
             "coord": [
                 [
                     46.256264599999994,
@@ -911,10 +1121,13 @@
             "website": "http://www.kiskorossyhalaszcsarda.hu/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "71°",
             "name": "U Fleků",
             "ref": "https://www.tasteatlas.com/UFleku",
+            "address": null,
             "coord": [
                 [
                     50.0788978,
@@ -924,10 +1137,13 @@
             "website": "http://www.en.ufleku.cz"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "72°",
             "name": "El Faro de Cádiz",
             "ref": "https://www.tasteatlas.com/el-faro-de-cadiz",
+            "address": null,
             "coord": [
                 [
                     36.5285829,
@@ -937,10 +1153,13 @@
             "website": "https://www.elfarodecadiz.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "73°",
             "name": "Birreria Las 9 Esquinas",
             "ref": "https://www.tasteatlas.com/BirreriaLas9Esquinas",
+            "address": null,
             "coord": [
                 [
                     20.670724,
@@ -950,10 +1169,13 @@
             "website": "http://www.las9esquinas.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "74°",
             "name": "Tarihi Sultanahmet Köftecisi Selim Usta",
             "ref": "https://www.tasteatlas.com/TarihiSultanahmetKoftecisiSelimUsta",
+            "address": null,
             "coord": [
                 [
                     41.0080137,
@@ -963,10 +1185,13 @@
             "website": "http://sultanahmetkoftesi.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "75°",
             "name": "Bratwursthäusle",
             "ref": "https://www.tasteatlas.com/Bratwursthausle",
+            "address": null,
             "coord": [
                 [
                     49.45501,
@@ -976,10 +1201,13 @@
             "website": "https://bratwursthaeuslenuernberg.de/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "76°",
             "name": "Jumbo Seafood",
             "ref": "https://www.tasteatlas.com/JumboSeafood",
+            "address": null,
             "coord": [
                 [
                     1.3052353,
@@ -989,10 +1217,13 @@
             "website": "http://www.jumboseafood.com.sg/en/home"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "77°",
             "name": "Trattoria della Gigina",
             "ref": "https://www.tasteatlas.com/TrattoriaDellaGigina",
+            "address": null,
             "coord": [
                 [
                     44.5378807,
@@ -1002,10 +1233,13 @@
             "website": "http://www.trattoriagigina.it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "78°",
             "name": "Pod Aniołami",
             "ref": "https://www.tasteatlas.com/PodAniolami",
+            "address": null,
             "coord": [
                 [
                     50.0582799,
@@ -1015,10 +1249,13 @@
             "website": "http://www.podaniolami.pl"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "79°",
             "name": "Bärenwirt",
             "ref": "https://www.tasteatlas.com/barenwirt",
+            "address": null,
             "coord": [
                 [
                     47.805928,
@@ -1028,10 +1265,13 @@
             "website": "http://baerenwirt-salzburg.at/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "80°",
             "name": "El Rey del Cabrito",
             "ref": "https://www.tasteatlas.com/ElReyDelCabrito",
+            "address": null,
             "coord": [
                 [
                     25.671696,
@@ -1041,10 +1281,13 @@
             "website": "http://www.reydelcabrito.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "81°",
             "name": "Pequod's Pizza",
             "ref": "https://www.tasteatlas.com/PequodsPizza",
+            "address": null,
             "coord": [
                 [
                     41.9219536,
@@ -1054,10 +1297,13 @@
             "website": "http://www.pequodspizza.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "82°",
             "name": "Trattoria Mario",
             "ref": "https://www.tasteatlas.com/TrattoriaMario",
+            "address": null,
             "coord": [
                 [
                     43.7765732,
@@ -1067,10 +1313,13 @@
             "website": "http://www.trattoria-mario.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "83°",
             "name": "Karim's",
             "ref": "https://www.tasteatlas.com/Karims",
+            "address": null,
             "coord": [
                 [
                     28.6516128,
@@ -1080,10 +1329,13 @@
             "website": "https://karimhotels.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "84°",
             "name": "Woo Lae Oak",
             "ref": "https://www.tasteatlas.com/woo-lae-oak",
+            "address": null,
             "coord": [
                 [
                     37.5680711,
@@ -1093,10 +1345,13 @@
             "website": "http://xn--9d0bz8qk7l3pa98cozb.com/index.php"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "85°",
             "name": "Musso & Frank Grill",
             "ref": "https://www.tasteatlas.com/MussoFrankGrill",
+            "address": null,
             "coord": [
                 [
                     34.101763,
@@ -1106,10 +1361,13 @@
             "website": "http://www.mussoandfrank.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "86°",
             "name": "La Puerta Falsa",
             "ref": "https://www.tasteatlas.com/LaPuertaFalsa",
+            "address": null,
             "coord": [
                 [
                     4.6351945,
@@ -1119,10 +1377,13 @@
             "website": null
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "87°",
             "name": "El Cardenal",
             "ref": "https://www.tasteatlas.com/ElCardenal",
+            "address": null,
             "coord": [
                 [
                     19.4336275,
@@ -1132,10 +1393,13 @@
             "website": "http://www.restauranteelcardenal.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "88°",
             "name": "Zahid Nihari",
             "ref": "https://www.tasteatlas.com/ZahidNihari",
+            "address": null,
             "coord": [
                 [
                     24.8754553,
@@ -1145,10 +1409,13 @@
             "website": null
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "89°",
             "name": "Pho Thin",
             "ref": "https://www.tasteatlas.com/pho-thin",
+            "address": null,
             "coord": [
                 [
                     21.0181784,
@@ -1158,10 +1425,13 @@
             "website": null
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "90°",
             "name": "Caesar's",
             "ref": "https://www.tasteatlas.com/caesars",
+            "address": null,
             "coord": [
                 [
                     32.5273584,
@@ -1171,10 +1441,13 @@
             "website": "http://www.caesarstijuana.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "91°",
             "name": "Le Relais de l'Entrecote",
             "ref": "https://www.tasteatlas.com/LeRelaisDeLentrecote",
+            "address": null,
             "coord": [
                 [
                     48.8424846,
@@ -1184,10 +1457,13 @@
             "website": "http://www.relaisentrecote.fr"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "92°",
             "name": "Da Enzo al 29",
             "ref": "https://www.tasteatlas.com/da-enzo",
+            "address": null,
             "coord": [
                 [
                     41.8880864,
@@ -1197,10 +1473,13 @@
             "website": "http://www.daenzoal29.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "93°",
             "name": "Café du Soleil",
             "ref": "https://www.tasteatlas.com/CafeDuSoleil",
+            "address": null,
             "coord": [
                 [
                     46.2232246,
@@ -1210,10 +1489,13 @@
             "website": "http://www.cafedusoleil.ch"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "94°",
             "name": "Antica Bottega Del Vino",
             "ref": "https://www.tasteatlas.com/antica-bottega-del-vino",
+            "address": null,
             "coord": [
                 [
                     45.4416794,
@@ -1223,10 +1505,13 @@
             "website": "http://www.bottegavini.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "95°",
             "name": "La Bodeguita Del Medio",
             "ref": "https://www.tasteatlas.com/LaBodeguitaDelMedio",
+            "address": null,
             "coord": [
                 [
                     23.1401831,
@@ -1236,10 +1521,13 @@
             "website": null
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "96°",
             "name": "Bannai Shokudo",
             "ref": "https://www.tasteatlas.com/bannai-shokudo",
+            "address": null,
             "coord": [
                 [
                     37.651059,
@@ -1249,10 +1537,13 @@
             "website": "http://shop.bannaisyokudou.jp/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "97°",
             "name": "The Brazen Head",
             "ref": "https://www.tasteatlas.com/TheBrazenHead",
+            "address": null,
             "coord": [
                 [
                     53.3416586,
@@ -1262,10 +1553,13 @@
             "website": "http://www.brazenhead.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "98°",
             "name": "Restaurante Yemanjá",
             "ref": "https://www.tasteatlas.com/restaurante-yemanja",
+            "address": null,
             "coord": [
                 [
                     -12.9921282,
@@ -1275,10 +1569,13 @@
             "website": "http://www.restauranteyemanja.com.br/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "99°",
             "name": "Roscioli",
             "ref": "https://www.tasteatlas.com/Roscioli",
+            "address": null,
             "coord": [
                 [
                     41.8944211,
@@ -1288,10 +1585,13 @@
             "website": "http://www.salumeriaroscioli.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "100°",
             "name": "Cà D'Oro alla Vedova",
             "ref": "https://www.tasteatlas.com/CaDoroAllaVedova",
+            "address": null,
             "coord": [
                 [
                     45.4413431,
@@ -1301,10 +1601,13 @@
             "website": null
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "101°",
             "name": "Astrid y Gaston",
             "ref": "https://www.tasteatlas.com/astrid-y-gaston",
+            "address": null,
             "coord": [
                 [
                     -12.0965975,
@@ -1314,10 +1617,13 @@
             "website": "http://www.astridygaston.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "102°",
             "name": "Diporto",
             "ref": "https://www.tasteatlas.com/diporto",
+            "address": null,
             "coord": [
                 [
                     39.62406,
@@ -1327,10 +1633,13 @@
             "website": null
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "103°",
             "name": "Komagata Dojo",
             "ref": "https://www.tasteatlas.com/komakata-dozeu",
+            "address": null,
             "coord": [
                 [
                     35.707571,
@@ -1340,10 +1649,13 @@
             "website": "https://www.dozeu.com/en/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "104°",
             "name": "Laurentina - o Rei do Bacalhau",
             "ref": "https://www.tasteatlas.com/LaurentinaOReiDoBacalhau",
+            "address": null,
             "coord": [
                 [
                     38.7371201,
@@ -1353,10 +1665,13 @@
             "website": "http://www.restaurantelaurentina.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "105°",
             "name": "The Aristocrat",
             "ref": "https://www.tasteatlas.com/TheAristocrat",
+            "address": null,
             "coord": [
                 [
                     14.5688743,
@@ -1366,10 +1681,13 @@
             "website": "http://www.aristocrat.com.ph"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "106°",
             "name": "Casse-Croute La Banquise",
             "ref": "https://www.tasteatlas.com/CasseCrouteLaBanquise",
+            "address": null,
             "coord": [
                 [
                     45.541578,
@@ -1379,10 +1697,13 @@
             "website": "http://www.labanquise.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "107°",
             "name": "Prachak",
             "ref": "https://www.tasteatlas.com/prachak",
+            "address": null,
             "coord": [
                 [
                     13.7222494,
@@ -1392,10 +1713,13 @@
             "website": "http://www.prachakrestaurant.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "108°",
             "name": "Antoine's Restaurant",
             "ref": "https://www.tasteatlas.com/AntoinesRestaurant",
+            "address": null,
             "coord": [
                 [
                     29.9567166,
@@ -1405,10 +1729,13 @@
             "website": "http://www.antoines.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "109°",
             "name": "Mocotó",
             "ref": "https://www.tasteatlas.com/mocoto-sao-paulo",
+            "address": null,
             "coord": [
                 [
                     -23.487718,
@@ -1418,10 +1745,13 @@
             "website": "http://mocoto.com.br/restaurante/index.php"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "110°",
             "name": "Ram Ashraya",
             "ref": "https://www.tasteatlas.com/HotelRamAshraya",
+            "address": null,
             "coord": [
                 [
                     19.0279366,
@@ -1431,10 +1761,13 @@
             "website": null
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "111°",
             "name": "Kikunoi Roan Main Branch",
             "ref": "https://www.tasteatlas.com/RoanKikunoi",
+            "address": null,
             "coord": [
                 [
                     35.001446,
@@ -1444,10 +1777,13 @@
             "website": "http://www.kikunoi.jp/english/store/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "112°",
             "name": "La Tour d'Argent",
             "ref": "https://www.tasteatlas.com/dargent",
+            "address": null,
             "coord": [
                 [
                     48.8498148,
@@ -1457,10 +1793,13 @@
             "website": "https://tourdargent.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "113°",
             "name": "Ginza Kyubey ",
             "ref": "https://www.tasteatlas.com/KyubeySushi",
+            "address": null,
             "coord": [
                 [
                     35.6705587,
@@ -1470,10 +1809,13 @@
             "website": "http://www.kyubey.jp/en"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "114°",
             "name": "Jabri Restaurant",
             "ref": "https://www.tasteatlas.com/JabriRestaurant",
+            "address": null,
             "coord": [
                 [
                     31.9933321,
@@ -1483,10 +1825,13 @@
             "website": "http://www.jabri.com.jo"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "115°",
             "name": "Tonki",
             "ref": "https://www.tasteatlas.com/Tonki",
+            "address": null,
             "coord": [
                 [
                     35.6300236,
@@ -1496,10 +1841,13 @@
             "website": null
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "116°",
             "name": "Trattoria Al Gazzettino",
             "ref": "https://www.tasteatlas.com/trattoria-al-gazzettino",
+            "address": null,
             "coord": [
                 [
                     45.43642180000001,
@@ -1509,10 +1857,13 @@
             "website": "https://algazzettino.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "117°",
             "name": "Sobhy Kaber",
             "ref": "https://www.tasteatlas.com/sobhy-kaber",
+            "address": null,
             "coord": [
                 [
                     30.0837518,
@@ -1522,10 +1873,13 @@
             "website": null
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "118°",
             "name": "Çiya Sofrası",
             "ref": "https://www.tasteatlas.com/CiyaSofras",
+            "address": null,
             "coord": [
                 [
                     40.9893313,
@@ -1535,10 +1889,13 @@
             "website": "http://www.ciya.com.tr"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "119°",
             "name": "Hacı Abdullah Lokantası",
             "ref": "https://www.tasteatlas.com/hac-abdullah-lokantas",
+            "address": null,
             "coord": [
                 [
                     41.0367452,
@@ -1548,10 +1905,13 @@
             "website": "http://www.haciabdullah.com.tr/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "120°",
             "name": "The Olde Pink House",
             "ref": "https://www.tasteatlas.com/TheOldePinkHouse",
+            "address": null,
             "coord": [
                 [
                     32.0790722,
@@ -1561,10 +1921,13 @@
             "website": "https://www.theoldepinkhouserestaurant.com/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "121°",
             "name": "Stary Dom",
             "ref": "https://www.tasteatlas.com/StaryDom",
+            "address": null,
             "coord": [
                 [
                     52.1954147,
@@ -1574,10 +1937,13 @@
             "website": "http://www.restauracjastarydom.pl"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "122°",
             "name": "Restaurante Bonjardim",
             "ref": "https://www.tasteatlas.com/RestauranteBonjardim",
+            "address": null,
             "coord": [
                 [
                     38.7158873,
@@ -1587,10 +1953,13 @@
             "website": null
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "123°",
             "name": "Sapporo Beer Garden",
             "ref": "https://www.tasteatlas.com/sapporo-beer-garden",
+            "address": null,
             "coord": [
                 [
                     43.0960407,
@@ -1600,10 +1969,13 @@
             "website": "https://www.sapporo-bier-garten.jp/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "124°",
             "name": "Bolinha Restaurante",
             "ref": "https://www.tasteatlas.com/bolinha-restaurante",
+            "address": null,
             "coord": [
                 [
                     -23.578648,
@@ -1613,10 +1985,13 @@
             "website": "http://www.bolinha.com.br/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "125°",
             "name": "Da Nennella",
             "ref": "https://www.tasteatlas.com/da-nennella",
+            "address": null,
             "coord": [
                 [
                     40.8419647,
@@ -1626,10 +2001,13 @@
             "website": "https://www.trattoriadanennella.it/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "126°",
             "name": "Tadich Grill",
             "ref": "https://www.tasteatlas.com/TadichGrill",
+            "address": null,
             "coord": [
                 [
                     37.7934198,
@@ -1639,10 +2017,13 @@
             "website": "http://www.tadichgrill.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "127°",
             "name": "Trattoria Sostanza",
             "ref": "https://www.tasteatlas.com/TrattoriaSostanza",
+            "address": null,
             "coord": [
                 [
                     43.7726743,
@@ -1652,10 +2033,13 @@
             "website": null
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "128°",
             "name": "Chen Mapo Tofu",
             "ref": "https://www.tasteatlas.com/ChenMapoTofu",
+            "address": null,
             "coord": [
                 [
                     30.6694753,
@@ -1665,10 +2049,13 @@
             "website": null
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "129°",
             "name": "Honke Owariya",
             "ref": "https://www.tasteatlas.com/honke-owariya",
+            "address": null,
             "coord": [
                 [
                     35.0127544,
@@ -1678,10 +2065,13 @@
             "website": "https://honke-owariya.co.jp/en/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "130°",
             "name": "Százéves Étterem",
             "ref": "https://www.tasteatlas.com/szazeves-etterem",
+            "address": null,
             "coord": [
                 [
                     47.4931995,
@@ -1691,10 +2081,13 @@
             "website": "http://www.szazevesetterem.hu/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "131°",
             "name": "La Fontaine de Mars",
             "ref": "https://www.tasteatlas.com/LaFontaineDeMars",
+            "address": null,
             "coord": [
                 [
                     48.8584495,
@@ -1704,10 +2097,13 @@
             "website": "http://www.fontainedemars.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "132°",
             "name": "Myeongdong Kyoja",
             "ref": "https://www.tasteatlas.com/MyeongdongKyoja",
+            "address": null,
             "coord": [
                 [
                     37.5625608,
@@ -1717,10 +2113,13 @@
             "website": "http://www.mdkj.co.kr/en/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "133°",
             "name": "Gundel",
             "ref": "https://www.tasteatlas.com/gundel",
+            "address": null,
             "coord": [
                 [
                     47.51744975,
@@ -1730,10 +2129,13 @@
             "website": "https://gundel.hu/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "134°",
             "name": "St. Peter Stiftskulinarium",
             "ref": "https://www.tasteatlas.com/StPeterStiftskulinarium",
+            "address": null,
             "coord": [
                 [
                     47.797576,
@@ -1743,10 +2145,13 @@
             "website": "http://www.stpeter.at/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "135°",
             "name": "Casa Alberto",
             "ref": "https://www.tasteatlas.com/casa-alberto",
+            "address": null,
             "coord": [
                 [
                     40.4138199,
@@ -1756,10 +2161,13 @@
             "website": "https://www.casaalberto.es/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "136°",
             "name": "Strofi Restaurant",
             "ref": "https://www.tasteatlas.com/strofi-restaurant",
+            "address": null,
             "coord": [
                 [
                     37.968983,
@@ -1769,10 +2177,13 @@
             "website": "http://www.strofi.gr/"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "137°",
             "name": "Mak's Noodle",
             "ref": "https://www.tasteatlas.com/MaksNoodleMakUnKee",
+            "address": null,
             "coord": [
                 [
                     22.283,
@@ -1782,10 +2193,13 @@
             "website": "http://www.maksnoodle.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "138°",
             "name": "Mellben Seafood              ",
             "ref": "https://www.tasteatlas.com/MellbenSeafood",
+            "address": null,
             "coord": [
                 [
                     1.3686244,
@@ -1795,10 +2209,13 @@
             "website": null
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "139°",
             "name": "Ye Olde Cheshire Cheese",
             "ref": "https://www.tasteatlas.com/YeOldeCheshireCheese",
+            "address": null,
             "coord": [
                 [
                     51.51433295,
@@ -1808,10 +2225,13 @@
             "website": "http://www.cheshirecheeselondon.co.uk"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "140°",
             "name": "The Carnivore",
             "ref": "https://www.tasteatlas.com/the-carnivore",
+            "address": null,
             "coord": [
                 [
                     -1.319185,
@@ -1821,10 +2241,13 @@
             "website": "http://www.tamarind.co.ke/carnivore"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "141°",
             "name": "Chez Michel",
             "ref": "https://www.tasteatlas.com/ChezMichel",
+            "address": null,
             "coord": [
                 [
                     43.2907009,
@@ -1834,10 +2257,13 @@
             "website": "http://www.restaurant-michel-13.fr"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "142°",
             "name": "Rules Restaurant",
             "ref": "https://www.tasteatlas.com/RulesRestaurant",
+            "address": null,
             "coord": [
                 [
                     51.5108285,
@@ -1847,10 +2273,13 @@
             "website": "http://www.rules.co.uk"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "143°",
             "name": "Mizuno",
             "ref": "https://www.tasteatlas.com/Mizuno",
+            "address": null,
             "coord": [
                 [
                     34.6683762,
@@ -1860,10 +2289,13 @@
             "website": "http://www.mizuno-osaka.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "144°",
             "name": "Tosokchon",
             "ref": "https://www.tasteatlas.com/Tosokchon",
+            "address": null,
             "coord": [
                 [
                     37.5776249,
@@ -1873,10 +2305,13 @@
             "website": null
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "145°",
             "name": "Yati Ayam Percik",
             "ref": "https://www.tasteatlas.com/yati-ayam-percik",
+            "address": null,
             "coord": [
                 [
                     6.1094786,
@@ -1886,10 +2321,13 @@
             "website": null
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "146°",
             "name": "Restaurante Fernando",
             "ref": "https://www.tasteatlas.com/restaurante-fernando",
+            "address": null,
             "coord": [
                 [
                     22.1190528,
@@ -1899,10 +2337,13 @@
             "website": "http://www.fernando-restaurant.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "147°",
             "name": "Yat Lok Restaurant",
             "ref": "https://www.tasteatlas.com/YatLokRestaurant",
+            "address": null,
             "coord": [
                 [
                     22.2824828,
@@ -1912,10 +2353,13 @@
             "website": null
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "148°",
             "name": "O Thanasis",
             "ref": "https://www.tasteatlas.com/OThanasis",
+            "address": null,
             "coord": [
                 [
                     37.9762732,
@@ -1925,10 +2369,13 @@
             "website": "http://www.othanasis.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Taste Atlas",
+            "sub-ranking": "Most Legendary Restaurants 23/24",
+            "emoji": "🍽️",
             "position": "149°",
             "name": "South Melbourne Market Dim Sims",
             "ref": "https://www.tasteatlas.com/south-melbourne-market",
+            "address": null,
             "coord": [
                 [
                     -37.8322589,

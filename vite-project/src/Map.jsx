@@ -8,6 +8,35 @@ import createClusterCustomIcon from "./CreateClusterCustomIcon";
 import createCustomIcon from "./CreateCustomIcon";
 import SchedaLocale from "./scheda/SchedaLocale";
 
+const getZoomLevelByDistance = (distance) => {
+  // Punti di riferimento per distanza e zoom
+  const referencePoints = [
+    { distance: 0.22, zoom: 18 },
+    { distance: 16, zoom: 14 },
+    { distance: 162, zoom: 10 },
+    { distance: 694, zoom: 8 },
+    { distance: 1656.38, zoom: 6 }
+  ];
+  // Ordina i punti di riferimento per distanza crescente
+  referencePoints.sort((a, b) => a.distance - b.distance);
+  // Trova i due punti di riferimento tra i quali la distanza rientra
+  for (let i = 0; i < referencePoints.length - 1; i++) {
+    const start = referencePoints[i];
+    const end = referencePoints[i + 1];
+    if (distance >= start.distance && distance <= end.distance) {
+      // Interpola tra i due punti di riferimento
+      const ratio = (distance - start.distance) / (end.distance - start.distance);
+      return start.zoom + ratio * (end.zoom - start.zoom);
+    }
+  }
+  // Se la distanza è inferiore al primo punto di riferimento, restituisci il livello di zoom massimo
+  if (distance < referencePoints[0].distance) {
+    return referencePoints[0].zoom;
+  }
+  // Se la distanza è superiore all'ultimo punto di riferimento, restituisci il livello di zoom minimo
+  return referencePoints[referencePoints.length - 1].zoom;
+};
+
 // Component to move the map to the user's location
 function MoveToLocation({ position, geolocationEnabled}) {
   const map = useMap();
@@ -17,13 +46,17 @@ function MoveToLocation({ position, geolocationEnabled}) {
     const searchParams = new URLSearchParams(location.search);
     const lat = searchParams.get('lat');
     const lng = searchParams.get('lng');
-
+    const type = searchParams.get('type'); //TYPE POSSIBILI: road, attraction, neighbourhood, city, country
+    const distanceArea = searchParams.get('distance'); // distanza in km della citta (simile all'area)
     if (lat && lng) {
-      // Se le coordinate sono presenti nell'URL, imposta lo zoom a 17
-      const targetCoords = [parseFloat(lat), parseFloat(lng)];
-      map.setView(targetCoords, 17);
-      
-    } else if (position) {
+      if(distanceArea){ //se è presente distanceArea nell'url grazie al FoodSearch 
+        const zoomLevel = getZoomLevelByDistance(parseFloat(distanceArea));
+        map.setView([parseFloat(lat), parseFloat(lng)], zoomLevel);
+      }
+      else{ //se non è presente distanceArea nell'url, ma sono presenti le coordinate, vuol dire che è il link per la posizione di un ristorante
+        map.setView([parseFloat(lat), parseFloat(lng)], 15);
+      }      
+    } else if (position) { //se non è presente ho è un link, oppure ho acceduto normalmente
       // Se la geolocalizzazione è attiva zoomma a 7, altrimenti a 5 (quando l'utente non imposta la geolocalizzazione)
       const zoomLevel = geolocationEnabled ? 7 : 5;
       map.setView(position, zoomLevel);
@@ -105,6 +138,9 @@ export const Map = memo(({ markers }) => {
       }
     }
   }, [markerRefs.current, markers]); 
+
+  console.log("markers:");
+  console.log(markers)
   
   return (
     <MapContainer center={defaultPosition} zoom={5} zoomControl={false}>
@@ -131,8 +167,9 @@ export const Map = memo(({ markers }) => {
               category.map((locale, localeIndex) =>
                 locale.coord.map((coords, coordsIndex) => {
                   const nomeLocale = locale.name;
-                  const nomeClassifica = classificaKey;
-                  const subclassifiche = [[Object.keys(subclassifica), locale.position, locale.ref]];
+
+                  const nomeClassifica = locale.ranking;
+                  const subclassifiche = [[locale["sub-ranking"], locale.position, locale.ref]];
                   const linkGoogleMaps = `https://www.google.com/maps?q=${coords[0]},${coords[1]}`;
                   const linkIndicazioniMaps = `https://www.google.com/maps/dir/?api=1&destination=${coords[0]},${coords[1]}`;
                   const linkSitoWeb = locale.website; // Corretto da `webisite` a `website`

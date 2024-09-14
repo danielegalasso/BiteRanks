@@ -1,10 +1,13 @@
 {
     "The World's 50 Best Bars": [
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 1,
             "name": "Sips",
             "ref": "https://www.theworlds50best.com/bars/the-list/sips.html",
+            "address": null,
             "coord": [
                 [
                     41.3888297,
@@ -14,10 +17,13 @@
             "website": "http://sips.barcelona/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 2,
             "name": "Double Chicken Please",
             "ref": "https://www.theworlds50best.com/bars/the-list/double-chicken-please.html",
+            "address": null,
             "coord": [
                 [
                     40.6908904,
@@ -27,10 +33,13 @@
             "website": "https://doublechickenplease.com/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 3,
             "name": "Handshake Speakeasy",
             "ref": "https://www.theworlds50best.com/bars/the-list/handshake-speakeasy.html",
+            "address": null,
             "coord": [
                 [
                     19.4259034,
@@ -40,10 +49,13 @@
             "website": "https://handshake.bar/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 4,
             "name": "Paradiso",
             "ref": "https://www.theworlds50best.com/bars/the-list/paradiso.html",
+            "address": null,
             "coord": [
                 [
                     41.3836305,
@@ -53,10 +65,13 @@
             "website": "https://paradiso.cat/en/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 5,
             "name": "Connaught Bar",
             "ref": "https://www.theworlds50best.com/bars/the-list/connaught-bar.html",
+            "address": null,
             "coord": [
                 [
                     51.5102521,
@@ -66,10 +81,13 @@
             "website": "https://www.the-connaught.co.uk/restaurants-bars/connaught-bar/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 6,
             "name": "Little Red Door",
             "ref": "https://www.theworlds50best.com/bars/the-list/little-red-door.html",
+            "address": null,
             "coord": [
                 [
                     48.8636541,
@@ -79,10 +97,13 @@
             "website": "https://www.lrdparis.com/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 7,
             "name": "Licorería Limantour",
             "ref": "https://www.theworlds50best.com/bars/the-list/licoreria-limantour.html",
+            "address": null,
             "coord": [
                 [
                     19.4180507,
@@ -92,10 +113,13 @@
             "website": "https://limantour.tv/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 8,
             "name": "Tayēr + Elementary",
             "ref": "https://www.theworlds50best.com/bars/the-list/tayer-elementary.html",
+            "address": null,
             "coord": [
                 [
                     51.5252732,
@@ -105,10 +129,13 @@
             "website": "https://tayer-elementary.com/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 9,
             "name": "Alquímico",
             "ref": "https://www.theworlds50best.com/bars/the-list/alquimico.html",
+            "address": null,
             "coord": [
                 [
                     10.4234468,
@@ -118,10 +145,13 @@
             "website": "https://alquimico.com/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 10,
             "name": "Himkok",
             "ref": "https://www.theworlds50best.com/bars/the-list/himkok.html",
+            "address": null,
             "coord": [
                 [
                     59.914098,
@@ -131,10 +161,13 @@
             "website": "https://www.himkok.no/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 11,
             "name": "Tres Monos",
             "ref": "https://www.theworlds50best.com/bars/the-list/tres-monos.html",
+            "address": null,
             "coord": [
                 [
                     -34.5848566,
@@ -144,10 +177,13 @@
             "website": "https://3monos.com.ar/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 12,
             "name": "Line",
             "ref": "https://www.theworlds50best.com/bars/the-list/line.html",
+            "address": null,
             "coord": [
                 [
                     37.968606,
@@ -157,10 +193,13 @@
             "website": "https://lineathens.gr/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 13,
             "name": "BKK Social Club",
             "ref": "https://www.theworlds50best.com/bars/the-list/bkk-social-club.html",
+            "address": null,
             "coord": [
                 [
                     13.7105161,
@@ -170,10 +209,13 @@
             "website": "https://www.fourseasons.com/bangkok/dining/lounges/bkk-social-club/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 14,
             "name": "Jigger & Pony",
             "ref": "https://www.theworlds50best.com/bars/the-list/jigger-pony.html",
+            "address": null,
             "coord": [
                 [
                     1.2752457,
@@ -183,10 +225,13 @@
             "website": "https://www.jiggerandpony.com/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 15,
             "name": "Maybe Sammy",
             "ref": "https://www.theworlds50best.com/bars/the-list/maybe-sammy.html",
+            "address": null,
             "coord": [
                 [
                     -33.86171175,
@@ -196,10 +241,13 @@
             "website": "https://www.maybesammy.com/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 16,
             "name": "Salmon Guru",
             "ref": "https://www.theworlds50best.com/bars/the-list/salmon-guru.html",
+            "address": null,
             "coord": [
                 [
                     40.4149017,
@@ -209,10 +257,13 @@
             "website": "https://salmonguru.es/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 17,
             "name": "Overstory",
             "ref": "https://www.theworlds50best.com/bars/the-list/overstory.html",
+            "address": null,
             "coord": [
                 [
                     40.7065047,
@@ -222,10 +273,13 @@
             "website": "https://www.overstory-nyc.com/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 18,
             "name": "Zest",
             "ref": "https://www.theworlds50best.com/bars/the-list/zest.html",
+            "address": null,
             "coord": [
                 [
                     37.5254374,
@@ -235,10 +289,13 @@
             "website": null
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 19,
             "name": "Mahaniyom Cocktail Bar",
             "ref": "https://www.theworlds50best.com/bars/the-list/mahaniyom-cocktail-bar.html",
+            "address": null,
             "coord": [
                 [
                     13.7289636,
@@ -248,10 +305,13 @@
             "website": null
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 20,
             "name": "Coa",
             "ref": "https://www.theworlds50best.com/bars/the-list/coa.html",
+            "address": null,
             "coord": [
                 [
                     22.2840409,
@@ -261,10 +321,13 @@
             "website": "https://coa.com.hk/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 21,
             "name": "Drink Kong",
             "ref": "https://www.theworlds50best.com/bars/the-list/drink-kong.html",
+            "address": null,
             "coord": [
                 [
                     41.8951436,
@@ -274,10 +337,13 @@
             "website": "https://www.drinkkong.com/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 22,
             "name": "Hanky Panky",
             "ref": "https://www.theworlds50best.com/bars/the-list/hanky-panky.html",
+            "address": null,
             "coord": [
                 [
                     19.4270448,
@@ -287,10 +353,13 @@
             "website": "http://www.hankypanky.mx/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 23,
             "name": "Caretaker's Cottage",
             "ref": "https://www.theworlds50best.com/bars/the-list/caretakers-cottage.html",
+            "address": null,
             "coord": [
                 [
                     -37.8096405,
@@ -300,10 +369,13 @@
             "website": "https://www.caretakerscottage.bar/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 24,
             "name": "Café La Trova",
             "ref": "https://www.theworlds50best.com/bars/the-list/cafe-la-trova.html",
+            "address": null,
             "coord": [
                 [
                     25.7661344,
@@ -313,10 +385,13 @@
             "website": "https://www.cafelatrova.com/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 25,
             "name": "Baba au Rum",
             "ref": "https://www.theworlds50best.com/bars/the-list/baba-au-rum.html",
+            "address": null,
             "coord": [
                 [
                     37.9773499,
@@ -326,10 +401,13 @@
             "website": "https://www.babaaurum.com/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 26,
             "name": "CoChinChina",
             "ref": "https://www.theworlds50best.com/bars/the-list/cochinchina.html",
+            "address": null,
             "coord": [
                 [
                     -34.59031954897959,
@@ -339,10 +417,13 @@
             "website": "https://cochinchina.meitre.com/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 27,
             "name": "Katana Kitten",
             "ref": "https://www.theworlds50best.com/bars/the-list/katana-kitten.html",
+            "address": null,
             "coord": [
                 [
                     40.7342532,
@@ -352,10 +433,13 @@
             "website": "https://www.katanakitten.com/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 28,
             "name": "Satan's Whiskers",
             "ref": "https://www.theworlds50best.com/bars/the-list/satans-whiskers.html",
+            "address": null,
             "coord": [
                 [
                     51.52948685,
@@ -365,10 +449,13 @@
             "website": "https://www.satanswhiskers.com/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 29,
             "name": "Wax On",
             "ref": "https://www.theworlds50best.com/bars/the-list/wax-on.html",
+            "address": null,
             "coord": [
                 [
                     52.4882367,
@@ -378,10 +465,13 @@
             "website": null
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 30,
             "name": "Florería Atlántico",
             "ref": "https://www.theworlds50best.com/bars/the-list/floreria-atlantico.html",
+            "address": null,
             "coord": [
                 [
                     -34.5915517,
@@ -391,10 +481,13 @@
             "website": "http://floreriaatlantico.com.ar/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 31,
             "name": "Röda Huset",
             "ref": "https://www.theworlds50best.com/bars/the-list/roda-huset.html",
+            "address": null,
             "coord": [
                 [
                     59.3341578,
@@ -404,10 +497,13 @@
             "website": "https://rodahuset.nu/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 32,
             "name": "Sago House",
             "ref": "https://www.theworlds50best.com/bars/the-list/sago-house.html",
+            "address": null,
             "coord": [
                 [
                     1.282038,
@@ -417,10 +513,13 @@
             "website": "https://sagohouse.sg/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 33,
             "name": "Freni e Frizioni",
             "ref": "https://www.theworlds50best.com/bars/the-list/freni-e-frizioni.html",
+            "address": null,
             "coord": [
                 [
                     41.8912836,
@@ -430,10 +529,13 @@
             "website": "https://www.freniefrizioni.com/en/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 34,
             "name": "Argo",
             "ref": "https://www.theworlds50best.com/bars/the-list/argo.html",
+            "address": null,
             "coord": [
                 [
                     22.284099050000002,
@@ -443,10 +545,13 @@
             "website": "https://www.fourseasons.com/zh_hant/hongkong/dining/lounges/argo/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 35,
             "name": "🔶🟥🔵 A Bar with Shapes for a Name",
             "ref": "https://www.theworlds50best.com/bars/the-list/a-bar-with-shapes-for-a-name.html",
+            "address": null,
             "coord": [
                 [
                     51.5356581,
@@ -456,10 +561,13 @@
             "website": null
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 36,
             "name": "The SG Club",
             "ref": "https://www.theworlds50best.com/bars/the-list/the-sg-club.html",
+            "address": null,
             "coord": [
                 [
                     35.6642361,
@@ -469,10 +577,13 @@
             "website": "http://sg-management.jp/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 37,
             "name": "Bar Benfiddich",
             "ref": "https://www.theworlds50best.com/bars/the-list/bar-benfiddich.html",
+            "address": null,
             "coord": [
                 [
                     35.6894804,
@@ -482,10 +593,13 @@
             "website": "https://www.ameblo.jp/kayama0927"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 38,
             "name": "The Cambridge Public House",
             "ref": "https://www.theworlds50best.com/bars/the-list/the-cambridge-public-house.html",
+            "address": null,
             "coord": [
                 [
                     48.8614519,
@@ -495,10 +609,13 @@
             "website": "https://www.thecambridge.paris/en/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 39,
             "name": "Panda & Sons",
             "ref": "https://www.theworlds50best.com/bars/the-list/panda-sons.html",
+            "address": null,
             "coord": [
                 [
                     55.9532068,
@@ -508,10 +625,13 @@
             "website": "https://pandaandsons.com/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 40,
             "name": "Mimi Kakushi",
             "ref": "https://www.theworlds50best.com/bars/the-list/mimi-kakushi.html",
+            "address": null,
             "coord": [
                 [
                     25.2023141,
@@ -521,10 +641,13 @@
             "website": "https://mimikakushi.ae/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 41,
             "name": "Scarfes Bar",
             "ref": "https://www.theworlds50best.com/bars/the-list/scarfes-bar.html",
+            "address": null,
             "coord": [
                 [
                     51.5174168,
@@ -534,10 +657,13 @@
             "website": "https://scarfesbar.com/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 42,
             "name": "1930",
             "ref": "https://www.theworlds50best.com/bars/the-list/1930.html",
+            "address": null,
             "coord": [
                 [
                     45.468503,
@@ -547,10 +673,13 @@
             "website": null
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 43,
             "name": "Carnaval",
             "ref": "https://www.theworlds50best.com/bars/the-list/carnaval.html",
+            "address": null,
             "coord": [
                 [
                     -12.106396,
@@ -560,10 +689,13 @@
             "website": "https://carnavalbar.com/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 44,
             "name": "L'Antiquario",
             "ref": "https://www.theworlds50best.com/bars/the-list/l-antiquario.html",
+            "address": null,
             "coord": [
                 [
                     40.8329599,
@@ -573,10 +705,13 @@
             "website": null
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 45,
             "name": "Baltra Bar",
             "ref": "https://www.theworlds50best.com/bars/the-list/baltra-bar.html",
+            "address": null,
             "coord": [
                 [
                     19.4094971,
@@ -586,10 +721,13 @@
             "website": "https://baltra.bar/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 46,
             "name": "Locale Firenze",
             "ref": "https://www.theworlds50best.com/bars/the-list/locale-firenze.html",
+            "address": null,
             "coord": [
                 [
                     43.7711166,
@@ -599,10 +737,13 @@
             "website": "https://www.localefirenze.it/en/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 47,
             "name": "The Clumsies",
             "ref": "https://www.theworlds50best.com/bars/the-list/the-clumsies.html",
+            "address": null,
             "coord": [
                 [
                     37.97897145,
@@ -612,10 +753,13 @@
             "website": "https://www.theclumsies.gr/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 48,
             "name": "Atlas",
             "ref": "https://www.theworlds50best.com/bars/the-list/atlas.html",
+            "address": null,
             "coord": [
                 [
                     1.3002019,
@@ -625,10 +769,13 @@
             "website": "http://atlasbar.sg/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 49,
             "name": "Jewel of the South",
             "ref": "https://www.theworlds50best.com/bars/the-list/jewel-of-the-south.html",
+            "address": null,
             "coord": [
                 [
                     29.958549050000002,
@@ -638,10 +785,13 @@
             "website": "https://www.jewelnola.com/"
         },
         {
-            "category": "🍹",
+            "ranking": "TW50B",
+            "sub-ranking": "The World's 50 Best Bars",
+            "emoji": "🍹",
             "position": 50,
             "name": "Galaxy Bar",
             "ref": "https://www.theworlds50best.com/bars/the-list/galaxy-bar.html",
+            "address": null,
             "coord": [
                 [
                     25.2135121,

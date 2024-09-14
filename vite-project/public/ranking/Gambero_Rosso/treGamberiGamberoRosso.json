@@ -1,10 +1,13 @@
 {
     "Tre Gamberi Gambero Rosso 2024": [
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Agra Mater",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/agra-mater/",
+            "address": null,
             "coord": [
                 [
                     43.1570434,
@@ -14,10 +17,13 @@
             "website": "http://agramater.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Ai Due Platani",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/ai-due-platani/",
+            "address": null,
             "coord": [
                 [
                     44.7947357,
@@ -27,10 +33,13 @@
             "website": null
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Al Convento - Casa Torrente",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/al-convento-casa-torrente/",
+            "address": null,
             "coord": [
                 [
                     40.647183,
@@ -40,10 +49,13 @@
             "website": "http://alconvento.net"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "All' Osteria Bottega",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/all-osteria-bottega/",
+            "address": null,
             "coord": [
                 [
                     44.4910746,
@@ -53,10 +65,13 @@
             "website": "http://osteriabottega.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Angiolina",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/angiolina/",
+            "address": null,
             "coord": [
                 [
                     40.1015405,
@@ -66,10 +81,13 @@
             "website": "http://ristoranteangiolina.it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Antica Osteria del Mirasole con Locanda",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/antica-osteria-del-mirasole-con-locanda/",
+            "address": null,
             "coord": [
                 [
                     44.6389827,
@@ -79,10 +97,13 @@
             "website": "http://osteriadelmirasole.it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Antichi Sapori",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/antichi-sapori/",
+            "address": null,
             "coord": [
                 [
                     41.1722531,
@@ -92,10 +113,13 @@
             "website": "http://pietrozito.it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Armando al Pantheon",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/armando-al-pantheon/",
+            "address": null,
             "coord": [
                 [
                     41.8990605,
@@ -105,10 +129,13 @@
             "website": "http://armandoalpantheon.it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Armidda",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/armidda/",
+            "address": null,
             "coord": [
                 [
                     40.1324005,
@@ -118,10 +145,13 @@
             "website": "http://armidda.it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Buatta Cucina Popolana",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/buatta-cucina-popolana/",
+            "address": null,
             "coord": [
                 [
                     38.117103,
@@ -131,10 +161,13 @@
             "website": "http://buattapalermo.it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Caffè La Crepa",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/caffe-la-crepa/",
+            "address": null,
             "coord": [
                 [
                     45.1763703,
@@ -144,10 +177,13 @@
             "website": "http://caffelacrepa.it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Consorzio",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/consorzio/",
+            "address": null,
             "coord": [
                 [
                     45.0714943,
@@ -157,10 +193,13 @@
             "website": "http://ristoranteconsorzio.it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Da Burde",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/da-burde/",
+            "address": null,
             "coord": [
                 [
                     43.7941266,
@@ -170,10 +209,13 @@
             "website": "http://burde.it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Da Cesare",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/da-cesare/",
+            "address": null,
             "coord": [
                 [
                     41.7340619,
@@ -183,10 +225,13 @@
             "website": "http://trattoriadacesare.it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Futura Osteria",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/futura-osteria/",
+            "address": null,
             "coord": [
                 [
                     43.3875625,
@@ -196,10 +241,13 @@
             "website": "http://futuraosteria.it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Gallo Rosso",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/gallo-rosso/",
+            "address": null,
             "coord": [
                 [
                     43.43635279999999,
@@ -209,10 +257,13 @@
             "website": "http://trattoriagallorosso.it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Grappolo d'Oro",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/grappolo-doro/",
+            "address": null,
             "coord": [
                 [
                     41.9072293,
@@ -222,10 +273,13 @@
             "website": "http://hosteriagrappolodoro.it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Il Capanno",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/il-capanno/",
+            "address": null,
             "coord": [
                 [
                     42.6649427,
@@ -235,10 +289,13 @@
             "website": "http://ilcapannoristorante.it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "L' Arcangelo Vino e Cucina",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/l-arcangelo-vino-e-cucina/",
+            "address": null,
             "coord": [
                 [
                     41.8967068,
@@ -248,10 +305,13 @@
             "website": "http://larcangelo.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "La Brinca",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-brinca/",
+            "address": null,
             "coord": [
                 [
                     44.3538741,
@@ -261,10 +321,13 @@
             "website": "http://labrinca.it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "La Madia",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-madia-2/",
+            "address": null,
             "coord": [
                 [
                     45.6361929,
@@ -274,10 +337,13 @@
             "website": "http://trattorialamadia.it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "La Sangiovesa",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-sangiovesa/",
+            "address": null,
             "coord": [
                 [
                     44.0636717,
@@ -287,10 +353,13 @@
             "website": "http://sangiovesa.it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Lo Stuzzichino",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/lo-stuzzichino-2/",
+            "address": null,
             "coord": [
                 [
                     40.6086349,
@@ -300,10 +369,13 @@
             "website": "http://ristorantelostuzzichino.it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Locanda Mariella",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/locanda-mariella/",
+            "address": null,
             "coord": [
                 [
                     44.5868531,
@@ -313,10 +385,13 @@
             "website": "http://locandamariella.it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Masseria  Barbera",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/masseria-barbera/",
+            "address": null,
             "coord": [
                 [
                     41.1497935,
@@ -326,10 +401,13 @@
             "website": "http://masseriabarbera.it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Nerodiseppia",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/nerodiseppia/",
+            "address": null,
             "coord": [
                 [
                     45.6472867,
@@ -339,10 +417,13 @@
             "website": "http://trattorianerodiseppia.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Osteria del Treno",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/osteria-del-treno/",
+            "address": null,
             "coord": [
                 [
                     45.4812038,
@@ -352,10 +433,13 @@
             "website": "http://osteriadeltreno.it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Osteria della Villetta dal 1900",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/osteria-della-villetta-dal-1900/",
+            "address": null,
             "coord": [
                 [
                     45.602691,
@@ -365,10 +449,13 @@
             "website": "http://osteriadellavilletta.it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Pretzhof",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/pretzhof/",
+            "address": null,
             "coord": [
                 [
                     46.9036797,
@@ -378,10 +465,13 @@
             "website": "http://pretzhof.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Sora Maria e Arcangelo",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/sora-maria-e-arcangelo/",
+            "address": null,
             "coord": [
                 [
                     41.8596937,
@@ -391,10 +481,13 @@
             "website": "http://soramariaearcangelo.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Stella",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/stella/",
+            "address": null,
             "coord": [
                 [
                     43.1062987,
@@ -404,10 +497,13 @@
             "website": "http://stellaperugia.it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Tischi Toschi",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/tischi-toschi-2/",
+            "address": null,
             "coord": [
                 [
                     37.8510723,
@@ -417,10 +513,13 @@
             "website": "http://tischitoschitaormina.com"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Trattoria Visconti dal 1932",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/trattoria-visconti-dal-1932/",
+            "address": null,
             "coord": [
                 [
                     45.7180197,
@@ -430,10 +529,13 @@
             "website": "http://trattoriavisconti.it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Trippa",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/trippa/",
+            "address": null,
             "coord": [
                 [
                     45.4522019,
@@ -443,10 +545,13 @@
             "website": "http://trippamilano.it"
         },
         {
-            "category": "🍽️",
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "emoji": "🍽️",
             "position": null,
             "name": "Vecchia Marina",
             "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/vecchia-marina/",
+            "address": null,
             "coord": [
                 [
                     42.6828802,

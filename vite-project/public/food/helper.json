@@ -1,0 +1,48 @@
+{
+    "Restaurant":{
+        "emoji": "🍽️",
+        "icon":"../food/Restaurant.png"
+    },
+
+    "Sushi":{
+        "emoji": "🍣",
+        "icon":"./food/Sushi.png"
+    },
+    "Pizza":{
+        "emoji": "🍕",
+        "icon":"../food/Pizza.png"
+    },
+    "Burger":{
+        "emoji": "🍔",
+        "icon":"../food/Burger.png"
+    },
+    "Street Food":{
+        "emoji": "🍢",
+        "icon":"../food/Street_Food.png"
+    },
+    "Steak House":{
+        "emoji": "🥩",
+        "icon":"../food/Steak_House.png"
+    },
+    "Sweets":{
+        "emoji": "🍰",
+        "icon":"../food/Sweets.png"
+    },
+    "Ice Cream":{
+        "emoji":  "🍦",
+        "icon":"../food/Ice_Cream.png"
+    },
+    "Bakery":{
+        "emoji": "🥖",
+        "icon":"../food/Bakery.png"
+    },
+    "Bar": {
+        "emoji":  "🍹",
+        "icon":"../food/Bar.png"
+    },
+    "Vegan":{
+        "emoji":  "🌱",
+        "icon":"../food/Vegan.png"
+    }
+
+}
