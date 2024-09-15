@@ -390,10 +390,12 @@ const FoodSearch = ({sfsv, selectedItems, setSelectedItems, markers, setMarkers,
           )}
         </div>
       </div>
-
-      <button className="search-button1" onClick={handleSearchButtonClick}>
-        <TextPlusIcon text="Search" imageSrc={rocketicon} fSize="1.5rem" />
-      </button>
+      
+      <div className="bttnSearch">
+        <button className="search-button1" onClick={handleSearchButtonClick}>
+          <TextPlusIcon text="Search" imageSrc={rocketicon} fSize="1.5rem" />
+        </button>
+      </div>
     </div>
   );
 };

@@ -1,79 +1,66 @@
-/* FoodRankItem1.css */
-
 .outer-container {
   display: flex;
   flex-direction: column;
-  align-items: center; /* Centra orizzontalmente il contenuto */
-  margin-top: 2%;
+  align-items: center; /* Center content horizontally */
+  margin: 10px; /* Add space around each container */
+}
+
+.container-wrapper {
+  position: relative;
+  width: 10rem; /* Set a fixed width */
+  height: 10rem; /* Set a fixed height to ensure it’s square */
+  overflow: hidden;
+  margin: 0rem; /* Add space between containers */
+
 }
 
 .container {
-  background-color: #8AD1D9;; /* Colore di sfondo blu */
+  background-color: #8AD1D9; /* Light blue background */
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
   display: flex;
-  justify-content: center; /* Centra l'immagine orizzontalmente */
-  align-items: center; /* Centra l'immagine verticalmente */
-  height: 100% !important; /* Imposta una larghezza fissa */
-  aspect-ratio: 1;
-  border-radius: 1vw; /* Arrotonda gli angoli del container */
-  cursor: pointer; /* Cambia il cursore quando l'utente passa sopra */
-  position: relative;
-  
-
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px; /* Rounded corners */
+  cursor: pointer;
 }
 
-/* Aggiunge un bordo interno azzurro quando il container è cliccato */
+.container img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover; /* Ensure images fill the container while maintaining aspect ratio */
+}
+
+/* Add inner shadow on click */
 .container.clicked {
-  box-shadow: inset 0 0 0 6px blue; /* Bordo interno azzurro */
+  box-shadow: inset 0 0 0 6px blue;
 }
-
 
 .food-icon-isEmoji {
-  position: absolute;
   height: 80%;
-  width:auto
-  
+  width: auto;
 }
 
-
-
 .food-icon-isNotEmoji {
-  position: absolute;
   height: 100%;
-  aspect-ratio: 1;
+  width: auto;
   object-fit: cover;
   border-radius: 1vw;
-  
 }
 
 .container.clicked .food-icon-isNotEmoji {
   border: 6px solid blue;
 }
 
-
 .food-name {
-  color: white; /* Colore del testo bianco */
-  text-align: center; /* Centra il testo orizzontalmente */
-  margin-top: 2%; /* Spazio sopra il testo */
+  color: white;
+  text-align: center;
+  margin-top: 10px;
   font-size: 1rem;
-  padding-left: 5px;
-  padding-right: 5px;
-  white-space: nowrap; /* Evita che il testo vada a capo */
+  white-space: nowrap;
 }
 
 
- 
-@media (orientation: portrait) {
-    
-  .container {
-
-    height: 75%;
-    margin-top: 10%;
-
-    margin-right: 2vw !important;
-    aspect-ratio: 1;
-
-    border-radius: 4vw; /* Angoli stondati della card */
-
-  }
-}
-  
