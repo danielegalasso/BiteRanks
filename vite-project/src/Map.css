@@ -16,3 +16,9 @@
 .leaflet-popup-tip{
   display: none;
 }
+
+@media (orientation: portrait) {
+.leaflet-control{
+  display: none;
+}
+}
