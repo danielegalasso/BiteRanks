@@ -50,6 +50,8 @@ function MoveToLocation({ position, geolocationEnabled}) {
     const searchParams = new URLSearchParams(location.search);
     const lat = searchParams.get('lat');
     const lng = searchParams.get('lng');
+    const ranking = searchParams.get('ranking');
+    const subranking = searchParams.get('subranking');
     const type = searchParams.get('type'); //TYPE POSSIBILI: road, attraction, neighbourhood, city, country
     const distanceArea = searchParams.get('distance'); // distanza in km della citta (simile all'area)
     if (lat && lng) {
@@ -57,9 +59,14 @@ function MoveToLocation({ position, geolocationEnabled}) {
         const zoomLevel = getZoomLevelByDistance(parseFloat(distanceArea));
         map.setView([parseFloat(lat), parseFloat(lng)], zoomLevel);
       }
-      else{ //se non è presente distanceArea nell'url, ma sono presenti le coordinate, vuol dire che è il link per la posizione di un ristorante
-        map.setView([parseFloat(lat), parseFloat(lng)], 15);
-        console.log("sono qui");
+      else{ 
+        if (ranking && subranking){ // se è un link di una scheda
+          map.setView([parseFloat(lat), parseFloat(lng)], 15);
+          console.log("sono qui");
+        }
+        else{ //se qualcuno a digitato a mano le coordinate
+          map.setView([parseFloat(lat), parseFloat(lng)], 10);
+        }
       }  
     } else if (position) { //se non è presente ho è un link, oppure ho acceduto normalmente
       const zoomLevel = 10;  // lo metto sempre a 7 per ottimizzazione del codice al caricamento della pagina
@@ -125,9 +132,11 @@ export const Map = memo(({ markers }) => {
       //console.log("Tutti i marker sono stati caricati");
       const lat = searchParams.get('lat');
       const lng = searchParams.get('lng');
+      const ranking = searchParams.get('ranking');
+      const subranking = searchParams.get('subranking');
 
       //console.log("Latitudine e longitudine dall'URL: ", lat, lng);
-      if (lat && lng) {
+      if (lat && lng  && ranking && subranking) {
         const targetCoords = [parseFloat(lat), parseFloat(lng)];
       
         // Utilizza setTimeout per ritardare l'apertura del popup dopo 500ms (puoi modificare il tempo in base alle tue esigenze)
@@ -147,7 +156,7 @@ export const Map = memo(({ markers }) => {
   //console.log(markers)
   
   return (
-    <MapContainer center={defaultPosition} zoom={5} zoomControl={false}>
+    <MapContainer center={defaultPosition} zoom={10} zoomControl={false}>
       {position && <MoveToLocation position={position} geolocationEnabled={geolocationEnabled} />}
       
       <TileLayer
