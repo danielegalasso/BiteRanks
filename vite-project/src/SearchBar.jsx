@@ -144,6 +144,7 @@ const SearchBarWithAutocomplete = ({sfsv, isFSV , selectedItems, setSelectedItem
     if (userPosition) {
       navigate(`/?lat=${userPosition.lat}&lng=${userPosition.lon}`);
       resetState(); // Resetta lo stato
+      setSuggestions([]); // Nascondi la lista di suggerimenti dopo la selezione
     }
   };
   const resetState = () => {
