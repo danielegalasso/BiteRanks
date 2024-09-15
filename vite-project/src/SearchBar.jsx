@@ -35,6 +35,7 @@ const SearchBarWithAutocomplete = ({sfsv, isFSV , selectedItems, setSelectedItem
   //nasconderli quando clicco fuori dalla search-bar e dalla lista dei suggerimenti
   const searchBarRef = useRef(null);
   const suggestionsRef = useRef(null); // Riferimento anche per i suggerimenti
+  const inputRef = useRef(null);
 
   // Ottenere la posizione dell'utente al caricamento della pagina
   useEffect(() => {
@@ -129,6 +130,11 @@ const SearchBarWithAutocomplete = ({sfsv, isFSV , selectedItems, setSelectedItem
     setDistanceArea(distance);
     //console.log("lat: ", suggestion.lat, "lon: ", suggestion.lon);
     setSuggestions([]); // Nascondi la lista di suggerimenti dopo la selezione
+
+    // Sposta il cursore nella search bar, dopo che ho scelto il suggerimento voglio il focus sulla searchBar
+    if (inputRef.current) {
+      inputRef.current.focus();
+    }
   };
 
   // Funzione per zoomare sulla mappa
@@ -207,9 +213,15 @@ const SearchBarWithAutocomplete = ({sfsv, isFSV , selectedItems, setSelectedItem
       <div className="search-box">
         <FaGlobe className="icon" />
         <input
+          ref={inputRef} // Assegna il ref all'input
           type="text"
           value={searchTerm}
           onChange={handleSearchChange}
+          onKeyDown={(e) => {
+            if (e.key === 'Enter') {
+              handleSearchClick(); // Chiama la funzione quando viene premuto il tasto Invio
+            }
+          }}
           placeholder="Find Location 🌍"
           className="search-input"
         />
