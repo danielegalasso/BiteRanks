@@ -206,6 +206,7 @@
       width: 90vw;
       border-radius: 6vw;
       height: 60%;
+      min-height: 25rem;
     }
 
     .top-buttons {
@@ -247,4 +248,7 @@
 
 
   }
+  
+
+  
   
