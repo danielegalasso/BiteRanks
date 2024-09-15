@@ -141,11 +141,30 @@ const SearchBarWithAutocomplete = ({sfsv, isFSV , selectedItems, setSelectedItem
   };
   // Funzione per zoomare sulla posizione dell'utente
   const handleUserPositionClick = () => {
-    if (userPosition) {
-      navigate(`/?lat=${userPosition.lat}&lng=${userPosition.lon}`);
-      resetState(); // Resetta lo stato
-      setSuggestions([]); // Nascondi la lista di suggerimenti dopo la selezione
+    if (!navigator.geolocation) {
+      alert("Geolocation is not supported by your browser.");
+      return;
     }
+    // Richiedi sempre all'utente di attivare la geolocalizzazione
+    navigator.geolocation.getCurrentPosition(
+      (position) => {
+        const { latitude, longitude } = position.coords;
+        setUserPosition({ lat: latitude, lon: longitude });
+
+        // Naviga verso la posizione dell'utente dopo aver ottenuto le coordinate
+        navigate(`/?lat=${latitude}&lng=${longitude}`);
+        resetState(); // Resetta lo stato
+        setSuggestions([]); // Nascondi la lista di suggerimenti dopo la selezione
+      },
+      (error) => {
+        // Mostra un messaggio solo in caso di rifiuto della geolocalizzazione
+        if (error.code === error.PERMISSION_DENIED) {
+          alert("Please enable geolocation in your browser settings to use this feature.");
+        } else {
+          alert("Error obtaining geolocation. Please try again.");
+        }
+      }
+    );
   };
   const resetState = () => {
     setSearchTerm(''); // Resetta il termine di ricerca
@@ -222,7 +241,7 @@ const SearchBarWithAutocomplete = ({sfsv, isFSV , selectedItems, setSelectedItem
           className="suggestion-item user-position-item"
         >
           <FaCompass className="compass-icon geolocation-icon"/> 
-          <text className='geolocation-text'> La tua posizione </text>
+          <text className='geolocation-text'> Your Location </text>
         </li>
       </ul>
     )}

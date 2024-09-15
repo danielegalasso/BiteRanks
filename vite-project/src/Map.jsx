@@ -59,10 +59,9 @@ function MoveToLocation({ position, geolocationEnabled}) {
       }
       else{ //se non è presente distanceArea nell'url, ma sono presenti le coordinate, vuol dire che è il link per la posizione di un ristorante
         map.setView([parseFloat(lat), parseFloat(lng)], 15);
+        console.log("sono qui");
       }  
     } else if (position) { //se non è presente ho è un link, oppure ho acceduto normalmente
-      // Se la geolocalizzazione è attiva zoomma a 7, altrimenti a 5 (quando l'utente non imposta la geolocalizzazione)
-      //const zoomLevel = geolocationEnabled ? 7 : 5;
       const zoomLevel = 10;  // lo metto sempre a 7 per ottimizzazione del codice al caricamento della pagina
       map.setView(position, zoomLevel);
     }
