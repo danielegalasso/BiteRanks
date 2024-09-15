@@ -45,15 +45,13 @@
 }
 
 .food-icon-isNotEmoji {
-  height: 100%;
+  height: 85%;
   width: auto;
   object-fit: cover;
-  border-radius: 1vw;
+  border-radius: 1rem;
 }
 
-.container.clicked .food-icon-isNotEmoji {
-  border: 6px solid blue;
-}
+
 
 .food-name {
   color: white;
