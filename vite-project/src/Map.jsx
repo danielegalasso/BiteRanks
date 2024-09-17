@@ -202,7 +202,12 @@ export const Map = memo(({ markers }) => {
       </div>
 
       {renderMarkers && (
-        <MarkerClusterGroup chunkedLoading iconCreateFunction={createClusterCustomIcon}>
+        <MarkerClusterGroup 
+        chunkedLoading 
+        iconCreateFunction={createClusterCustomIcon}
+        ref={el => {
+            window.globalClusters = el; // Salva i cluster globalmente
+        }}>
         {Object.entries(markers).map(([classificaKey, classifica], classificaIndex) => (
           Object.entries(classifica).map(([subclassificaKey, subclassifica], subclassificaIndex) => (
             Object.entries(subclassifica).map(([categoryKey, category], categoryIndex) => (

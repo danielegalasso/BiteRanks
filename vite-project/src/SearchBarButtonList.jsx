@@ -2,6 +2,7 @@ import React, {useState} from 'react';
 import Button from './SearchBarButton.jsx';
 import ButtonEmoji from './SearchBarButtonEmoji.jsx';
 import { FaEdit, FaDice, FaRegWindowClose } from 'react-icons/fa'; 
+import "leaflet.markercluster";
 import { IoMdClose } from "react-icons/io";
 import './SearchBarButtonList.css';
 import { all } from 'axios';
@@ -35,30 +36,45 @@ const ButtonList = ({ sfsv, isFSV, selectedItems, setSelectedItems, markers, set
     console.log("markersInView: ", markersInView);
     console.log("markersInView.length: ", markersInView.length);
 
-    // Filter out markers that have already been suggested
-    const unSuggestedMarkers = markersInView.filter((marker, index) => !suggestedIndices.includes(index));
+    // Check if all indices have been used
+    const allIndices = markersInView.map((_, index) => index);
+    const unusedIndices = allIndices.filter(index => !suggestedIndices.includes(index));
 
-    if (unSuggestedMarkers.length > 0) {
-      const randomIndex = Math.floor(Math.random() * unSuggestedMarkers.length);
-      const randomMarker = unSuggestedMarkers[randomIndex];
-      const randomMarkerIndex = markersInView.indexOf(randomMarker);
+    // Reset suggestedIndices if all markers have been suggested
+    if (unusedIndices.length === 0) {
+      setSuggestedIndices([]);
+      // Recalculate unused indices
+      unusedIndices.push(...allIndices);
+    }
+    
+    if (unusedIndices.length > 0) {
+      // Choose a random unused index
+      const randomIndex = Math.floor(Math.random() * unusedIndices.length);
+      const chosenIndex = unusedIndices[randomIndex];
+      const randomMarker = markersInView[chosenIndex];
       const randomMarkerCoords = randomMarker.getLatLng();
       console.log("randomMarkerCoords: ", randomMarkerCoords);
-      
-      map.setView(randomMarkerCoords, 17);
-      randomMarker.openPopup();
-      /*
-      allMarkers.forEach(marker => {
-        if(marker.getLatLng().equals(randomMarkerCoords)) {
-          marker.openPopup();
-        }
-      })
-        */
+
+      const clusterLayer = window.globalClusters.getVisibleParent(randomMarker);
+      console.log("clusterLayer: ", clusterLayer, "clusterLayer._childCount: ", clusterLayer._childCount);
+      if (clusterLayer && clusterLayer._childCount) {
+        // Il marker è dentro un cluster
+        clusterLayer.spiderfy(); // Espande il cluster senza zoomare
+  
+        // Apri il popup del marker selezionato
+        setTimeout(() => {
+          randomMarker.openPopup();
+        }, 300); // Un piccolo ritardo per assicurarsi che il cluster si sia espanso
+      } else {
+        // Il marker è visibile, apri direttamente il popup
+        randomMarker.openPopup();
+      }
 
       // Update the list of suggested indices
-      setSuggestedIndices(prevIndices => [...prevIndices, randomMarkerIndex]);
+      setSuggestedIndices(prevIndices => [...prevIndices, chosenIndex]);
+      console.log("suggestedIndices: ", suggestedIndices);
     } else {
-      console.log("Nessun marker disponibile nella visuale attuale.");
+      console.log("No markers available to suggest.");
     }
   };
 
