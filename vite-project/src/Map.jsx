@@ -37,6 +37,32 @@ const getZoomLevelByDistance = (distance) => {
   return referencePoints[referencePoints.length - 1].zoom;
 };
 
+// Funzione per stampare i bounds dopo ogni zoom/pan
+function LogMapBounds() {
+  const map = useMap();
+
+  useEffect(() => {
+    const logBounds = () => {
+      const zoom = map.getZoom();
+      if (zoom < 3) {
+        map.setZoom(3); // Imposta lo zoom a 7 se è minore di 7
+        return; // Esci dalla funzione per evitare di stampare i bounds dopo l'azione
+      }
+      const bounds = map.getBounds();
+      console.log("Zoom level:", zoom);
+      console.log("Bounds:", bounds);
+      //alert(`Zoom level: ${zoom}\nBounds: ${bounds.toBBoxString()}`); // Visualizzazione bounds su schermo tramite alert
+    };
+
+    map.on("moveend", logBounds); // Ascolta ogni movimento della mappa
+    return () => {
+      map.off("moveend", logBounds); // Rimuovi listener quando il componente viene smontato
+    };
+  }, [map]);
+
+  return null;
+}
+
 // Component to move the map to the user's location
 function MoveToLocation({ position, geolocationEnabled}) {
   const map = useMap();
@@ -167,6 +193,9 @@ export const Map = memo(({ markers }) => {
         updateWhenIdle={false}
         keepBuffer={10}
       />
+
+      {/* Aggiungi qui il componente LogMapBounds per loggare i bounds e il livello di zoom */}
+      <LogMapBounds />
 
       <div className="map-control-bottom-right">
       <ZoomControl position="bottomright" />
