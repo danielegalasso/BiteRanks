@@ -2,11 +2,13 @@ import React, { useState, useEffect, memo, useRef} from "react";
 import "./Map.css";
 import "leaflet/dist/leaflet.css";
 import { useSearchParams, useLocation } from 'react-router-dom'; // Aggiunto
-import { MapContainer, TileLayer, Marker, Popup, useMap, ZoomControl } from "react-leaflet";
+import { MapContainer, TileLayer, Marker, Popup, useMap, ZoomControl, LayersControl } from "react-leaflet";
 import MarkerClusterGroup from "react-leaflet-cluster";
 import createClusterCustomIcon from "./CreateClusterCustomIcon";
 import createCustomIcon from "./CreateCustomIcon";
 import SchedaLocale from "./scheda/SchedaLocale";
+
+const { BaseLayer} = LayersControl;
 
 const getZoomLevelByDistance = (distance) => {
   // Punti di riferimento per distanza e zoom
@@ -45,7 +47,7 @@ function LogMapBounds() {
     const logBounds = () => {
       const zoom = map.getZoom();
       if (zoom < 3) {
-        map.setZoom(3); // Imposta lo zoom a 7 se è minore di 7
+        map.setZoom(3); // Imposta lo zoom a 3 se è minore di 3
         return; // Esci dalla funzione per evitare di stampare i bounds dopo l'azione
       }
       const bounds = map.getBounds();
@@ -182,21 +184,54 @@ export const Map = memo(({ markers }) => {
   //console.log(markers)
   
   return (
-    <MapContainer center={defaultPosition} zoom={10} zoomControl={false}>
-      {position && <MoveToLocation position={position} geolocationEnabled={geolocationEnabled} />}
-      
-      <TileLayer
-        attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
-        url="https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png"
-        subdomains="abcd"
-        maxZoom={20}
-        updateWhenIdle={false}
-        keepBuffer={10}
-      />
-
+    <MapContainer center={defaultPosition} zoom={10} zoomControl={false} 
+      worldCopyJump={true} // Evita la ripetizione orizzontale della mappa
+      maxBounds={[[ -85, -180 ], [ 85, 180 ]]} // Limiti della mappa, evita di uscire dai confini del mondo
+    >
       {/* Aggiungi qui il componente LogMapBounds per loggare i bounds e il livello di zoom */}
       <LogMapBounds />
+      {position && <MoveToLocation position={position} geolocationEnabled={geolocationEnabled} />}
 
+      <LayersControl position="topright">
+        <BaseLayer checked name="Mappa Stradale">
+          <TileLayer
+            attribution='&copy; OpenStreetMap contributors &copy; CARTO'
+            url="https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png"
+          />
+        </BaseLayer>
+        <BaseLayer name="Satellite">
+          <TileLayer
+            url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
+            attribution='Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+          />
+        </BaseLayer>
+        <BaseLayer name="Google Maps">
+          <TileLayer
+             attribution="Google Maps"
+             url="https://www.google.cn/maps/vt?lyrs=m@189&gl=cn&x={x}&y={y}&z={z}"
+          />
+        </BaseLayer> 
+        <BaseLayer name="OpenStreetMap with Labels">
+          <TileLayer
+            url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+            attribution='&copy; OpenStreetMap contributors'
+          />
+        </BaseLayer>
+
+        <BaseLayer name="Esri Streets">
+          <TileLayer
+            url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}"
+            attribution='Tiles &copy; Esri'
+          />
+        </BaseLayer>
+        <BaseLayer name="OpenTopoMap">
+          <TileLayer
+            url="https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png"
+            attribution='&copy; OpenTopoMap (CC-BY-SA)'
+          />
+        </BaseLayer>
+      </LayersControl>
+      
       <div className="map-control-bottom-right">
       <ZoomControl position="bottomright" />
       </div>
