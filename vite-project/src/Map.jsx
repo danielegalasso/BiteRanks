@@ -192,7 +192,7 @@ export const Map = memo(({ markers }) => {
       <LogMapBounds />
       {position && <MoveToLocation position={position} geolocationEnabled={geolocationEnabled} />}
 
-      <LayersControl position="topright">
+      <LayersControl position="bottomleft">
         <BaseLayer checked name="Mappa Stradale">
           <TileLayer
             attribution='&copy; OpenStreetMap contributors &copy; CARTO'

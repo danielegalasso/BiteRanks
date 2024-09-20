@@ -17,6 +17,15 @@
   display: none;
 }
 
+
+.leaflet-control-layers-toggle {
+  background-image: url(".\icon\layer-group.svg") !important;
+  background-size: contain;
+
+}
+
+
+
 @media (orientation: portrait) {
 .leaflet-control{
   display: none;
