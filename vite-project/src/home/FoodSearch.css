@@ -10,7 +10,7 @@
   
   border: 1px solid #ccc;
   border-radius: 2vw;
-  background-color: #BEC4CB;
+  background-color: #CCB8DA;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   
 
@@ -57,7 +57,7 @@
     min-height: 3rem;
     border-radius: 2vw; /* Arrotonda gli angoli dei pulsanti */
     border: 0px solid; /* Bordi di colore blu */
-    background-color: #ffffff; /* Sfondo trasparente */
+    background-color: #F8F8FF; /* Sfondo trasparente */
     color: #000000; /* Colore del testo blu */
     font-weight: bold; /* Testo in grassetto */
     font-size: 1.35rem;
@@ -66,17 +66,17 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Ombra del pulsante */
   }
   .top-buttons button:hover {
-    background-color: rgb(118, 124, 129); /* Sfondo blu al passaggio del mouse */
+    background-color: #6F5379; /* Sfondo blu al passaggio del mouse */
     
   }
   .top-buttons button.active {
-    background: linear-gradient(90deg, #3F4245, #757b80); /* Gradiente blu */
-    color: #ffffff; /* Colore del testo bianco per il pulsante attivo */
+    background: #6F5379; /* Gradiente blu */
+    color: #F8F8FF; /* Colore del testo bianco per il pulsante attivo */
 }
 
   /* Contenitore scuro */
   .dark-container {
-    background: linear-gradient(90deg, #3F4245, #767c81); /* Gradiente dal blu scuro al grigio scuro */
+    background: #6F5379; /* Gradiente dal blu scuro al grigio scuro */
     padding: 3%;
     padding-bottom: 5%;
     border-radius: 1vw;
@@ -102,7 +102,7 @@
     
     /* Firefox styles for scrollbar */
     scrollbar-width: thin; /* Rende la scrollbar sottile */
-    scrollbar-color: darkgrey #0000001a; /* Colore del thumb e del track per Firefox */
+    scrollbar-color: #CCB8DA #0000001a; /* Colore del thumb e del track per Firefox */
 }
 
 
@@ -119,7 +119,7 @@
     margin-bottom: 0.8rem;
     border-radius: 2vw; /* Arrotonda gli angoli della barra di ricerca */
     border: 0px solid #007bff; /* Bordi di colore blu */
-    background-color: #fff; /* Sfondo bianco */
+    background-color: #F8F8FF; /* Sfondo bianco */
     color: #333; /* Colore del testo */
     font-size: 1rem; /* Dimensione del testo */
     outline: none; /* Rimuove il bordo di focus predefinito del browser */
@@ -143,8 +143,8 @@
     margin-right: auto;
     border-radius: 2vw;
     font-weight: bold; /* Testo in grassetto */
-    background-color: #222325;
-    color: #fff;
+    background-color: #6F5379;
+    color: #F8F8FF;
     cursor: pointer;
     display: block; /* Aggiungi display: block per centrare il pulsante orizzontalmente */
 }
@@ -174,10 +174,10 @@
     
     margin-left: 59%;
     border-radius: 2vw;
-    background-color: #3F4245;
+    background-color: #6F5379;
     
     font-size: 1.35rem;
-    color: #fff;
+    color: #F8F8FF;
     cursor: pointer;
     display: block; /* Aggiungi display: block per centrare il pulsante orizzontalmente */
     transition: background-color 0.3s, color 0.3s; /* Transizione per il cambio di colore */
