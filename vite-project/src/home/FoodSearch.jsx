@@ -13,7 +13,7 @@ import sushiicon from "./emoji/sushi.png";
 import hamburgericon from "./emoji/hamburger.png";
 import steakhouseicon from "./emoji/steakhouse.png";
 import sweetsicon from "./emoji/sweets.png";
-import closeicon from "./emoji/closeicon.png"
+import closeicon from "./emoji/closeicon.svg";
 import defaultIcon from "../../public/ranking-icon/Empty.png"; // Percorso all'icona di default
 
 
@@ -331,8 +331,8 @@ const FoodSearch = ({sfsv, selectedItems, setSelectedItems, markers, setMarkers,
 
   return (
     <div className="food-search-container">
-      <button className="cBttn" onClick={handleCloseButtonClick}>
-        <img src={closeicon} alt="Button Image" />
+      <button className="cBttn" onClick={handleCloseButtonClick}> 
+        <img src={closeicon} alt="Button Image"/>
       </button>
       
       <div className="top-buttons">
