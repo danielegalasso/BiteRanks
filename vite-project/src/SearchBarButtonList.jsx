@@ -90,14 +90,15 @@ const ButtonList = ({ sfsv, isFSV, selectedItems, setSelectedItems, markers, set
   const buttonsData = [
     {
       icon: isFSV ? <FaRegWindowClose /> : <FaEdit />,
-      backgroundColor: isFSV ? "red" : "#7aa8c6",
+      backgroundColor: isFSV ? "red" : "#8F669F",
       onClick: handleEditOrCloseClick,
     },
-    {
-      icon: <FaDice />,
-      backgroundColor: '#4b7158',
-      onClick: handleDiceClick,
-    }
+    //
+    //{
+    //  icon: <FaDice />,
+    //  backgroundColor: '#4b7158',
+    //  onClick: handleDiceClick,
+    //}
   ];
 
   return (
