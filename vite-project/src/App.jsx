@@ -7,6 +7,8 @@ import { Map } from "./Map"; // Importa il componente Map
 import FoodSearch from "./home/FoodSearch";
 import SearchBarWithAutocomplete from "./SearchBar";
 import bowser from 'bowser';
+import { Helmet, HelmetProvider } from 'react-helmet-async'; // Importa Helmet
+
 
 // Dati dei marker
 export default function App() {
@@ -68,10 +70,20 @@ export default function App() {
   } : {};
 
   return (
+    <HelmetProvider>
       <Router>
         <Routes>
           <Route path="/" element={
             <>
+            <Helmet>
+                <title>BiteRanks - La tua guida ai migliori ristoranti e pizzerie</title>
+                <meta name="description" content="Scopri i migliori ristoranti e pizzerie vicino a te con BiteRanks, grazie alle classifiche di Gambero Rosso, 50 Top Pizza e altre." />
+                <meta name="keywords" content="gambero rosso ristoranti, gambero rosso mappa, migliori pasticcerie, 50 top pizza" />
+                <meta property="og:title" content="BiteRanks - La tua guida ai migliori ristoranti e pizzerie" />
+                <meta property="og:description" content="Trova i migliori ristoranti con BiteRanks, consultando classifiche di esperti e scoprendo posti di qualità nelle città italiane." />
+                <meta property="og:url" content="https://biteranks.com" />
+                <meta property="og:image" content="https://biteranks.com/public/logo.png" />
+              </Helmet>
               {/* Overlay scuro per tutto il contenuto */}
               {isFoodSearchVisible && <div style={overlayStyle} />}
               
@@ -102,5 +114,6 @@ export default function App() {
           }/>
         </Routes>
       </Router>
+      </HelmetProvider>
   );
 }
