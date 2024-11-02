@@ -82,6 +82,7 @@ export default function App() {
                 <meta property="og:title" content="BiteRanks - La tua guida ai migliori ristoranti e pizzerie" />
                 <meta property="og:description" content="Trova i migliori ristoranti con BiteRanks, consultando classifiche di esperti e scoprendo posti di qualità nelle città italiane." />
                 <meta property="og:url" content="https://biteranks.com" />
+                <meta property="og:site_name" content="Biteranks" />
                 <meta property="og:image" content="https://biteranks.com/public/logo.png" />
               </Helmet>
               {/* Overlay scuro per tutto il contenuto */}
