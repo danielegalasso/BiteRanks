@@ -1,8 +1,11 @@
+# updated script to new json v1.2
+
 import re
 import requests
 from bs4 import BeautifulSoup
 import json
 from time import sleep
+import os
 
 
 headers = {
@@ -11,6 +14,7 @@ headers = {
 
 category = '🍕'
 
+'''
 urls = [
     'https://www.50toppizza.it/50-top-pizza-italia-2024/',
     'https://www.50toppizza.it/50-top-pizza-italia-2024-pizzerie-eccellenti/',
@@ -22,13 +26,14 @@ urls = [
     'https://www.50toppizza.it/50-top-pizza-latin-america-2024/',
     'https://www.50toppizza.it/50-top-pizza-asia-pacific-2024/',
 ]
+'''
+urls = ['https://www.50toppizza.it/50-top-world-2024/']
 
 def extract_name_from_url(url):
     path = url.split('/')[-2]
     name = path.replace('-', ' ').title()
     name = re.sub(r'[^\w\s]', '', name)
     return name
-
 
 # PRIMA PARTE: ESTRARRE I RIFERIMENTI
 url_to_name = {url: extract_name_from_url(url) for url in urls}
@@ -45,15 +50,36 @@ for url in urls:
         position = card.find('h2', class_='mt-2 posizione scotchmodern rosso caps')
         position = None if not position else position.get_text(strip=True)
         place_name = card.find('h3', class_='titolo roboto nero caps')
-        url_to_reference[url].append({'category': category, 'position': position, 'name': place_name.get_text(strip=True), 'ref': card.get('href'), 'address': [], 'coord': [], 'website': None})
-
+        url_to_reference[url].append({
+            'ranking': '50 Top Pizza',
+            'sub-ranking': extract_name_from_url(url),
+            'emoji': category,
+            'position': position,
+            'name': place_name.get_text(strip=True),
+            'ref': card.get('href'),
+            'address': [],
+            'coord': [],
+            'website': None
+        })
 
 # SECONDA PARTE: DERIVARE LA POSIZIONE
+def fetch_with_retry(url, headers, retries=3):
+    for i in range(retries):
+        try:
+            response = requests.get(url, headers=headers)
+            response.raise_for_status()
+            return response
+        except requests.exceptions.RequestException as e:
+            if i < retries - 1:
+                print(f"Errore di connessione, tentativo {i + 1} di {retries}... ({e})")
+                sleep(5)
+            else:
+                raise
+
 for url in url_to_reference:
     for data in url_to_reference[url]:
         print(data['ref'])
-        response = requests.get(data['ref'], headers=headers)
-        response.raise_for_status()
+        response = fetch_with_retry(data['ref'], headers)
         soup = BeautifulSoup(response.text, 'html.parser')
         
         website_div = next((div for div in soup.find_all('div') if re.search(r'^sito web:.*', div.get_text(strip=True))), None)
@@ -87,10 +113,12 @@ for url in url_to_reference:
                         print(f"Errore nella conversione delle coordinate da {data['ref']}: {lat_long}")
         sleep(1)
 
+# Salvare il file JSON nella directory corrente
 for url, name in url_to_name.items():
     json_output = {}
     json_output[name] = url_to_reference[url]
-    with open(f'vite-project/public/ranking/50TopPizza/{name.replace(" ", "")}.json', 'w', encoding='utf-8') as file:
+    output_path = f'{name.replace(" ", "")}.json'
+    with open(output_path, 'w', encoding='utf-8') as file:
         json.dump(json_output, file, ensure_ascii=False, indent=4)
 
 '''

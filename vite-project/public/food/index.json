@@ -1,13 +1,14 @@
 [
-    "Restaurant.json",
-    "Sushi.json",
     "Pizza.json",
-    "Burger.json",
-    "Street Food.json",
-    "Steak House.json",
-    "Sweets.json",
+    "Restaurant.json",
     "Ice Cream.json",
+    "Sweets.json",
+    "Trattorie.json",
     "Bakery.json",
+    "Street Food.json",
+    "Burger.json",
+    "Steak House.json",
+    "Sushi.json",
     "Bar.json",
     "Vegan.json"
 ]

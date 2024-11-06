@@ -1,41 +1,49 @@
 {
-    "Restaurant":{
-        "emoji": "🍽️",
-        "icon":"../food/Restaurant.png"
-    },
-
-    "Sushi":{
-        "emoji": "🍣",
-        "icon":"./food/Sushi.png"
-    },
+    
     "Pizza":{
         "emoji": "🍕",
         "icon":"../food/Pizza.png"
     },
-    "Burger":{
-        "emoji": "🍔",
-        "icon":"../food/Burger.png"
-    },
-    "Street Food":{
-        "emoji": "🍢",
-        "icon":"../food/Street_Food.png"
-    },
-    "Steak House":{
-        "emoji": "🥩",
-        "icon":"../food/Steak_House.png"
-    },
-    "Sweets":{
-        "emoji": "🍰",
-        "icon":"../food/Sweets.png"
+
+    "Restaurant":{
+        "emoji": "🍽️",
+        "icon":"../food/Restaurant.png"
     },
     "Ice Cream":{
         "emoji":  "🍦",
         "icon":"../food/Ice_Cream.png"
     },
+    "Sweets":{
+        "emoji": "🍰",
+        "icon":"../food/Sweets.png"
+    },
+    "Trattorie": {
+        "emoji": "🍝",
+        "icon":"../food/Trattorie.png"
+    },
+    
     "Bakery":{
         "emoji": "🥖",
         "icon":"../food/Bakery.png"
     },
+    
+    "Street Food":{
+        "emoji": "🍢",
+        "icon":"../food/Street_Food.png"
+    },
+    "Burger":{
+        "emoji": "🍔",
+        "icon":"../food/Burger.png"
+    },
+    "Steak House":{
+        "emoji": "🥩",
+        "icon":"../food/Steak_House.png"
+    },
+    "Sushi":{
+        "emoji": "🍣",
+        "icon":"./food/Sushi.png"
+    },
+    
     "Bar": {
         "emoji":  "🍹",
         "icon":"../food/Bar.png"

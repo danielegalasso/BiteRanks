@@ -1,0 +1,52 @@
+{
+    "Osteria": [
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Al Maniero – Issogne (AO)",
+            "ref": null,
+            "address": null,
+            "coord": [
+                [
+                    45.6536438,
+                    7.6880405
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Osteria dell’Arco – Alba (CN)",
+            "ref": null,
+            "address": null,
+            "coord": [
+                [
+                    44.6968498,
+                    8.0346533
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "‘L Bunet – Bergolo (CN)",
+            "ref": null,
+            "address": null,
+            "coord": [
+                [
+                    44.5475845,
+                    8.182516999999999
+                ]
+            ],
+            "website": null
+        }
+    ]
+}

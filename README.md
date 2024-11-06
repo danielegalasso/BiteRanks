@@ -57,10 +57,10 @@ pay attenction also to the category to use in the "emoji" section, there is a fi
 After that you have to create inside the folder \vite-project\public\ranking-icon a pefectly SQUARED image .png (you can use https://squareanimage.com/) 
 
 Now you can run this piece of code to update indexing:
-> python script\generate_index.py ..\vite-project\public\ranking
+> python .\script\generate_index.py vite-project\public\ranking 
 
 Finally you can the script to update the Foods:
-> python .\generate_food.py ..\vite-project\public\ranking ..\vite-project\public\food ..\vite-project\public\food\helper.json
+> python .\script\generate_food.py vite-project\public\ranking vite-project\public\food vite-project\public\food\helper.json
 
 
 
@@ -69,7 +69,7 @@ Finally you can the script to update the Foods:
 Go to the file of the ranking of that place, search for that name and set the value of the correct coordinates.
 
 Finally you can the script to update the Foods:
-> python .\generate_food.py ..\vite-project\public\ranking ..\vite-project\public\food ..\vite-project\public\food\helper.json
+> python .\script\generate_food.py vite-project\public\ranking vite-project\public\food vite-project\public\food\helper.json
 
 
 # How add new Food Categories?
@@ -86,4 +86,4 @@ you have also to add an icon with the path. Here's an example:
 }
 
 Finally you can the script to update the Foods:
-> python .\generate_food.py ..\vite-project\public\ranking ..\vite-project\public\food ..\vite-project\public\food\helper.json
+> python .\script\generate_food.py vite-project\public\ranking vite-project\public\food vite-project\public\food\helper.json
