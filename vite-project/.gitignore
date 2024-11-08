@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+vite-project/public/ranking/Gambero_Rosso/TreForchetteGamberoRosso2024.json
+vite-project/public/ranking/Gambero_Rosso/TreRotelleGamberoRosso2024.json
+vite-project/public/ranking/Gambero_Rosso/TreSpicchiGamberoRosso2024.json
