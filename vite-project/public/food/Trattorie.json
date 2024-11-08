@@ -901,12 +901,652 @@
             "website": null
         },
         {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Consorzio - Torino",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    45.07156690000001,
+                    7.679220999999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "La Piola – Alba (CN)",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    44.7006186,
+                    8.0358792
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "La Brinca – Ne (GE)",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    44.3538556,
+                    9.389219599999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Antica Trattoria del Gallo – Gaggiano (MI)",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    45.3799596,
+                    9.0248252
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Caffè La Crepa – Isola Dovarese (CR)",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    45.1763703,
+                    10.3126062
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "La Madia – Brione (BS)",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    45.6361111,
+                    10.1452778
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Osteria della Villetta dal 1900 – Palazzolo sull’Oglio (BS)",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    45.602691,
+                    9.8940568
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Trippa - Milano",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    45.452166,
+                    9.2054825
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Trattoria Visconti dal 1932 – Ambivere (BG)",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    45.7180197,
+                    9.5474357
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Lerchner's in Ruggen - San Lorenzo di Sebato/Sankt Lorenzen (BZ)",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    46.7784449,
+                    11.8772172
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Pretzhof – Val di Vizze (BZ)",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    46.9034194,
+                    11.5075006
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Nerodiseppia - Trieste",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    45.6472867,
+                    13.7630652
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Antica Osteria del Mirasole con Locanda - San Giovanni in Persiceto (BO)",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    44.6389827,
+                    11.185607
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Ai Due Platani - Parma",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    44.768842,
+                    10.379983
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Ostreria Fratelli Pavesi – Podenzano (PC)",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    44.9837532,
+                    9.685111
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Locanda Mariella – Calestano (PR)",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    44.5868226,
+                    10.1590281
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "All'Osteria Bottega - Bologna",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    44.4910855,
+                    11.3326885
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "La Sangiovesa - Santarcangelo di Romagna (RN)",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    44.0636804,
+                    12.4445351
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Da Burde - Firenze",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    43.7940984,
+                    11.1858416
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Futura Osteria – Monteriggioni (SI)",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    43.3875589,
+                    11.1953674
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Agra Mater – Colmurano (MC)",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    43.1570434,
+                    13.3571052
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Il Capanno – Spoleto (PG)",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    42.6649676,
+                    12.7342333
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Stella - Perugia",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    43.1107168,
+                    12.3908279
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "L'Arcangelo Vino e Cucina - Roma",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    41.9066053,
+                    12.4686515
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Buccia – Sabaudia (LT)",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    41.3164865,
+                    13.035992
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Da Cesare al Casaletto - Roma",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    41.8768028,
+                    12.4408785
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Grappolo d'Oro - Roma",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    41.8962819,
+                    12.4722692
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Nú Trattoria Italiana dal 1960 – Acuto (FR)",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    41.7921133,
+                    13.1793481
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Sora Maria e Arcangelo – Olevano Romano (RM)",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    41.8595961,
+                    13.0334661
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Vecchia Marina – Roseto degli Abruzzi (TE)",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    42.6828802,
+                    14.012791
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Angiolina – Pisciotta (SA)",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    40.1016266,
+                    15.2284755
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Al Convento - Casa Torrente – Cetara (SA)",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    40.647183,
+                    14.7007363
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Lo Stuzzichino – Massa Lubrense (NA)",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    40.6086349,
+                    14.3724446
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Antichi Sapori – Andria (BT)",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    41.17230989999999,
+                    16.1411018
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Masseria Barbera – Minervino Murge (BT)",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    41.1498031,
+                    16.0860214
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "La Tavernetta al San Lorenzo si Alberga – Spezzano della Sila (CS)",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    39.362589,
+                    16.48871
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Buatta Cucina Popolana - Palermo",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    38.1171107,
+                    13.365179
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Tischi Toschi – Taormina (ME)",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    37.8510418,
+                    15.2836267
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Abbamele Osteria – Mamoiada (NU)",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    40.2125925,
+                    9.2838335
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2025",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Arieddas - La Cucina della Marmilla – Sanluri (SU)",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-trattorie-2025/",
+            "address": null,
+            "coord": [
+                [
+                    39.5888615,
+                    8.900462
+                ]
+            ],
+            "website": null
+        },
+        {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Al Maniero – Issogne (AO)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -918,11 +1558,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Osteria dell’Arco – Alba (CN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -934,11 +1574,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "‘L Bunet – Bergolo (CN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -950,11 +1590,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Locanda dell’Olmo – Bosco Marengo (AL)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -966,11 +1606,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Battaglino – Bra (CN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -982,11 +1622,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Boccondivino – Bra (CN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -998,11 +1638,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Fuorimano – Busca (CN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1014,11 +1654,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Reis Cibo Libero di Montagna – Busca (CN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1030,11 +1670,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Il Moro – Capriata d’Orba (AL)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1046,11 +1686,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Cacciatori – Cartosio (AL)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1062,11 +1702,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Madonna della Neve – Cessole (AT)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1078,11 +1718,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "La Torre – Cherasco (CN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1094,11 +1734,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Locanda dell’Arco – Cissone (CN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1110,11 +1750,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "La Speranza – Farigliano (CN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1126,11 +1766,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Locanda Fontanazza – La Morra (CN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1142,11 +1782,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Lou Pitavin – Marmora (CN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1158,11 +1798,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Repubblica di Perno – Monforte d’Alba (CN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1174,11 +1814,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Belvedere Roero – Monteu Roero (CN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1190,11 +1830,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Cantina dei Cacciatori – Monteu Roero (CN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1206,11 +1846,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Da Vittorio – Nucetto (CN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1222,11 +1862,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Corona di Ferro – Saluzzo (CN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1238,11 +1878,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Osteria della Pace – Sambuco (CN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1254,11 +1894,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Del Belbo da Bardon – San Marzano Oliveto (AT)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1270,11 +1910,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "La Coccinella – Serravalle Langhe (CN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1286,11 +1926,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Impero – Sizzano (NO)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1302,11 +1942,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Antiche Sere – Torino (TO)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1318,11 +1958,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Consorzio – Torino (TO)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1334,11 +1974,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Scannabue – Torino (TO)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1350,11 +1990,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Osteria dell’Unione – Treiso (CN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1366,11 +2006,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Locanda del Falco – Valdieri (CN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1382,11 +2022,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Cian de Bià – Badalucco (IM)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1398,11 +2038,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Mse Tutta – Calizzano (SV)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1414,11 +2054,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Il Castagneto – Castiglione Chiavarese (GE)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1430,11 +2070,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "A Viassa – Dolceacqua (IM)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1446,11 +2086,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Raieü – Lavagna (GE)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1462,11 +2102,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Ligagin – Lumarzo (GE)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1478,11 +2118,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Baccicin du Caru – Mele (GE)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1494,11 +2134,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "La Brinca – Ne (GE)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1510,11 +2150,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "U Giancu – Rapallo (GE)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1526,11 +2166,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Visconti – Ambivere (BG)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1542,11 +2182,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Le Frise – Artogne (BS)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1558,11 +2198,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "La Piana – Carate Brianza (MB)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1574,11 +2214,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Hostaria Viola – Castiglione delle Stiviere (MN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1590,11 +2230,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Tamì – Collio (BS)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1606,11 +2246,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Finil del Pret – Comezzano-Cizzago (BS)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1622,11 +2262,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Da Sapì – Esine (BS)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1638,11 +2278,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Antica Trattoria del Gallo – Gaggiano (MI)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1654,11 +2294,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Antica Trattoria Piè del Dos – Gussago (BS)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1670,11 +2310,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Caffè la Crepa – Isola Dovarese (CR)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1686,11 +2326,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Trattoria delle Miniere – Lenna (BG)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1702,11 +2342,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Al Resù – Lozio (BS)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1718,11 +2358,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Sali e Tabacchi – Mandello del Lario (LC)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1734,11 +2374,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Trattoria del Nuovo Macello – Milano (MI)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1750,11 +2390,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Trippa – Milano (MI)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1766,11 +2406,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Prato Gaio – Montecalvo Versiggia (PV)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1782,11 +2422,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Guallina – Mortara (PV)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1798,11 +2438,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Trattoria dell’Alba – Piadena Drizzona (CR)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1814,11 +2454,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Osteria del Miglio 2.10 – Pieve San Giacomo (CR)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1830,11 +2470,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Polisena l’Altro Agriturismo – Pontida (BG)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1846,11 +2486,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Via Vai – Ripalta Cremasca (CR)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1862,11 +2502,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Lago Scuro – Stagno Lombardo (CR)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1878,11 +2518,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Osteria del Campanile – Torrazza Coste (PV)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1894,11 +2534,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Kürbishof – Anterivo-Altrei (BZ)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1910,11 +2550,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Oberraut – Brunico-Bruneck (BZ)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1926,11 +2566,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Maso Santa Romina – Canal San Bovo (TN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1942,11 +2582,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Drumlerhof – Campo Tures-Sand in Taufers (BZ)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1958,11 +2598,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Alter Fausthof – Fiè allo Sciliar-Voels am Schlern (BZ)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1974,11 +2614,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Pitzock – Funes-Villnöss (BZ)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -1990,11 +2630,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Locanda delle Tre Chiavi – Isera (TN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2006,11 +2646,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Boivin – Levico Terme (TN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2022,11 +2662,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Lusernarhof – Luserna (TN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2038,11 +2678,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Osteria Storica Morelli – Pergine Valsugana (TN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2054,11 +2694,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Nerina – Romeno (TN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2070,11 +2710,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Lerchner’s in Runggen – San Lorenzo di Sebato (BZ)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2086,11 +2726,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Lamm Mitterwirt – San Martino in Passiria-Sankt Martin in Passeier (BZ)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2102,11 +2742,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Waldruhe – Sesto-Sexten (BZ)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2118,11 +2758,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Ciasa dò Parè – Soraga (TN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2134,11 +2774,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Durnwald – Valle di Casies-Gsies (BZ)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2150,11 +2790,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Laita La Contrada del Gusto – Altissimo (VI)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2166,11 +2806,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Zamboni – Arcugnano (VI)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2182,11 +2822,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Alle Codole – Canale d’Agordo (BL)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2198,11 +2838,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Pironetomosca – Castelfranco Veneto (TV)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2214,11 +2854,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "La Muda di San Boldo – Cison di Valmarino (TV)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2230,11 +2870,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Enoteca della Valpolicella – Fumane (VR)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2246,11 +2886,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Locanda Aurilia – Loreggia (PD)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2262,11 +2902,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Al Ponte – Lusia (RO)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2278,11 +2918,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Madonnetta – Marostica (VI)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2294,11 +2934,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Il Sogno – Mirano (VE)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2310,11 +2950,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Da Paeto – Pianiga (VE)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2326,11 +2966,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Arcadia – Porto Tolle (RO)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2342,11 +2982,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Al Forno – Refrontolo (TV)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2358,11 +2998,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Antica Trattoria al Bosco – Saonara (PD)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2374,11 +3014,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "San Siro – Seren del Grappa (BL)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2390,11 +3030,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Da Doro – Solagna (VI)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2406,11 +3046,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Isetta – Val Liona (VI)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2422,11 +3062,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Osteria Bertoliana – Vicenza (VI)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2438,11 +3078,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Il Capriolino – Vodo di Cadore (BL)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2454,11 +3094,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Borgo Poscolle – Cavazzo Carnico (UD)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2470,11 +3110,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Rosenbar – Gorizia (GO)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2486,11 +3126,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "La Stella – Meduno (PN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2502,11 +3142,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Ivana & Secondo – Pinzano al Tagliamento (PN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2518,11 +3158,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Allo Storione – Prata di Pordenone (PN)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2534,11 +3174,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Devetak – Savogna d’Isonzo-Sovodnje ob Soci (GO)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2550,11 +3190,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Da Alvise – Sutrio (UD)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2566,11 +3206,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Antica Trattoria Suban – Trieste (TS)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2582,11 +3222,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "L’Approdo – Trieste (TS)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2598,11 +3238,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Antica Trattoria Menarosti – Trieste (TS)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2614,11 +3254,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Stella d’Oro – Verzegnis (UD)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2630,11 +3270,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Trattoria di Via Serra – Bologna (BO)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2646,11 +3286,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "La Lanterna di Diogene – Bomporto (MO)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2662,11 +3302,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Campanini – Busseto (PR)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2678,11 +3318,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Locanda Mariella – Calestano (PR)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2694,11 +3334,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Badessa – Casalgrande (RE)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2710,11 +3350,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Da Faccini – Castell’Arquato (PC)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2726,11 +3366,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "La Baita – Faenza (RA)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2742,11 +3382,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Da Noemi – Ferrara (FE)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2758,11 +3398,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Entrà – Finale Emilia (MO)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2774,11 +3414,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "La Campanara – Galeata (FC)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2790,11 +3430,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Antica Locanda del Falco – Gazzola (PC)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2806,11 +3446,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Antica Trattoria Cattivelli – Monticelli d’Ongina (PC)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2822,11 +3462,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Osteria di Rubbiara – Nonantola (MO)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2838,11 +3478,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Ostreria Pavesi – Podenzano (PC)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2854,11 +3494,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Arrogant Pub – Reggio nell’Emilia (RE)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2870,11 +3510,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Caffè Grande – Rivergaro (PC)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2886,11 +3526,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Osteria dei Frati – Roncofreddo (FC)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2902,11 +3542,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Amerigo dal 1934 – Valsamoggia (BO)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2918,11 +3558,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Trattoria del Borgo – Valsamoggia (BO)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2934,11 +3574,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "Il Cantacucco – Zocca (MO)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
@@ -2950,11 +3590,11 @@
         },
         {
             "ranking": "Slowfood",
-            "sub-ranking": "Chiocciole di Osterie d’Italia 2025",
+            "sub-ranking": "Chiocciole Osterie Italia Slowfood 2025",
             "emoji": "🍝",
             "position": null,
             "name": "La Roverella – Zola Predosa (BO)",
-            "ref": null,
+            "ref": "https://www.slowfood.it/tutte-le-chiocciole-di-osterie-ditalia-2025-regione-per-regione/",
             "address": null,
             "coord": [
                 [
