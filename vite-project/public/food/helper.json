@@ -51,6 +51,10 @@
         "emoji":  "🍹",
         "icon":"../food/Wine_&_Drinks.png"
     },
+    "Birra": {
+        "emoji":  "🍺",
+        "icon":"../food/Birra.png"
+    },
     "Vegan":{
         "emoji":  "🌱",
         "icon":"../food/Vegan.png"

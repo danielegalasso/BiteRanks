@@ -2,103 +2,13 @@
     "Street Food": [
         {
             "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Street Food 2024",
+            "sub-ranking": "I Migliori Street Food 2025 Il Fritturista Oleificio Zucchi Award",
             "emoji": "🍢",
             "position": "1°",
-            "name": "Scirocco",
-            "ref": "https://www.50topitaly.it/it/referenza/scirocco-3/",
+            "name": "Cime di Rapa",
+            "ref": "https://www.50topitaly.it/it/referenza/cime-di-rapa-3/",
             "address": [
-                "Piazza Alonzo di Benedetto n. 7, Pescheria di Catania - 95121 Catania"
-            ],
-            "coord": [
-                [
-                    37.5018805,
-                    15.0867992
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Street Food 2024",
-            "emoji": "🍢",
-            "position": "2°",
-            "name": "Supplizio",
-            "ref": "https://www.50topitaly.it/it/referenza/supplizio-3/",
-            "address": [
-                "Via dei Banchi Vecchi, 143, 00186 Roma, RM, Italia"
-            ],
-            "coord": [
-                [
-                    41.8974872,
-                    12.467911
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Street Food 2024",
-            "emoji": "🍢",
-            "position": "3°",
-            "name": "Trapizzino",
-            "ref": "https://www.50topitaly.it/it/referenza/trapizzino-3/",
-            "address": [
-                "Via Giovanni Branca, 88, 00153 Roma, RM, Italia"
-            ],
-            "coord": [
-                [
-                    41.8796455,
-                    12.4737092
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Street Food 2024",
-            "emoji": "🍢",
-            "position": "4°",
-            "name": "Il Lampredotto",
-            "ref": "https://www.50topitaly.it/it/referenza/il-lampredotto-3/",
-            "address": [
-                "Mercato Centrale Firenze, Piazza del Mercato Centrale, 50123 Firenze FI"
-            ],
-            "coord": [
-                [
-                    43.7764676,
-                    11.2528338
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Street Food 2024",
-            "emoji": "🍢",
-            "position": "5°",
-            "name": "Antica Focacceria S. Francesco",
-            "ref": "https://www.50topitaly.it/it/referenza/antica-focacceria-san-francesco/",
-            "address": [
-                "Via Alessandro Paternostro, 58, 90133 Palermo, PA, Italia"
-            ],
-            "coord": [
-                [
-                    38.1164521,
-                    13.3661323
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Street Food 2024",
-            "emoji": "🍢",
-            "position": "6°",
-            "name": "Cime Di Rapa",
-            "ref": "https://www.50topitaly.it/it/referenza/cime-di-rapa-2/",
-            "address": [
-                "Via Guglielmo Oberdan, 55, 73100 Lecce, Italia"
+                "Cime di Rapa Urban - Street Food, Via Guglielmo Oberdan, Lecce, LE, Puglia, Italia"
             ],
             "coord": [
                 [
@@ -110,13 +20,139 @@
         },
         {
             "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Street Food 2024",
+            "sub-ranking": "I Migliori Street Food 2025 Il Fritturista Oleificio Zucchi Award",
+            "emoji": "🍢",
+            "position": "2°",
+            "name": "Supplizio",
+            "ref": "https://www.50topitaly.it/it/referenza/supplizio-4/",
+            "address": [
+                "Supplizio, Via dei Banchi Vecchi, Roma, RM, Lazio, Italia"
+            ],
+            "coord": [
+                [
+                    41.897487,
+                    12.467911
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Street Food 2025 Il Fritturista Oleificio Zucchi Award",
+            "emoji": "🍢",
+            "position": "3°",
+            "name": "Trapizzino",
+            "ref": "https://www.50topitaly.it/it/referenza/trapizzino-4/",
+            "address": [
+                "Trapizzino | Testaccio, Via Giovanni Branca, Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.8796102,
+                    12.4736352
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Street Food 2025 Il Fritturista Oleificio Zucchi Award",
+            "emoji": "🍢",
+            "position": "4°",
+            "name": "Scirocco",
+            "ref": "https://www.50topitaly.it/it/referenza/scirocco-4/",
+            "address": [
+                "Scirocco, Piazza Alonzo di Benedetto, Catania, CT, Sicilia, Italia"
+            ],
+            "coord": [
+                [
+                    37.5018536,
+                    15.0868272
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Street Food 2025 Il Fritturista Oleificio Zucchi Award",
+            "emoji": "🍢",
+            "position": "5°",
+            "name": "Rosticceria Famulari",
+            "ref": "https://www.50topitaly.it/it/referenza/rosticceria-famulari-2/",
+            "address": [
+                "Rosticceria Famulari, Via Cesare Battisti, Messina, ME, Sicilia, Italia"
+            ],
+            "coord": [
+                [
+                    38.1886444,
+                    15.5540342
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Street Food 2025 Il Fritturista Oleificio Zucchi Award",
+            "emoji": "🍢",
+            "position": "6°",
+            "name": "Indegno – La Crescentina 2.0",
+            "ref": "https://www.50topitaly.it/it/referenza/indegno-la-crescentina-2-0-2/",
+            "address": [
+                "Indegno - La crescentina 2.0, Via Mascarella, Bologna, BO, Emilia-Romagna, Italia"
+            ],
+            "coord": [
+                [
+                    44.49819,
+                    11.349317
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Street Food 2025 Il Fritturista Oleificio Zucchi Award",
             "emoji": "🍢",
             "position": "7°",
-            "name": "Delicatessen in Drogheria",
-            "ref": "https://www.50topitaly.it/it/referenza/delicatessen-in-drogheria/",
+            "name": "Katsusanderia",
+            "ref": "https://www.50topitaly.it/it/referenza/katsusanderia/",
             "address": [
-                "Via Archimede, 32, Ragusa, RG, Italia"
+                "Katsusanderia, Via Bonvesin de la Riva, Milano, MI, Lombardia, Italia"
+            ],
+            "coord": [
+                [
+                    45.4631155,
+                    9.2119875
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Street Food 2025 Il Fritturista Oleificio Zucchi Award",
+            "emoji": "🍢",
+            "position": "8°",
+            "name": "Antica Focacceria S. Francesco",
+            "ref": "https://www.50topitaly.it/it/referenza/antica-focacceria-s-francesco-3/",
+            "address": [
+                "Antica Focacceria San Francesco, Via Alessandro Paternostro, Palermo, PA, Sicilia, Italia"
+            ],
+            "coord": [
+                [
+                    38.1164139,
+                    13.3661155
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Street Food 2025 Il Fritturista Oleificio Zucchi Award",
+            "emoji": "🍢",
+            "position": "9°",
+            "name": "Delicatessen in Drogheria",
+            "ref": "https://www.50topitaly.it/it/referenza/delicatessen-in-drogheria-2/",
+            "address": [
+                "Delicatessen in drogheria, Via Archimede, Ragusa RG, Sicilia, Italia"
             ],
             "coord": [
                 [
@@ -128,54 +164,18 @@
         },
         {
             "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Street Food 2024",
-            "emoji": "🍢",
-            "position": "8°",
-            "name": "Rosticceria Famulari",
-            "ref": "https://www.50topitaly.it/it/referenza/rosticceria-famulari/",
-            "address": [
-                "Via Cesare Battisti 143, Via Cesare Battisti 143 - 98122 Messina"
-            ],
-            "coord": [
-                [
-                    38.1886321,
-                    15.5540576
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Street Food 2024",
-            "emoji": "🍢",
-            "position": "9°",
-            "name": "Luini",
-            "ref": "https://www.50topitaly.it/it/referenza/luini-3/",
-            "address": [
-                "Via Santa Radegonda, 16, 20121 Milano, MI, Italia"
-            ],
-            "coord": [
-                [
-                    45.4658631,
-                    9.1915447
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Street Food 2024",
+            "sub-ranking": "I Migliori Street Food 2025 Il Fritturista Oleificio Zucchi Award",
             "emoji": "🍢",
             "position": "10°",
-            "name": "Indegno – La Crescentina 2.0",
-            "ref": "https://www.50topitaly.it/it/referenza/indegno-la-crescentina-2-0/",
+            "name": "Tandem",
+            "ref": "https://www.50topitaly.it/it/referenza/tandem/",
             "address": [
-                "Via del Pratello, 84/A, 40122 Bologna, BO, Italia"
+                "Tandem - Via Paladino, Via Giovanni Paladino, Napoli, NA, Campania, Italia"
             ],
             "coord": [
                 [
-                    44.4952891,
-                    11.3302962
+                    40.8482357,
+                    14.2562916
                 ]
             ],
             "website": null

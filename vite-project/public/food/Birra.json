@@ -1,0 +1,4644 @@
+{
+    "Birra": [
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Birrificio Maiella - Abruzzo",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    42.2215822,
+                    14.1588107
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Delphin - Abruzzo",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    42.113784,
+                    14.3387149
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Honey Monkey - Basilicata",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.0848922,
+                    16.2074661
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Serrocroce - Campania",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.994836,
+                    15.538767
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Claterna - Emilia-Romagna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.5967607,
+                    11.2186396
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Tre Rii - Emilia-Romagna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.55584349999999,
+                    10.1647106
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Birrificio di Naon - Friuli-Venezia Giulia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.96155299999999,
+                    12.6273576
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Free Lions - Lazio",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    42.3231784,
+                    11.8109116
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Terre di Faul - Lazio",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    42.4475868,
+                    12.0997011
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Thirsty Brothers - Lazio",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    41.6050412,
+                    13.7981669
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Altavia - Liguria",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.7908102,
+                    7.614504200000001
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Birra del Parco - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.4008067,
+                    8.9088754
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Cascina Don Guanella - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.8551669,
+                    9.3582691
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "La Bruciata - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.47906709999999,
+                    9.8452433
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Luppolajo - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.3203641,
+                    10.4431435
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Pagus - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.47906709999999,
+                    9.8452433
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Oltremondo - Marche",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.462735,
+                    13.3587288
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Birrificio Jester Sidro - Marche",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.056542,
+                    13.648752
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "2 Sorelle - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.0522366,
+                    7.5153885
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Kamun - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.0522366,
+                    7.5153885
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Kauss - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.0522366,
+                    7.5153885
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Nuovo Birrificio Nicese - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.7764701,
+                    8.3694353
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Troll - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.0522366,
+                    7.5153885
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Baladin - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.0522366,
+                    7.5153885
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Cascina Danesa - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.7863526,
+                    7.344566899999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Gruit - Puglia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.6367719,
+                    17.9395297
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Rebeers - Puglia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    41.4711138,
+                    15.5568172
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Murduk - Sardegna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.1208752,
+                    9.012892599999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Baroni - Sicilia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    38.0448777,
+                    13.2511981
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "La Stecciaia - Toscana",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.2665519,
+                    11.6073199
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Podere Fatucchio - Toscana",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.75863289999999,
+                    11.9325307
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Podere La Berta - Toscana",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.2643534,
+                    11.8048362
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Poggio Rosso - Toscana",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    42.9942261,
+                    10.5347797
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "La Diana - Toscana",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.2669954,
+                    11.369564
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Cantina Errante Sidro - Toscana",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.4871112,
+                    11.1479417
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Birra di Fiemme - Trentino-Alto Adige",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    46.28174070000001,
+                    11.4773115
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Guggenbräu - Trentino-Alto Adige",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    46.5601993,
+                    11.3315871
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Mastri Birrai Umbri - Umbria",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    42.8901644,
+                    12.5566752
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Laorno - Veneto",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.6480072,
+                    11.0560625
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Perkè - Veneto",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.9378818,
+                    12.2212999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Sorio - Veneto",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.4570677,
+                    11.3419121
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Siemàn - Veneto",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.3974637,
+                    11.5293448
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood La Filiera 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Sidro Vittoria - Veneto",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    46.4977453,
+                    12.4787894
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Almond '22 - Abruzzo",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    42.4280471,
+                    14.0271692
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Opperbacco - Abruzzo",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    42.6519218,
+                    13.8868958
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Maestri del Sannio - Campania",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    41.2825417,
+                    14.5565654
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Birrificio dell'Aspide - Campania",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.4594294,
+                    15.1316345
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Sorrento - Campania",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.6263969,
+                    14.3764167
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "BiRen - Emilia-Romagna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.5967607,
+                    11.2186396
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Ca' del Brado - Emilia-Romagna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.4333724,
+                    11.3541326
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Claterna - Emilia-Romagna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.5967607,
+                    11.2186396
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Bondai - Friuli-Venezia Giulia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    46.51409659999999,
+                    12.9938279
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Foglie d'Erba - Friuli-Venezia Giulia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    46.4254588,
+                    12.5688284
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Hilltop - Lazio",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    41.6552418,
+                    12.989615
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Ritual Lab - Lazio",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    42.0724104,
+                    12.3913853
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Vento Forte - Lazio",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    42.0998946,
+                    12.1804556
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Altavia - Liguria",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.7908102,
+                    7.614504200000001
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Maltus Faber - Liguria",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.4367908,
+                    8.8863687
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Alder - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.47906709999999,
+                    9.8452433
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Birrificio Italiano - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.4881974,
+                    9.2089007
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Birrificio Lariano - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.7665148,
+                    9.328566799999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Birrificio Rurale - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.6093614,
+                    9.221784699999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Carrobiolo - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.7900706,
+                    9.284112499999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Hammer - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.47906709999999,
+                    9.8452433
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Lambrate - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.4838657,
+                    9.2512533
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Menaresta - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.6736456,
+                    9.2322621
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Porta Bruciata - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.5805511,
+                    10.1183386
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Melagodo - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.47906709999999,
+                    9.8452433
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "MC77 - Marche",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.462735,
+                    13.3587288
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Mukkeller - Marche",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.2406175,
+                    13.7483275
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Baladin - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.0522366,
+                    7.5153885
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Beba - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.921063,
+                    7.240926
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Croce di Malto - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.4338404,
+                    8.741110599999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Elvo - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.47638338781638,
+                    8.178130919523785
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "La Piazza - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.0819394,
+                    7.659312
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Montegioco - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.84166099999999,
+                    8.9625764
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "B94 - Puglia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.3278519,
+                    18.1829375
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Birranova - Puglia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.9265,
+                    17.1691592
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Barley - Sardegna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.1208752,
+                    9.012892599999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Il Birrificio di Cagliari - Sardegna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    39.2394899,
+                    9.1422504
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Ballarak - Sicilia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    38.11432720000001,
+                    13.3688714
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Birrificio del Forte - Toscana",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.9398893,
+                    10.2203517
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Cantina Errante - Toscana",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.4871112,
+                    11.1479417
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "La Diana - Toscana",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.2669954,
+                    11.369564
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Appleblood - Trentino-Alto Adige",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    46.1746392,
+                    11.0989943
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Batzen - Trentino-Alto Adige",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    46.5013242,
+                    11.3573764
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Floribunda - Trentino-Alto Adige",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    46.4336662,
+                    11.1693296
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Birra dell'Eremo - Umbria",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.0199053,
+                    12.6396301
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Birra Perugia - Umbria",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.0250212,
+                    12.414403
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Mastino - Veneto",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.76233329999999,
+                    11.690976
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Ofelia - Veneto",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.5257077,
+                    11.4526731
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Chiocchiole 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Siemàn - Veneto",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.3974637,
+                    11.5293448
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Anbra - Abruzzo",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    42.3535632,
+                    13.3992461
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Bibibir - Abruzzo",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    42.70017,
+                    13.8338452
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Delphin - Abruzzo",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    42.1136699,
+                    14.3387
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Fermento Marso - Abruzzo",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    42.0688133,
+                    13.2735269
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Humus - Abruzzo",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    42.1920119,
+                    13.7289167
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "La Casa di Cura - Abruzzo",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    42.5483131,
+                    13.5080566
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Birrificio 79 - Basilicata",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.6658844,
+                    16.6089875
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Birrificio del Vulture - Basilicata",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.9262354,
+                    15.6680619
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Crazy Hop - Basilicata",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.6179871,
+                    16.1497169
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Milvus - Basilicata",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.6430766,
+                    15.9699878
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "De Alchemia - Calabria",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    39.3087714,
+                    16.3463791
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Funky Drop - Calabria",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    38.0594638,
+                    15.655359
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Limen - Calabria",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    39.3087714,
+                    16.3463791
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Bonavena - Campania",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    41.1125078,
+                    14.8454619
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Incanto - Campania",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    41.1125078,
+                    14.8454619
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Karma - Campania",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    41.1125078,
+                    14.8454619
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "KBirr - Campania",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.93814709999999,
+                    14.1147792
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Okorei - Campania",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.9240172,
+                    14.4400408
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Argo - Emilia-Romagna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.5967607,
+                    11.2186396
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Bajon - Emilia-Romagna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.5967607,
+                    11.2186396
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Beha - Emilia-Romagna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.5967607,
+                    11.2186396
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Crocizia - Emilia-Romagna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.5704074,
+                    10.2260982
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "La Buttiga - Emilia-Romagna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.0284364,
+                    9.728131099999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Liquida - Emilia-Romagna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.5967607,
+                    11.2186396
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Manifattura Birra Bologna - Emilia-Romagna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.527338,
+                    11.2761345
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Mazapégul - Emilia-Romagna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.0112,
+                    11.953169
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Basei Italian Craft Beer - Friuli-Venezia Giulia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.7808614,
+                    12.9957664
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Birra Garlatti Costa - Friuli-Venezia Giulia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    46.2053108,
+                    12.9517593
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Cittavecchia - Antikorpo - Friuli-Venezia Giulia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    46.2259177,
+                    13.1033646
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "The Lure - Friuli-Venezia Giulia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    46.2259177,
+                    13.1033646
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Birrificio Sabino - Lazio",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    42.2581102,
+                    12.6744753
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Collerosso - Lazio",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    41.6552418,
+                    12.989615
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Eastside - Lazio",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    41.4378214,
+                    12.915946
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Jungle Juice - Lazio",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    41.8787351,
+                    12.5348655
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Rebel's - Lazio",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    41.7997184,
+                    12.5379218
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Birrificio Finalese - Liguria",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.1694875,
+                    8.3452177
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Busalla - Liguria",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.5705572,
+                    8.94568
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Klanbarrique - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.88368,
+                    11.0600034
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Brewfist - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.15687310000001,
+                    9.6735832
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Extraomnes - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.47906709999999,
+                    9.8452433
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Eranomele - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.5473425,
+                    8.8166323
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Gambolò - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.2576011,
+                    8.8585812
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Hop Skin - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.684046,
+                    9.6098442
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Manerba - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.5605283,
+                    10.5606814
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Nama Brewing - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.51267259999999,
+                    9.592570499999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "OV - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.47906709999999,
+                    9.8452433
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Valcavallina - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.7798862,
+                    9.940031900000001
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Vetra - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.4579708,
+                    9.1829119
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "61cento - Marche",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.8874156,
+                    12.8343648
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Babylon - Marche",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    42.8447129,
+                    13.61373
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Birrificio dei Castelli - Marche",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.5333221,
+                    12.9781889
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Blink Brewery - Marche",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.8859983,
+                    12.8771528
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Godog - Marche",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.5371668,
+                    13.2574131
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Il Mastio - Marche",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.462735,
+                    13.3587288
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "RentOn - Marche",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    47.4796927,
+                    -122.2079218
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Kashmir - Molise",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    41.67388649999999,
+                    14.7520939
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Aleghe - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.0522366,
+                    7.5153885
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Beer In - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.0522366,
+                    7.5153885
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Canediguerra - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.9133472,
+                    8.607104999999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Civale - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.0522366,
+                    7.5153885
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "De Lab Fermentazioni - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.6718254,
+                    8.039748099999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Diciottozerouno - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.7484145,
+                    8.531552
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Filodilana - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.0826943,
+                    7.3739344
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Kamun - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.0522366,
+                    7.5153885
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Leumann - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.0709976,
+                    7.559986400000001
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Sagrin - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.7413623,
+                    8.3395566
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "San Paolo - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.3597512,
+                    7.930516099999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Soralamà - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.107049,
+                    7.2922429
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Un Terzo - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.6683444,
+                    8.4231689
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Baff Beer - Puglia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.36898350000001,
+                    18.1682764
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Lieviteria - Puglia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.8855661,
+                    17.1722483
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Sbam! - Puglia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.7928393,
+                    17.1011931
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Mezzavia - Sardegna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    39.2669219,
+                    9.175004
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "P3 Brewing - Sardegna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.7250467,
+                    8.5367411
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Rubiu - Sardegna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    39.22827729999999,
+                    9.1200619
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Alveria - Sicilia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    37.3979297,
+                    14.6587821
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Epica - Sicilia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    37.3979297,
+                    14.6587821
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "La Compagnia Del Fermento - Sicilia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    37.596853,
+                    15.0283665
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Yblon - Sicilia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    36.9055181,
+                    14.7149175
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Brasseria della Fonte - Toscana",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.0937817,
+                    11.6509923
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Brùton - Toscana",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.900536,
+                    10.531558
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Calibro 22 - Toscana",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.6177268,
+                    11.4719499
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Chianti Brew Fighters - Toscana",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.4912139,
+                    11.3941968
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Degged - Toscana",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.559032,
+                    10.311663
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "La Stecciaia - Toscana",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.2665519,
+                    11.6073199
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Piccolo Birrificio Clandestino - Toscana",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.5579283,
+                    10.3136598
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Barbaforte - Trentino-Alto Adige",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.9175306,
+                    11.1584929
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Impavida - Trentino-Alto Adige",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.9008396,
+                    10.8726641
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Rethia - Trentino-Alto Adige",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    46.0769064,
+                    10.995746
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Guggenbräu - Trentino-Alto Adige",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    46.5601993,
+                    11.3315871
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Monpiër de Gherdëina - Trentino-Alto Adige",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    46.5746672,
+                    11.6588309
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Paladeus - Trentino-Alto Adige",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    46.3487132,
+                    11.2974342
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Altotevere - Umbria",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.5344428,
+                    12.1867893
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Les Bières du Grand St. Bernard - Valle d'Aosta",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.7726165,
+                    7.3050175
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Maley - Valle d'Aosta",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.7388878,
+                    7.426186599999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "32 Via dei Birrai - Veneto",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.867098,
+                    11.970028
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Birrificio Estense - Veneto",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.2197952,
+                    11.6784768
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "BirrOne - Veneto",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.414564,
+                    11.8774554
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Crak - Veneto",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.76233329999999,
+                    11.690976
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "La Villana - Veneto",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.76233329999999,
+                    11.690976
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Le Eccellenze 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Lucky Brews - Veneto",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.5364204,
+                    11.5048897
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Old Sponge - Alba Adriatica (TE) - Abruzzo",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    42.8304953,
+                    13.9325688
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Malto e Luppolo - Matera - Basilicata",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.66636010000001,
+                    16.6044454
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Bob Alchimia a Spicchi - Montepaone (Cz) - Calabria",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    38.720005,
+                    16.5330181
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Funky Drop Urban Taproom - Reggio Calabria - Calabria",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    38.1103596,
+                    15.6454631
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Gli Sbronzi - Reggio Calabria - Calabria",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    38.0828582,
+                    15.6649502
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Malto Gradimento - Lievito - Reggio Calabria - Calabria",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    38.1083857,
+                    15.6474322
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Bi & B-Birre & Baguettes - Salerno - Campania",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.67953170000001,
+                    14.7564174
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Birstrò 2.0 - Baronissi (SA) - Campania",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.7428953,
+                    14.7722117
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Craft27 - Torre Annunziata (NA) - Campania",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.7556884,
+                    14.43324
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Demetra Pub - Pontecagnano Faiano (SA) - Campania",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.642817,
+                    14.879638
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Drop Beer & Food - Pomigliano d'Arco (NA) - Campania",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.9047692,
+                    14.3962454
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Frank Malone - Napoli - Campania",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.8459792,
+                    14.2372839
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Historia - Puglianello (BN) - Campania",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    41.2231047,
+                    14.4487111
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Hoplà Birrotheca - Cava de' Tirreni (SA) - Campania",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.6976986,
+                    14.7080839
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Hoppy Ending - Napoli - Campania",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.8424286,
+                    14.2219388
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "La Quinta Pinta - Caserta - Campania",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    41.0665426,
+                    14.341993
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Malto Reale - Caserta - Campania",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    41.1112008,
+                    14.3059682
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Mosto - Via Merliani - Napoli - Campania",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.846889,
+                    14.2288819
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Pub27 - Pompei (NA) - Campania",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.7489749,
+                    14.4977999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Sturgis Beerhouse - Brusciano (NA) - Campania",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.9217132,
+                    14.4222861
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Taro - Camerota (SA) - Campania",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    39.9984712,
+                    15.3708894
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Top of the Hops - Imola (Bo) - Emilia-Romagna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.3543016,
+                    11.7180053
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Arrogant - Reggio Emilia (Re) - Emilia-Romagna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.6714099,
+                    10.6220573
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Brasserie Arnage - Cesena - Emilia-Romagna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.1394399,
+                    12.255968
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Galaxy - Rubiera (Re) - Emilia-Romagna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.65441819999999,
+                    10.7810367
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Pub Gourmet 19-28 - Noceto (Pr) - Emilia-Romagna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.8090385,
+                    10.1796481
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Big Pub 'n' Shop - Gemona del Friuli (UD) - Friuli-Venezia Giulia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    46.2752671,
+                    13.1426773
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "MastroBirraio - Trieste - Friuli-Venezia Giulia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.647395,
+                    13.767814
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "The Alibi - Udine - Friuli-Venezia Giulia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    46.0640835,
+                    13.2313639
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Urban Farmhouse - Osteria della Birra - Pordenone - Friuli-Venezia Giulia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.9601031,
+                    12.6589731
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Barley Wine - Roma - Lazio",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    41.863679,
+                    12.552986
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Be.Re. + Trapizzino - Roma - Lazio",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    41.906603,
+                    12.4565913
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Beer Shock - Viterbo - Lazio",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    42.4216642,
+                    12.1070737
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Buskers - Roma - Lazio",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    41.8521677,
+                    12.4804233
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Hops and Glory - Frosinone - Lazio",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    41.6366419,
+                    13.3501656
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Luppolo Station - Roma - Lazio",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    41.8753096,
+                    12.4654653
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Ma Che Siete Venuti a Fa' - Roma - Lazio",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    41.8917811,
+                    12.4692175
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Open Baladin Roma - Roma - Lazio",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    41.893488,
+                    12.474626
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Scurreria Beer and Bagel - Genova - Liguria",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.40843719999999,
+                    8.9315388
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "O'Connor - Genova [per sidro] - Liguria",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.39484789999999,
+                    8.9984868
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Abbazia di Sherwood - Caprino Bergamasco (BG) - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.7390747,
+                    9.4832923
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Beer Garage - Bergamo - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.7051513,
+                    9.6812703
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Birreria Cassina - Merate (LC) - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.7184469,
+                    9.4328121
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Consorzio Birre - Milano - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.5358563,
+                    9.2222048
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Einmass - Costa di Mezzate (BG) - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.6632515,
+                    9.7919939
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Hop Skin - Curno (BG) - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.684046,
+                    9.6098442
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "La Belle Alliance - Milano - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.4462495,
+                    9.179226400000001
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Lambrate - Adelchi - Milano - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.4856717,
+                    9.231587
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Locanda del Monaco Felice - Suisio (BG) - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.65581599999999,
+                    9.500843
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Moskito The Original Rock'n'Roll Pub - Iseo (BS) - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.6538722,
+                    10.0471306
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "PicoBrew Station - Milano - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.4452801,
+                    9.1767322
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Pivo - La Birreria del Centro - Bergamo - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.6941966,
+                    9.6707462
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Shallo - Beer Shop - Milano - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.4751444,
+                    9.188900199999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Rievoca - Vimodrone (Mi) [per sidro] - Lombardia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.5119589,
+                    9.2819073
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Beer Bang - Macerata - Marche",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.29907,
+                    13.4539259
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Di Sana Pinta - Pesaro - Marche",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.9156749,
+                    12.9144734
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Old Spirit Authentic Football Pub - San Benedetto del Tronto (AP) - Marche",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    42.9527589,
+                    13.8807375
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Vaffaluppolo Birroteca Gastronomica - Fermo - Marche",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.1742537,
+                    13.6682536
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Vecchia Osteria - Mondolfo (PU) - Marche",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.7703295,
+                    13.1353941
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Birra Elvo - Biella - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.47638338781638,
+                    8.178130919523785
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Birrificio Sant'Andrea - Vercelli - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.3286975,
+                    8.418896499999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Cenoira - Biella - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.5698721,
+                    8.0539825
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Dogana - Torino - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.0817852,
+                    7.6540214
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Macondo - Oleggio (No) - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.5962843,
+                    8.6372059
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Mister Fogg - Dormelletto (No) - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.7333477,
+                    8.5762366
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Officina Antagonisti - Melle (Cn) - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.5621263,
+                    7.319022200000001
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Open Baladin Torino - Torino - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.06452849999999,
+                    7.687019799999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Stabräu - Bra (Cn) - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.6966467,
+                    7.8530159
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Trunasse - Centallo (Cn) - Piemonte",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    44.4599802,
+                    7.628754599999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Bellinfusto Pub Indipendente - Ostuni (BR) - Puglia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.7322855,
+                    17.5798914
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "BurBeero - Independent Pub - Bari - Puglia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    41.1270376,
+                    16.8663939
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Fratelli Di Pinta - Martina Franca (TA) - Puglia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.7038663,
+                    17.3389038
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Hops! Beershop Indie Pub - Andria - Puglia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    41.226687,
+                    16.2980507
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "La Tana del Luppolo - Monopoli (BA) - Puglia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.9499055,
+                    17.3031114
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "The Bluebeat - Lecce - Puglia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.3516719,
+                    18.1637028
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Birrificio Artigianale Horo - Sedilo (Or) - Sardegna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.1737799,
+                    8.9213083
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Birrificio Gattarancio - Cagliari - Sardegna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    39.2196839,
+                    9.103981
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Birroteca Fermentazioni Spontanee - Iglesias (Ca) - Sardegna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    39.3133263,
+                    8.5359664
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Birroteca Hamelin - Sassari - Sardegna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.7199346,
+                    8.5765312
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Brew Bay House - Cagliari - Sardegna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    39.218703,
+                    9.110199
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "BrewPub Rubiu - Isola di Sant'Antioco (CA) - Sardegna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    39.057886,
+                    8.4526635
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "BrewPub Trulla - Nuoro - Sardegna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    40.3155496,
+                    9.307728299999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Overlook - Cagliari - Sardegna",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    39.2194651,
+                    9.107282699999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Ballarak - Palermo - Sicilia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    38.11432720000001,
+                    13.3688714
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Beer Bang - Messina - Sicilia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    38.1904659,
+                    15.5548071
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Etimué - Acireale (CT) - Sicilia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    37.6132633,
+                    15.1669499
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "GlamourHoppe Bier Café - Catania - Sicilia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    37.5057608,
+                    15.0871289
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Mosaik - Catania - Sicilia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    37.5103548,
+                    15.0909649
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Noroc - Palermo - Sicilia",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    38.1356383,
+                    13.3392842
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Archea Brewery - Firenze - Toscana",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.76741759999999,
+                    11.2455251
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "La Torre del Luppolo - Pisa - Toscana",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.7185156,
+                    10.4040342
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Fuori Stile - Riva del Garda (Tn) - Trentino-Alto Adige",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.8865641,
+                    10.8403352
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Leno Klandestino - Rovereto (TN) [per sidro] - Trentino-Alto Adige",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.8834825,
+                    11.060192
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Elfo Pub - Perugia - Umbria",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    43.111342,
+                    12.387464
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Donkey Pub - Albaredo di Vedelago (Tv) - Veneto",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.666841,
+                    12.007612
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "Taverna del Porto - Padova - Veneto",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.3836208,
+                    11.8572318
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Slowfood",
+            "sub-ranking": "Birre Italia Slowfood Locali Eccellenti 2025",
+            "emoji": "🍺",
+            "position": null,
+            "name": "The Drunken Duck - Le Più Meglio Birre - Quinto Vicentino (Vi) - Veneto",
+            "ref": "https://www.slowfood.it/guida-alle-birre-ditalia-2025-premi-regione-per-regione/",
+            "address": null,
+            "coord": [
+                [
+                    45.5749375,
+                    11.6426459
+                ]
+            ],
+            "website": null
+        }
+    ]
+}
