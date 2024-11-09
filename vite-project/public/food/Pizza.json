@@ -20805,7 +20805,12 @@
             "name": "BRO | NAPOLI",
             "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
-            "coord": null,
+            "coord": [
+                [
+                    40.8472833,
+                    14.2666627
+                ]
+            ],
             "website": null
         },
         {

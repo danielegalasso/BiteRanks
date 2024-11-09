@@ -26,7 +26,10 @@
         "emoji": "🥖",
         "icon":"../food/Bakery.png"
     },
-    
+    "Bar":{
+        "emoji": "☕",
+        "icon":"../food/Bar.png"
+    },
     "Street Food":{
         "emoji": "🍢",
         "icon":"../food/Street_Food.png"

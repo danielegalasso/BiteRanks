@@ -476,7 +476,12 @@
             "name": "Kiko Sushi Bar - Roma",
             "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-sushi-italia/",
             "address": null,
-            "coord": null,
+            "coord": [
+                [
+                    41.9000019,
+                    12.5150214
+                ]
+            ],
             "website": null
         },
         {
