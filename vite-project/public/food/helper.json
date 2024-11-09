@@ -44,9 +44,9 @@
         "icon":"./food/Sushi.png"
     },
     
-    "Bar": {
+    "Wine & Drinks": {
         "emoji":  "🍹",
-        "icon":"../food/Bar.png"
+        "icon":"../food/Wine_&_Drinks.png"
     },
     "Vegan":{
         "emoji":  "🌱",

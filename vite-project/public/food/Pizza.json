@@ -19247,11 +19247,27 @@
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Rotelle Gambero Rosso 2024",
+            "sub-ranking": "Tre Rotelle Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Panificio Bonci",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/panificio-bonci-2/",
+            "name": "PIZZARIUM | ROMA",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    41.9066758,
+                    12.4466709
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Rotelle Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "PANIFICIO BONCI | ROMA",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
@@ -19259,15 +19275,15 @@
                     12.4536607
                 ]
             ],
-            "website": "http://bonci.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Rotelle Gambero Rosso 2024",
+            "sub-ranking": "Tre Rotelle Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Renato  Bosco Bakery",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/renato-bosco-bakery-2/",
+            "name": "RENATO BOSCO BAKERY | SAN MARTINO BUON ALBERGO (VR)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
@@ -19275,15 +19291,15 @@
                     11.0922347
                 ]
             ],
-            "website": "http://boscorenato.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Rotelle Gambero Rosso 2024",
+            "sub-ranking": "Tre Rotelle Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Campana Pizza in Teglia",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/campana-pizza-in-teglia/",
+            "name": "CAMPANA PIZZA IN TEGLIA | CORIGLIANO CALABRO (CS)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
@@ -19295,11 +19311,59 @@
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Rotelle Gambero Rosso 2024",
+            "sub-ranking": "Tre Rotelle Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Oliva Pizzamore",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/oliva-pizzamore/",
+            "name": "LIEVITO FRANCESCO ARNESANO | ROMA",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    41.8300955,
+                    12.488053
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Rotelle Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "FORNO DEL MASTRO | MONZA",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    45.579983,
+                    9.272296899999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Rotelle Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "MASARDONA | NAPOLI",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    40.8485423,
+                    14.2735339
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Rotelle Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "OLIVA PIZZAMORE | ACRI (CS)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
@@ -19311,139 +19375,27 @@
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Rotelle Gambero Rosso 2024",
+            "sub-ranking": "Tre Rotelle Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Tellia",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/tellia/",
+            "name": "PIZZA CHEF | ROMA",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
-                    45.0668218,
-                    7.6872066
-                ]
-            ],
-            "website": "http://tellia.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Rotelle Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Davide Longoni Pane",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/davide-longoni-pane-3/",
-            "address": null,
-            "coord": [
-                [
-                    45.4535025,
-                    9.2090934
-                ]
-            ],
-            "website": "http://davidelongoni.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Rotelle Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Forno Brisa",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/forno-brisa-2/",
-            "address": null,
-            "coord": [
-                [
-                    44.482318,
-                    11.3667419
-                ]
-            ],
-            "website": "http://fornobrisa.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Rotelle Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "L' Orso in Teglia",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/l-orso-in-teglia/",
-            "address": null,
-            "coord": [
-                [
-                    38.1827586,
-                    15.5531009
-                ]
-            ],
-            "website": "http://lorsomessina.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Rotelle Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Menchetti",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/menchetti-4/",
-            "address": null,
-            "coord": [
-                [
-                    43.69503,
-                    11.8085276
-                ]
-            ],
-            "website": "http://menchetti.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Rotelle Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Lievin",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/lievin/",
-            "address": null,
-            "coord": [
-                [
-                    45.914341,
-                    10.0596045
-                ]
-            ],
-            "website": "http://ianspampatti.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Rotelle Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Masardona",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/masardona-2/",
-            "address": null,
-            "coord": [
-                [
-                    40.8485121,
-                    14.2734771
+                    41.875228,
+                    12.5272466
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Rotelle Gambero Rosso 2024",
+            "sub-ranking": "Tre Rotelle Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Pizzarium",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/pizzarium/",
-            "address": null,
-            "coord": [
-                [
-                    41.9066975,
-                    12.4466606
-                ]
-            ],
-            "website": "http://bonci.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Rotelle Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Pizzeria Sancho",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/pizzeria-sancho/",
+            "name": "PIZZERIA SANCHO | FIUMICINO (RM)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
@@ -19451,63 +19403,127 @@
                     12.2291434
                 ]
             ],
-            "website": "http://pizzeriasancho.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Rotelle Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "I Masanielli",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/i-masanielli/",
+            "name": "TELLIA | TORINO",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
-                    41.0723174,
-                    14.3190507
+                    45.0479205,
+                    7.6365085
                 ]
             ],
-            "website": "http://pizzeriaimasanielli.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Rotelle Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "I Tigli",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/i-tigli/",
+            "name": "FORNO BRISA | BOLOGNA",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
-                    45.3950071,
-                    11.2707241
+                    44.494887,
+                    11.3426163
                 ]
             ],
-            "website": "http://pizzeriaitigli.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Rotelle Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Pepe in Grani",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/pepe-in-grani/",
+            "name": "LIEVIN | CASTIONE DELLA PRESOLANA (BG)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
-                    41.1773009,
-                    14.3659897
+                    45.914341,
+                    10.0596045
                 ]
             ],
-            "website": "http://pepeingrani.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Rotelle Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Renato Bosco Pizzeria",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/renato-bosco-pizzeria/",
+            "name": "DAVIDE LONGONI PANE | MILANO",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    45.4535025,
+                    9.2090934
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Rotelle Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "MENCHETTI | AREZZO",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    43.4622166,
+                    11.8933457
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Rotelle Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "L'ORSO IN TEGLIA | MESSINA",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    38.1827586,
+                    15.5531009
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "PEPE IN GRANI | CAIAZZO (CE)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    41.1771836,
+                    14.3660052
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "RENATO BOSCO PIZZERIA | SAN MARTINO BUON ALBERGO (VR)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
@@ -19515,287 +19531,127 @@
                     11.0922347
                 ]
             ],
-            "website": "http://boscorenato.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "10 Diego Vitagliano",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/10-diego-vitagliano-2/",
+            "name": "I MASANIELLI | CASERTA",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
-                    40.8209893,
-                    14.133213
+                    41.0723184,
+                    14.3190726
                 ]
             ],
-            "website": "http://pizzeria10.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "10 Diego Vitagliano",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/10-diego-vitagliano/",
+            "name": "I TIGLI | SAN BONIFACIO (VR)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
-                    40.8170586,
-                    14.175748
+                    45.3947519,
+                    11.2707335
                 ]
             ],
-            "website": "http://diegovitagliano.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Francesco & Salvatore  Salvo",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/francesco-salvatore-salvo/",
+            "name": "10 DIEGO VITAGLIANO | NAPOLI",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
-                    40.8517983,
-                    14.26812
+                    40.8170977,
+                    14.1756869
                 ]
             ],
-            "website": "http://pizzeriasalvo.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "50 Kalò",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/50-kalo/",
+            "name": "PIZZERIA CLEMENTINA | FIUMICINO (RM)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
-                    40.8284227,
-                    14.2199995
+                    41.7714277,
+                    12.2281863
                 ]
             ],
-            "website": "http://50kalo.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Gusto Divino",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/gusto-divino/",
+            "name": "SASÀ MARTUCCI - I MASANIELLI | CASERTA",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
-                    44.64593,
-                    7.493056999999999
+                    41.0679398,
+                    14.3324604
                 ]
             ],
-            "website": "http://gustodivinosaluzzo.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "La Notizia",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-notizia/",
+            "name": "SEU PIZZA ILLUMINATI | ROMA",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
-                    40.8356722,
-                    14.2097953
+                    41.87965579999999,
+                    12.4683423
                 ]
             ],
-            "website": "http://enzococcia.com"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Oliva da Concettina ai Tre Santi",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/oliva-da-concettina-ai-tre-santi/",
+            "name": "50 KALÒ | NAPOLI",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
-                    40.8574657,
-                    14.2521604
+                    40.82837180000001,
+                    14.2202575
                 ]
             ],
-            "website": "http://pizzeriaoliva.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Pizzeria Salvo",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/pizzeria-salvo/",
-            "address": null,
-            "coord": [
-                [
-                    40.82554355,
-                    14.33067825
-                ]
-            ],
-            "website": "http://pizzeriasalvo.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Sestogusto",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/sestogusto/",
-            "address": null,
-            "coord": [
-                [
-                    45.0615307,
-                    7.6880222
-                ]
-            ],
-            "website": "http://sestogustotorino.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Apogeo Giovannini",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/apogeo-giovannini/",
-            "address": null,
-            "coord": [
-                [
-                    43.95165,
-                    10.2003926
-                ]
-            ],
-            "website": "http://pizzeriaapogeo.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Gusto Madre",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/gusto-madre/",
-            "address": null,
-            "coord": [
-                [
-                    44.6971515,
-                    8.0338271
-                ]
-            ],
-            "website": "http://gustomadre.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Impastatori Pompetti",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/impastatori-pompetti/",
-            "address": null,
-            "coord": [
-                [
-                    42.6616404,
-                    14.0128487
-                ]
-            ],
-            "website": "http://tropicaldue.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "La Notizia",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-notizia-2/",
-            "address": null,
-            "coord": [
-                [
-                    40.8356722,
-                    14.2097953
-                ]
-            ],
-            "website": "http://enzococcia.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Patrick Ricci. Terra, Grani, Esplorazioni",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/patrick-ricci-terra-grani-esplorazioni/",
-            "address": null,
-            "coord": [
-                [
-                    45.1017508,
-                    7.7648427
-                ]
-            ],
-            "website": "http://patrickricci.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Sasà Martucci - I Masanielli",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/sasa-martucci-i-masanielli/",
-            "address": null,
-            "coord": [
-                [
-                    41.0679021,
-                    14.3324285
-                ]
-            ],
-            "website": "http://sasaimasanielli.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Archestrato di Gela",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/archestrato-di-gela/",
-            "address": null,
-            "coord": [
-                [
-                    38.176228,
-                    13.2962769
-                ]
-            ],
-            "website": "http://archestrato-di-gela.business.site"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Battil'oro Fuochi + Lieviti + Spiriti",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/battiloro-fuochi-lieviti-spiriti/",
-            "address": null,
-            "coord": [
-                [
-                    43.9779073,
-                    10.2034063
-                ]
-            ],
-            "website": "http://gennarobattiloro.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "BOB Alchimia a Spicchi",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/bob-alchimia-a-spicchi/",
+            "name": "BOB ALCHIMIA A SPICCHI | MONTEPAONE (CZ)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
@@ -19803,207 +19659,303 @@
                     16.5330181
                 ]
             ],
-            "website": "http://bobalchimiaspicchi.com"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Bottega Dani",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/bottega-dani/",
+            "name": "CONFINE - PIZZA E CANTINA | MILANO",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
-                    43.3265752,
-                    10.4911836
-                ]
-            ],
-            "website": "http://bottegadani.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Chicco",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/chicco/",
-            "address": null,
-            "coord": [
-                [
-                    43.422676,
-                    11.1250218
-                ]
-            ],
-            "website": "http://chiccocolle.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Da Clara",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/da-clara/",
-            "address": null,
-            "coord": [
-                [
-                    38.1931007,
-                    15.3803547
-                ]
-            ],
-            "website": "http://pizzeriadaclara.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Da Lioniello",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/da-lioniello/",
-            "address": null,
-            "coord": [
-                [
-                    40.9734335,
-                    14.2592632
-                ]
-            ],
-            "website": "http://salvatorelionello.eu"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Fandango",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/fandango/",
-            "address": null,
-            "coord": [
-                [
-                    40.6419079,
-                    15.7805538
+                    45.4614393,
+                    9.181301699999999
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Framento",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/framento/",
+            "name": "LA CONTRADA | AVERSA (CE)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
-                    39.2181167,
-                    9.1111625
-                ]
-            ],
-            "website": "http://framento.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Gigi Pipa",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/gigi-pipa/",
-            "address": null,
-            "coord": [
-                [
-                    45.2305688,
-                    11.6600617
-                ]
-            ],
-            "website": "http://pizzeriagigipipa.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Giotto",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/giotto-2/",
-            "address": null,
-            "coord": [
-                [
-                    43.7735286,
-                    11.2547883
-                ]
-            ],
-            "website": "http://pizzeriagiottofirenze.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Giovanni Santarpia",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/giovanni-santarpia/",
-            "address": null,
-            "coord": [
-                [
-                    43.7495928,
-                    11.2356458
-                ]
-            ],
-            "website": "http://giovannisantarpia.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Il Vecchio e il Mare",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/il-vecchio-e-il-mare/",
-            "address": null,
-            "coord": [
-                [
-                    43.7696985,
-                    11.2761537
+                    40.9761782,
+                    14.2015984
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "La Contrada",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-contrada/",
+            "name": "LA FILIALE A L'ALBERETA | ERBUSCO (BS)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
-                    40.976418800000005,
-                    14.201817925172882
+                    45.6081008,
+                    9.9806938
                 ]
             ],
-            "website": "http://lacontradaristorante.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "La Pergola",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-pergola-4/",
+            "name": "LA NOTIZIA | NAPOLI",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
-                    43.2617055,
-                    11.0436596
+                    40.8356642,
+                    14.2099635
                 ]
             ],
-            "website": "http://lapergolaradicondoli.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "La Sorgente",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-sorgente/",
+            "name": "LA NOTIZIA 94 | NAPOLI",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    40.8337567,
+                    14.2088935
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "PATRICK RICCI. TERRA, GRANI, ESPLORAZIONI | SAN MAURO TORINESE (TO)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    45.1017508,
+                    7.7648427
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "PIZZERIA SALVO | SAN GIORGIO A CREMANO (NA)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    40.8255337,
+                    14.3305978
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "SESTOGUSTO | TORINO",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    45.0615465,
+                    7.688025100000001
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "VICO PIZZA&WINE | ROMA",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    41.899788,
+                    12.4759876
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "APOGEO GIOVANNINI | PIETRASANTA (LU)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    43.95165,
+                    10.2003926
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "ARCHESTRATO DI GELA | PALERMO",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    38.1333286,
+                    13.3489862
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "GIOTTO | FIRENZE",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    43.7743745,
+                    11.2504192
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "GUSTO MADRE | ALBA (CN)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    44.6971281,
+                    8.033975
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "IMPASTATORI POMPETTI | ROSETO DEGLI ABRUZZI (TE)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    42.6616404,
+                    14.0128487
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "DA LIONIELLO | SUCCIVO (CE)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    40.9734249,
+                    14.2592834
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "MÀDIA | SALERNO",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    40.6819919,
+                    14.7755452
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "OLIVA DA CONCETTINA AI TRE SANTI | NAPOLI",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    40.8574657,
+                    14.2521604
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "PANISFIZIO | JESOLO (VE)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    45.5016706,
+                    12.6317892
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "LA SORGENTE | GUARDIAGRELE (CH)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
@@ -20011,335 +19963,31 @@
                     14.2203772
                 ]
             ],
-            "website": "http://lasorgentepizzeria.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "La Ventola",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-ventola/",
+            "name": "BATTIL'ORO FUOCHI + LIEVITI + SPIRITI | SERAVEZZA (LU)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
-                    43.3353815,
-                    10.461177386252734
-                ]
-            ],
-            "website": "http://laventola.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Màdia",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/madia/",
-            "address": null,
-            "coord": [
-                [
-                    40.681899,
-                    14.7754839
-                ]
-            ],
-            "website": "http://pizzeriamadia.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Officine del Cibo",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/officine-del-cibo-2/",
-            "address": null,
-            "coord": [
-                [
-                    44.1039921,
-                    9.942592
-                ]
-            ],
-            "website": "http://officinedelcibosarzana.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Panisfizio",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/panisfizio/",
-            "address": null,
-            "coord": [
-                [
-                    45.5016619,
-                    12.6319054
-                ]
-            ],
-            "website": "http://panisfizio.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Piano B",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/piano-b/",
-            "address": null,
-            "coord": [
-                [
-                    37.0647877,
-                    15.2879602
-                ]
-            ],
-            "website": "http://pianobsiracusa.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Piccola Piedigrotta",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/piccola-piedigrotta/",
-            "address": null,
-            "coord": [
-                [
-                    44.7010747,
-                    10.6282333
-                ]
-            ],
-            "website": "http://piccolapiedigrotta.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "ZenZero Osteria della Pizza",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/zenzero-osteria-della-pizza/",
-            "address": null,
-            "coord": [
-                [
-                    43.7263928,
-                    10.4157147
-                ]
-            ],
-            "website": "http://osteriadellapizza.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "'O Scugnizzo",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/o-scugnizzo/",
-            "address": null,
-            "coord": [
-                [
-                    43.4638535,
-                    11.8809714
-                ]
-            ],
-            "website": "http://lo-scugnizzo.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "400 Gradi",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/400-gradi/",
-            "address": null,
-            "coord": [
-                [
-                    40.361646,
-                    18.1697769
-                ]
-            ],
-            "website": "http://pizzeria400gradi.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Da Attilio alla Pignasecca",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/da-attilio-alla-pignasecca/",
-            "address": null,
-            "coord": [
-                [
-                    40.8451846,
-                    14.2482277
-                ]
-            ],
-            "website": "http://pizzeriadattilio.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Da Ezio",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/da-ezio/",
-            "address": null,
-            "coord": [
-                [
-                    45.9089962,
-                    11.9130304
-                ]
-            ],
-            "website": "http://pizzeriadaezio.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Giotto",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/giotto/",
-            "address": null,
-            "coord": [
-                [
-                    43.7735286,
-                    11.2547883
-                ]
-            ],
-            "website": "http://pizzeriagiotto.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Guglielmo & Enrico  Vuolo",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/guglielmo-enrico-vuolo/",
-            "address": null,
-            "coord": [
-                [
-                    45.4452049,
-                    10.956907
-                ]
-            ],
-            "website": "http://guglielmovuolo.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "I Vesuviani",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/i-vesuviani/",
-            "address": null,
-            "coord": [
-                [
-                    40.9006057,
-                    14.4122312
+                    43.9779073,
+                    10.2034063
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "L' Orso",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/l-orso/",
-            "address": null,
-            "coord": [
-                [
-                    38.2516889,
-                    15.593742
-                ]
-            ],
-            "website": "http://lorsomessina.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "La Divina Pizza",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-divina-pizza/",
-            "address": null,
-            "coord": [
-                [
-                    43.7701831,
-                    11.2646673
-                ]
-            ],
-            "website": "http://ladivinapizza.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "La Pizza by Romualdo Rizzuti",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-pizza-by-romualdo-rizzuti/",
-            "address": null,
-            "coord": [
-                [
-                    43.7699685,
-                    11.2576706
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Le Parùle",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/le-parule/",
-            "address": null,
-            "coord": [
-                [
-                    40.8111763,
-                    14.3679237
-                ]
-            ],
-            "website": "http://leparule.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Lo Spela",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/lo-spela/",
-            "address": null,
-            "coord": [
-                [
-                    43.6547393,
-                    11.2578992
-                ]
-            ],
-            "website": "http://lospela.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Mamma Rosa",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/mamma-rosa/",
-            "address": null,
-            "coord": [
-                [
-                    43.0258403,
-                    13.6185844
-                ]
-            ],
-            "website": "http://pizzeriamammarosa.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Pizzeria Bosco",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/pizzeria-bosco/",
+            "name": "PIZZERIA BOSCO | TEMPIO PAUSANIA",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
@@ -20351,11 +19999,235 @@
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Re | Mi",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/re-mi/",
+            "name": "BOTTEGA DANI | CECINA (LI)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    43.3265604,
+                    10.4911558
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "AGRIRISTORANTE IL CASALETTO | VITERBO",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    42.520668,
+                    12.1620588
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "DA CLARA VENETICO (ME)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    38.1931007,
+                    15.3803547
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "DRY MILANO | MILANO",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    45.4790319,
+                    9.1883898
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "FANDANGO | POTENZA",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    40.6433867,
+                    15.7802743
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "GIGI PIPA | ESTE (PD)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    45.2218235,
+                    11.6597824
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "INEDITO | BRESCIA",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    45.5350139,
+                    10.2182434
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "ENOSTERIA LIPEN | TRIUGGIO (MB)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    45.6596305,
+                    9.2901536
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "MAIORI | CAGLIARI",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    39.213668,
+                    9.1215364
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "OFFICINE DEL CIBO | SARZANA (SP)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    44.1040233,
+                    9.9426182
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "LE PARÙLE | ERCOLANO (NA)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    40.8111763,
+                    14.3679237
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "LA PERGOLA | RADICONDOLI (SI)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    43.261622,
+                    11.043656
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "PIANO B | SIRACUSA",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    37.0647251,
+                    15.2879183
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "PICCOLA PIEDIGROTTA | REGGIO EMILIA",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    44.70112229999999,
+                    10.6282855
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "RE | MI | SASSARI",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
@@ -20367,59 +20239,155 @@
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Verace Elettrica",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/verace-elettrica/",
+            "name": "GIOVANNI SANTARPIA | FIRENZE",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
-                    38.1863198,
-                    15.2675391
+                    43.7496062,
+                    11.2356674
                 ]
             ],
-            "website": "http://veraceelettrica.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "'O Fiore Mio",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/o-fiore-mio/",
+            "name": "LO SPELA | GREVE IN CHIANTI (FI)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
-                    44.2893846,
-                    11.8859076
+                    43.6547393,
+                    11.2578992
                 ]
             ],
-            "website": "http://ofioremio.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Berberè",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/berbere-3/",
+            "name": "TAC THIN & CRUNCHY | ROMA",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
-                    44.5688938,
-                    11.3576671
+                    41.8082428,
+                    12.4388738
                 ]
             ],
-            "website": "http://berbere.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Cambia-Menti di Ciccio Vitiello",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/cambia-menti-di-ciccio-vitiello/",
+            "name": "IL VECCHIO E IL MARE | FIRENZE",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    43.7697267,
+                    11.2760775
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "180G PIZZERIA ROMANA | ROMA",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    41.8967068,
+                    12.4822025
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "400 GRADI | LECCE",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    40.3616269,
+                    18.1696855
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "50 KALÒ DI CIRO SALVO | ROMA",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    41.9060161,
+                    12.4957453
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "ANIMA ROMITA | CREMA (CR)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    45.3649707,
+                    9.693463999999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "DA ATTILIO ALLA PIGNASECCA | NAPOLI",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    40.8451846,
+                    14.2482277
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "CAMBIA-MENTI DI CICCIO VITIELLO | CASERTA",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
@@ -20427,15 +20395,15 @@
                     14.3199354
                 ]
             ],
-            "website": "http://cambia-menti.pizza"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Canneto Beach 2",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/canneto-beach-2-2/",
+            "name": "CANNETO BEACH 2 | MARGHERITA DI SAVOIA (BT)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
@@ -20443,47 +20411,143 @@
                     16.1449415
                 ]
             ],
-            "website": "http://ristorantecannetobeach2.com"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Farina",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/farina-2/",
+            "name": "LA CASCINA DEI SAPORI | REZZATO (BS)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
-                    43.9161839,
-                    12.913325
+                    45.5164541,
+                    10.3120001
                 ]
             ],
-            "website": "http://pizzeriafarina.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Fuori Tempo",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/fuori-tempo/",
+            "name": "CHICCO | COLLE DI VAL D'ELSA (SI)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
-                    44.798472,
-                    8.0012253
+                    43.422663,
+                    11.1249159
                 ]
             ],
-            "website": "http://fuoritempo.com"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Giangi Pizza e Ricerca",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/giangi-pizza-e-ricerca/",
+            "name": "CROSTA | MILANO",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    45.47083869999999,
+                    9.209154999999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "LA DIVINA PIZZA | FIRENZE",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    43.7702171,
+                    11.2646723
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "DA EZIO | ALANO DI PIAVE (BL)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    45.9032723,
+                    11.9051391
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "FRAMENTO | CAGLIARI",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    39.2180837,
+                    9.1111611
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "LA GATTA MANGIONA | ROMA",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    41.8757358,
+                    12.4477564
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "GIANFRANCO IERVOLINO PIZZA E FRITTI | OTTAVIANO (NA)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    40.8355293,
+                    14.4867153
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "GIANGI PIZZA E RICERCA | ARIELLI (CH)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
@@ -20491,47 +20555,15 @@
                     14.3227219
                 ]
             ],
-            "website": "http://giangipizza.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Grigoris",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/grigoris/",
-            "address": null,
-            "coord": [
-                [
-                    45.4967,
-                    12.184545
-                ]
-            ],
-            "website": "http://pizzeriagrigoris.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "La  Braciera",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-braciera/",
-            "address": null,
-            "coord": [
-                [
-                    38.1656313,
-                    13.3285855
-                ]
-            ],
-            "website": "http://labraciera.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Le Grotticelle",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/le-grotticelle/",
+            "name": "LE GROTTICELLE | CAGGIANO (SA)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
@@ -20539,63 +20571,362 @@
                     15.513402
                 ]
             ],
-            "website": "http://legrotticelle.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Libery Pizza & Artigianal Beer",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/libery-pizza-artigianal-beer/",
+            "name": "LUPPOLO & FARINA | LATIANO (BR)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
-                    45.0607193,
-                    7.670645700000001
+                    40.5524934,
+                    17.7143665
                 ]
             ],
-            "website": "http://libery.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Luppolo & Farina",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/luppolo-farina/",
+            "name": "MATER | FIANO ROMANO (RM)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
-                    40.5525174,
-                    17.7143422
+                    42.1587594,
+                    12.5896012
                 ]
             ],
-            "website": "http://luppoloefarinapizzeria.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Maiori",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/maiori/",
+            "name": "MONTEGRIGNA - TRIC TRAC | LEGNANO (MI)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
-                    39.2711019,
-                    8.7424037
+                    45.5940972,
+                    8.9279639
                 ]
             ],
-            "website": "http://maioricagliari.com"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Meunier Champagne & Pizza",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/meunier-champagne-pizza/",
+            "name": "L'ORSO | MESSINA",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    38.2039833,
+                    15.5559453
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "LA PIZZA BY ROMUALDO RIZZUTI | FIRENZE",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    43.7699685,
+                    11.2576706
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "PUPILLO PURA PIZZA | FROSINONE",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    41.639486,
+                    13.3431622
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "SBANCO | ROMA",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    41.875468,
+                    12.510995
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "'O SCUGNIZZO | AREZZO",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    43.4638796,
+                    11.8808962
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "STARITA | NAPOLI",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    40.8559232,
+                    14.2463808
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "I VESUVIANI | CASTELLO DI CISTERNA (NA)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    40.9006057,
+                    14.4122312
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "VILLA GIOVANNA | OTTAVIANO (NA)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    40.8341939,
+                    14.457743
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "GUGLIELMO & ENRICO VUOLO | VERONA",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    45.4452049,
+                    10.956907
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "AMMODO LA PIZZA DI DANIELE VACCARELLA | PALERMO",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    38.1454638,
+                    13.3346799
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "BERBERÈ | CASTEL MAGGIORE (BO)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    44.5689249,
+                    11.3576399
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "BRO | NAPOLI",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": null,
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "CAMPANA 12 | CORIGLIANO CALABRO (CS)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    39.5942976,
+                    16.5202817
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "FARINA | PESARO",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    43.9162658,
+                    12.9134122
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "'O FIORE MIO | FAENZA (RA)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    44.289362,
+                    11.8859235
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "FUORI TEMPO | CANALE (CN)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    44.798472,
+                    8.0012253
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "GRIGORIS | MESTRE (VE)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    45.4967,
+                    12.184545
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "MAMMA ROSA | ORTEZZANO (FM)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    43.02588370000001,
+                    13.6186152
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "ME | FERRARA",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    44.83925,
+                    11.6175537
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "MEUNIER CHAMPAGNE & PIZZA | CORCIANO (PG)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
@@ -20607,27 +20938,59 @@
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Perbacco",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/perbacco-2/",
+            "name": "MODUS | MILANO",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
-                    44.638527,
-                    7.93292
+                    45.4578756,
+                    9.207918399999999
                 ]
             ],
-            "website": "http://pizzeriaperbacco.com"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Saccharum",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/saccharum/",
+            "name": "RAF BONETTA PIZZERIA | POZZUOLI (NA)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    40.8216064,
+                    14.1268953
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "A ROTA | ROMA",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
+            "address": null,
+            "coord": [
+                [
+                    41.8967068,
+                    12.4822025
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
+            "emoji": "🍕",
+            "position": null,
+            "name": "SACCHARUM | ALTAVILLA MILICIA (PA)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
@@ -20639,480 +21002,32 @@
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Sorbillo",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/sorbillo/",
+            "name": "SENESE | SANREMO (IM)",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
-                    40.8317081,
-                    14.2417542
-                ]
-            ],
-            "website": "http://sorbillo.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Starita",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/starita-2/",
-            "address": null,
-            "coord": [
-                [
-                    40.6350432,
-                    14.4209604
-                ]
-            ],
-            "website": "http://pizzeriastarita.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Villa Giovanna",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/villa-giovanna/",
-            "address": null,
-            "coord": [
-                [
-                    40.834268449999996,
-                    14.457798833112344
-                ]
-            ],
-            "website": "http://villagiovannavesuvio.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "180g Pizzeria Romana",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/180g-pizzeria-romana/",
-            "address": null,
-            "coord": [
-                [
-                    41.8780128,
-                    12.5639793
-                ]
-            ],
-            "website": "http://180gpizzeriaromana.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "50 Kalò di Ciro Salvo",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/50-kalo-di-ciro-salvo/",
-            "address": null,
-            "coord": [
-                [
-                    41.9060262,
-                    12.4957895
-                ]
-            ],
-            "website": "http://50kalò.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "A Rota",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/a-rota/",
-            "address": null,
-            "coord": [
-                [
-                    41.8749586,
-                    12.5411903
+                    43.82083850000001,
+                    7.797883000000001
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
+            "sub-ranking": "Tre Spicchi Gambero Rosso 2025",
             "emoji": "🍕",
             "position": null,
-            "name": "Agriristorante Il Casaletto",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/agriristorante-il-casaletto/",
+            "name": "TONDA | ROMA",
+            "ref": "https://www.gamberorosso.it/notizie/le-migliori-pizzerie-d-italia-2025-secondo-il-gambero-rosso/",
             "address": null,
             "coord": [
                 [
-                    42.520668,
-                    12.1620588
-                ]
-            ],
-            "website": "http://ilcasaletto.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Allegrío",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/allegrio/",
-            "address": null,
-            "coord": [
-                [
-                    41.90846550000001,
-                    12.4888145
-                ]
-            ],
-            "website": "http://allegrio.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Anima Romita",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/anima-romita/",
-            "address": null,
-            "coord": [
-                [
-                    45.3649707,
-                    9.693463999999999
-                ]
-            ],
-            "website": "http://animaromita.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Casale Rufini",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/casale-rufini/",
-            "address": null,
-            "coord": [
-                [
-                    41.8604736,
-                    12.8276281
-                ]
-            ],
-            "website": "http://casalerufini.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Confine - Pizza e Cantina",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/confine-pizza-e-cantina/",
-            "address": null,
-            "coord": [
-                [
-                    45.4614393,
-                    9.181301699999999
-                ]
-            ],
-            "website": "http://confinemilano.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Crosta",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/crosta-2/",
-            "address": null,
-            "coord": [
-                [
-                    45.4708436,
-                    9.208918
-                ]
-            ],
-            "website": "http://crosta.eu"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Diego Vitagliano Pizzeria",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/diego-vitagliano-pizzeria/",
-            "address": null,
-            "coord": [
-                [
-                    41.9414671,
-                    12.4702796
-                ]
-            ],
-            "website": "http://diegovitagliano.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Dry Milano",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/dry-milano/",
-            "address": null,
-            "coord": [
-                [
-                    45.4789193,
-                    9.1883235
-                ]
-            ],
-            "website": "http://drymilano.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Enosteria Lipen",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/enosteria-lipen/",
-            "address": null,
-            "coord": [
-                [
-                    45.6596305,
-                    9.2901536
-                ]
-            ],
-            "website": "http://lipen.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Inedito",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/inedito/",
-            "address": null,
-            "coord": [
-                [
-                    45.5350139,
-                    10.2182434
-                ]
-            ],
-            "website": "http://ineditopizzeria.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "La Cascina dei Sapori",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-cascina-dei-sapori/",
-            "address": null,
-            "coord": [
-                [
-                    45.5164799,
-                    10.3120174
-                ]
-            ],
-            "website": "http://lacascinadeisapori.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "La Filiale a L'Albereta",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-filiale-a-lalbereta/",
-            "address": null,
-            "coord": [
-                [
-                    45.6081008,
-                    9.9806938
-                ]
-            ],
-            "website": "http://albereta.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "La Gatta Mangiona",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-gatta-mangiona/",
-            "address": null,
-            "coord": [
-                [
-                    41.8757312,
-                    12.4477152
-                ]
-            ],
-            "website": "http://lagattamangiona.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Lievito Francesco Arnesano",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/lievito-francesco-arnesano-2/",
-            "address": null,
-            "coord": [
-                [
-                    41.8300955,
-                    12.488053
-                ]
-            ],
-            "website": "http://lievitopizzapane.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Mater",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/mater/",
-            "address": null,
-            "coord": [
-                [
-                    42.15856195,
-                    12.589648824392189
-                ]
-            ],
-            "website": "http://mater.bio"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Modus",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/modus/",
-            "address": null,
-            "coord": [
-                [
-                    45.4578756,
-                    9.207918399999999
-                ]
-            ],
-            "website": "http://landing.modusmilano.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Montegrigna - Tric Trac",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/montegrigna-tric-trac/",
-            "address": null,
-            "coord": [
-                [
-                    45.5940972,
-                    8.9279639
-                ]
-            ],
-            "website": "http://montegrignalegnano.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Pizzeria Clementina",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/pizzeria-clementina/",
-            "address": null,
-            "coord": [
-                [
-                    41.7714277,
-                    12.2281863
-                ]
-            ],
-            "website": "http://pizzeriaclementina.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Pupillo Pura Pizza",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/pupillo-pura-pizza/",
-            "address": null,
-            "coord": [
-                [
-                    41.6394691,
-                    13.3433719
-                ]
-            ],
-            "website": "http://pupillopurapizza.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Pupillo Pura Pizza",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/pupillo-pura-pizza-2/",
-            "address": null,
-            "coord": [
-                [
-                    41.4734979,
-                    13.1777635
-                ]
-            ],
-            "website": "http://pupillopurapizza.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "San Martino Pizza & Bolle",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/san-martino-pizza-bolle/",
-            "address": null,
-            "coord": [
-                [
-                    41.8653276,
-                    12.4746946
-                ]
-            ],
-            "website": "http://pizzaebolle.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Sbanco",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/sbanco/",
-            "address": null,
-            "coord": [
-                [
-                    41.875468,
-                    12.510995
-                ]
-            ],
-            "website": "http://sbanco.eatbu.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Seu Pizza Illuminati",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/seu-pizza-illuminati/",
-            "address": null,
-            "coord": [
-                [
-                    41.8797377,
-                    12.4683504
-                ]
-            ],
-            "website": "http://seupizza.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Spicchi Gambero Rosso 2024",
-            "emoji": "🍕",
-            "position": null,
-            "name": "Tonda",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/tonda/",
-            "address": null,
-            "coord": [
-                [
-                    41.896063,
-                    12.4938084
+                    41.9358085,
+                    12.5290344
                 ]
             ],
             "website": null

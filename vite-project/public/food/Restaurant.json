@@ -3073,139 +3073,43 @@
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Osteria Francescana",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/osteria-francescana/",
+            "name": "Piazza Duomo - Alba [CN]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
-                    44.6447968,
-                    10.9215627
+                    44.7006136,
+                    8.0357954
                 ]
             ],
-            "website": "http://osteriafrancescana.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Reale",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/reale/",
+            "name": "Reale - Castel di Sangro [AQ]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
-                    41.783948,
-                    14.1081016
+                    41.7799897,
+                    14.0945982
                 ]
             ],
-            "website": "http://nikoromito.com"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "La Pergola dell'Hotel Rome Cavalieri",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-pergola-dellhotel-rome-cavalieri/",
-            "address": null,
-            "coord": [
-                [
-                    41.9189987,
-                    12.4466606
-                ]
-            ],
-            "website": "http://romecavalieri.it/lapergola"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Piazza Duomo",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/piazza-duomo/",
-            "address": null,
-            "coord": [
-                [
-                    44.7006006,
-                    8.0359014
-                ]
-            ],
-            "website": "http://piazzaduomoalba.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Il Pagliaccio",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/il-pagliaccio/",
-            "address": null,
-            "coord": [
-                [
-                    41.8978194,
-                    12.4674879
-                ]
-            ],
-            "website": "http://ristoranteilpagliaccio.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Le Calandre",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/le-calandre/",
-            "address": null,
-            "coord": [
-                [
-                    45.4216508,
-                    11.8095171
-                ]
-            ],
-            "website": "http://alajmo.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Madonnina del Pescatore",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/madonnina-del-pescatore/",
-            "address": null,
-            "coord": [
-                [
-                    43.681634,
-                    13.280116
-                ]
-            ],
-            "website": "http://morenocedroni.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Uliassi",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/uliassi/",
-            "address": null,
-            "coord": [
-                [
-                    43.71951675,
-                    13.220799711370216
-                ]
-            ],
-            "website": "http://uliassi.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Atelier Moessmer Norbert Niederkofler",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/atelier-moessmer-norbert-niederkofler/",
+            "name": "Atelier Moessmer Norbert Niederkofler - Brunico/Bruneck [BZ]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
@@ -3213,159 +3117,127 @@
                     11.9491536
                 ]
             ],
-            "website": "http://ateliernorbertniederkofler.com/moessmer/"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Cracco in Galleria",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/cracco-in-galleria/",
+            "name": "Osteria Francescana - Modena",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
-                    45.465348,
-                    9.1898481
+                    44.6448264,
+                    10.9215729
                 ]
             ],
-            "website": "http://ristorantecracco.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Da Vittorio",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/da-vittorio/",
+            "name": "Le Calandre - Rubano [PD]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
-                    45.6776101,
-                    9.7713963
+                    45.4217428,
+                    11.8096337
                 ]
             ],
-            "website": "http://davittorio.com"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Enoteca  Pinchiorri",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/enoteca-pinchiorri/",
+            "name": "Madonnina del Pescatore - Senigallia [AN]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
-                    43.7700306,
-                    11.2623225
+                    43.6815791,
+                    13.2800338
                 ]
             ],
-            "website": "http://enotecapinchiorri.com"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Torre del Saracino",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/torre-del-saracino/",
+            "name": "Il Pagliaccio - Roma",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
-                    40.66068905,
-                    14.419433641565533
+                    41.897889,
+                    12.4674252
                 ]
             ],
-            "website": "http://torredelsaracino.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Villa Crespi",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/villa-crespi/",
+            "name": "La Pergola dell'Hotel Rome Cavalieri - Roma",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
-                    45.79637325,
-                    8.416132174907231
+                    41.9189987,
+                    12.4466606
                 ]
             ],
-            "website": "http://villacrespi.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "D'O",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/do/",
+            "name": "Uliassi - Senigallia [AN]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
-                    45.487057,
-                    9.0118321
+                    43.71946310000001,
+                    13.2208132
                 ]
             ],
-            "website": "http://cucinapop.do"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Danì Maison",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/dani-maison/",
+            "name": "Cracco in Galleria - Milano",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
-                    40.725967,
-                    13.9476494
+                    45.4653978,
+                    9.189919999999999
                 ]
             ],
-            "website": "http://danimaison.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Duomo",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/duomo/",
-            "address": null,
-            "coord": [
-                [
-                    36.9266972,
-                    14.7416458
-                ]
-            ],
-            "website": "http://cicciosultano.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "La Trota",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-trota/",
-            "address": null,
-            "coord": [
-                [
-                    42.49851115,
-                    12.84938415
-                ]
-            ],
-            "website": "http://latrota.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Pascucci al Porticciolo",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/pascucci-al-porticciolo/",
+            "name": "Pascucci al Porticciolo - Fiumicino [RM]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
@@ -3373,47 +3245,79 @@
                     12.2273378
                 ]
             ],
-            "website": "http://pascuccialporticciolo.com"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Quattro Passi",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/quattro-passi/",
+            "name": "Enoteca Pinchiorri - Firenze",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
-                    40.5857134,
-                    14.3535263
+                    43.77,
+                    11.2622222
                 ]
             ],
-            "website": "http://ristorantequattropassi.com"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Seta by Antonio Guida",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/seta-by-antonio-guida/",
+            "name": "Torre del Saracino - Vico Equense [NA]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
-                    45.4698283,
-                    9.191318899999999
+                    40.6605999,
+                    14.4196221
                 ]
             ],
-            "website": "http://mandarinoriental.com/milan"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Agli Amici dal 1887",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/agli-amici-dal-1887/",
+            "name": "Villa Crespi - Orta San Giulio [NO]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
+            "address": null,
+            "coord": [
+                [
+                    45.7964103,
+                    8.416053699999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "Da Vittorio - Brusaporto [BG]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
+            "address": null,
+            "coord": [
+                [
+                    45.676036,
+                    9.7695512
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "Agli Amici dal 1887 - Udine",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
@@ -3421,191 +3325,15 @@
                     13.2663508
                 ]
             ],
-            "website": "https://agliamici.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Berton",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/berton/",
-            "address": null,
-            "coord": [
-                [
-                    45.4818022,
-                    9.1944257
-                ]
-            ],
-            "website": "http://ristoranteberton.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Da Caino",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/da-caino/",
-            "address": null,
-            "coord": [
-                [
-                    42.6219596,
-                    11.4905509
-                ]
-            ],
-            "website": "http://dacaino.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Dal Pescatore",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/dal-pescatore/",
-            "address": null,
-            "coord": [
-                [
-                    45.1709134,
-                    10.3572052
-                ]
-            ],
-            "website": "http://dalpescatore.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Enoteca La Torre a Villa Laetitia",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/enoteca-la-torre-a-villa-laetitia/",
-            "address": null,
-            "coord": [
-                [
-                    41.9163856,
-                    12.4690027
-                ]
-            ],
-            "website": "http://enotecalatorreroma.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Guido",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/guido-3/",
-            "address": null,
-            "coord": [
-                [
-                    44.6383394,
-                    7.9888569
-                ]
-            ],
-            "website": "http://guidoristorante.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Idylio by Apreda del The Pantheon Iconic Rome Hotel",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/idylio-by-apreda-del-the-pantheon-iconic-rome-hotel/",
-            "address": null,
-            "coord": [
-                [
-                    41.8980272,
-                    12.4760083
-                ]
-            ],
-            "website": "http://thepantheonhotel.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Imàgo dell'Hotel Hassler",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/imago-dellhotel-hassler/",
-            "address": null,
-            "coord": [
-                [
-                    41.8967068,
-                    12.4822025
-                ]
-            ],
-            "website": "http://hotelhasslerroma.com/it/ristoranti-bar/imago"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "La Peca",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-peca/",
-            "address": null,
-            "coord": [
-                [
-                    45.3848468,
-                    11.3990489
-                ]
-            ],
-            "website": "http://lapeca.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Lido 84",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/lido-84/",
-            "address": null,
-            "coord": [
-                [
-                    45.6252976,
-                    10.5759639
-                ]
-            ],
-            "website": "http://ristorantelido84.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Ristorante Enrico  Bartolini Mudec",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/ristorante-enrico-bartolini-mudec/",
-            "address": null,
-            "coord": [
-                [
-                    45.4515503,
-                    9.1616272
-                ]
-            ],
-            "website": "http://enricobartolini.net"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Andreina",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/andreina/",
-            "address": null,
-            "coord": [
-                [
-                    43.4403344,
-                    13.6207685
-                ]
-            ],
-            "website": "http://ristoranteandreina.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Antica Corona Reale",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/antica-corona-reale/",
+            "name": "Antica Corona Reale - Cervere [CN]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
@@ -3613,15 +3341,127 @@
                     7.788611100000001
                 ]
             ],
-            "website": "http://anticacoronareale.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Antica Osteria da Cera",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/antica-osteria-da-cera/",
+            "name": "Casa Perbellini 12 Apostoli - Verona",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
+            "address": null,
+            "coord": [
+                [
+                    45.4426738,
+                    10.9961133
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "D'O - Cornaredo [MI]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
+            "address": null,
+            "coord": [
+                [
+                    45.4870421,
+                    9.011830699999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "Danì Maison - Ischia [NA]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
+            "address": null,
+            "coord": [
+                [
+                    40.725967,
+                    13.9476494
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "Duomo - Ragusa",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
+            "address": null,
+            "coord": [
+                [
+                    36.926756,
+                    14.741571
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "Quattro Passi - Massa Lubrense [NA]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
+            "address": null,
+            "coord": [
+                [
+                    40.5856926,
+                    14.3534835
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "Seta by Antonio Guida - Milano",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
+            "address": null,
+            "coord": [
+                [
+                    45.4698283,
+                    9.191318899999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "La Trota - Rivodutri [RI]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
+            "address": null,
+            "coord": [
+                [
+                    42.49843389999999,
+                    12.8492228
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "Antica Osteria da Cera - Campagna Lupia [VE]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
@@ -3629,495 +3469,127 @@
                     12.1302862
                 ]
             ],
-            "website": "http://osteriacera.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Del  Cambio",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/del-cambio/",
+            "name": "Enrico Bartolini Mudec - Milano",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
-                    45.0695933,
-                    7.6849442
-                ]
-            ],
-            "website": "http://delcambio.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Glass Hostaria",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/glass-hostaria/",
-            "address": null,
-            "coord": [
-                [
-                    41.8905107,
-                    12.4691856
-                ]
-            ],
-            "website": "http://glasshostaria.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Harry's Piccolo",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/harrys-piccolo/",
-            "address": null,
-            "coord": [
-                [
-                    45.6496849,
-                    13.7674528
-                ]
-            ],
-            "website": "http://harrystrieste.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Il Piccolo Principe del Grand Hotel Principe di Piemonte",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/il-piccolo-principe-del-grand-hotel-principe-di-piemonte/",
-            "address": null,
-            "coord": [
-                [
-                    43.8814754,
-                    10.235384
-                ]
-            ],
-            "website": "http://ristoranteilpiccoloprincipe.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Krèsios",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/kresios/",
-            "address": null,
-            "coord": [
-                [
-                    41.2030001,
-                    14.499379562703034
-                ]
-            ],
-            "website": "http://kresios.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "La Madia",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-madia/",
-            "address": null,
-            "coord": [
-                [
-                    37.1054394,
-                    13.934918
-                ]
-            ],
-            "website": "http://ristorantelamadia.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Laite",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/laite/",
-            "address": null,
-            "coord": [
-                [
-                    46.5684477,
-                    12.6945494
-                ]
-            ],
-            "website": "http://ristorantelaite.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Lorenzo",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/lorenzo/",
-            "address": null,
-            "coord": [
-                [
-                    43.9601976,
-                    10.1982809
-                ]
-            ],
-            "website": "http://ristorantelorenzo.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Miramonti l'Altro",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/miramonti-laltro/",
-            "address": null,
-            "coord": [
-                [
-                    45.6137047,
-                    10.204586
-                ]
-            ],
-            "website": "http://miramontilaltro.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Pashà",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/pasha/",
-            "address": null,
-            "coord": [
-                [
-                    40.9698205,
-                    17.1162139
-                ]
-            ],
-            "website": "http://ristorantepasha.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Signum",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/signum/",
-            "address": null,
-            "coord": [
-                [
-                    38.5792628,
-                    14.8341971
-                ]
-            ],
-            "website": "http://hotelsignum.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Forchette Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Taverna Estia",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/taverna-estia/",
-            "address": null,
-            "coord": [
-                [
-                    40.9083408,
-                    14.4231278
-                ]
-            ],
-            "website": "http://tavernaestia.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Agra Mater",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/agra-mater/",
-            "address": null,
-            "coord": [
-                [
-                    43.1570434,
-                    13.3571052
-                ]
-            ],
-            "website": "http://agramater.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Ai Due Platani",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/ai-due-platani/",
-            "address": null,
-            "coord": [
-                [
-                    44.7947357,
-                    10.3509989
+                    45.4515503,
+                    9.1616272
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Al Convento - Casa Torrente",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/al-convento-casa-torrente/",
+            "name": "Berton - Milano",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
-                    40.647183,
-                    14.7007363
+                    45.4819694,
+                    9.194325899999999
                 ]
             ],
-            "website": "http://alconvento.net"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "All' Osteria Bottega",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/all-osteria-bottega/",
+            "name": "Da Caino - Montemerano [GR]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
-                    44.4910746,
-                    11.3326619
+                    42.6219596,
+                    11.4905509
                 ]
             ],
-            "website": "http://osteriabottega.com"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Angiolina",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/angiolina/",
+            "name": "Del Cambio - Torino",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
-                    40.1015405,
-                    15.2286006
+                    45.0695037,
+                    7.684792000000001
                 ]
             ],
-            "website": "http://ristoranteangiolina.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Antica Osteria del Mirasole con Locanda",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/antica-osteria-del-mirasole-con-locanda/",
+            "name": "Enoteca La Torre a Villa Laetitia - Roma",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
-                    44.6389827,
-                    11.185607
+                    41.9163856,
+                    12.4690027
                 ]
             ],
-            "website": "http://osteriadelmirasole.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Antichi Sapori",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/antichi-sapori/",
+            "name": "Guido - Serralunga d'Alba [CN]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
-                    41.1722531,
-                    16.1410999
+                    44.6383747,
+                    7.988862200000001
                 ]
             ],
-            "website": "http://pietrozito.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Armando al Pantheon",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/armando-al-pantheon/",
+            "name": "Idylio by Apreda del The - Pantheon Iconic Rome Hotel Roma",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
-                    41.8990605,
-                    12.476199
+                    41.8982991,
+                    12.475733
                 ]
             ],
-            "website": "http://armandoalpantheon.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Armidda",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/armidda/",
-            "address": null,
-            "coord": [
-                [
-                    40.1324005,
-                    8.8019161
-                ]
-            ],
-            "website": "http://armidda.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Buatta Cucina Popolana",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/buatta-cucina-popolana/",
-            "address": null,
-            "coord": [
-                [
-                    38.117103,
-                    13.365181
-                ]
-            ],
-            "website": "http://buattapalermo.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Caffè La Crepa",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/caffe-la-crepa/",
-            "address": null,
-            "coord": [
-                [
-                    45.1763703,
-                    10.3126062
-                ]
-            ],
-            "website": "http://caffelacrepa.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Consorzio",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/consorzio/",
-            "address": null,
-            "coord": [
-                [
-                    45.0714943,
-                    7.6793467
-                ]
-            ],
-            "website": "http://ristoranteconsorzio.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Da Burde",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/da-burde/",
-            "address": null,
-            "coord": [
-                [
-                    43.7941266,
-                    11.1858298
-                ]
-            ],
-            "website": "http://burde.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Da Cesare",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/da-cesare/",
-            "address": null,
-            "coord": [
-                [
-                    41.7340619,
-                    12.2647973
-                ]
-            ],
-            "website": "http://trattoriadacesare.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Futura Osteria",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/futura-osteria/",
-            "address": null,
-            "coord": [
-                [
-                    43.3875625,
-                    11.1953242
-                ]
-            ],
-            "website": "http://futuraosteria.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Gallo Rosso",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/gallo-rosso/",
-            "address": null,
-            "coord": [
-                [
-                    43.43635279999999,
-                    13.3518798
-                ]
-            ],
-            "website": "http://trattoriagallorosso.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Grappolo d'Oro",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/grappolo-doro/",
-            "address": null,
-            "coord": [
-                [
-                    41.9072293,
-                    12.5015929
-                ]
-            ],
-            "website": "http://hosteriagrappolodoro.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "Il Capanno",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/il-capanno/",
-            "address": null,
-            "coord": [
-                [
-                    42.6649427,
-                    12.734251269502355
-                ]
-            ],
-            "website": "http://ilcapannoristorante.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
-            "emoji": "🍽️",
-            "position": null,
-            "name": "L' Arcangelo Vino e Cucina",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/l-arcangelo-vino-e-cucina/",
+            "name": "Imàgo dell'Hotel Hassler - Roma",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
@@ -4125,111 +3597,415 @@
                     12.4822025
                 ]
             ],
-            "website": "http://larcangelo.com"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "La Brinca",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-brinca/",
+            "name": "Lido 84 - Gardone Riviera [BS]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
-                    44.3538741,
-                    9.3892274
+                    45.6251592,
+                    10.5755666
                 ]
             ],
-            "website": "http://labrinca.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "La Madia",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-madia-2/",
+            "name": "Miramonti l'Altro - Concesio [BS]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
-                    45.6361929,
-                    10.1452235
+                    45.6137047,
+                    10.204586
                 ]
             ],
-            "website": "http://trattorialamadia.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "La Sangiovesa",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/la-sangiovesa/",
+            "name": "La Peca - Lonigo [VI]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
-                    44.0636717,
-                    12.4445542
+                    45.384904,
+                    11.3990657
                 ]
             ],
-            "website": "http://sangiovesa.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Lo Stuzzichino",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/lo-stuzzichino-2/",
+            "name": "Andreina - Loreto [AN]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
-                    40.6086349,
-                    14.3724446
+                    43.44032,
+                    13.621375
                 ]
             ],
-            "website": "http://ristorantelostuzzichino.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Locanda Mariella",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/locanda-mariella/",
+            "name": "Andrea Aprea Ristorante - Milano",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
-                    44.5868531,
-                    10.1590093
+                    45.4733187,
+                    9.204331
                 ]
             ],
-            "website": "http://locandamariella.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Masseria  Barbera",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/masseria-barbera/",
+            "name": "L' Argine a Vencò - Dolegna del Collio [GO]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
             "address": null,
             "coord": [
                 [
-                    41.1497935,
-                    16.0860726
+                    46.0014487,
+                    13.4627388
                 ]
             ],
-            "website": "http://masseriabarbera.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Nerodiseppia",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/nerodiseppia/",
+            "name": "daGorini - Bagno di Romagna [FC]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
+            "address": null,
+            "coord": [
+                [
+                    43.85873369999999,
+                    11.9745626
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "Dina - Gussago [BS]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
+            "address": null,
+            "coord": [
+                [
+                    45.58386369999999,
+                    10.1562247
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "Don Alfonso 1890 - Massa Lubrense [NA]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
+            "address": null,
+            "coord": [
+                [
+                    40.608012,
+                    14.3737853
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "Taverna Estia - Brusciano [NA]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
+            "address": null,
+            "coord": [
+                [
+                    40.9083408,
+                    14.4231278
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "Dalla Gioconda - Gabicce Mare [PU]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
+            "address": null,
+            "coord": [
+                [
+                    43.9639777,
+                    12.7725188
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "Harry's Piccolo - Trieste",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
+            "address": null,
+            "coord": [
+                [
+                    45.6497164,
+                    13.7674774
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "Krèsios - Telese Terme [BN]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
+            "address": null,
+            "coord": [
+                [
+                    41.2029838,
+                    14.4993228
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "Laite - Sappada [UD]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
+            "address": null,
+            "coord": [
+                [
+                    46.5684768,
+                    12.6945399
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "La Madia - Licata [AG]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
+            "address": null,
+            "coord": [
+                [
+                    37.1054474,
+                    13.9349289
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "Pashà - Conversano [BA]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
+            "address": null,
+            "coord": [
+                [
+                    40.9698205,
+                    17.1162139
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "Dal Pescatore Santini - Canneto sull'Oglio [MN]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
+            "address": null,
+            "coord": [
+                [
+                    45.1710666,
+                    10.3574144
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "Il Piccolo Principe del Grand Hotel Principe di Piemonte - Viareggio [LU]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
+            "address": null,
+            "coord": [
+                [
+                    43.8814754,
+                    10.235384
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "I Tenerumi del Therasia Resort - Vulcano [ME]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/migliori-ristoranti-ditalia-2025/",
+            "address": null,
+            "coord": [
+                [
+                    38.4303423,
+                    14.9564698
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso Migliore Qualità Prezzo 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "Le Vigneron - Arvier [AO]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/ristoranti-ditalia-2025-gambero-rosso-premi-speciali/",
+            "address": null,
+            "coord": [
+                [
+                    45.703975,
+                    7.163950999999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso Migliore Qualità Prezzo 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "La Locanda del Falco - Valdieri [CN]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/ristoranti-ditalia-2025-gambero-rosso-premi-speciali/",
+            "address": null,
+            "coord": [
+                [
+                    44.2770544,
+                    7.397629999999999
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso Migliore Qualità Prezzo 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "La Loggia - Camogli [GE]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/ristoranti-ditalia-2025-gambero-rosso-premi-speciali/",
+            "address": null,
+            "coord": [
+                [
+                    44.3552792,
+                    9.1547403
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso Migliore Qualità Prezzo 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "Il Colmetto - Rodengo Saiano [BS]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/ristoranti-ditalia-2025-gambero-rosso-premi-speciali/",
+            "address": null,
+            "coord": [
+                [
+                    45.5742396,
+                    10.1024143
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso Migliore Qualità Prezzo 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "VI.OR di Villa Ormaneto - Cerea [VR]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/ristoranti-ditalia-2025-gambero-rosso-premi-speciali/",
+            "address": null,
+            "coord": [
+                [
+                    45.2319052,
+                    11.179583
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso Migliore Qualità Prezzo 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "Lerchner's in Ruggen - San Lorenzo di Sebato/Sankt Lorenzen [BZ]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/ristoranti-ditalia-2025-gambero-rosso-premi-speciali/",
+            "address": null,
+            "coord": [
+                [
+                    46.7784449,
+                    11.8772172
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso Migliore Qualità Prezzo 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "Nerodiseppia - Trieste",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/ristoranti-ditalia-2025-gambero-rosso-premi-speciali/",
             "address": null,
             "coord": [
                 [
@@ -4237,148 +4013,212 @@
                     13.7630652
                 ]
             ],
-            "website": "http://trattorianerodiseppia.com"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso Migliore Qualità Prezzo 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Osteria del Treno",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/osteria-del-treno/",
+            "name": "L'Osteria dei Frati - Roncofreddo [FC]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/ristoranti-ditalia-2025-gambero-rosso-premi-speciali/",
             "address": null,
             "coord": [
                 [
-                    45.4812038,
-                    9.2012194
+                    44.04105819999999,
+                    12.3154126
                 ]
             ],
-            "website": "http://osteriadeltreno.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso Migliore Qualità Prezzo 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Osteria della Villetta dal 1900",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/osteria-della-villetta-dal-1900/",
+            "name": "Da Fagiolino - Cutigliano [PT]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/ristoranti-ditalia-2025-gambero-rosso-premi-speciali/",
             "address": null,
             "coord": [
                 [
-                    45.602691,
-                    9.8940568
+                    44.1000021,
+                    10.7542356
                 ]
             ],
-            "website": "http://osteriadellavilletta.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso Migliore Qualità Prezzo 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Pretzhof",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/pretzhof/",
+            "name": "Agra Mater - Colmurano [MC]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/ristoranti-ditalia-2025-gambero-rosso-premi-speciali/",
             "address": null,
             "coord": [
                 [
-                    46.9036797,
-                    11.507884
+                    43.1570434,
+                    13.3571052
                 ]
             ],
-            "website": "http://pretzhof.com"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso Migliore Qualità Prezzo 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Sora Maria e Arcangelo",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/sora-maria-e-arcangelo/",
+            "name": "La Risulta - Perugia",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/ristoranti-ditalia-2025-gambero-rosso-premi-speciali/",
             "address": null,
             "coord": [
                 [
-                    41.8596937,
-                    13.0333663
+                    43.0917463,
+                    12.4409428
                 ]
             ],
-            "website": "http://soramariaearcangelo.com"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso Migliore Qualità Prezzo 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Stella",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/stella/",
+            "name": "Dogma - Roma",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/ristoranti-ditalia-2025-gambero-rosso-premi-speciali/",
             "address": null,
             "coord": [
                 [
-                    43.1062987,
-                    12.431267
+                    41.8760866,
+                    12.5093224
                 ]
             ],
-            "website": "http://stellaperugia.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso Migliore Qualità Prezzo 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Tischi Toschi",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/tischi-toschi-2/",
+            "name": "Zunica 1880 - Civitella del Tronto [TE]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/ristoranti-ditalia-2025-gambero-rosso-premi-speciali/",
             "address": null,
             "coord": [
                 [
-                    37.8510723,
-                    15.2835691
+                    42.7724008,
+                    13.6689921
                 ]
             ],
-            "website": "http://tischitoschitaormina.com"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso Migliore Qualità Prezzo 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Trattoria Visconti dal 1932",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/trattoria-visconti-dal-1932/",
+            "name": "Locanda Mammì - Agnone [IS]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/ristoranti-ditalia-2025-gambero-rosso-premi-speciali/",
             "address": null,
             "coord": [
                 [
-                    45.7180197,
-                    9.5474357
+                    41.8281594,
+                    14.3848753
                 ]
             ],
-            "website": "http://trattoriavisconti.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso Migliore Qualità Prezzo 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Trippa",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/trippa/",
+            "name": "Oasis Sapori Antichi - Vallesaccarda [AV]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/ristoranti-ditalia-2025-gambero-rosso-premi-speciali/",
             "address": null,
             "coord": [
                 [
-                    45.4522019,
-                    9.2055171
+                    41.0632133,
+                    15.251977
                 ]
             ],
-            "website": "http://trippamilano.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Gamberi Gambero Rosso 2024",
+            "sub-ranking": "Tre Forchette Gambero Rosso Migliore Qualità Prezzo 2025",
             "emoji": "🍽️",
             "position": null,
-            "name": "Vecchia Marina",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-ristorante/vecchia-marina/",
+            "name": "Origano Cibo e Vino - Palmariggi [LE]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/ristoranti-ditalia-2025-gambero-rosso-premi-speciali/",
             "address": null,
             "coord": [
                 [
-                    42.6828802,
-                    14.012791
+                    40.0918393,
+                    18.4225869
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso Migliore Qualità Prezzo 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "Antica Osteria Marconi - Potenza",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/ristoranti-ditalia-2025-gambero-rosso-premi-speciali/",
+            "address": null,
+            "coord": [
+                [
+                    40.6325765,
+                    15.8046015
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso Migliore Qualità Prezzo 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "Osteria Zero - Taurianova [RC]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/ristoranti-ditalia-2025-gambero-rosso-premi-speciali/",
+            "address": null,
+            "coord": [
+                [
+                    38.3520912,
+                    16.0172423
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso Migliore Qualità Prezzo 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "Terrazza Costantino - Sclafani Bagni [PA]",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/ristoranti-ditalia-2025-gambero-rosso-premi-speciali/",
+            "address": null,
+            "coord": [
+                [
+                    37.8234053,
+                    13.8561607
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Forchette Gambero Rosso Migliore Qualità Prezzo 2025",
+            "emoji": "🍽️",
+            "position": null,
+            "name": "Amano - Cagliari",
+            "ref": "https://www.gamberorosso.it/notizie/notizie-ristoranti/ristoranti-ditalia-2025-gambero-rosso-premi-speciali/",
+            "address": null,
+            "coord": [
+                [
+                    39.213014,
+                    9.119192499999999
                 ]
             ],
             "website": null
