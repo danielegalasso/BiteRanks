@@ -741,14 +741,9 @@
             "name": "Sestogusto",
             "ref": "https://www.50toppizza.it/referenza/sestogusto-3/",
             "address": [
-                "Sestogusto Stampatori, Via Stampatori, Torino, TO, Piemonte, Italia",
                 "Sestogusto Mazzini, Via Giuseppe Mazzini, Torino, TO, Italia"
             ],
             "coord": [
-                [
-                    45.0727978,
-                    7.6784305
-                ],
                 [
                     45.0615401,
                     7.6880204
@@ -2009,7 +2004,7 @@
             "name": "Pizza Culture",
             "ref": "https://www.50toppizza.it/referenza/pizza-culture/",
             "address": [
-                "indirizzi:Pizza Culture Napoletana, Edmonton Trail, Calgary, Alberta, Canada"
+                "Pizza Culture Napoletana, Edmonton Trail, Calgary, Alberta, Canada"
             ],
             "coord": [
                 [
@@ -2017,7 +2012,7 @@
                     -114.0553827
                 ]
             ],
-            "website": null
+            "website": "https://pizzacultureyyc.ca"
         },
         {
             "ranking": "50 Top Pizza",
@@ -2081,7 +2076,7 @@
             "name": "Pizzeria Prima Strada",
             "ref": "https://www.50toppizza.it/referenza/pizzeria-prima-strada/",
             "address": [
-                "indirizzi:Pizzeria Prima Strada, Cook Street, Victoria, Columbia Britannica, Canada",
+                "Pizzeria Prima Strada, Cook Street, Victoria, Columbia Britannica, Canada",
                 "Pizzeria Prima Strada, Fort Street, Victoria, Columbia Britannica, Canada"
             ],
             "coord": [
@@ -2094,7 +2089,7 @@
                     -123.3228269
                 ]
             ],
-            "website": null
+            "website": "https://pizzeriaprimastrada.com/"
         }
     ]
 }

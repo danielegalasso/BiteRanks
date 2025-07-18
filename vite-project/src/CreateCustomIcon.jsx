@@ -91,7 +91,7 @@ function stringToColor(str1, str2, condition) {
       rgb = hslToRgb(hue, sat, light);
   }
 
-  return `rgb(${rgb.r},${rgb.g},${rgb.b})`;
+  return `rgb(${rgb.r % 120 + 110},${rgb.g % 150},${rgb.b % 170 })`;
 }
 
 // Function to lighten a color

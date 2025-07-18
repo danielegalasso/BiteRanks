@@ -14,20 +14,22 @@ headers = {
 
 category = '🍕'
 
-'''
+
 urls = [
-    'https://www.50toppizza.it/50-top-pizza-italia-2024/',
-    'https://www.50toppizza.it/50-top-pizza-italia-2024-pizzerie-eccellenti/',
-    'https://www.50toppizza.it/50-top-pizze-in-viaggio-2024/',
-    'https://www.50toppizza.it/50-top-usa-2024/',
-    'https://www.50toppizza.it/50-top-usa-2024-slice/',
-    'https://www.50toppizza.it/50-top-europe-2024/',
-    'https://www.50toppizza.it/50-top-pizza-europa-2024-excellent-pizzerias/',
-    'https://www.50toppizza.it/50-top-pizza-latin-america-2024/',
-    'https://www.50toppizza.it/50-top-pizza-asia-pacific-2024/',
+    'https://www.50toppizza.it/50-top-pizza-italia-2025/',
+    'https://www.50toppizza.it/50-top-pizza-italia-2025-pizzerie-eccellenti/',
+    'https://www.50toppizza.it/50-top-pizze-in-viaggio-2025/',
+    'https://www.50toppizza.it/50-top-usa-2025/',
+    'https://www.50toppizza.it/50-top-pizza-usa-2025-excellent-pizzeria/',
+    'https://www.50toppizza.it/50-top-usa-2025-slice/',
+    'https://www.50toppizza.it/50-top-europe-2025/',
+    'https://www.50toppizza.it/50-top-pizza-europa-2025-excellent-pizzerias/',
+    'https://www.50toppizza.it/50-top-pizza-latin-america-2025/',
+    'https://www.50toppizza.it/50-top-pizza-asia-pacific-2025/',
+    'https://www.50toppizza.it/50-top-world-2024/',
 ]
-'''
-urls = ['https://www.50toppizza.it/50-top-world-2024/']
+
+#urls = ['https://www.50toppizza.it/50-top-world-2024/']
 
 def extract_name_from_url(url):
     path = url.split('/')[-2]

@@ -4,16 +4,11 @@ import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 import "./App.css";
 import "leaflet/dist/leaflet.css";
 import { Map } from "./Map"; // Importa il componente Map
-import FoodSearch from "./home/FoodSearch";
 import SearchBarWithAutocomplete from "./SearchBar";
 import bowser from 'bowser';
 import { Helmet, HelmetProvider } from 'react-helmet-async'; // Importa Helmet
 
-
-// Dati dei marker
 export default function App() {
-
-
   // Firefox shit
   useEffect(() => {
     const browser = bowser.getParser(window.navigator.userAgent);
@@ -35,39 +30,69 @@ export default function App() {
     }
   }, []);
 
-
-
-  const [selectedItems, setSelectedItems] = useState([]); // Stato per gli elementi selezionati
   // State to hold markers data
   const [markers, setMarkers] = useState([]);
-  const [isFoodSearchVisible, setFoodSearchVisible] = useState(true);
-  const [activeTab, setActiveTab] = useState("food"); // Stato per gestire quale pulsante è attivo
+  const [selectedItems, setSelectedItems] = useState([]); // Mantenuto per compatibilità con SearchBar
 
+  // Carica automaticamente i dati di 50 Top Pizza all'avvio
   useEffect(() => {
-    // Ottieni la query string dalla URL
-    const searchParams = new URLSearchParams(window.location.search);
+    const load50TopPizzaData = async () => {
+      try {
+        // Percorso per 50 Top Pizza (assumendo che sia nel formato corretto)
+        const rankingPath = '/ranking/50_Top_Pizza/';
+        
+        // Fetch dell'index.json per ottenere la lista dei file
+        const indexResponse = await fetch(`${rankingPath}index.json`, {
+          headers: {
+            "Content-Type": "application/json",
+            Accept: "application/json",
+          },
+        });
 
-    // Estrai lat, lng, e locale dalla query string
-    const lat = searchParams.get('lat');
-    const lng = searchParams.get('lng');
-    const ranking = searchParams.get('ranking');
-    const subranking = searchParams.get('subranking');
+        if (!indexResponse.ok) {
+          console.error("Errore nel recupero dell'index.json di 50 Top Pizza");
+          return;
+        }
 
-    if (lat && lng && ranking && subranking) {
-      setFoodSearchVisible(false);
-    }
+        const files = await indexResponse.json();
+        
+        // Inizializza i dati per 50 Top Pizza
+        const allData = {};
+        allData["50 Top Pizza"] = [];
+
+        // Fetch di tutti i file della classifica
+        for (const file of files) {
+          try {
+            const filePath = `${rankingPath}${file}`;
+            const response = await fetch(filePath, {
+              headers: {
+                "Content-Type": "application/json",
+                Accept: "application/json",
+              },
+            });
+
+            if (!response.ok) {
+              console.error(`Errore nel recupero del file: ${filePath}`);
+              continue;
+            }
+
+            const data = await response.json();
+            allData["50 Top Pizza"].push(data);
+          } catch (error) {
+            console.error(`Errore durante il recupero del file ${file}:`, error);
+          }
+        }
+
+        console.log("Dati 50 Top Pizza caricati:", allData);
+        setMarkers(allData);
+        
+      } catch (error) {
+        console.error('Errore durante il caricamento dei dati di 50 Top Pizza:', error);
+      }
+    };
+
+    load50TopPizzaData();
   }, []);
-
-  // Style per il background overlay
-  const overlayStyle = isFoodSearchVisible ? {
-    position: 'fixed',
-    top: 0,
-    left: 0,
-    width: '100%',
-    height: '100%',
-    backgroundColor: 'rgba(0, 0, 0, 0.3)',
-    zIndex: 1
-  } : {};
 
   return (
     <HelmetProvider>
@@ -75,46 +100,33 @@ export default function App() {
         <Routes>
           <Route path="/" element={
             <>
-            <Helmet>
-                <title>BiteRanks - La tua guida ai migliori ristoranti e pizzerie</title>
-                <meta name="description" content="Scopri i migliori ristoranti e pizzerie vicino a te con BiteRanks, grazie alle classifiche di Gambero Rosso, 50 Top Pizza e altre." />
-                <meta name="keywords" content="gambero rosso ristoranti, gambero rosso mappa, migliori pasticcerie, 50 top pizza" />
-                <meta property="og:title" content="BiteRanks - La tua guida ai migliori ristoranti e pizzerie" />
-                <meta property="og:description" content="Trova i migliori ristoranti con BiteRanks, consultando classifiche di esperti e scoprendo posti di qualità nelle città italiane." />
+              <Helmet>
+                <title>50 Top Pizza - La tua guida alle migliori pizzerie</title>
+                <meta name="description" content="Scopri le migliori pizzerie d'Italia con la classifica ufficiale di 50 Top Pizza" />
+                <meta name="keywords" content="50 top pizza, migliori pizzerie, pizza napoletana, pizzerie italia" />
+                <meta property="og:title" content="50 Top Pizza - La tua guida alle migliori pizzerie" />
+                <meta property="og:description" content="Trova le migliori pizzerie d'Italia con la classifica ufficiale di 50 Top Pizza" />
                 <meta property="og:url" content="https://biteranks.com" />
-                <meta property="og:site_name" content="Biteranks" />
+                <meta property="og:site_name" content="50 Top Pizza" />
                 <meta property="og:image" content="https://biteranks.com/public/logo.png" />
               </Helmet>
-              {/* Overlay scuro per tutto il contenuto */}
-              {isFoodSearchVisible && <div style={overlayStyle} />}
               
-              {/* Contenuto principale */}
+              {/* Contenuto principale - sempre visibile */}
               <div style={{ position: 'relative', zIndex: 0 }}>
                 <Map markers={markers} />
                 <SearchBarWithAutocomplete 
-                  sfsv={setFoodSearchVisible} 
-                  isFSV={isFoodSearchVisible}  
+                  sfsv={() => {}} // Funzione vuota dato che non abbiamo più FoodSearch
+                  isFSV={false}  // Sempre false dato che FoodSearch non esiste più
                   selectedItems={selectedItems} 
                   setSelectedItems={setSelectedItems}
                   markers={markers} 
                   setMarkers={setMarkers}
                 />
-                </div>
-                {isFoodSearchVisible && 
-                  <FoodSearch 
-                    sfsv={setFoodSearchVisible} 
-                    selectedItems={selectedItems} 
-                    setSelectedItems={setSelectedItems} 
-                    markers={markers} 
-                    setMarkers={setMarkers} 
-                    activeTab={activeTab} 
-                    setActiveTab={setActiveTab}
-                  />}
-            
+              </div>
             </>
           }/>
         </Routes>
       </Router>
-      </HelmetProvider>
+    </HelmetProvider>
   );
 }
