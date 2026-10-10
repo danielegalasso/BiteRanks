@@ -2,11 +2,12 @@ import React, { useState, useEffect, memo, useRef} from "react";
 import "./Map.css";
 import "leaflet/dist/leaflet.css";
 import { useSearchParams, useLocation } from 'react-router-dom'; // Aggiunto
-import { MapContainer, TileLayer, Marker, Popup, useMap, ZoomControl, LayersControl } from "react-leaflet";
+import { MapContainer, Marker, Popup, useMap, ZoomControl, LayersControl } from "react-leaflet";
 import MarkerClusterGroup from "react-leaflet-cluster";
 import createClusterCustomIcon from "./CreateClusterCustomIcon";
 import createCustomIcon from "./CreateCustomIcon";
 import SchedaLocale from "./scheda/SchedaLocale";
+import MaplibreTileLayer from "./MaplibreTileLayer";
 
 const { BaseLayer} = LayersControl;
 
@@ -184,16 +185,12 @@ export const Map = memo(({ markers }) => {
   //console.log(markers)
   
   return (
-    <MapContainer center={defaultPosition} zoom={10} zoomControl={false}>
+    <MapContainer center={defaultPosition} zoom={10} maxZoom={20} zoomControl={false}>
       {position && <MoveToLocation position={position} geolocationEnabled={geolocationEnabled} />}
       
-      <TileLayer
-        attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
-        url="https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png"
-        subdomains="abcd"
-        maxZoom={20}
-        updateWhenIdle={false}
-        keepBuffer={10}
+      <MaplibreTileLayer
+        style="https://tiles.openfreemap.org/styles/liberty"
+        attribution='<a href="https://openfreemap.org" target="_blank">OpenFreeMap</a> &copy; <a href="https://www.openmaptiles.org/" target="_blank">OpenMapTiles</a> Data from <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a>'
       />
       {/* Aggiungi qui il componente LogMapBounds per loggare i bounds e il livello di zoom */}
 
