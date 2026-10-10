@@ -17,6 +17,10 @@ import closeicon from "./emoji/closeicon.svg";
 import defaultIcon from "../../public/ranking-icon/Empty.png"; // Percorso all'icona di default
 
 
+// Id dell'ultima ricerca avviata: i file di una ricerca precedente arrivati in ritardo vengono ignorati.
+// È fuori dal componente perché FoodSearch viene smontato appena parte la ricerca.
+let latestRequestId = 0;
+
 const FoodSearch = ({sfsv, selectedItems, setSelectedItems, markers, setMarkers, activeTab, setActiveTab}) => {
 
   const [rankingItems, setRankingItems] = useState([]);
@@ -206,78 +210,40 @@ const FoodSearch = ({sfsv, selectedItems, setSelectedItems, markers, setMarkers,
     if (SearchbuttonClicked) {
       sfsv(false); // Esegui l'aggiornamento dello stato solo quando buttonClicked è true
   
+      // Tutti i file vengono scaricati in parallelo e ognuno finisce sulla mappa appena arriva,
+      // invece di aspettare l'ultimo: i marker compaiono file per file.
       const fetchAllData = async () => {
-        const allData = {}; // Dizionario per raccogliere tutti i dati
+        const requestId = ++latestRequestId;
+        const isStale = () => requestId !== latestRequestId; // una nuova ricerca ha preso il posto di questa
 
-        // se gli elementi appartengono a Ranking fai questo fetch
-        if (activeTab === "ranking"){
-          for (const item of selectedItems) {
-            const filePath = `${item.path}index.json`;
-            
-            const response = await fetch(filePath, {
-              headers: {
-                "Content-Type": "application/json",
-                Accept: "application/json",
-              },
-            });
-            
-            if (!response.ok) {
+        // Dizionario per raccogliere tutti i dati: una lista (vuota per ora) per ogni elemento selezionato
+        const allData = {};
+        selectedItems.forEach((item) => { allData[item.name] = []; });
+        setMarkers(allData);
+
+        const addData = (itemName, data) => {
+          if (!data || isStale()) return;
+          // se l'elemento è stato rimosso dalla mappa nel frattempo, il file arrivato in ritardo si scarta
+          setMarkers((prev) => (itemName in prev ? { ...prev, [itemName]: [...prev[itemName], data] } : prev));
+        };
+
+        const fetchItem = async (item) => {
+          // se gli elementi appartengono a Ranking: prima l'indice, poi tutte le sub-classifiche
+          if (activeTab === "ranking") {
+            const files = await fetchData(item, "index.json"); // Ottieni la lista dei file
+            if (!files) {
               console.error("Errore nel recupero dell'index.json");
               return;
             }
-            
-            const files = await response.json(); // Ottieni la lista dei file
-
-            // Inizializza un array vuoto per le sub-classifiche
-            allData[item.name] = [];
-
-            for (const file of files) {
-              console.log("item");
-              console.log(item);
-              console.log("file");
-              console.log(file);
-              const data = await fetchData(item, file); // Recupera i dati della sub-classifica
-
-              if (data) {
-                // Aggiungi i dati all'array solo se il recupero è stato un successo
-                allData[item.name].push(data);
-              }
-            }
+            await Promise.all(files.map(async (file) => addData(item.name, await fetchData(item, file))));
           }
-        }
-        // se gli elementi appartengono a Food fai questo fetch
-        else {
-
-          for (const item of selectedItems) {
-            console.log("item:");
-            console.log(item);
-
-
-            // Inizializza un array vuoto per le sub-classifiche
-            allData[item.name] = [];
-
-            
-            const data = await fetchData(item, ""); // Recupera i dati della sub-classifica
-
-            console.log("data:");
-            console.log(data);
-
-            if (data) {
-              // Aggiungi i dati all'array solo se il recupero è stato un successo
-              allData[item.name].push(data);
-            }
-            
+          // se gli elementi appartengono a Food il path è già il file della categoria
+          else {
+            addData(item.name, await fetchData(item, ""));
           }
+        };
 
-
-
-
-
-        }
-
-        console.log("allData");
-        console.log(allData);
-        setMarkers(allData); // Imposta i marker con tutti i dati recuperati
+        await Promise.all(selectedItems.map(fetchItem));
       };
   
       fetchAllData(); // Richiama la funzione asincrona per ottenere tutti i dati

@@ -31,6 +31,34 @@
 
 
 
+.donate-button {
+  gap: 6px;
+  padding: 0 14px;
+  background-color: #fff;
+  color: #63456E;
+  border: 1.5px solid #63456E;
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.donate-button:hover,
+.donate-button:focus-visible {
+  background-color: #63456E;
+  color: #fff;
+}
+
+.donate-icon {
+  color: #e0245e;
+  font-size: 13px;
+}
+
+.donate-button:hover .donate-icon,
+.donate-button:focus-visible .donate-icon {
+  color: #fff;
+}
+
 /* for small display  to reduce everything */
 @media (max-width: 600px) {
   .custom-button {

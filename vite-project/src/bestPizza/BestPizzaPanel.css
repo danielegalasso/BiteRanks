@@ -1,0 +1,242 @@
+/* Stessa palette della scheda locale: lilla chiaro, viola, bordi neri */
+.best-pizza-toggle,
+.best-pizza-panel {
+  --bp-bg: #EBE0F2;
+  --bp-surface: #ffffff;
+  --bp-accent: #63456E;
+  --bp-accent-soft: #8F669F;
+  --bp-text: #1a1a1a;
+  --bp-muted: #5c5463;
+  --bp-border: #000;
+  font-family: sans-serif;
+}
+
+.best-pizza-toggle {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  height: 44px;
+  padding: 0 16px;
+  border: 1.5px solid var(--bp-border);
+  border-radius: 30px;
+  background-color: var(--bp-surface);
+  color: var(--bp-text);
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+  transition: transform 0.2s, background-color 0.2s;
+}
+
+.best-pizza-toggle:hover {
+  transform: scale(1.05);
+}
+
+.best-pizza-toggle.is-open {
+  background-color: var(--bp-accent);
+  color: #fff;
+}
+
+.best-pizza-panel {
+  position: absolute;
+  top: 74px;
+  right: 20px;
+  z-index: 1000;
+  width: 360px;
+  max-height: calc(100vh - 110px);
+  display: flex;
+  flex-direction: column;
+  background-color: var(--bp-bg);
+  border: 1.5px solid var(--bp-border);
+  border-radius: 12px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.18);
+  overflow: hidden;
+  color: var(--bp-text);
+}
+
+.best-pizza-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 14px 16px 10px;
+  border-bottom: 1.5px solid var(--bp-border);
+}
+
+.best-pizza-title {
+  font-size: 17px;
+  margin: 0;
+}
+
+.best-pizza-subtitle {
+  margin-top: 2px;
+  font-size: 13px;
+  color: var(--bp-muted);
+}
+
+.best-pizza-close {
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+  border: none;
+  border-radius: 6px;
+  background-color: #000;
+  color: #fff;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.best-pizza-close:hover {
+  background-color: #444;
+}
+
+.best-pizza-body {
+  overflow-y: auto;
+  padding: 8px;
+  overscroll-behavior: contain;
+}
+
+.best-pizza-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.best-pizza-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  width: 100%;
+  padding: 10px 8px;
+  border: none;
+  border-radius: 8px;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.best-pizza-item:hover,
+.best-pizza-item:focus-visible {
+  background-color: var(--bp-surface);
+  outline: none;
+}
+
+.best-pizza-rank {
+  flex-shrink: 0;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  border: 1.5px solid var(--bp-border);
+  background-color: var(--bp-surface);
+  font-weight: bold;
+  font-size: 14px;
+  font-variant-numeric: tabular-nums;
+}
+
+.best-pizza-rank.podium-1 { background-color: #F2C94C; }
+.best-pizza-rank.podium-2 { background-color: #D5D8DC; }
+.best-pizza-rank.podium-3 { background-color: #E0A374; }
+
+.best-pizza-info {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  gap: 3px;
+}
+
+.best-pizza-name {
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 1.25;
+}
+
+.best-pizza-address {
+  font-size: 12px;
+  color: var(--bp-muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.best-pizza-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 2px;
+}
+
+.best-pizza-badge {
+  font-size: 11px;
+  line-height: 1;
+  padding: 4px 7px;
+  border-radius: 20px;
+  border: 1px solid var(--bp-accent-soft);
+  color: var(--bp-accent);
+  background-color: var(--bp-surface);
+  white-space: nowrap;
+}
+
+.best-pizza-badge.is-best {
+  background-color: var(--bp-accent);
+  border-color: var(--bp-accent);
+  color: #fff;
+}
+
+.best-pizza-empty {
+  padding: 16px 8px;
+  font-size: 14px;
+  color: var(--bp-muted);
+  text-align: center;
+}
+
+.best-pizza-more {
+  display: block;
+  width: calc(100% - 16px);
+  margin: 6px 8px 8px;
+  padding: 10px;
+  border: none;
+  border-radius: 6px;
+  background-color: #000;
+  color: #fff;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.best-pizza-more:hover {
+  background-color: #444;
+}
+
+/* Su mobile la barra di ricerca occupa la parte alta: il pannello diventa un foglio dal basso */
+@media (orientation: portrait), (max-width: 700px) {
+  .best-pizza-toggle {
+    top: auto;
+    bottom: 28px;
+    right: 16px;
+  }
+
+  .best-pizza-panel {
+    top: auto;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    max-height: 55vh;
+    border-radius: 16px 16px 0 0;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+  }
+
+  .best-pizza-toggle.is-open {
+    display: none;
+  }
+}

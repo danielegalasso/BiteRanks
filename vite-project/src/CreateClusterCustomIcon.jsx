@@ -52,18 +52,22 @@ const extractColor = (svgString) => {
     return 'black'; // Colore di default se non trovato
 };
 
+// Cluster con gli stessi colori e lo stesso numero di marker hanno la stessa icona
+const clusterIconCache = new Map();
+
 // Funzione per creare un'icona a torta per il cluster FUNZIONE ATTUALE (la più bella)
 const createClusterCustomIcon = (cluster) => {
     const childMarkers = cluster.getAllChildMarkers();
-    const colors = childMarkers.map(marker => {
-        const iconUrl = marker.options.icon.options.iconUrl;
-        const svgString = decodeSvgUrl(iconUrl);
-        const color = extractColor(svgString);
-        return color;
-    });
-
-    const uniqueColors = [...new Set(colors)];
+    const uniqueColors = [...new Set(childMarkers.map(marker => {
+        const iconOptions = marker.options.icon.options;
+        // il colore è salvato nelle opzioni dell'icona; decodificare l'SVG resta solo come ripiego
+        return iconOptions.color || extractColor(decodeSvgUrl(iconOptions.iconUrl));
+    }))];
     const totalColors = uniqueColors.length;
+    const cacheKey = `${uniqueColors.join(';')}|${cluster.getChildCount()}`;
+    if (clusterIconCache.has(cacheKey)) {
+        return clusterIconCache.get(cacheKey);
+    }
 
     // Funzione per convertire coordinate polari in coordinate cartesiane
     const polarToCartesian = (centerX, centerY, radius, angleInDegrees) => {
@@ -86,11 +90,13 @@ const createClusterCustomIcon = (cluster) => {
         `;
         const encodedSvg = encodeURIComponent(svgIcon);
         const svgUrl = `data:image/svg+xml;charset=utf-8,${encodedSvg}`;
-        return divIcon({
+        const icon = divIcon({
             html: `<img src="${svgUrl}" />`,
             className: "custom-marker-cluster",
             iconSize: point(36, 36, true),
         });
+        clusterIconCache.set(cacheKey, icon);
+        return icon;
     }
 
     // Altrimenti, crea un grafico a torta con colori multipli
@@ -119,11 +125,13 @@ const createClusterCustomIcon = (cluster) => {
     `;
     const encodedSvg = encodeURIComponent(svgIcon);
     const svgUrl = `data:image/svg+xml;charset=utf-8,${encodedSvg}`;
-    return divIcon({
+    const icon = divIcon({
         html: `<img src="${svgUrl}" />`,
         className: "custom-marker-cluster",
         iconSize: point(36, 36, true),
     });
+    clusterIconCache.set(cacheKey, icon);
+    return icon;
 };
 
 export default createClusterCustomIcon;

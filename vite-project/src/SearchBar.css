@@ -53,10 +53,62 @@
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   }
   
+  .suggestion-list {
+    overflow: hidden;
+  }
+
   .suggestion-item {
     cursor: pointer;
     padding: 10px;
     border-bottom: 1px solid #ddd;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .suggestion-item:last-child {
+    border-bottom: none;
+  }
+
+  .suggestion-item.is-active {
+    background-color: #EBE0F2;
+  }
+
+  .suggestion-icon {
+    flex-shrink: 0;
+    color: #63456E;
+    font-size: 1rem;
+  }
+
+  .suggestion-text {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+  }
+
+  .suggestion-name {
+    font-size: 15px;
+    color: #1a1a1a;
+  }
+
+  .suggestion-match {
+    background: none;
+    color: inherit;
+    font-weight: bold;
+  }
+
+  .suggestion-details {
+    font-size: 12px;
+    color: #6b6b6b;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .suggestion-status {
+    cursor: default;
+    color: #6b6b6b;
+    font-size: 14px;
   }
 
   .geolocation-icon {

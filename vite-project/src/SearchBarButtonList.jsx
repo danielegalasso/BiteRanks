@@ -1,11 +1,13 @@
 import React, {useState} from 'react';
 import Button from './SearchBarButton.jsx';
 import ButtonEmoji from './SearchBarButtonEmoji.jsx';
-import { FaEdit, FaDice, FaRegWindowClose } from 'react-icons/fa'; 
+import { FaEdit, FaDice, FaRegWindowClose, FaHeart } from 'react-icons/fa'; 
 import "leaflet.markercluster";
 import { IoMdClose } from "react-icons/io";
 import './SearchBarButtonList.css';
 import { all } from 'axios';
+
+const DONATE_URL = 'https://revolut.me/daniele_galasso';
 
 const ButtonList = ({ sfsv, isFSV, selectedItems, setSelectedItems, markers, setMarkers}) => {
   const [suggestedIndices, setSuggestedIndices] = useState([]);
@@ -118,6 +120,16 @@ const ButtonList = ({ sfsv, isFSV, selectedItems, setSelectedItems, markers, set
           onClick={button.onClick}
         />
       ))}
+      <a
+        className="custom-button donate-button"
+        href={DONATE_URL}
+        target="_blank"
+        rel="noopener noreferrer"
+        title="Support BiteRanks with a donation"
+      >
+        <FaHeart className="donate-icon" aria-hidden="true" />
+        <span>Donate</span>
+      </a>
     </div>
   );
 };

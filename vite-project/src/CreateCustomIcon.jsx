@@ -124,13 +124,19 @@ function getBestTextColor(backgroundColor) {
   return luminance > 0.179 ? 'black' : 'white';
 }
 
+// Le icone uguali (stessa classifica, categoria e posizione) vengono create una volta sola:
+// generare l'SVG per ogni marker a ogni render era la parte più lenta del caricamento
+const iconCache = new Map();
+
 // Funzione per generare l'icona SVG
-const createCustomIcon = (rankName, category, rank, nomeChiaveJson) => {
-  let colorCondition = true;
-  if (nomeChiaveJson.includes(rankName)) {
-    colorCondition = false;
+// useCategoryColor: true se il colore dipende solo dalla categoria (ricerca per cibo),
+// false se dipende dalla classifica (ricerca per classifica)
+const createCustomIcon = (rankName, category, rank, useCategoryColor) => {
+  const cacheKey = `${rankName}|${category}|${rank}|${useCategoryColor}`;
+  if (iconCache.has(cacheKey)) {
+    return iconCache.get(cacheKey);
   }
-  // console.log(colorCondition);
+  const colorCondition = useCategoryColor;
   const color = stringToColor(rankName, category, colorCondition); // Genera un colore unico per la categoria
 
   // Imposta il testo del rank se è fornito
@@ -170,12 +176,15 @@ const createCustomIcon = (rankName, category, rank, nomeChiaveJson) => {
   const encodedSvg = encodeURIComponent(svgString);
   const svgUrl = `data:image/svg+xml;charset=utf-8,${encodedSvg}`;
 
-  return new Icon({
+  const icon = new Icon({
     iconUrl: svgUrl,
     iconSize: [30, 36.75],
     iconAnchor: [15, 37.5],
     popupAnchor: [0, -37.5],
+    color, // letto dai cluster senza dover decodificare l'SVG
   });
+  iconCache.set(cacheKey, icon);
+  return icon;
 };
 
 

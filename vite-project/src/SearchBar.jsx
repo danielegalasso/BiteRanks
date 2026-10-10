@@ -1,150 +1,114 @@
 import React, { useState, useEffect, useRef } from 'react';
-import axios from 'axios';
-import { LatLngBounds } from 'leaflet'; // Assicurati di avere Leaflet importato
-import { FaSearch, FaGlobe, FaCompass } from 'react-icons/fa';
+import { FaSearch, FaGlobe, FaCompass, FaCity, FaRoad, FaFlag, FaMapMarkerAlt, FaMap } from 'react-icons/fa';
 import { useNavigate } from 'react-router-dom'; // Importa useNavigate
-import './SearchBar.css'; 
+import './SearchBar.css';
 import ButtonList from './SearchBarButtonList.jsx';
+import { searchPlaces, zoomDistance, normalize } from './search/geocoder';
 
-// Funzione per calcolare la distanza tra due punti usando la formula dell'Haversine
-const calculateDistance = (lat1, lon1, lat2, lon2) => {
-  const R = 6371; // Raggio della Terra in km
-  const dLat = (lat2 - lat1) * (Math.PI / 180);
-  const dLon = (lon2 - lon1) * (Math.PI / 180);
-  const a = 
-    Math.sin(dLat / 2) * Math.sin(dLat / 2) +
-    Math.cos(lat1 * (Math.PI / 180)) * Math.cos(lat2 * (Math.PI / 180)) *
-    Math.sin(dLon / 2) * Math.sin(dLon / 2);
-  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
-  const distance = R * c; // Distanza in km
-  return distance;
+const DEBOUNCE_MS = 250; // si cerca quando l'utente fa una pausa, non a ogni tasto
+
+const TYPE_ICONS = {
+  country: FaFlag,
+  state: FaMap,
+  county: FaMap,
+  city: FaCity,
+  district: FaMapMarkerAlt,
+  street: FaRoad,
+};
+
+// Centro della mappa visibile: i risultati vicini a dove si sta guardando vengono prima
+const getMapCenter = () => {
+  const map = window.mapInstance;
+  if (!map) return null;
+  const center = map.getCenter();
+  return { lat: center.lat, lon: center.lng };
+};
+
+// Evidenzia la parte del nome che corrisponde al testo cercato
+const Highlight = ({ text, query }) => {
+  const q = normalize(query);
+  const index = q ? normalize(text).indexOf(q) : -1;
+  // normalize può cambiare la lunghezza solo per caratteri speciali rari: in quel caso niente evidenziazione
+  if (index < 0 || normalize(text).length !== text.length) return text;
+  return (
+    <>
+      {text.slice(0, index)}
+      <mark className="suggestion-match">{text.slice(index, index + q.length)}</mark>
+      {text.slice(index + q.length)}
+    </>
+  );
 };
 
 const SearchBarWithAutocomplete = ({sfsv, isFSV , selectedItems, setSelectedItems, markers, setMarkers}) => {
   const [searchTerm, setSearchTerm] = useState('');
   const [suggestions, setSuggestions] = useState([]);
-  const [userPosition, setUserPosition] = useState(null);
-  const [countryCode, setCountryCode] = useState(null); // Aggiungi uno stato per il codice paese
-  const [selectedCoordinates, setSelectedCoordinates] = useState(null); // Stato per le coordinate selezionate
-  const [suggestionType, setSuggestionType] = useState(''); // per memorizzare il tipo di luogo selezionato (nel suggerimento API), puo essere city, country
-  const [distanceArea, setDistanceArea] = useState(null); // calcola la distanza di una bounding box (per capire l'area di una città) quanto è grande
-  //ma non è proprio un'area, è una distanza tra i due angoli estremi della bounding box di una citta
+  const [status, setStatus] = useState('idle'); // idle | loading | done | error
+  const [isOpen, setIsOpen] = useState(false);
+  const [activeIndex, setActiveIndex] = useState(-1); // suggerimento evidenziato con le frecce
   const navigate = useNavigate(); // Inizializza useNavigate
 
-  //devo usare una ref anche per i suggerimenti dell'API in quanto non sono considerati parte della search-bar, e io devo 
+  //devo usare una ref anche per i suggerimenti dell'API in quanto non sono considerati parte della search-bar, e io devo
   //nasconderli quando clicco fuori dalla search-bar e dalla lista dei suggerimenti
   const searchBarRef = useRef(null);
-  const suggestionsRef = useRef(null); // Riferimento anche per i suggerimenti
   const inputRef = useRef(null);
+  const pendingSelectRef = useRef(false); // Invio premuto prima che arrivassero i risultati
 
-  // Ottenere la posizione dell'utente al caricamento della pagina
+  const goToPlace = (place) => {
+    navigate(`/?lat=${place.lat}&lng=${place.lon}&type=${place.type}&distance=${zoomDistance(place)}`);
+    resetState();
+    if (inputRef.current) inputRef.current.blur();
+  };
+
+  // Ricerca con debounce: ogni nuova ricerca annulla quella precedente,
+  // così una risposta lenta non sovrascrive i risultati del testo più recente
   useEffect(() => {
-    if (navigator.geolocation) {
-      navigator.geolocation.getCurrentPosition(
-        async (position) => {
-          const { latitude, longitude } = position.coords;
-          setUserPosition({ lat: latitude, lon: longitude });
-
-          // Recuperiamo il country code dalla lat/lon dell'utente
-          try {
-            const reverseGeoResponse = await axios.get(
-              `https://api.opencagedata.com/geocode/v1/json?q=${latitude}+${longitude}&key=a3486d3fed1b41939800bca4fbf9915c`
-            );
-            const country = reverseGeoResponse.data.results[0].components.country_code.toUpperCase();
-            setCountryCode(country); // Imposta il codice paese (es. 'IT' per Italia)
-          } catch (error) {
-            console.error('Errore nel recupero del country code:', error);
-          }
-        },
-        (error) => {
-          console.error("Errore nella geolocalizzazione:", error);
-          setUserPosition(null);
-        }
-      );
-    }
-  }, []);
-
-  const handleSearchChange = async (e) => {
-    const value = e.target.value;
-    setSearchTerm(value);
-
-    if (value.trim() === '' || value === null) {
+    const query = searchTerm.trim();
+    if (query.length < 2) {
       setSuggestions([]);
+      setStatus('idle');
       return;
     }
-
-    if (value.length >= 1) {
+    const controller = new AbortController();
+    setStatus('loading');
+    const timer = setTimeout(async () => {
       try {
-        // Rimuovi il parametro countrycode per ricerche generiche (ad es. "mi")
-        //const countryParam = (value.length > 2 && countryCode) ? `&countrycode=${countryCode}` : '';
-        const countryParam = '';
-
-        const response = await axios.get(
-          `https://api.opencagedata.com/geocode/v1/json?q=${encodeURIComponent(value)}&limit=10&type=city&key=a3486d3fed1b41939800bca4fbf9915c${countryParam}`
-        );
-
-        // Ricaviamo i risultati con nome e coordinate
-        const results = response.data.results.map(result => ({
-          name: result.formatted,
-          lat: result.geometry.lat,
-          lon: result.geometry.lng,
-          type: result.components._type, // Aggiungiamo il tipo di luogo (es. city, country)
-          //TYPE POSSIBILI: road, attraction, neighbourhood, city, country
-          //esempio road: "via dei condotti", attraction: "colosseo", neighbourhood: "trastevere", city: "roma", country: "italia"
-          boundingBox: result.bounds ? { // Verifica se result.bounds esiste prima di usarlo
-            southwest: {
-              lat: result.bounds.southwest.lat,
-              lon: result.bounds.southwest.lng
-            },
-            northeast: {
-              lat: result.bounds.northeast.lat,
-              lon: result.bounds.northeast.lng
-            }
-          } : null // Imposta a null se la boundingBox non è presente
-        }));
-
-        // Se abbiamo la posizione dell'utente, ordina i risultati per vicinanza
-        if (userPosition) {
-          results.sort((a, b) => {
-            const distanceA = calculateDistance(userPosition.lat, userPosition.lon, a.lat, a.lon);
-            const distanceB = calculateDistance(userPosition.lat, userPosition.lon, b.lat, b.lon);
-            return distanceA - distanceB; // Ordina dal più vicino al più lontano
-          });
-        }
+        const results = await searchPlaces(query, { bias: getMapCenter(), signal: controller.signal });
         setSuggestions(results);
-
+        setActiveIndex(results.length ? 0 : -1);
+        setStatus('done');
+        if (pendingSelectRef.current) {
+          pendingSelectRef.current = false;
+          if (results.length) goToPlace(results[0]);
+        }
       } catch (error) {
-        console.error('Errore nel recupero dei dati:', error);
+        if (error.name === 'AbortError') return;
+        console.error('Errore nel recupero dei luoghi:', error);
+        setSuggestions([]);
+        setStatus('error');
       }
-    } else {
-      setSuggestions([]);
-    }
+    }, DEBOUNCE_MS);
+    return () => {
+      clearTimeout(timer);
+      controller.abort();
+    };
+  }, [searchTerm]);
+
+  const handleSearchChange = (e) => {
+    setSearchTerm(e.target.value);
+    setIsOpen(true);
+    pendingSelectRef.current = false;
   };
 
-  const handleSuggestionClick = (suggestion) => {
-    setSearchTerm(suggestion.name);
-    setSelectedCoordinates({ lat: suggestion.lat, lon: suggestion.lon }); // Memorizza le coordinate
-    setSuggestionType(suggestion.type);
-    console.log("bounding box: ", suggestion.boundingBox);
-    const distance = calculateBoundingBoxDistance(suggestion.boundingBox);
-    setDistanceArea(distance);
-    //console.log("lat: ", suggestion.lat, "lon: ", suggestion.lon);
-    setSuggestions([]); // Nascondi la lista di suggerimenti dopo la selezione
-
-    // Sposta il cursore nella search bar, dopo che ho scelto il suggerimento voglio il focus sulla searchBar
-    if (inputRef.current) {
-      inputRef.current.focus();
-    }
-  };
-
-  // Funzione per zoomare sulla mappa
+  // Funzione per zoomare sulla mappa: va al suggerimento evidenziato (o al primo)
   const handleSearchClick = () => {
-    if (selectedCoordinates) {
-      // Naviga verso un nuovo URL con le coordinate
-      navigate(`/?lat=${selectedCoordinates.lat}&lng=${selectedCoordinates.lon}&type=${suggestionType}&distance=${distanceArea}`);
-      resetState(); // Resetta lo stato
+    const place = suggestions[activeIndex] || suggestions[0];
+    if (place && status === 'done') {
+      goToPlace(place);
+    } else if (searchTerm.trim().length >= 2) {
+      pendingSelectRef.current = true; // si va al primo risultato appena arriva
     }
   };
+
   // Funzione per zoomare sulla posizione dell'utente
   const handleUserPositionClick = () => {
     if (!navigator.geolocation) {
@@ -155,12 +119,9 @@ const SearchBarWithAutocomplete = ({sfsv, isFSV , selectedItems, setSelectedItem
     navigator.geolocation.getCurrentPosition(
       (position) => {
         const { latitude, longitude } = position.coords;
-        setUserPosition({ lat: latitude, lon: longitude });
-
         // Naviga verso la posizione dell'utente dopo aver ottenuto le coordinate
         navigate(`/?lat=${latitude}&lng=${longitude}`);
         resetState(); // Resetta lo stato
-        setSuggestions([]); // Nascondi la lista di suggerimenti dopo la selezione
       },
       (error) => {
         // Mostra un messaggio solo in caso di rifiuto della geolocalizzazione
@@ -172,41 +133,50 @@ const SearchBarWithAutocomplete = ({sfsv, isFSV , selectedItems, setSelectedItem
       }
     );
   };
+
   const resetState = () => {
     setSearchTerm(''); // Resetta il termine di ricerca
-    setSelectedCoordinates(null); // Resetta le coordinate selezionate
-    setUserPosition(null); // Resetta la posizione dell'utente
-    setSuggestionType(''); // Resetta il tipo di luogo
-    setDistanceArea(null); // Resetta la distanza dell'area
+    setSuggestions([]);
+    setStatus('idle');
+    setIsOpen(false);
+    setActiveIndex(-1);
+    pendingSelectRef.current = false;
   };
-  
-  // Funzione per calcolare la distanza tra due coordinate (latitudine e longitudine)
-  const calculateBoundingBoxDistance = (boundingBox) => {
-    const sw = boundingBox.southwest; // Coordinate dell'angolo sud-ovest
-    const ne = boundingBox.northeast; // Coordinate dell'angolo nord-est
 
-    // Calcola la distanza diagonale tra i due angoli della bounding box usando la formula dell'Haversine
-    return calculateDistance(sw.lat, sw.lon, ne.lat, ne.lon);
+  // l'ultima voce della lista è sempre "Your Location"
+  const optionCount = suggestions.length + 1;
+
+  const handleKeyDown = (e) => {
+    if (e.key === 'ArrowDown') {
+      e.preventDefault();
+      setIsOpen(true);
+      setActiveIndex((i) => (i + 1) % optionCount);
+    } else if (e.key === 'ArrowUp') {
+      e.preventDefault();
+      setActiveIndex((i) => (i <= 0 ? optionCount - 1 : i - 1));
+    } else if (e.key === 'Enter') {
+      e.preventDefault();
+      if (activeIndex === suggestions.length) handleUserPositionClick();
+      else handleSearchClick(); // Chiama la funzione quando viene premuto il tasto Invio
+    } else if (e.key === 'Escape') {
+      setIsOpen(false);
+    }
   };
 
   //ORA CHE CLICCO FUORI LA SEARCHBAR I SUGGERIMENTI SPARISCONO
-  // Funzione per gestire i clic al di fuori della SearchBar
-  // Funzione per gestire i clic al di fuori della SearchBar e dei suggerimenti
-  const handleClickOutside = (event) => {
-    // Controlla se searchBarRef esiste e se il clic non è all'interno della search bar
-    const clickedOutsideSearchBar = searchBarRef.current && !searchBarRef.current.contains(event.target);
-    const clickedOutsideSuggestions = suggestionsRef.current && !suggestionsRef.current.contains(event.target);
-    // Se il clic è al di fuori sia della search bar che dei suggerimenti, resetta i suggerimenti
-    if (clickedOutsideSearchBar && clickedOutsideSuggestions) {
-      setSuggestions([]);
-    }
-  };
   useEffect(() => {
+    const handleClickOutside = (event) => {
+      if (searchBarRef.current && !searchBarRef.current.contains(event.target)) {
+        setIsOpen(false);
+      }
+    };
     document.addEventListener('mousedown', handleClickOutside);
     return () => {
       document.removeEventListener('mousedown', handleClickOutside);
     };
   }, []);
+
+  const showList = isOpen && searchTerm.length > 0;
 
   return (
     <div className="search-container" ref={searchBarRef}>
@@ -217,46 +187,72 @@ const SearchBarWithAutocomplete = ({sfsv, isFSV , selectedItems, setSelectedItem
           type="text"
           value={searchTerm}
           onChange={handleSearchChange}
-          onKeyDown={(e) => {
-            if (e.key === 'Enter') {
-              handleSearchClick(); // Chiama la funzione quando viene premuto il tasto Invio
-            }
-          }}
+          onKeyDown={handleKeyDown}
+          onFocus={() => setIsOpen(true)}
           placeholder="Find Location 🌍"
           className="search-input"
+          role="combobox"
+          aria-expanded={showList}
+          aria-controls="location-suggestions"
+          aria-autocomplete="list"
+          aria-activedescendant={showList && activeIndex >= 0 ? `location-option-${activeIndex}` : undefined}
+          autoComplete="off"
+          spellCheck={false}
         />
-        <FaSearch className="icon search-icon" onClick={handleSearchClick} /> 
+        <FaSearch className="icon search-icon" onClick={handleSearchClick} />
       </div>
 
-      {/* Se ci sono suggerimenti, mostriamo la lista dei suggerimenti */}
-    {(suggestions.length > 0 || searchTerm.length > 0) && (
-      <ul className="suggestion-list" ref={suggestionsRef}>
-        {suggestions.length > 0 ? (
-          suggestions.map((suggestion, index) => (
-            <li
-              key={index}
-              onClick={() => handleSuggestionClick(suggestion)}
-              className="suggestion-item"
-            >
-              {suggestion.name}
-            </li>
-          ))
-        ) : (
-          // Messaggio personalizzato se non ci sono suggerimenti
-          <li className="suggestion-item no-click">
+      {/* Lista dei suggerimenti: luoghi trovati e, sempre per ultima, la posizione dell'utente */}
+      {showList && (
+        <ul className="suggestion-list" id="location-suggestions" role="listbox">
+          {suggestions.map((suggestion, index) => {
+            const Icon = TYPE_ICONS[suggestion.type] || FaMapMarkerAlt;
+            return (
+              <li
+                key={`${suggestion.source}-${suggestion.lat}-${suggestion.lon}-${index}`}
+                id={`location-option-${index}`}
+                role="option"
+                aria-selected={index === activeIndex}
+                onMouseDown={(e) => e.preventDefault()} // il focus resta sulla barra
+                onClick={() => goToPlace(suggestion)}
+                onMouseEnter={() => setActiveIndex(index)}
+                className={`suggestion-item ${index === activeIndex ? 'is-active' : ''}`}
+              >
+                <Icon className="suggestion-icon" aria-hidden="true" />
+                <span className="suggestion-text">
+                  <span className="suggestion-name"><Highlight text={suggestion.name} query={searchTerm} /></span>
+                  {suggestion.details && <span className="suggestion-details">{suggestion.details}</span>}
+                </span>
+              </li>
+            );
+          })}
+
+          {status === 'loading' && suggestions.length === 0 && (
+            <li className="suggestion-item no-click suggestion-status">Searching…</li>
+          )}
+          {status === 'done' && suggestions.length === 0 && (
+            <li className="suggestion-item no-click suggestion-status">No places found</li>
+          )}
+          {status === 'error' && (
+            <li className="suggestion-item no-click suggestion-status">Search unavailable, please try again</li>
+          )}
+
+          {/* La posizione dell'utente sarà sempre visibile come ultima opzione */}
+          <li
+            key="user-position"
+            id={`location-option-${suggestions.length}`}
+            role="option"
+            aria-selected={activeIndex === suggestions.length}
+            onMouseDown={(e) => e.preventDefault()}
+            onClick={handleUserPositionClick}
+            onMouseEnter={() => setActiveIndex(suggestions.length)}
+            className={`suggestion-item user-position-item ${activeIndex === suggestions.length ? 'is-active' : ''}`}
+          >
+            <FaCompass className="compass-icon geolocation-icon"/>
+            <span className='geolocation-text'> Your Location </span>
           </li>
-        )}
-        {/* La posizione dell'utente sarà sempre visibile come ultima opzione */}
-        <li
-          key="user-position"
-          onClick={handleUserPositionClick}
-          className="suggestion-item user-position-item"
-        >
-          <FaCompass className="compass-icon geolocation-icon"/> 
-          <text className='geolocation-text'> Your Location </text>
-        </li>
-      </ul>
-    )}
+        </ul>
+      )}
 
       <ButtonList sfsv={sfsv} isFSV={isFSV } selectedItems={selectedItems} setSelectedItems={setSelectedItems} markers={markers} setMarkers={setMarkers} />
     </div>

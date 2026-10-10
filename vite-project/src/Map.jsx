@@ -1,44 +1,14 @@
-import React, { useState, useEffect, memo, useRef} from "react";
+import React, { useState, useEffect, memo } from "react";
 import "./Map.css";
 import "leaflet/dist/leaflet.css";
 import { useSearchParams, useLocation } from 'react-router-dom'; // Aggiunto
-import { MapContainer, Marker, Popup, useMap, ZoomControl, LayersControl } from "react-leaflet";
-import MarkerClusterGroup from "react-leaflet-cluster";
-import createClusterCustomIcon from "./CreateClusterCustomIcon";
-import createCustomIcon from "./CreateCustomIcon";
-import SchedaLocale from "./scheda/SchedaLocale";
+import { MapContainer, useMap, LayersControl } from "react-leaflet";
+import L from "leaflet";
+import MarkersLayer from "./MarkersLayer";
 import MaplibreTileLayer from "./MaplibreTileLayer";
+import BestPizzaPanel from "./bestPizza/BestPizzaPanel";
 
 const { BaseLayer} = LayersControl;
-
-const getZoomLevelByDistance = (distance) => {
-  // Punti di riferimento per distanza e zoom
-  const referencePoints = [
-    { distance: 0.22, zoom: 18 },
-    { distance: 16, zoom: 14 },
-    { distance: 162, zoom: 10 },
-    { distance: 694, zoom: 8 },
-    { distance: 1656.38, zoom: 6 }
-  ];
-  // Ordina i punti di riferimento per distanza crescente
-  referencePoints.sort((a, b) => a.distance - b.distance);
-  // Trova i due punti di riferimento tra i quali la distanza rientra
-  for (let i = 0; i < referencePoints.length - 1; i++) {
-    const start = referencePoints[i];
-    const end = referencePoints[i + 1];
-    if (distance >= start.distance && distance <= end.distance) {
-      // Interpola tra i due punti di riferimento
-      const ratio = (distance - start.distance) / (end.distance - start.distance);
-      return start.zoom + ratio * (end.zoom - start.zoom);
-    }
-  }
-  // Se la distanza è inferiore al primo punto di riferimento, restituisci il livello di zoom massimo
-  if (distance < referencePoints[0].distance) {
-    return referencePoints[0].zoom;
-  }
-  // Se la distanza è superiore all'ultimo punto di riferimento, restituisci il livello di zoom minimo
-  return referencePoints[referencePoints.length - 1].zoom;
-};
 
 // Funzione per stampare i bounds dopo ogni zoom/pan
 function LogMapBounds() {
@@ -85,7 +55,15 @@ function MoveToLocation({ position, geolocationEnabled}) {
     const distanceArea = searchParams.get('distance'); // distanza in km della citta (simile all'area)
     if (lat && lng) {
       if(distanceArea){ //se è presente distanceArea nell'url grazie al FoodSearch 
-        const zoomLevel = getZoomLevelByDistance(parseFloat(distanceArea));
+        // l'area cercata (diagonale in km) deve stare tutta nello schermo, qualunque sia la sua dimensione
+        const halfSideKm = parseFloat(distanceArea) / 2 / Math.SQRT2;
+        const dLat = halfSideKm / 111.32;
+        const dLng = halfSideKm / (111.32 * Math.cos(parseFloat(lat) * Math.PI / 180));
+        const area = L.latLngBounds(
+          [parseFloat(lat) - dLat, parseFloat(lng) - dLng],
+          [parseFloat(lat) + dLat, parseFloat(lng) + dLng]
+        );
+        const zoomLevel = Math.min(map.getBoundsZoom(area), 17);
         map.setView([parseFloat(lat), parseFloat(lng)], zoomLevel);
       }
       else{ 
@@ -110,11 +88,9 @@ function MoveToLocation({ position, geolocationEnabled}) {
 export const Map = memo(({ markers }) => {
   //console.log("Map component rendered"); // Questo ti dirà ogni volta che il componente viene ri-renderizzato.
   const [position, setPosition] = useState(null);
-  const [renderMarkers, setRenderMarkers] = useState(false);
   const [geolocationEnabled, setGeolocationEnabled] = useState(false);
   const defaultPosition = [41.9028, 12.4964]; // Rome fallback
   const [searchParams] = useSearchParams(); // Aggiunto per leggere i parametri
-  const markerRefs = useRef({}); // To store references to markers
 
   useEffect(() => {
     const lat = searchParams.get('lat');
@@ -140,47 +116,6 @@ export const Map = memo(({ markers }) => {
     }
   }, [searchParams]);
 
-  // Load markers after a delay to avoid lag during transitions
-  // FUNZIONE HOOK che si attiva ogni volta che la variabile position cambia
-  useEffect(() => {
-    if (position) {
-      setRenderMarkers(true);
-    }
-  }, [position]);
-
-  useEffect(() => {
-    // Stampa i riferimenti e i marker nel log per debug
-    //console.log("Riferimenti ai marker creati: ", Object.keys(markerRefs.current).length);
-    //console.log("Numero totale dei marker attesi: ", Object.keys(markers).reduce((total, cat) => total + markers[cat].length, 0));
-    
-    // Calcola il numero totale di marker attesi, ovvero la somma di tutti i marker per categoria
-    const expectedMarkersCount = Object.keys(markers).reduce((total, cat) => total + markers[cat].length, 0);
-    
-    // Se tutti i marker sono stati caricati, apri il popup del marker corrispondente alle coordinate nell'URL
-    if (Object.keys(markerRefs.current).length >= expectedMarkersCount - 1) {
-      //console.log("Tutti i marker sono stati caricati");
-      const lat = searchParams.get('lat');
-      const lng = searchParams.get('lng');
-      const ranking = searchParams.get('ranking');
-      const subranking = searchParams.get('subranking');
-
-      //console.log("Latitudine e longitudine dall'URL: ", lat, lng);
-      if (lat && lng  && ranking && subranking) {
-        const targetCoords = [parseFloat(lat), parseFloat(lng)];
-      
-        // Utilizza setTimeout per ritardare l'apertura del popup dopo 500ms (puoi modificare il tempo in base alle tue esigenze)
-        setTimeout(() => {
-          Object.values(markerRefs.current).forEach(marker => {
-            if (marker && marker.getLatLng().equals(targetCoords)) {
-              //console.log("Apertura popup per il marker alle coordinate: ", targetCoords);
-              marker.openPopup();
-            }
-          });
-        }, 500);
-      }
-    }
-  }, [markerRefs.current, markers]); 
-
   //console.log("markers:");
   //console.log(markers)
   
@@ -196,63 +131,9 @@ export const Map = memo(({ markers }) => {
 
       {position && <MoveToLocation position={position} geolocationEnabled={geolocationEnabled} />}
 
+      <BestPizzaPanel />
 
-      {renderMarkers && (
-        <MarkerClusterGroup 
-        chunkedLoading 
-        iconCreateFunction={createClusterCustomIcon}
-        ref={el => {
-            window.globalClusters = el; // Salva i cluster globalmente
-        }}>
-        {Object.entries(markers).map(([classificaKey, classifica], classificaIndex) => (
-          Object.entries(classifica).map(([subclassificaKey, subclassifica], subclassificaIndex) => (
-            Object.entries(subclassifica).map(([categoryKey, category], categoryIndex) => (
-              category.map((locale, localeIndex) =>
-                locale.coord.map((coords, coordsIndex) => {
-                  const nomeLocale = locale.name;
-                  //const nomeLocale = Object.keys(markers);
-
-                  const nomeClassifica = locale.ranking;
-                  const subclassifiche = [[locale["sub-ranking"], locale.position, locale.ref]];
-                  const linkGoogleMaps = `https://www.google.com/maps?q=${coords[0]},${coords[1]}`;
-                  const linkIndicazioniMaps = `https://www.google.com/maps/dir/?api=1&destination=${coords[0]},${coords[1]}`;
-                  const linkSitoWeb = locale.website; // Corretto da `webisite` a `website`
-
-                  const nomeChiaveJson = Object.keys(markers);
-                  
-                  return (
-                    <Marker
-                      key={`${classificaIndex}-${subclassificaIndex}-${categoryIndex}-${localeIndex}-${coordsIndex}`}
-                      position={coords}
-                      icon={createCustomIcon(nomeClassifica, categoryKey, locale.position, nomeChiaveJson)}
-                      ref={el => {
-                        markerRefs.current[`${categoryIndex}-${localeIndex}-${coordsIndex}`] = el
-                        window.globalMarkers = markerRefs.current; // Salva i marker globalmente
-                      }}
-                    >
-                      <Popup>
-                        <SchedaLocale
-                          nome={nomeLocale}
-                          nomeClassifica = {nomeClassifica}
-                          subclassifiche={subclassifiche}
-                          linkGoogleMaps={linkGoogleMaps}
-                          linkIndicazioniMaps={linkIndicazioniMaps}
-                          linkSitoWeb={linkSitoWeb}
-                          coords={coords}
-                        />
-                      </Popup>
-                    </Marker>
-                  );
-                })
-              )
-            ))
-          ))
-        ))}
-      </MarkerClusterGroup>
-      
-      
-      
-      )}
+      <MarkersLayer markers={markers} />
     </MapContainer>
   );
 });

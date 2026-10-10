@@ -1,0 +1,1279 @@
+{
+    "50 Top Pizza Europa 2026": [
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "1°",
+            "name": "Napoli on the Road",
+            "ref": "https://www.50toppizza.it/referenza/napoli-on-the-road-2026/",
+            "address": [
+                "140 Wardour St, Soho, London W1F 8ZT, United Kingdom",
+                "9A Devonshire Rd, Chiswick, Londra, Regno Unito",
+                "12 Red Lion St, Richmond TW9 1RW, Regno Unito"
+            ],
+            "coord": [
+                [
+                    51.5145602,
+                    -0.1345361
+                ],
+                [
+                    51.492143,
+                    -0.2562424
+                ],
+                [
+                    51.4594683,
+                    -0.3046947
+                ]
+            ],
+            "website": "https://www.napoliontheroad.co.uk/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "2°",
+            "name": "Baldoria",
+            "ref": "https://www.50toppizza.it/referenza/baldoria-2026/",
+            "address": [
+                "C. de José Ortega y Gasset, 100 - 28006 Madrid, Spain"
+            ],
+            "coord": [
+                [
+                    40.4295257,
+                    -3.6708368
+                ]
+            ],
+            "website": "https://baldoriamadrid.com/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "3°",
+            "name": "IMperfetto",
+            "ref": "https://www.50toppizza.it/referenza/imperfetto-2026/",
+            "address": [
+                "14, Boulevard Richard Wallace, 92800 Puteaux, France"
+            ],
+            "coord": [
+                [
+                    48.8791475,
+                    2.2415813
+                ]
+            ],
+            "website": "https://www.imperfetto.fr/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "4°",
+            "name": "50 Kalò",
+            "ref": "https://www.50toppizza.it/referenza/50-kalo-2026/",
+            "address": [
+                "7 Northumberland Ave, Westminster, London WC2N 5BY, United Kingdom"
+            ],
+            "coord": [
+                [
+                    51.507132,
+                    -0.1264876
+                ]
+            ],
+            "website": "https://www.50kalo.it/ciro__salvo.php"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "5°",
+            "name": "Sartoria Panatieri",
+            "ref": "https://www.50toppizza.it/referenza/sartoria-panatieri-2026/",
+            "address": [
+                "Carrer de l'Encarnació, 51, 08024 Barcelona, Spain",
+                "Carrer de Provença, 330, Eixample, 08037 Barcelona, Spagna"
+            ],
+            "coord": [
+                [
+                    41.4066522,
+                    2.1603276
+                ],
+                [
+                    41.3970952,
+                    2.1650179
+                ]
+            ],
+            "website": "https://sartoriapanatieri.com/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "6°",
+            "name": "Pizza Zulu",
+            "ref": "https://www.50toppizza.it/referenza/pizza-zulu-2026/",
+            "address": [
+                "König Straße 81, 90762 Fürth, Germany"
+            ],
+            "coord": [
+                [
+                    49.4777942,
+                    10.9894662
+                ]
+            ],
+            "website": "http://www.pizzazulu.de/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "7°",
+            "name": "nNea",
+            "ref": "https://www.50toppizza.it/referenza/nnea-2026/",
+            "address": [
+                "Bilderdijkstraat 92Hs, 1053 KX Amsterdam, The Netherlands",
+                "Bilderdijkstraat 94A  1053 KX Amsterdam"
+            ],
+            "coord": [
+                [
+                    52.3692405,
+                    4.8707163
+                ],
+                [
+                    52.369338,
+                    4.8703874
+                ]
+            ],
+            "website": "https://www.nneapizza.com/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "8°",
+            "name": "Sapori Italiani U Taliana",
+            "ref": "https://www.50toppizza.it/referenza/sapori-italiani-u-taliana-2026/",
+            "address": [
+                "Krížna 39, 811 07 Bratislava, Slovakia"
+            ],
+            "coord": [
+                [
+                    48.1553923,
+                    17.1242699
+                ]
+            ],
+            "website": "https://sapori.utaliana.sk/it"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "9°",
+            "name": "Forno d’Oro",
+            "ref": "https://www.50toppizza.it/referenza/forno-doro-2026/",
+            "address": [
+                "Rua Artilharia 1, 16B, 1250-039 Lisboa, Portugal",
+                "Rua do Olival, 258 1200-744 Lisboa, Portugal"
+            ],
+            "coord": [
+                [
+                    38.723474,
+                    -9.154334
+                ],
+                [
+                    38.7048476,
+                    -9.1663191
+                ]
+            ],
+            "website": "https://fornodoro.pt/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "10°",
+            "name": "Via Toledo",
+            "ref": "https://www.50toppizza.it/referenza/via-toledo-2026-2-2026/",
+            "address": [
+                "Laudongasse 13, 1080 Wien, Austria"
+            ],
+            "coord": [
+                [
+                    48.2132026,
+                    16.3513492
+                ]
+            ],
+            "website": "https://www.viatoledo.at/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "11°",
+            "name": "Fratelli Figurato",
+            "ref": "https://www.50toppizza.it/referenza/fratelli-figurato-2026/",
+            "address": [
+                "Avenida de Filipinas, 14 28003 Madrid, Spain",
+                "Calle Larra, 13, 28004 Madrid, Spagna",
+                "Calle de Alonso Cano, 37, Madrid, Spagna"
+            ],
+            "coord": [
+                [
+                    40.4396756,
+                    -3.7107839
+                ],
+                [
+                    40.427839,
+                    -3.7004437
+                ],
+                [
+                    40.4389079,
+                    -3.6979266
+                ]
+            ],
+            "website": "https://www.fratellifigurato.es/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "12°",
+            "name": "Surt",
+            "ref": "https://www.50toppizza.it/referenza/surt-2026/",
+            "address": [
+                "Bag Elefanterne 2, 1799 København V, Denmark"
+            ],
+            "coord": [
+                [
+                    55.6674685,
+                    12.5315329
+                ]
+            ],
+            "website": "https://surtcph.dk/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "13°",
+            "name": "Stile Napoletano",
+            "ref": "https://www.50toppizza.it/referenza/stile-napoletano-2026/",
+            "address": [
+                "49 Watergate Street, Chester CH1 2LB, United Kingdom"
+            ],
+            "coord": [
+                [
+                    53.1899139,
+                    -2.8935486
+                ]
+            ],
+            "website": "https://stilenapoletanopizzeria.co.uk/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "14°",
+            "name": "Oura",
+            "ref": "https://www.50toppizza.it/referenza/oura-2026/",
+            "address": [
+                "Edificio Área Central, L17i18AB 15707  - Santiago de Compostela, Spain"
+            ],
+            "coord": [
+                [
+                    42.882523,
+                    -8.528671
+                ]
+            ],
+            "website": "https://www.ourapizza.com/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "15°",
+            "name": "La Piola Pizza",
+            "ref": "https://www.50toppizza.it/referenza/la-piola-pizza-2026/",
+            "address": [
+                "Pl. Saint-Josse 8, 1210 Saint-Josse-ten-Noode, Belgium",
+                "Rue du Fossé aux Loups 50, Bruxelles, Belgio",
+                "Chaussée de Waterloo 864, Uccle, Belgio"
+            ],
+            "coord": [
+                [
+                    50.8494279,
+                    4.374104
+                ],
+                [
+                    50.8499341,
+                    4.3562806
+                ],
+                [
+                    50.8069556,
+                    4.3716748
+                ]
+            ],
+            "website": "http://www.lapiolapizza.com/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "16°",
+            "name": "Demaio",
+            "ref": "https://www.50toppizza.it/referenza/demaio-2026/",
+            "address": [
+                "Calle San Francisco 10, 48003, Bilbao, Spain",
+                "Done Bikendi Kalea, 1, Abando, 48001 Bilbao, Bizkaia, Spagna"
+            ],
+            "coord": [
+                [
+                    43.2552864,
+                    -2.9260174
+                ],
+                [
+                    43.2639117,
+                    -2.92822
+                ]
+            ],
+            "website": "https://demaio.es/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "17°",
+            "name": "Balmesina",
+            "ref": "https://www.50toppizza.it/referenza/balmesina-2026/",
+            "address": [
+                "Carrer de Balmes, 193, 08006 Barcelona, Spain"
+            ],
+            "coord": [
+                [
+                    41.3969391,
+                    2.1521893
+                ]
+            ],
+            "website": "https://labalmesina.com/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "18°",
+            "name": "Zielona Górka",
+            "ref": "https://www.50toppizza.it/referenza/zielona-gorka-2026/",
+            "address": [
+                "Zielona 8, Pabianice 95-200, Poland"
+            ],
+            "coord": [
+                [
+                    51.6639092,
+                    19.3403698
+                ]
+            ],
+            "website": "https://www.zielonagorka.com.pl/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "19°",
+            "name": "Matto Napoletano",
+            "ref": "https://www.50toppizza.it/referenza/matto-napoletano-2026/",
+            "address": [
+                "Debarca 2a, Skopje 1000, Republic of North Macedonia"
+            ],
+            "coord": [
+                [
+                    41.9963819,
+                    21.4243854
+                ]
+            ],
+            "website": "https://mattonapoletano.com/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "20°",
+            "name": "Franko’s Pizza & Bar",
+            "ref": "https://www.50toppizza.it/referenza/frankos-pizza-bar-2026/",
+            "address": [
+                "Kneza Branimira 71A, Zagreb, Croatia",
+                "Ulica Charlesa Darwina 4H, Zagreb, Croazia"
+            ],
+            "coord": [
+                [
+                    45.8081482,
+                    15.9982356
+                ],
+                [
+                    45.8048327,
+                    16.0108723
+                ]
+            ],
+            "website": "https://www.frankos.hr/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "21°",
+            "name": "Pietra",
+            "ref": "https://www.50toppizza.it/referenza/pietra-2026/",
+            "address": [
+                "Kumanovska 6, Belgrade 11111, Serbia",
+                "Mali Kalemegdan bb, Beograd 11000, Serbia"
+            ],
+            "coord": [
+                [
+                    44.8053445,
+                    20.4735526
+                ],
+                [
+                    44.7930287,
+                    20.5398415
+                ]
+            ],
+            "website": "https://pietra.rs/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "22°",
+            "name": "MaMeMi",
+            "ref": "https://www.50toppizza.it/referenza/mamemi-2026/",
+            "address": [
+                "Mysundegade 28, 1668 København V, Denmark"
+            ],
+            "coord": [
+                [
+                    55.6678802,
+                    12.5479272
+                ]
+            ],
+            "website": "https://pizzeriamamemi.dk/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "23°",
+            "name": "Oobatz",
+            "ref": "https://www.50toppizza.it/referenza/oobatz-2026/",
+            "address": [
+                "4bis Avenue Jean Aicard, 75011 Paris, France"
+            ],
+            "coord": [
+                [
+                    48.8647346,
+                    2.3818384
+                ]
+            ],
+            "website": "https://www.oobatz.fr"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "24°",
+            "name": "Roco",
+            "ref": "https://www.50toppizza.it/referenza/roco-2026/",
+            "address": [
+                "1 Rue Guillaume Tell, 75017 Paris, France"
+            ],
+            "coord": [
+                [
+                    48.8838232,
+                    2.2929584
+                ]
+            ],
+            "website": "https://www.rocoparis.fr/it/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "25°",
+            "name": "Forza",
+            "ref": "https://www.50toppizza.it/referenza/forza-2026/",
+            "address": [
+                "Pursimiehenkatu 29-31, 00150 Helsinki, Finland"
+            ],
+            "coord": [
+                [
+                    60.1585857,
+                    24.934411
+                ]
+            ],
+            "website": "https://forzahelsinki.fi/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "26°",
+            "name": "DA NOI",
+            "ref": "https://www.50toppizza.it/referenza/da-noi-2026/",
+            "address": [
+                "Hönggerstrasse 43, 8037 Zürich, Switzerland"
+            ],
+            "coord": [
+                [
+                    47.3916025,
+                    8.5250706
+                ]
+            ],
+            "website": "http://www.danoi.me"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "27°",
+            "name": "450°C",
+            "ref": "https://www.50toppizza.it/referenza/450c-2026/",
+            "address": [
+                "Eerikinkatu 16, 20100 Turku, Finland",
+                "Eerikinkatu 16, 20100 Turku Turun Kauppahalli",
+                "Mannerheiminkatu 1, 21100 Naantali, Finlandia"
+            ],
+            "coord": [
+                [
+                    60.4499286,
+                    22.2651793
+                ],
+                [
+                    60.4497008,
+                    22.2660814
+                ],
+                [
+                    60.4691614,
+                    22.0150006
+                ]
+            ],
+            "website": "https://pizzeria450.fi/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "28°",
+            "name": "L’Antica Pizzeria",
+            "ref": "https://www.50toppizza.it/referenza/lantica-pizzeria-2026/",
+            "address": [
+                "66 Heath Street, NW3 1DN London, United Kingdom"
+            ],
+            "coord": [
+                [
+                    51.5574001,
+                    -0.1781187
+                ]
+            ],
+            "website": "http://www.anticapizzeria.co.uk/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "29°",
+            "name": "La Pizza è Bella",
+            "ref": "https://www.50toppizza.it/referenza/la-pizza-e-bella-2026/",
+            "address": [
+                "Rue Lebeau 75, 1000 Brussels, Belgium",
+                "Oever 2, 2000 Antwerpen, Belgio",
+                "Agiou Ioannou 71 Ag. Paraskevi 153 42"
+            ],
+            "coord": [
+                [
+                    50.8417989,
+                    4.3538564
+                ],
+                [
+                    51.2182592,
+                    4.3968573
+                ],
+                [
+                    38.0064451,
+                    23.8279386
+                ]
+            ],
+            "website": "https://www.lapizzaebellaantwerpen.com/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "30°",
+            "name": "Pizza Nuova",
+            "ref": "https://www.50toppizza.it/referenza/pizza-nuova-2026/",
+            "address": [
+                "Revoluční 1, 110 00 Prague 1, Czech Republic"
+            ],
+            "coord": [
+                [
+                    50.0894658,
+                    14.4278758
+                ]
+            ],
+            "website": "https://www.pizzanuova.cz/en/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "31°",
+            "name": "Buon Appetito",
+            "ref": "https://www.50toppizza.it/referenza/buon-appetito-2026/",
+            "address": [
+                "171 London Road, Burgess Hill RH15 8LH, United Kingdom",
+                "81 Western Rd, Brighton and Hove, Hove BN3 2JQ, Regno Unito"
+            ],
+            "coord": [
+                [
+                    50.9580708,
+                    -0.1391523
+                ],
+                [
+                    50.8265817,
+                    -0.1645632
+                ]
+            ],
+            "website": "https://buonappetito.info/burgess-hill/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "32°",
+            "name": "Arte Bianca",
+            "ref": "https://www.50toppizza.it/referenza/arte-bianca-2026/",
+            "address": [
+                "Rua da Mareta, 8650-372 Sagres, Portugal",
+                "Rua 25 de Abril 58, 8670‑053 Aljezur, Portugal",
+                "Urbanização Vale da Telha, Sector C, Lote 113, 8670‑156 Aljezur, Portugal"
+            ],
+            "coord": [
+                [
+                    37.0097328,
+                    -8.9366704
+                ],
+                [
+                    37.3157218,
+                    -8.8038302
+                ],
+                [
+                    37.3077081,
+                    -8.8523511
+                ]
+            ],
+            "website": "https://artebianca.pt/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "33°",
+            "name": "Ciao a Tutti",
+            "ref": "https://www.50toppizza.it/referenza/ciao-a-tutti-2026/",
+            "address": [
+                "al. Niepodległości 217, 02-087 Warszawa, Poland",
+                "ul. Puławska 28, 02‑512 Warszawa, Poland",
+                "ul. Waryńskiego 9, 00‑631 Warszawa, Poland"
+            ],
+            "coord": [
+                [
+                    52.217515,
+                    21.0044584
+                ],
+                [
+                    52.2057871,
+                    21.0223363
+                ],
+                [
+                    52.2206888,
+                    21.0151562
+                ]
+            ],
+            "website": "https://ciaoatutti.pl/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "34°",
+            "name": "Pop’s Pizza",
+            "ref": "https://www.50toppizza.it/referenza/pops-pizza-2026/",
+            "address": [
+                "Breg 2, 1000 Ljubljana, Slovenia"
+            ],
+            "coord": [
+                [
+                    46.0476105,
+                    14.5051774
+                ]
+            ],
+            "website": "https://pizza.thepopsplace.com/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "35°",
+            "name": "La Manifattura",
+            "ref": "https://www.50toppizza.it/referenza/la-manifattura-2026/",
+            "address": [
+                "106 Boulevard Du Montparnasse, 75014 Paris, France"
+            ],
+            "coord": [
+                [
+                    48.8420927,
+                    2.3285422
+                ]
+            ],
+            "website": "https://lamanifattura-paris.fr/en"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "36°",
+            "name": "FILO D’OLIO",
+            "ref": "https://www.50toppizza.it/referenza/filo-dolio-2026/",
+            "address": [
+                "Ayazaga, Azerbaycan St. No:3/C, Sarıyer - Istanbul, Türkiye",
+                "Levazım Mah., Koru Sok. Zorlu Center, Beşiktaş/İstanbul, Türkiye",
+                "Ayazağa Mah., Cendere Cd. Vadistanbul AVM, Sarıyer/İstanbul, Türkiye",
+                "Büyükdere Cd. No:185, Kanyon AVM, Levent/İstanbul, Türkiye"
+            ],
+            "coord": [
+                [
+                    41.1307027,
+                    28.9877942
+                ],
+                [
+                    41.0669934,
+                    29.0155549
+                ],
+                [
+                    41.1025417,
+                    28.9819339
+                ],
+                [
+                    41.078392,
+                    29.012689
+                ]
+            ],
+            "website": "https://www.filodolio.com.tr/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "37°",
+            "name": "Majstor i Margarita",
+            "ref": "https://www.50toppizza.it/referenza/majstor-i-margarita-2026/",
+            "address": [
+                "Vuka Karadzića 12, Centar, Beograd 11000, Serbia",
+                "Kralja Petra 66, Dorćol, Beograd 11000, Serbia",
+                "Cara Dušana 73, Dorćol, Beograd 11000, Serbia"
+            ],
+            "coord": [
+                [
+                    44.8175263,
+                    20.4554688
+                ],
+                [
+                    44.8217467,
+                    20.4575864
+                ],
+                [
+                    44.8193335,
+                    20.4666942
+                ]
+            ],
+            "website": "https://majstorimargarita.rs/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "38°",
+            "name": "NAPIZZA",
+            "ref": "https://www.50toppizza.it/referenza/napizza-2026/",
+            "address": [
+                "Schweppermannstraße 66, 90408 Nürnberg, Germany",
+                "Nürnberger Straße 25 / Goethestraße 1, 90762 Fürth, Germany"
+            ],
+            "coord": [
+                [
+                    49.463193,
+                    11.0802845
+                ],
+                [
+                    49.4710576,
+                    10.9973257
+                ]
+            ],
+            "website": "https://www.xn--napizz-nta.be/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "39°",
+            "name": "Gasparic",
+            "ref": "https://www.50toppizza.it/referenza/gasparic-2026/",
+            "address": [
+                "Carrer Església, 36, Can Blanc, 17811, Santa Pau, Girona, Spain"
+            ],
+            "coord": [
+                [
+                    42.1588489,
+                    2.5108675
+                ]
+            ],
+            "website": "https://www.pizzeriagasparic.com/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "40°",
+            "name": "Belli di Mamma",
+            "ref": "https://www.50toppizza.it/referenza/belli-di-mamma-2026/",
+            "address": [
+                "Akácfa utca 45, Budapest, 1072 Budapest, Hungary"
+            ],
+            "coord": [
+                [
+                    47.5002122,
+                    19.0659768
+                ]
+            ],
+            "website": "http://bellidimamma.hu/home/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "41°",
+            "name": "Calvello’s",
+            "ref": "https://www.50toppizza.it/referenza/calvellos-2026/",
+            "address": [
+                "Heßstraße 57, 80798 München, Germany"
+            ],
+            "coord": [
+                [
+                    48.1528109,
+                    11.5624201
+                ]
+            ],
+            "website": "https://calvellos.com/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "42°",
+            "name": "Fimmina",
+            "ref": "https://www.50toppizza.it/referenza/fimmina-2026/",
+            "address": [
+                "43 Rue Laffitte, 75009 Paris 9e, France"
+            ],
+            "coord": [
+                [
+                    48.8752426,
+                    2.3383164
+                ]
+            ],
+            "website": "https://www.fimmina-pizzeria.fr/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "43°",
+            "name": "ALBA",
+            "ref": "https://www.50toppizza.it/referenza/alba-2026/",
+            "address": [
+                "Bremgartnerstrasse 70, 8003 Zürich, Switzerland",
+                "Birmensdorferstrasse 431, 8055 Zürich",
+                "Stampfenbachstrasse 68, 8006 Zürich"
+            ],
+            "coord": [
+                [
+                    47.3704427,
+                    8.517165
+                ],
+                [
+                    47.3685802,
+                    8.500728
+                ],
+                [
+                    47.3815432,
+                    8.5422147
+                ]
+            ],
+            "website": "https://www.alba.pizza/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "44°",
+            "name": "450 Gradi",
+            "ref": "https://www.50toppizza.it/referenza/450-gradi-2026/",
+            "address": [
+                "Brostugevägen 1, 181 55 Lidingö, Svezia"
+            ],
+            "coord": [
+                [
+                    59.3439581,
+                    18.1532812
+                ]
+            ],
+            "website": "https://www.450gradi.se/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "45°",
+            "name": "Margherita Pizzeria",
+            "ref": "https://www.50toppizza.it/referenza/margherita-pizzeria-2026/",
+            "address": [
+                "Lai 2, 10133 Tallinn, Estonia"
+            ],
+            "coord": [
+                [
+                    59.4380375,
+                    24.743192
+                ]
+            ],
+            "website": "https://margherita.ee/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "46°",
+            "name": "Villa Severino",
+            "ref": "https://www.50toppizza.it/referenza/villa-severino-2026/",
+            "address": [
+                "Urho Kekkosen katu 1, 00100 Helsinki, Finland",
+                "Tatti 17, 00760 Helsinki, Finlandia"
+            ],
+            "coord": [
+                [
+                    60.1686329,
+                    24.9307752
+                ],
+                [
+                    60.2750535,
+                    25.0812879
+                ]
+            ],
+            "website": "https://www.villaseverino.fi/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "47°",
+            "name": "Paneólio",
+            "ref": "https://www.50toppizza.it/referenza/paneolio-2026/",
+            "address": [
+                "R. Dom João II 47 B 2500-852 Caldas da Rainha Portogallo"
+            ],
+            "coord": [
+                [
+                    39.4101531,
+                    -9.1455924
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "48°",
+            "name": "Connie’s Pizza",
+            "ref": "https://www.50toppizza.it/referenza/connies-pizza-2026/",
+            "address": [
+                "133 Station Passage, London SE15 2JR, United Kingdom"
+            ],
+            "coord": [
+                [
+                    51.4738126,
+                    -0.0574468
+                ]
+            ],
+            "website": "https://conniespizzeria.com/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "49°",
+            "name": "UNO Pizza",
+            "ref": "https://www.50toppizza.it/referenza/uno-pizza-2026/",
+            "address": [
+                "103, 105 Rathmines Rd Lower, Rathmines, Dublin, D06 X8C6, Irlanda"
+            ],
+            "coord": [
+                [
+                    53.3266123,
+                    -6.2651764
+                ]
+            ],
+            "website": "https://unopizza.com/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "50°",
+            "name": "Bottega Ceccarelli",
+            "ref": "https://www.50toppizza.it/referenza/bottega-ceccarelli-2026/",
+            "address": [
+                "Fasanenstraße 50, 38102 Braunschweig-Rühme, Germany",
+                "Kamillenweg 13a, 38446 Wolfsburg, Germania"
+            ],
+            "coord": [
+                [
+                    52.2676207,
+                    10.5426624
+                ],
+                [
+                    52.414582,
+                    10.8193568
+                ]
+            ],
+            "website": "https://www.bottega-ceccarelli.de"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "51°",
+            "name": "ZANO",
+            "ref": "https://www.50toppizza.it/referenza/zano-2026/",
+            "address": [
+                "T17, Campus, Bulevardul Tudor Vladimirescu 111, Iași 700560, Romania"
+            ],
+            "coord": [
+                [
+                    47.1563368,
+                    27.6040867
+                ]
+            ],
+            "website": "https://zano.com.ro/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "52°",
+            "name": "Mamma Pizza",
+            "ref": "https://www.50toppizza.it/referenza/mamma-pizza-2026/",
+            "address": [
+                "Dronningens gt. 22, 0154 Oslo, Norway",
+                "Vika, Ruseløkkveien 26, 0251 Oslo",
+                "Solheimsgata 13, 2000, Lillestrøm",
+                "Nydalsveien 30A, 0484 Oslo"
+            ],
+            "coord": [
+                [
+                    59.9107408,
+                    10.7468351
+                ],
+                [
+                    59.9128038,
+                    10.7270837
+                ],
+                [
+                    59.9553326,
+                    11.0501748
+                ],
+                [
+                    59.9501259,
+                    10.764531
+                ]
+            ],
+            "website": "https://www.mammapizza.no"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "53°",
+            "name": "MOZZ.",
+            "ref": "https://www.50toppizza.it/referenza/mozz-2026/",
+            "address": [
+                "Beytepe Plevne Cd. No:10/AB 06800 Çankaya/Ankara Turchia"
+            ],
+            "coord": [
+                [
+                    39.850073,
+                    32.705878
+                ]
+            ],
+            "website": "https://www.mozzankara.com/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "54°",
+            "name": "O’Panuozzo",
+            "ref": "https://www.50toppizza.it/referenza/opanuozzo-2026/",
+            "address": [
+                "Mariastraat 35, 3511 LN Utrecht, The Netherlands",
+                "Van Sijpesteijnkade 15 3521 AH Utrecht",
+                "Voorstraat 34, 3512 AP Utrecht, Paesi Bassi"
+            ],
+            "coord": [
+                [
+                    52.0904358,
+                    5.1171208
+                ],
+                [
+                    52.090897,
+                    5.1068572
+                ],
+                [
+                    52.0946848,
+                    5.1197009
+                ]
+            ],
+            "website": "https://opanuozzopizzeria.com/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "55°",
+            "name": "Paesano Pizza",
+            "ref": "https://www.50toppizza.it/referenza/paesano-pizza-2026/",
+            "address": [
+                "94 Miller St Glasgow G1 1EA Regno Unito",
+                "471 Great Western Road, Glasgow G12 8HL",
+                "1038-1040 Pollokshaws Road  Glasgow G41 3EB",
+                "77A George Street  Edinburgh"
+            ],
+            "coord": [
+                [
+                    55.8597588,
+                    -4.2503663
+                ],
+                [
+                    55.8751898,
+                    -4.2816913
+                ],
+                [
+                    55.8317331,
+                    -4.2789266
+                ],
+                [
+                    55.9530754,
+                    -3.2012456
+                ]
+            ],
+            "website": "https://www.paesanopizza.co.uk/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "56°",
+            "name": "Napul’è",
+            "ref": "https://www.50toppizza.it/referenza/napule-2026/",
+            "address": [
+                "Vasileos Konstantinou 43 Vari 166 72 Grecia"
+            ],
+            "coord": [
+                [
+                    37.8274522,
+                    23.8040276
+                ]
+            ],
+            "website": "https://www.napuleitaliancomfortfood.com/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "57°",
+            "name": "Gemello",
+            "ref": "https://www.50toppizza.it/referenza/gemello-2026/",
+            "address": [
+                "Lettestraße 6/6a 10437 Berlin-Distretto di Pankow Germania"
+            ],
+            "coord": [
+                [
+                    52.5435329,
+                    13.4190872
+                ]
+            ],
+            "website": "https://www.gemello.berlin/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "58°",
+            "name": "Acqua e Farina",
+            "ref": "https://www.50toppizza.it/referenza/acqua-e-farina-2026/",
+            "address": [
+                "Via Canova 9 6900 Lugano Svizzera"
+            ],
+            "coord": [
+                [
+                    46.0044071,
+                    8.9525507
+                ]
+            ],
+            "website": "https://acqua-farina.ch/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "59°",
+            "name": "‘naPizzà",
+            "ref": "https://www.50toppizza.it/referenza/na-pizza-2026/",
+            "address": [
+                "Place Meyel 6, 1040 Etterbeek - Brussels, Belgium"
+            ],
+            "coord": [
+                [
+                    50.8305664,
+                    4.3899992
+                ]
+            ],
+            "website": "https://www.napizzà.be/"
+        },
+        {
+            "ranking": "50 Top Pizza",
+            "sub-ranking": "50 Top Pizza Europa 2026",
+            "emoji": "🍕",
+            "position": "60°",
+            "name": "Bella Napoli",
+            "ref": "https://www.50toppizza.it/referenza/bella-napoli-2026/",
+            "address": [
+                "Tērbatas iela 14 Centra rajons Rīga LV-1011 Lettonia"
+            ],
+            "coord": [
+                [
+                    56.9536782,
+                    24.1214578
+                ]
+            ],
+            "website": "https://bellanapoli.lv/"
+        }
+    ]
+}
