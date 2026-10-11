@@ -39,7 +39,7 @@ const Highlight = ({ text, query }) => {
   );
 };
 
-const SearchBarWithAutocomplete = ({sfsv, isFSV , selectedItems, setSelectedItems, markers, setMarkers}) => {
+const SearchBarWithAutocomplete = ({sfsv, isFSV , selectedItems, setSelectedItems, markers, setMarkers, isBestOpen, setBestOpen}) => {
   const [searchTerm, setSearchTerm] = useState('');
   const [suggestions, setSuggestions] = useState([]);
   const [status, setStatus] = useState('idle'); // idle | loading | done | error
@@ -254,7 +254,7 @@ const SearchBarWithAutocomplete = ({sfsv, isFSV , selectedItems, setSelectedItem
         </ul>
       )}
 
-      <ButtonList sfsv={sfsv} isFSV={isFSV } selectedItems={selectedItems} setSelectedItems={setSelectedItems} markers={markers} setMarkers={setMarkers} />
+      <ButtonList sfsv={sfsv} isFSV={isFSV } selectedItems={selectedItems} setSelectedItems={setSelectedItems} markers={markers} setMarkers={setMarkers} isBestOpen={isBestOpen} setBestOpen={setBestOpen} />
     </div>
   );
 };

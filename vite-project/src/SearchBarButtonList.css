@@ -31,6 +31,21 @@
 
 
 
+/* "I migliori in zona": stesso stile del bottone Donate, pieno quando il pannello è aperto */
+.best-places-button {
+  padding: 0 14px;
+  background-color: #fff;
+  color: #63456E;
+  border: 1.5px solid #63456E;
+  font-size: 20px;
+  line-height: 1;
+}
+
+.best-places-button.is-open {
+  background-color: #63456E;
+  color: #fff;
+}
+
 .donate-button {
   gap: 6px;
   padding: 0 14px;

@@ -3,3 +3,8 @@
 vite-project/public/ranking/Gambero_Rosso/TreForchetteGamberoRosso2024.json
 vite-project/public/ranking/Gambero_Rosso/TreRotelleGamberoRosso2024.json
 vite-project/public/ranking/Gambero_Rosso/TreSpicchiGamberoRosso2024.json
+
+# script Python: cache dell interprete e delle richieste di geocoding (si rigenera da sola)
+__pycache__/
+script/data/geocache.json
+script/data/mapkey.txt

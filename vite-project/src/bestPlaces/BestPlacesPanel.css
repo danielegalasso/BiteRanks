@@ -1,6 +1,5 @@
 /* Stessa palette della scheda locale: lilla chiaro, viola, bordi neri */
-.best-pizza-toggle,
-.best-pizza-panel {
+.best-places-panel {
   --bp-bg: #EBE0F2;
   --bp-surface: #ffffff;
   --bp-accent: #63456E;
@@ -11,43 +10,13 @@
   font-family: sans-serif;
 }
 
-.best-pizza-toggle {
+.best-places-panel {
   position: absolute;
   top: 20px;
   right: 20px;
   z-index: 1000;
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  height: 44px;
-  padding: 0 16px;
-  border: 1.5px solid var(--bp-border);
-  border-radius: 30px;
-  background-color: var(--bp-surface);
-  color: var(--bp-text);
-  font-size: 15px;
-  font-weight: bold;
-  cursor: pointer;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
-  transition: transform 0.2s, background-color 0.2s;
-}
-
-.best-pizza-toggle:hover {
-  transform: scale(1.05);
-}
-
-.best-pizza-toggle.is-open {
-  background-color: var(--bp-accent);
-  color: #fff;
-}
-
-.best-pizza-panel {
-  position: absolute;
-  top: 74px;
-  right: 20px;
-  z-index: 1000;
   width: 360px;
-  max-height: calc(100vh - 110px);
+  max-height: calc(100vh - 56px);
   display: flex;
   flex-direction: column;
   background-color: var(--bp-bg);
@@ -58,7 +27,7 @@
   color: var(--bp-text);
 }
 
-.best-pizza-header {
+.best-places-header {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
@@ -67,18 +36,18 @@
   border-bottom: 1.5px solid var(--bp-border);
 }
 
-.best-pizza-title {
+.best-places-title {
   font-size: 17px;
   margin: 0;
 }
 
-.best-pizza-subtitle {
+.best-places-subtitle {
   margin-top: 2px;
   font-size: 13px;
   color: var(--bp-muted);
 }
 
-.best-pizza-close {
+.best-places-close {
   flex-shrink: 0;
   width: 28px;
   height: 28px;
@@ -90,23 +59,23 @@
   cursor: pointer;
 }
 
-.best-pizza-close:hover {
+.best-places-close:hover {
   background-color: #444;
 }
 
-.best-pizza-body {
+.best-places-body {
   overflow-y: auto;
   padding: 8px;
   overscroll-behavior: contain;
 }
 
-.best-pizza-list {
+.best-places-list {
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
-.best-pizza-item {
+.best-places-item {
   display: flex;
   align-items: flex-start;
   gap: 12px;
@@ -121,13 +90,13 @@
   cursor: pointer;
 }
 
-.best-pizza-item:hover,
-.best-pizza-item:focus-visible {
+.best-places-item:hover,
+.best-places-item:focus-visible {
   background-color: var(--bp-surface);
   outline: none;
 }
 
-.best-pizza-rank {
+.best-places-rank {
   flex-shrink: 0;
   width: 30px;
   height: 30px;
@@ -142,24 +111,24 @@
   font-variant-numeric: tabular-nums;
 }
 
-.best-pizza-rank.podium-1 { background-color: #F2C94C; }
-.best-pizza-rank.podium-2 { background-color: #D5D8DC; }
-.best-pizza-rank.podium-3 { background-color: #E0A374; }
+.best-places-rank.podium-1 { background-color: #F2C94C; }
+.best-places-rank.podium-2 { background-color: #D5D8DC; }
+.best-places-rank.podium-3 { background-color: #E0A374; }
 
-.best-pizza-info {
+.best-places-info {
   display: flex;
   flex-direction: column;
   min-width: 0;
   gap: 3px;
 }
 
-.best-pizza-name {
+.best-places-name {
   font-weight: bold;
   font-size: 15px;
   line-height: 1.25;
 }
 
-.best-pizza-address {
+.best-places-address {
   font-size: 12px;
   color: var(--bp-muted);
   white-space: nowrap;
@@ -167,14 +136,14 @@
   text-overflow: ellipsis;
 }
 
-.best-pizza-badges {
+.best-places-badges {
   display: flex;
   flex-wrap: wrap;
   gap: 4px;
   margin-top: 2px;
 }
 
-.best-pizza-badge {
+.best-places-badge {
   font-size: 11px;
   line-height: 1;
   padding: 4px 7px;
@@ -185,20 +154,20 @@
   white-space: nowrap;
 }
 
-.best-pizza-badge.is-best {
+.best-places-badge.is-best {
   background-color: var(--bp-accent);
   border-color: var(--bp-accent);
   color: #fff;
 }
 
-.best-pizza-empty {
+.best-places-empty {
   padding: 16px 8px;
   font-size: 14px;
   color: var(--bp-muted);
   text-align: center;
 }
 
-.best-pizza-more {
+.best-places-more {
   display: block;
   width: calc(100% - 16px);
   margin: 6px 8px 8px;
@@ -211,19 +180,14 @@
   cursor: pointer;
 }
 
-.best-pizza-more:hover {
+.best-places-more:hover {
   background-color: #444;
 }
 
 /* Su mobile la barra di ricerca occupa la parte alta: il pannello diventa un foglio dal basso */
 @media (orientation: portrait), (max-width: 700px) {
-  .best-pizza-toggle {
-    top: auto;
-    bottom: 28px;
-    right: 16px;
-  }
 
-  .best-pizza-panel {
+  .best-places-panel {
     top: auto;
     bottom: 0;
     left: 0;
@@ -236,7 +200,8 @@
     border-bottom: none;
   }
 
-  .best-pizza-toggle.is-open {
-    display: none;
-  }
+}
+
+.best-places-emoji {
+  font-size: 14px;
 }

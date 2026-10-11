@@ -31,3 +31,25 @@
   display: none;
 }
 }
+/* icona dei cluster: torta dei colori dei locali raggruppati con il numero al centro */
+.cluster-pie {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cluster-pie span {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #fff;
+  color: #000;
+  font-size: 12px;
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

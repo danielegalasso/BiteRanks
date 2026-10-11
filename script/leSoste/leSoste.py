@@ -1,101 +1,69 @@
-from script.utils.scraping import Crawler
-from time import sleep
-from bs4 import BeautifulSoup
-from script.utils.geolocator import Geolocator
+# Le Soste: associazione dei grandi ristoranti italiani (e di alcuni paesi vicini).
+# La pagina /ristoranti contiene nomi e link di tutti i soci; ogni scheda ha indirizzo e sito web.
+# Uso: dalla cartella in cui salvare il file, python path/to/leSoste.py
+
 import json
+import os
 import re
+import sys
+from time import sleep
+
 import requests
+from bs4 import BeautifulSoup
+
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'utils'))
+from place_geocoder import PlaceGeocoder
+from ranking_writer import make_entry, save_ranking
 
 headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.3'
 }
 
+RANKING = 'Le Soste'
+SUB_RANKING = 'Le Soste'
 category = '🍽️'
 
-places = [
-    'Piemonte',
-    'Liguria',
-    'Lombardia',
-    'Trentino - Alto Adige',
-    'Veneto',
-    'Emilia Romagna',
-    'Toscana',
-    'Marche',
-    'Lazio',
-    'Abruzzo',
-    'Campania',
-    'Puglia',
-    'Calabria',
-    'Sicilia',
-    'Lussemburgo',
-    'Monaco',
-    'Slovenia',
-    'Svizzera'
-]
 
-crawler = Crawler()
-crawler.launch()
-
-crawler.goto_url('https://lesoste.it/ristoranti')
-
-for p in places:
-    crawler.click(f'a:has-text("{p}")')
-    sleep(10) # per non rompere i server
-
-page_source = crawler.get_page_source()
-crawler.close()
-
-soup = BeautifulSoup(page_source, 'html.parser')
-names = soup.find_all('h4', class_='et_pb_module_header')
-
-script_tags = soup.find_all('script')
-json_urls = '[]'
-for s in script_tags:
-    content = s.string
-    if content and content.strip().startswith('var et_link_options_data'):
-        match = re.search(r'var et_link_options_data = (\[.*?\]);', content)
-        if match:
-            json_urls = match.group(1)
+def link_options(html):
+    """Il tema Divi salva i link dei blocchi cliccabili in "var et_link_options_data = [...]"."""
+    match = re.search(r'var et_link_options_data = (\[.*?\]);', html)
+    return [item['url'] for item in json.loads(match.group(1)) if 'url' in item] if match else []
 
 
-data = json.loads(json_urls)
-urls = [item['url'] for item in data if 'url' in item]
-
-json_output = { 'Le Soste': [] }
-locator = Geolocator()
-for name, url in zip(names, urls):
-    print(url)
-    response = requests.get(url, headers=headers)
-    response.raise_for_status()
-
-    soup = BeautifulSoup(response.text, 'html.parser')
-
-    location_div = soup.find('div', class_='et_pb_row et_pb_row_2 et_pb_equal_columns et_pb_gutters1')
-    location = location_div.find('span')
-
-    script_tags = soup.find_all('script')
-    website = '[]'
-    for s in script_tags:
-        content = s.string
-        if content and content.strip().startswith('var et_link_options_data'):
-            match = re.search(r'var et_link_options_data = (\[.*?\]);', content)
-            if match:
-                website = match.group(1)
-    data = json.loads(website)
-    website = [item['url'] for item in data if 'url' in item]
-
-    map_data = locator.find_coordinates(location.text)
-
-    json_output['Le Soste'].append({
-        'category': category,
-        'position': None,
-        'name': name.text,
-        'ref': url,
-        'coord': [ [map_data[1], map_data[2]] if map_data else None ],
-        'website': website[0] if website else None
-    })
-    sleep(10) # per non rompere i server
+def members():
+    html = requests.get('https://lesoste.it/ristoranti', headers=headers, timeout=30).text
+    soup = BeautifulSoup(html, 'html.parser')
+    names = [h.get_text(strip=True) for h in soup.find_all('h4', class_='et_pb_module_header')]
+    urls = [u for u in link_options(html) if u.startswith('https://lesoste.it/')]
+    return list(zip(names, urls))
 
 
-with open('leSoste.json', 'w', encoding='utf-8') as file:
-    json.dump(json_output, file, ensure_ascii=False, indent=4)
+def parse_member(url):
+    html = requests.get(url, headers=headers, timeout=30).text
+    soup = BeautifulSoup(html, 'html.parser')
+    row = soup.find('div', class_='et_pb_row_2')
+    # "Indirizzo | Via Roma 18 – 28018 Soriso (NO)"
+    address = row.get_text(' ', strip=True).replace('Indirizzo', '', 1).strip() if row else None
+    address = re.sub(r'\s+', ' ', address).replace(' ,', ',') if address else None
+    city, country = None, 'Italia'
+    if address:
+        match = re.search(r'(?:\d{4,5}\s+)?([^–,]+?)\s*(?:\(([A-Z]{2})\))?$', address.split('–')[-1].strip())
+        city = match.group(1).strip() if match else None
+        if not match or not match.group(2):
+            country = None  # soci all'estero (Svizzera, Slovenia, ...): il paese è nell'indirizzo
+    website = next((u for u in link_options(html) if 'lesoste.it' not in u), None)
+    return address, city, country, website
+
+
+if __name__ == '__main__':
+    geocoder = PlaceGeocoder()
+    entries, precision = [], []
+    for name, url in members():
+        address, city, country, website = parse_member(url)
+        geo = geocoder.geocode(name, city, country, address)
+        print(name, '|', address, '|', geo and geo['precision'])
+        entries.append(make_entry(RANKING, SUB_RANKING, category, name, url, None, website, geo))
+        precision.append(geo and geo['precision'])
+        sleep(2)  # per non sovraccaricare il sito
+    geocoder.save()
+    save_ranking(SUB_RANKING, entries, path='leSoste.json', precision=precision)

@@ -56,6 +56,8 @@ const extractColor = (svgString) => {
 const clusterIconCache = new Map();
 
 // Funzione per creare un'icona a torta per il cluster FUNZIONE ATTUALE (la più bella)
+// La torta è disegnata in CSS (conic-gradient) e non come immagine SVG: il browser non deve
+// decodificare un'immagine per ogni cluster, e lo zoom resta fluido anche con migliaia di locali.
 const createClusterCustomIcon = (cluster) => {
     const childMarkers = cluster.getAllChildMarkers();
     const uniqueColors = [...new Set(childMarkers.map(marker => {
@@ -63,70 +65,17 @@ const createClusterCustomIcon = (cluster) => {
         // il colore è salvato nelle opzioni dell'icona; decodificare l'SVG resta solo come ripiego
         return iconOptions.color || extractColor(decodeSvgUrl(iconOptions.iconUrl));
     }))];
-    const totalColors = uniqueColors.length;
-    const cacheKey = `${uniqueColors.join(';')}|${cluster.getChildCount()}`;
+    const count = cluster.getChildCount();
+    const cacheKey = `${uniqueColors.join(';')}|${count}`;
     if (clusterIconCache.has(cacheKey)) {
         return clusterIconCache.get(cacheKey);
     }
 
-    // Funzione per convertire coordinate polari in coordinate cartesiane
-    const polarToCartesian = (centerX, centerY, radius, angleInDegrees) => {
-        const angleInRadians = (angleInDegrees - 90) * Math.PI / 180.0;
-        return {
-            x: centerX + (radius * Math.cos(angleInRadians)),
-            y: centerY + (radius * Math.sin(angleInRadians))
-        };
-    };
-
-    // Se tutti i colori sono uguali, usa un cerchio monocolore
-    if (totalColors === 1) {
-        const singleColor = uniqueColors[0];
-        const svgIcon = `
-            <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
-                <circle cx="18" cy="18" r="18" fill="${singleColor}" />
-                <circle cx="18" cy="18" r="10" fill="white" />
-                <text x="50%" y="50%" text-anchor="middle" dy=".3em" fill="black" font-size="12">${cluster.getChildCount()}</text>
-            </svg>
-        `;
-        const encodedSvg = encodeURIComponent(svgIcon);
-        const svgUrl = `data:image/svg+xml;charset=utf-8,${encodedSvg}`;
-        const icon = divIcon({
-            html: `<img src="${svgUrl}" />`,
-            className: "custom-marker-cluster",
-            iconSize: point(36, 36, true),
-        });
-        clusterIconCache.set(cacheKey, icon);
-        return icon;
-    }
-
-    // Altrimenti, crea un grafico a torta con colori multipli
-    let currentAngle = 0;
-    const slices = uniqueColors.map((color) => {
-        const sliceAngle = 360 / totalColors;
-        const startAngle = currentAngle;
-        const endAngle = currentAngle + sliceAngle;
-        currentAngle += sliceAngle;
-
-        const largeArcFlag = sliceAngle > 180 ? 1 : 0;
-        const start = polarToCartesian(18, 18, 18, endAngle);
-        const end = polarToCartesian(18, 18, 18, startAngle);
-
-        return `
-            <path d="M18,18 L${start.x},${start.y} A18,18 0 ${largeArcFlag},0 ${end.x},${end.y} Z" fill="${color}" />
-        `;
-    }).join('');
-
-    const svgIcon = `
-        <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
-            ${slices}
-            <circle cx="18" cy="18" r="10" fill="white" />
-            <text x="50%" y="50%" text-anchor="middle" dy=".3em" fill="black" font-size="12">${cluster.getChildCount()}</text>
-        </svg>
-    `;
-    const encodedSvg = encodeURIComponent(svgIcon);
-    const svgUrl = `data:image/svg+xml;charset=utf-8,${encodedSvg}`;
+    // una fetta uguale per ogni colore presente nel cluster
+    const slice = 100 / uniqueColors.length;
+    const stops = uniqueColors.map((color, i) => `${color} ${i * slice}% ${(i + 1) * slice}%`).join(', ');
     const icon = divIcon({
-        html: `<img src="${svgUrl}" />`,
+        html: `<div class="cluster-pie" style="background: conic-gradient(${stops})"><span>${count}</span></div>`,
         className: "custom-marker-cluster",
         iconSize: point(36, 36, true),
     });

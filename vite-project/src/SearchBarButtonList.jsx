@@ -9,7 +9,7 @@ import { all } from 'axios';
 
 const DONATE_URL = 'https://revolut.me/daniele_galasso';
 
-const ButtonList = ({ sfsv, isFSV, selectedItems, setSelectedItems, markers, setMarkers}) => {
+const ButtonList = ({ sfsv, isFSV, selectedItems, setSelectedItems, markers, setMarkers, isBestOpen, setBestOpen}) => {
   const [suggestedIndices, setSuggestedIndices] = useState([]);
 
   // Funzione per il bottone che cambia isFSV
@@ -120,6 +120,15 @@ const ButtonList = ({ sfsv, isFSV, selectedItems, setSelectedItems, markers, set
           onClick={button.onClick}
         />
       ))}
+      <button
+        className={`custom-button best-places-button ${isBestOpen ? 'is-open' : ''}`}
+        onClick={() => setBestOpen(!isBestOpen)}
+        aria-pressed={isBestOpen}
+        aria-label="I migliori in zona"
+        title="I migliori in zona tra le categorie e classifiche selezionate"
+      >
+        ⛶
+      </button>
       <a
         className="custom-button donate-button"
         href={DONATE_URL}

@@ -42,6 +42,7 @@ export default function App() {
   const [markers, setMarkers] = useState([]);
   const [isFoodSearchVisible, setFoodSearchVisible] = useState(true);
   const [activeTab, setActiveTab] = useState("food"); // Stato per gestire quale pulsante è attivo
+  const [isBestOpen, setBestOpen] = useState(false); // pannello "I migliori in zona" (bottone ⛶)
 
   useEffect(() => {
     // Ottieni la query string dalla URL
@@ -90,7 +91,7 @@ export default function App() {
               
               {/* Contenuto principale */}
               <div style={{ position: 'relative', zIndex: 0 }}>
-                <Map markers={markers} />
+                <Map markers={markers} isBestOpen={isBestOpen} setBestOpen={setBestOpen} />
                 <SearchBarWithAutocomplete 
                   sfsv={setFoodSearchVisible} 
                   isFSV={isFoodSearchVisible}  
@@ -98,6 +99,8 @@ export default function App() {
                   setSelectedItems={setSelectedItems}
                   markers={markers} 
                   setMarkers={setMarkers}
+                  isBestOpen={isBestOpen}
+                  setBestOpen={setBestOpen}
                 />
                 </div>
                 {isFoodSearchVisible && 

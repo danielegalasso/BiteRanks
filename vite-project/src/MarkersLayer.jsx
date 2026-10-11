@@ -90,7 +90,12 @@ export default function MarkersLayer({ markers }) {
   const sharedOpenedRef = useRef(false);
 
   useEffect(() => {
-    const group = L.markerClusterGroup({ iconCreateFunction: createClusterCustomIcon });
+    const group = L.markerClusterGroup({
+      iconCreateFunction: createClusterCustomIcon,
+      // senza l'animazione di apertura/chiusura dei cluster lo zoom non deve spostare (e ridisegnare)
+      // ogni icona fotogramma per fotogramma: con migliaia di locali è la parte più lenta
+      animate: false,
+    });
     group.addTo(map);
     groupRef.current = group;
     window.globalClusters = group; // usato da pannelli e pulsanti fuori dalla mappa

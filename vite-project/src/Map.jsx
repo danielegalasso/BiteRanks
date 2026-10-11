@@ -6,7 +6,7 @@ import { MapContainer, useMap, LayersControl } from "react-leaflet";
 import L from "leaflet";
 import MarkersLayer from "./MarkersLayer";
 import MaplibreTileLayer from "./MaplibreTileLayer";
-import BestPizzaPanel from "./bestPizza/BestPizzaPanel";
+import BestPlacesPanel from "./bestPlaces/BestPlacesPanel";
 
 const { BaseLayer} = LayersControl;
 
@@ -85,7 +85,7 @@ function MoveToLocation({ position, geolocationEnabled}) {
 }
 
 //export function Map({ markers }) {
-export const Map = memo(({ markers }) => {
+export const Map = memo(({ markers, isBestOpen, setBestOpen }) => {
   //console.log("Map component rendered"); // Questo ti dirà ogni volta che il componente viene ri-renderizzato.
   const [position, setPosition] = useState(null);
   const [geolocationEnabled, setGeolocationEnabled] = useState(false);
@@ -131,7 +131,7 @@ export const Map = memo(({ markers }) => {
 
       {position && <MoveToLocation position={position} geolocationEnabled={geolocationEnabled} />}
 
-      <BestPizzaPanel />
+      <BestPlacesPanel open={isBestOpen} onClose={() => setBestOpen(false)} markers={markers} />
 
       <MarkersLayer markers={markers} />
     </MapContainer>

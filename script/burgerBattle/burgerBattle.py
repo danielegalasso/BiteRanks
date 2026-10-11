@@ -1,45 +1,34 @@
-import requests
-from bs4 import BeautifulSoup
-from script.utils.geolocator import Geolocator
-from script.utils.scraping import Crawler
-import json
+# Burger Battle: i locali selezionati sono i marker della mappa del sito (plugin WP Go Maps),
+# disponibili con nome, indirizzo e coordinate dall'API del plugin.
+# Uso: dalla cartella in cui salvare il file, python path/to/burgerBattle.py
 
+import json
+import os
+import sys
+
+import requests
+
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'utils'))
+from ranking_writer import make_entry, save_ranking
 
 headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.3'
 }
 
+RANKING = 'Burger Battle'
+SUB_RANKING = 'Burger Battle Italia'
 category = '🍔'
+URL = 'https://www.burgerbattle.it/vieni-ad-assaggiare/'
+MARKERS_API = 'https://www.burgerbattle.it/wp-json/wpgmza/v1/markers'
 
-url = 'https://www.burgerbattle.it/vieni-ad-assaggiare/'
-crawler = Crawler()
-crawler.launch()
-crawler.goto_url(url)
-crawler.click('button:has-text("Salva le mie preferenze")')
-page_source = crawler.get_page_source()
 
-soup = BeautifulSoup(page_source, 'html.parser')
-main_div = soup.find('div', id='wpsl-stores')
-items = main_div.find_all('li')
-
-json_output = { 'Burger Battle Italia': [] }
-
-locator = Geolocator()
-for item in items:
-    name = item.find('strong')
-    locations = item.find_all('span')
-    location = ','.join([l.text for l in locations])
-    map_data = locator.find_coordinates(location)
-
-    json_output['Burger Battle Italia'].append({
-        'category': category,
-        'position': None,
-        'name': name.text,
-        'ref': url,
-        'coord': [ [map_data[1], map_data[2]] if map_data else None ],
-        'website': None
-    })
-    
-
-with open('burgerBattle.json', 'w', encoding='utf-8') as file:
-    json.dump(json_output, file, ensure_ascii=False, indent=4)
+if __name__ == '__main__':
+    markers = requests.get(MARKERS_API, params={'filter': json.dumps({'map_id': '1'})}, headers=headers, timeout=30).json()
+    entries = []
+    for marker in markers:
+        if marker.get('approved') != '1':
+            continue
+        geo = {'lat': float(marker['lat']), 'lon': float(marker['lng']), 'address': marker['address']}
+        entries.append(make_entry(RANKING, SUB_RANKING, category, marker['title'].strip(), URL, None,
+                                  marker.get('link') or None, geo))
+    save_ranking(SUB_RANKING, entries)
