@@ -1,0 +1,544 @@
+{
+    "TasteAtlas Where to Eat Ramen": [
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "1°",
+            "name": "Ichiran Nakasu",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "中須一丁目, 折尾, 八幡西区, 北九州市, Prefettura di Fukuoka, 807-0815, Giappone"
+            ],
+            "coord": [
+                [
+                    33.8668413,
+                    130.7276666
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "2°",
+            "name": "Tsuta",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "Tsuta, 井ノ頭通り, 上原一丁目, 上原, Shibuya, Tokyo, 151-0064, Giappone"
+            ],
+            "coord": [
+                [
+                    35.6704079,
+                    139.6824274
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "3°",
+            "name": "Ippudo Daimyo",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "大名二丁目, 天神, 中央区, Fukuoka, Prefettura di Fukuoka, 810-0041, Giappone"
+            ],
+            "coord": [
+                [
+                    33.5893057,
+                    130.3932431
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "4°",
+            "name": "Afuri Ebisu",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "恵比寿, Shibuya, Tokyo, 150-0013, Giappone"
+            ],
+            "coord": [
+                [
+                    35.6462954,
+                    139.714385
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "5°",
+            "name": "Ginza Kagari",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "Ginza Kagari, 外堀通り, 銀座六丁目, 銀座, Chūō, Tokyo, 104-0061, Giappone"
+            ],
+            "coord": [
+                [
+                    35.6711341,
+                    139.7615129
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "6°",
+            "name": "Shin Shin",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "Shin Shin, 昭和通り, 福岡市, 日本"
+            ],
+            "coord": [
+                [
+                    33.5927624,
+                    130.3968928
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "7°",
+            "name": "Ichiran Shibuya",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "一蘭, 7, 神南一丁目, 神南, Shibuya, Tokyo, 150-0041, Giappone"
+            ],
+            "coord": [
+                [
+                    35.6611293,
+                    139.7009878
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "8°",
+            "name": "Ichiran Canal City",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "住吉, 住吉通り, 住吉四丁目, 祇園町, 博多区, Fukuoka, Prefettura di Fukuoka, 810-0005, Giappone"
+            ],
+            "coord": [
+                [
+                    33.5840435,
+                    130.4126006
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "9°",
+            "name": "Ippudo Ebisu",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "広尾, Shibuya, Tokyo, Giappone"
+            ],
+            "coord": [
+                [
+                    35.6522569,
+                    139.7175844
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "10°",
+            "name": "Ganso Nagahamaya",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "長浜, 筑後市, Prefettura di Fukuoka, 833-0002, Giappone"
+            ],
+            "coord": [
+                [
+                    33.208063,
+                    130.5124387
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "11°",
+            "name": "Fuunji",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "風雲児, 3, 代々木二丁目, 代々木, Shibuya, Tokyo, 151-0053, Giappone"
+            ],
+            "coord": [
+                [
+                    35.6868901,
+                    139.6966856
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "12°",
+            "name": "Ichiran Shinjuku",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "東京メトロ新宿三丁目駅;3番線, 新宿三丁目, 新宿, Shinjuku, Tokyo, 160-0022, Giappone"
+            ],
+            "coord": [
+                [
+                    35.6899415,
+                    139.704264
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "13°",
+            "name": "Kikanbo",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "カラシビ味噌らー麺 鬼金棒, 9, 鍛冶町二丁目, 鍛冶町, Chiyoda, Tokyo, 101-0044, Giappone"
+            ],
+            "coord": [
+                [
+                    35.6937064,
+                    139.7724147
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "14°",
+            "name": "Ide Shoten",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "西長町四丁目, 南田辺丁, 和歌山市, Prefettura di Wakayama, 640-8511, Giappone"
+            ],
+            "coord": [
+                [
+                    34.2235445,
+                    135.162346
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "15°",
+            "name": "Rokurinsha",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "Rokurinsha, パンダ橋, 東京都, 日本"
+            ],
+            "coord": [
+                [
+                    35.7132805,
+                    139.7765418
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "16°",
+            "name": "Menya Shichisai",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "麺や　七菜, 2, 八丁堀二丁目, 八丁堀, Chūō, Tokyo, 104-0032, Giappone"
+            ],
+            "coord": [
+                [
+                    35.6772217,
+                    139.7762418
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "17°",
+            "name": "Ippudo Nishikikoji",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "阪東屋町, 中京区, Kyoto, Prefettura di Kyoto, 604-8143, Giappone"
+            ],
+            "coord": [
+                [
+                    35.004473,
+                    135.760961
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "18°",
+            "name": "Shingen Ramen",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "ファミリーマート, 北3条西2, 狸小路, 中央区, Sapporo, 石狩振興局, Prefettura di Hokkaidō, Hokkaidō, 060-0003, Giappone"
+            ],
+            "coord": [
+                [
+                    43.0657967,
+                    141.3537639
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "19°",
+            "name": "Ichiran Dotonbori",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "Chicken One Noodles, Chome-3-7 Nipponbashi, Chuo Ward, Osaka, 542-0073, Japan, 堺筋, 日本橋一丁目, 中央区, Osaka, Prefettura di Osaka, 541-0071, Giappone"
+            ],
+            "coord": [
+                [
+                    34.6673964,
+                    135.5059042
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "20°",
+            "name": "Nagi Golden Gai",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "歌舞伎町, Shinjuku, Tokyo, 160-0021, Giappone"
+            ],
+            "coord": [
+                [
+                    35.6945429,
+                    139.7027105
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "21°",
+            "name": "Menya Kaijin",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "2F-1F step #8, 河辺町十丁目, 河辺町, Ōme, Tokyo, 198-0036, Giappone"
+            ],
+            "coord": [
+                [
+                    35.7850911,
+                    139.2854434
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "22°",
+            "name": "Ramen Sen no Kaze",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "中之町, 辰巳町, 東山区, Kyoto, Prefettura di Kyoto, 605-0082, Giappone"
+            ],
+            "coord": [
+                [
+                    35.0062901,
+                    135.7754588
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "23°",
+            "name": "Menbakaichidai",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "Menbakaichidai restaurant, 丸太町通, 左馬松町, 上京区, Kyoto, Prefettura di Kyoto, 602-8145, Giappone"
+            ],
+            "coord": [
+                [
+                    35.0176076,
+                    135.7479323
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "24°",
+            "name": "Menya Saimi",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "美園5条7丁目, 札幌環状線, 美園5条7, 美園, 豊平区, Sapporo, 石狩振興局, Prefettura di Hokkaidō, Hokkaidō, 062-8799, Giappone"
+            ],
+            "coord": [
+                [
+                    43.0379995,
+                    141.3877272
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "25°",
+            "name": "Hakata Ikkousha Fukuoka",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "博多停車場線, 福岡市, 日本"
+            ],
+            "coord": [
+                [
+                    33.5922324,
+                    130.4166584
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "26°",
+            "name": "Mengekijo Genei",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "薬院伊福町, 中央区, Fukuoka, Prefettura di Fukuoka, 810-0023, Giappone"
+            ],
+            "coord": [
+                [
+                    33.5785701,
+                    130.3928611
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "27°",
+            "name": "Shikairo",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "国道206号, 長崎市, 日本"
+            ],
+            "coord": [
+                [
+                    32.7738412,
+                    129.8620744
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "28°",
+            "name": "Tontoro",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "Tontoro Ramen, 西銀座通り, 鹿児島市, 日本"
+            ],
+            "coord": [
+                [
+                    31.5856483,
+                    130.5436174
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "29°",
+            "name": "Yoshimuraya",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "平沼二丁目, 岡野, 西区, Yokohama, Prefettura di Kanagawa, 231-0017, Giappone"
+            ],
+            "coord": [
+                [
+                    35.456881,
+                    139.615056
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Ramen",
+            "emoji": "🍽️",
+            "position": "30°",
+            "name": "Hirugao Ramen",
+            "ref": "https://www.tasteatlas.com/ramen/wheretoeat",
+            "address": [
+                "丸の内永楽ビルディング, 1, 丸の内一丁目, 丸の内, Chiyoda, Tokyo, 100-0005, Giappone"
+            ],
+            "coord": [
+                [
+                    35.6843457,
+                    139.7649092
+                ]
+            ],
+            "website": null
+        }
+    ]
+}

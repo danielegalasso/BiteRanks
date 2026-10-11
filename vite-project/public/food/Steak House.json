@@ -2,284 +2,86 @@
     "Steak House": [
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
             "position": "1°",
-            "name": "Parrilla Don Julio",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    -34.5863219,
-                    -58.4242047
-                ]
+            "name": "La Cúpula De El Capricho",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/la-c%C3%BApula",
+            "address": [
+                "Bodega El Capricho, 28, Calle Carrobierzo, Jiménez de Jamuz, Santa Elena de Jamuz, León, Castiglia e León, 24767, Spagna"
             ],
-            "website": "http://www.parrilladonjulio.com"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "2°",
-            "name": "Bodega El Capricho",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
             "coord": [
                 [
                     42.2715434,
-                    -5.933480230347998
+                    -5.9334802
                 ]
             ],
-            "website": "http://www.bodegaelcapricho.com "
+            "website": "http://www.lacupuladelcapricho.com"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "2°",
+            "name": "Margaret",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/margaret",
+            "address": [
+                "Margaret, Bay Street 30-36, Sydney, Australia"
+            ],
+            "coord": [
+                [
+                    -33.876866,
+                    151.241543
+                ]
+            ],
+            "website": "http://www.magretdoublebay.com"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
             "position": "3°",
-            "name": "Margaret",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    -33.8768885,
-                    151.2414835
-                ]
-            ],
-            "website": "https://www.margaretdoublebay.com"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "4°",
-            "name": "Cote",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    40.74104615,
-                    -73.99142034218461
-                ]
-            ],
-            "website": "http://www.cotenyc.com"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "5°",
-            "name": "Carcasse",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    51.10993939999999,
-                    2.6112876
-                ]
-            ],
-            "website": "http://www.carcasse.be"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "6°",
-            "name": "I Due Cippi",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    42.6643738,
-                    11.504444493613256
-                ]
-            ],
-            "website": "https://www.iduecippi.com/en/"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "7°",
             "name": "Laia Erretegia",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/laia",
+            "address": [
+                "Laia Erretegia, Arkolla auzoa 33, Hondarribia, España"
+            ],
             "coord": [
                 [
-                    43.357861650000004,
-                    -1.8045784162734537
+                    43.3578617,
+                    -1.8045784
                 ]
             ],
             "website": "https://laiaerretegia.com/"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "8°",
-            "name": "Rockpool Bar & Grill",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "4°",
+            "name": "I Due Cippi",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/i-due-cippi",
+            "address": [
+                "Spigno Saturnia, Latina, Lazio, Italia"
+            ],
             "coord": [
                 [
-                    -33.8660112,
-                    151.2103603
+                    41.3063513,
+                    13.7318836
                 ]
             ],
-            "website": "http://www.rockpoolbarandgrill.com.au"
+            "website": "https://www.iduecippi.com/en/"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "9°",
-            "name": "Ag",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    59.335222,
-                    18.0349228
-                ]
-            ],
-            "website": "http://www.restaurangag.se"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "10°",
-            "name": "Cut At 45 Park Lane",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    51.50629145,
-                    -0.15153941318020897
-                ]
-            ],
-            "website": "https://wolfgangpuck.com/dining/cut-london/"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "11°",
-            "name": "Victor Churchill",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    -37.854311,
-                    145.0116991
-                ]
-            ],
-            "website": "http://victorchurchill.com"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "12°",
-            "name": "Hawksmoor",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    53.34396145,
-                    -6.2600720066048705
-                ]
-            ],
-            "website": "https://www.hawksmoor.ie"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "13°",
-            "name": "Casa Julián De Tolosa",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    43.1352628,
-                    -2.0724024
-                ]
-            ],
-            "website": "http://www.juliandetolosa.com"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "14°",
-            "name": "Asador Bastian",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    41.89422585,
-                    -87.63478987407044
-                ]
-            ],
-            "website": "https://asadorbastian.com/"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "15°",
-            "name": "Los 33",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    40.4238621,
-                    -3.6948322
-                ]
-            ],
-            "website": "https://los33.net/"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "16°",
-            "name": "Amaren",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    43.2629122,
-                    -2.9322305
-                ]
-            ],
-            "website": "http://www.restauranteamaren.es"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "17°",
-            "name": "Steer Dining Room",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    -37.8375986,
-                    144.9936642
-                ]
-            ],
-            "website": "https://steerdiningroom.com.au/"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "18°",
+            "position": "5°",
             "name": "Lana",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/lana",
+            "address": [
+                "Restaurante Lana, Calle de Ponzano 59, Madrid, España"
+            ],
             "coord": [
                 [
                     40.4412867,
@@ -290,204 +92,248 @@
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "6°",
+            "name": "Casa Julián De Tolosa",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/casa-julian",
+            "address": [
+                "Casa Julian, Santa Clara kalea 6, Tolosa, España"
+            ],
+            "coord": [
+                [
+                    43.1352627,
+                    -2.0723904
+                ]
+            ],
+            "website": "http://www.juliandetolosa.com"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "7°",
+            "name": "Ibai",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/ibai",
+            "address": [
+                "Centurion Close, 90, London, United Kingdom"
+            ],
+            "coord": [
+                [
+                    51.5437921,
+                    -0.1156569
+                ]
+            ],
+            "website": "https://ibai.london/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "8°",
+            "name": "Ag",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/ag",
+            "address": [
+                "Restaurang AG, Kronobergsgatan, Stockholm, Sverige"
+            ],
+            "coord": [
+                [
+                    59.3351799,
+                    18.0348514
+                ]
+            ],
+            "website": "http://www.restaurangag.se"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "9°",
+            "name": "Burnt Ends",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/burnt-ends",
+            "address": [
+                "Burnt Ends Dempsey Rd, Dempsey Road 7, Singapore, Singapore"
+            ],
+            "coord": [
+                [
+                    1.304404,
+                    103.809125
+                ]
+            ],
+            "website": "http://burntends.com.sg"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "10°",
+            "name": "Bodega El Capricho",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/el-capricho",
+            "address": [
+                "Bodega El Capricho, Calle Carrobierzo 28, Jimenez de Jamuz, España"
+            ],
+            "coord": [
+                [
+                    42.2715434,
+                    -5.9334802
+                ]
+            ],
+            "website": "http://www.bodegaelcapricho.com"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "11°",
+            "name": "Firedoor",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/firedoor",
+            "address": [
+                "Teachers Federation House, 23-33, Mary Street, Surry Hills, Sydney, Nuovo Galles del Sud, 2010, Australia"
+            ],
+            "coord": [
+                [
+                    -33.8815613,
+                    151.2098921
+                ]
+            ],
+            "website": "http://firedoor.com.au"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "12°",
+            "name": "The Eighty Six",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/the-eighty-six",
+            "address": [
+                "86, Bedford Street, West Village, Manhattan, New York County, New York, 10014, Stati Uniti d'America"
+            ],
+            "coord": [
+                [
+                    40.7320557,
+                    -74.0051476
+                ]
+            ],
+            "website": "https://www.the86.nyc/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "13°",
+            "name": "Hawksmoor St. Pancras",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/hawksmoor",
+            "address": [
+                "Warren Street, Euston Road, Fitzrovia, Camden, Londra, Inghilterra, W1T 5PE, Regno Unito"
+            ],
+            "coord": [
+                [
+                    51.5247178,
+                    -0.1385303
+                ]
+            ],
+            "website": "http://thehawksmoor.com"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "14°",
+            "name": "Aalia",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/aalia",
+            "address": [
+                "25 Martin Place, 25, Martin Place, Wynyard, Sydney, Nuovo Galles del Sud, 2000, Australia"
+            ],
+            "coord": [
+                [
+                    -33.868683,
+                    151.2092868
+                ]
+            ],
+            "website": "https://www.aaliarestaurant.com/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "15°",
+            "name": "Asador Bastian",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/asador-bastian",
+            "address": [
+                "214, West Erie Street, River North, Near North Side, Chicago, North Chicago Township, Cook County, Illinois, 60610, Stati Uniti d'America"
+            ],
+            "coord": [
+                [
+                    41.8942259,
+                    -87.6347899
+                ]
+            ],
+            "website": "https://asadorbastian.com/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "16°",
+            "name": "Arkhé Bar & Dining",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/arkh%C3%A9",
+            "address": [
+                "The Parade, Beulah Park, Adelaide, Australia Meridionale, 5067, Australia"
+            ],
+            "coord": [
+                [
+                    -34.9207444,
+                    138.6463495
+                ]
+            ],
+            "website": "https://www.arkhe.com.au/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "17°",
+            "name": "Brat",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/brat",
+            "address": [
+                "Brat, Redchurch Street 4, London, United Kingdom"
+            ],
+            "coord": [
+                [
+                    51.5242656,
+                    -0.0766909
+                ]
+            ],
+            "website": "http://bratrestaurant.com"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "18°",
+            "name": "Fireside",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/fireside",
+            "address": [
+                "Fireside, 5th floor, H Code (The Steps, 45 Pottinger St, Central, Hong Kong Island, Hong Kong"
+            ],
+            "coord": [
+                [
+                    22.2820635,
+                    114.1545397
+                ]
+            ],
+            "website": "https://www.fireside.hk/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
             "position": "19°",
-            "name": "Regina Bistecca",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    43.7737884,
-                    11.2563543
-                ]
-            ],
-            "website": "http://www.reginabistecca.com/en/steaks/"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "20°",
-            "name": "Elisa",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    49.2759188,
-                    -123.121377
-                ]
-            ],
-            "website": "http://elisasteak.com"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "21°",
-            "name": "Niku Steakhouse",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    37.7696070625,
-                    -122.40409914583334
-                ]
-            ],
-            "website": "http://nikusteakhouse.com"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "22°",
-            "name": "Beefbar",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    40.7194738,
-                    -74.0088433
-                ]
-            ],
-            "website": "https://beefbar.com/new-york/"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "23°",
-            "name": "Capa",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    55.676269,
-                    12.570164
-                ]
-            ],
-            "website": "https://capa.nu/en/"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "24°",
-            "name": "The Gidley",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    -33.8691999,
-                    151.2099956
-                ]
-            ],
-            "website": "http://www.thegidley.com.au"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "25°",
-            "name": "Jeffrey’S",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    30.280472,
-                    -97.75919
-                ]
-            ],
-            "website": "https://jeffreysofaustin.com/"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "26°",
-            "name": "Prime Steak Club",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    19.4272207,
-                    -99.1685012
-                ]
-            ],
-            "website": "https://primesteakclub.com.mx/english/"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "27°",
-            "name": "Dorian",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    51.5166405,
-                    -0.2006303
-                ]
-            ],
-            "website": "http://www.dorianrestaurant.com"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "28°",
-            "name": "Aragawa",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    51.5067349,
-                    -0.1451164
-                ]
-            ],
-            "website": "http://www.aragawa-uk.com/contact.html"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "29°",
-            "name": "La Braseria",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    45.6159371,
-                    9.5914159
-                ]
-            ],
-            "website": "https://www.la-braseria.com"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "30°",
-            "name": "Beef & Glory",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    48.2118273,
-                    16.3487851
-                ]
-            ],
-            "website": "http://www.beefandglory.at "
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "31°",
             "name": "Gillis",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/gillis",
+            "address": [
+                "Gillis, Hoogstraat 23, Gent, België / Belgique / Belgien"
+            ],
             "coord": [
                 [
                     51.0545126,
@@ -498,1004 +344,770 @@
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "32°",
-            "name": "Holsteins",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "20°",
+            "name": "Agnes",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/agnes",
+            "address": [
+                "Agnes, Agnes Street, Brisbane, Australia"
+            ],
             "coord": [
                 [
-                    25.666051,
-                    -100.3800468
+                    -27.4580265,
+                    153.0308266
                 ]
             ],
-            "website": "https://holsteins.com.mx/en/index.html"
+            "website": "https://anyday.com.au/agnes-venue-page"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "33°",
-            "name": "Tributo",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "21°",
+            "name": "Cote",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/cote",
+            "address": [
+                "16, West 22nd Street, Flatiron District, Manhattan Community Board 5, Manhattan, New York County, New York, 10010, Stati Uniti d'America"
+            ],
             "coord": [
                 [
-                    -1.831239,
-                    -78.18340599999999
+                    40.7410462,
+                    -73.9914203
                 ]
             ],
-            "website": "http://tributo.ec"
+            "website": "http://www.cotenyc.com"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "34°",
-            "name": "American Cut",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    40.7191271,
-                    -74.0101564
-                ]
-            ],
-            "website": "http://www.americancutsteakhouse.com"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "35°",
-            "name": "Anahi",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    48.8671175,
-                    2.3583069
-                ]
-            ],
-            "website": "http://www.anahi-paris.com"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "36°",
+            "position": "22°",
             "name": "Fogón",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/fog%C3%B3n",
+            "address": [
+                "El Fogón, Coronel Pringles, Ramos Mejía, Argentina"
+            ],
             "coord": [
                 [
-                    -34.5885798,
-                    -58.43354829999999
+                    -34.649169,
+                    -58.5635072
                 ]
             ],
             "website": "http://fogonasado.com"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "37°",
-            "name": "Bifrò",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "23°",
+            "name": "Carcasse",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/carcasse",
+            "address": [
+                "De carcasse, Henri Christiaenlaan, Koksijde, België / Belgique / Belgien"
+            ],
             "coord": [
                 [
-                    45.0620428,
-                    7.6865795
+                    51.1099417,
+                    2.6112357
                 ]
             ],
-            "website": "http://bifro.it"
+            "website": "http://www.carcasse.be"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "38°",
-            "name": "Bistecca",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "24°",
+            "name": "Tributo",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/tributo",
+            "address": [
+                "Tributo Restaurante, Av. Isabel la Católica, y y Luis Cordero, 170525 Quito, Ecuador"
+            ],
             "coord": [
                 [
-                    1.2933826,
-                    103.8410543
+                    -0.2057625,
+                    -78.484775
                 ]
             ],
-            "website": "http://www.bistecca.com.sg "
+            "website": "http://tributo.ec"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "39°",
-            "name": "Bazaar Meat",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "25°",
+            "name": "Miller & Lux",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/miller-%26-lux",
+            "address": [
+                "Miller & Lux, Terry A. Francois Boulevard 700, San Francisco, United States"
+            ],
             "coord": [
                 [
-                    41.8825498,
-                    -87.6370815
+                    37.7681644,
+                    -122.3864911
                 ]
             ],
-            "website": "http://www.thebazaar.com"
+            "website": "https://millerandluxrestaurant.com/"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "40°",
-            "name": "Keens",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "26°",
+            "name": "Born & Bred",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/born-%26-bred",
+            "address": [
+                "마장로42길, 1, 서울특별시, 대한민국"
+            ],
             "coord": [
                 [
-                    40.7506178,
-                    -73.9865212
+                    37.5667901,
+                    127.0445014
                 ]
             ],
-            "website": "http://www.keens.com"
+            "website": "https://bandb.co.kr/"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "41°",
-            "name": "Beast",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "27°",
+            "name": "Gran Torino",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/gran-torino",
+            "address": [
+                "Gran Torino, Cooper Street, Sydney, Australia"
+            ],
             "coord": [
                 [
-                    51.5152569,
-                    -0.1468285
+                    -33.8773693,
+                    151.24138
                 ]
             ],
-            "website": "http://www.beastrestaurant.co.uk "
+            "website": "https://themargaretfamily.com/venue/gran-torino/"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "42°",
-            "name": "Klaw  ",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "28°",
+            "name": "Hanu",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/hanu",
+            "address": [
+                "HANU Dubai, St. Regis Gardens Entrance B - Palm Jumeirah - Dubai - Emirati Arabi Uniti"
+            ],
             "coord": [
                 [
-                    25.792152100000003,
-                    -80.18587951497172
+                    25.1149761,
+                    55.1385536
                 ]
             ],
-            "website": "http://klawrestaurant.com"
+            "website": "https://hanu-restaurant.com/"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "43°",
-            "name": "Trattoria Dall’Oste",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "29°",
+            "name": "Steer Dining Room",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/steer-dining-room",
+            "address": [
+                "Steer Dining Room, Claremont Street 15, Melbourne, Australia"
+            ],
             "coord": [
                 [
-                    43.771314,
-                    11.2561418
+                    -37.8376295,
+                    144.9936822
                 ]
             ],
-            "website": "http://www.trattoriadalloste.com"
+            "website": "https://steerdiningroom.com.au/"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "44°",
-            "name": "Gwen",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "30°",
+            "name": "Nikuya Tanaka",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/nikuya-tanaka",
+            "address": [
+                "Tanaka Vegetarian, Bukit Batok West Avenue 5, Singapore, Singapore"
+            ],
             "coord": [
                 [
-                    34.0979,
-                    -118.333359
+                    1.3619809,
+                    103.751208
                 ]
             ],
-            "website": "http://www.gwenla.com"
+            "website": "http://nikuyatanaka.jp/index_en.php"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "45°",
-            "name": "Bistecca ",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "31°",
+            "name": "Victor Churchill",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/victor-churchill",
+            "address": [
+                "953, High Street, Ruthven, Reservoir, Melbourne, Victoria, 3073, Australia"
+            ],
             "coord": [
                 [
-                    -33.8632142,
-                    151.052311
+                    -37.7100959,
+                    145.0085616
                 ]
             ],
-            "website": "https://bistecca.com.au/"
+            "website": "http://victorchurchill.com"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "46°",
-            "name": "Clover Grill",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "32°",
+            "name": "Elisa",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/elisa",
+            "address": [
+                "Elisa, Hamilton Street 1109, Vancouver, Canada"
+            ],
             "coord": [
                 [
-                    48.8609753,
-                    2.3419779
+                    49.2759188,
+                    -123.121377
                 ]
             ],
-            "website": "https://jeanfrançoispiege.com/clover-grill"
+            "website": "http://elisasteak.com"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "47°",
-            "name": "Guard And Grace",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "33°",
+            "name": "The Grill At The International",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/the-grill-at-the-international",
+            "address": [
+                "25 Martin Place, 25, Martin Place, Wynyard, Sydney, Nuovo Galles del Sud, 2000, Australia"
+            ],
             "coord": [
                 [
-                    39.7477211,
-                    -104.9902743
+                    -33.868683,
+                    151.2092868
                 ]
             ],
-            "website": "http://www.guardandgrace.com "
+            "website": "https://internationalsydney.com/"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "48°",
-            "name": "Pasture",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "34°",
+            "name": "La Tête D’Or",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/la-t%C3%AAte-d%E2%80%99or",
+            "address": [
+                "318, Park Avenue South, Rose Hill, Manhattan Community Board 5, Manhattan, New York County, New York, 10010, Stati Uniti d'America"
+            ],
             "coord": [
                 [
-                    51.4807039,
-                    -3.1801943
+                    40.7407207,
+                    -73.9861
                 ]
             ],
-            "website": "http://www.pasturerestaurant.com"
+            "website": "https://www.latetedorbydaniel.com/"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "49°",
-            "name": "Maven",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "35°",
+            "name": "Lutyens Grill",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/lutyens-grill",
+            "address": [
+                "The Ned, 27, Poultry, Leadenhall Market, Bank, City of London, Londra, Inghilterra, EC2R 8AJ, Regno Unito"
+            ],
             "coord": [
                 [
-                    51.2106579,
-                    4.3887234
+                    51.5137266,
+                    -0.090038
                 ]
             ],
-            "website": "http://www.maven-antwerp.be"
+            "website": null
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "50°",
-            "name": "F.X. Buckley",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    53.3373195,
-                    -6.2518535
-                ]
-            ],
-            "website": "http://www.thebuckleycollection.ie "
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "51°",
-            "name": "Williams Butcherstable",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    47.3682686,
-                    8.5450332
-                ]
-            ],
-            "website": "http://www.williamsbutcherstable.ch"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "52°",
-            "name": "Knife",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    32.8366376,
-                    -96.7712395
-                ]
-            ],
-            "website": "http://knifedallas.com"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "53°",
-            "name": "Sala De Corte",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    38.707444,
-                    -9.1451472
-                ]
-            ],
-            "website": "http://www.saladecorte.pt"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "54°",
-            "name": "Grill Im Künstlerhaus",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    48.1401245,
-                    11.5678633
-                ]
-            ],
-            "website": "http://www.the-grill-munich.de"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "55°",
-            "name": "Goodman",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    51.5132163,
-                    -0.1419371
-                ]
-            ],
-            "website": "http://www.goodmanrestaurants.com "
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "56°",
-            "name": "Baltaire",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    34.0734236,
-                    -118.3777681
-                ]
-            ],
-            "website": "http://www.baltaire.com"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "57°",
-            "name": "Napa Grill",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    47.3645423,
-                    8.5255976
-                ]
-            ],
-            "website": "http://www.napagrill.ch"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "58°",
-            "name": "Ristorante Asina Luna",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    45.4387126,
-                    9.2951071
-                ]
-            ],
-            "website": "http://www.asinaluna.it"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "59°",
-            "name": "Piantao",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    40.4277715,
-                    -3.6969583
-                ]
-            ],
-            "website": "http://www.piantao.es"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "60°",
-            "name": "Prime + Proper",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    42.3322911,
-                    -83.04918570326589
-                ]
-            ],
-            "website": "http://www.primeandproperdetroit.com"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "61°",
-            "name": "Gallaghers",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    40.7628531,
-                    -73.9838317
-                ]
-            ],
-            "website": "http://www.gallaghersnysteakhouse.com"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "62°",
-            "name": "Swift & Sons",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    41.887265,
-                    -87.65257846014589
-                ]
-            ],
-            "website": "http://www.swiftandsonschicago.com"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "63°",
-            "name": "George Prime Steak & Raw Bar",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    48.1431687,
-                    11.5728677
-                ]
-            ],
-            "website": "http://www.georgeprimesteak.com"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "64°",
-            "name": "La Cabrera",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    -34.58894722857143,
-                    -58.43350767142857
-                ]
-            ],
-            "website": "http://www.lacabrera.com.ar"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "65°",
-            "name": "Asador Nicolás",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    43.1353026,
-                    -2.0736372
-                ]
-            ],
-            "website": "https://asadornicolas.com/en/home-en"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "66°",
-            "name": "Nick & Stef’S Steak House",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    34.05355142857143,
-                    -118.25255214285714
-                ]
-            ],
-            "website": "https://www.patinagroup.com/nick-and-stefs-steakhouse-nyc"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "67°",
-            "name": "Bavette´S Steak House",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    41.889285,
-                    -87.6348919
-                ]
-            ],
-            "website": "http://www.bavettessteakhouse.com"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "68°",
-            "name": "Beef ",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    50.439109,
-                    30.520676
-                ]
-            ],
-            "website": "https://beef.kyiv.ua"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "69°",
-            "name": "Fife Lane",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    -37.6548305,
-                    176.2000561
-                ]
-            ],
-            "website": "http://fifelane.co.nz"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "70°",
-            "name": "Fireside",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    22.2821827,
-                    114.1542985
-                ]
-            ],
-            "website": "https://www.fireside.hk/"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "71°",
+            "position": "36°",
             "name": "Porteño",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/porte%C3%B1o",
+            "address": [
+                "Porteño, Riley Street, Sydney, Australia"
+            ],
             "coord": [
                 [
-                    -33.8862924,
-                    151.2094272
+                    -33.8907025,
+                    151.2102768
                 ]
             ],
             "website": "https://www.porteno.com.au"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "72°",
-            "name": "Elena",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "37°",
+            "name": "Asador Nicolás",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/asador-nicol%C3%A1s",
+            "address": [
+                "Asador Nicolas, Zumalakarregi pasealekua 6, Tolosa, España"
+            ],
             "coord": [
                 [
-                    -34.5881112,
-                    -58.3860997
+                    43.1355039,
+                    -2.0735171
                 ]
             ],
-            "website": "https://www.fourseasons.com/buenosaires/dining/restaurants/elena/?utm_source=google&utm_medium=organicsearch&utm_campaign=tor-bue-fab-mid-seo-na&utm_content=na-na&utm_term=na"
+            "website": "https://asadornicolas.com/en/home-en"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "73°",
-            "name": "Jacobs & Co Steakhouse",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "38°",
+            "name": "Rockpool Bar & Grill",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/rockpool",
+            "address": [
+                "Rockpool Bar & Grill, Hunter Street 66, Sydney, Australia"
+            ],
             "coord": [
                 [
-                    43.6454066,
-                    -79.3981498
+                    -33.8660112,
+                    151.2103603
+                ]
+            ],
+            "website": "http://www.rockpoolbarandgrill.com.au"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "39°",
+            "name": "La Braseria",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/la-braseria",
+            "address": [
+                "La Braseria, Via Risorgimento, 17, 24046 Osio Sotto BG, Italia"
+            ],
+            "coord": [
+                [
+                    45.6159194,
+                    9.5915057
+                ]
+            ],
+            "website": "https://www.la-braseria.com"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "40°",
+            "name": "Daniel’S",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/daniel%E2%80%99s-miami",
+            "address": [
+                "Fiola Miami, 1500, San Ignacio Avenue, Coral Gables, Contea di Miami-Dade, Florida, 33146, Stati Uniti d'America"
+            ],
+            "coord": [
+                [
+                    25.705112,
+                    -80.2825975
+                ]
+            ],
+            "website": "https://www.danielssteak.com/miami/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "41°",
+            "name": "Gwen",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/gwen",
+            "address": [
+                "Gwen Speciaty, Seward Street, Los Angeles, United States"
+            ],
+            "coord": [
+                [
+                    34.0978014,
+                    -118.3333933
+                ]
+            ],
+            "website": "http://www.gwenla.com"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "42°",
+            "name": "Blok",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/blok",
+            "address": [
+                "Ffordd Hann, Talbot Green, United Kingdom"
+            ],
+            "coord": [
+                [
+                    51.5353191,
+                    -3.3965552
+                ]
+            ],
+            "website": "https://blokrestaurant.co.uk/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "43°",
+            "name": "Capa",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/capa",
+            "address": [
+                "Restaurant Capa, Rådhuspladsen, København, Danmark"
+            ],
+            "coord": [
+                [
+                    55.6762332,
+                    12.5702485
+                ]
+            ],
+            "website": "https://capa.nu/en/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "44°",
+            "name": "Amaren",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/amaren",
+            "address": [
+                "Hambueysería Amaren, Diputazio kalea 1, Bilbao, España"
+            ],
+            "coord": [
+                [
+                    43.263055,
+                    -2.931966
+                ]
+            ],
+            "website": "http://www.restauranteamaren.es"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "45°",
+            "name": "The Devonshire",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/the-devonshire",
+            "address": [
+                "George and Devonshire, Burlington Lane 8, London, United Kingdom"
+            ],
+            "coord": [
+                [
+                    51.4863638,
+                    -0.2520898
+                ]
+            ],
+            "website": "https://www.devonshiresoho.co.uk/#grillroom"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "46°",
+            "name": "Char Fuego Y Brasas",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/char",
+            "address": [
+                "CHAR Fuego y Brasas, 2, Calle el Muelle, La Caleta, Costa Adeje, Adeje, Santa Cruz de Tenerife, Canarie, 38679, Spagna"
+            ],
+            "coord": [
+                [
+                    28.1012618,
+                    -16.7555981
+                ]
+            ],
+            "website": "https://chargrilltenerife.com/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "47°",
+            "name": "Madre Rojas",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/madre-rojas",
+            "address": [
+                "1600, Rojas, Villa Crespo, Buenos Aires, Comuna 15, Ciudad Autónoma de Buenos Aires, C1414CER, Argentina"
+            ],
+            "coord": [
+                [
+                    -34.603717,
+                    -58.450584
+                ]
+            ],
+            "website": "https://linktr.ee/madrerojas"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "48°",
+            "name": "The Gidley",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/the-gidley",
+            "address": [
+                "Kingsland Road North, 161, Sydney, Australia"
+            ],
+            "coord": [
+                [
+                    -33.9393211,
+                    151.1173511
+                ]
+            ],
+            "website": "http://www.thegidley.com.au"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "49°",
+            "name": "Niku Steakhouse",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/niku",
+            "address": [
+                "Niku, Division Street 61, San Francisco, United States"
+            ],
+            "coord": [
+                [
+                    37.769696,
+                    -122.4035006
+                ]
+            ],
+            "website": "http://nikusteakhouse.com"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "50°",
+            "name": "Beefbar",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/beefbar",
+            "address": [
+                "Beefbar, Quai Jean-Charles Rey 42, Monaco, Monaco"
+            ],
+            "coord": [
+                [
+                    43.7278113,
+                    7.4216257
+                ]
+            ],
+            "website": "https://beefbar.com/monaco/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "51°",
+            "name": "Jacobs & Co Steakhouse",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/jacobs-%26-co",
+            "address": [
+                "Jacobs & Co. Steakhouse, Brant Street, Toronto, Canada"
+            ],
+            "coord": [
+                [
+                    43.6454392,
+                    -79.39797
                 ]
             ],
             "website": "https://jacobssteakhouse.com/"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "74°",
-            "name": "Lutyens Grill",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    51.51372655,
-                    -0.09003799454681721
-                ]
-            ],
-            "website": "https://www.thened.com/london/restaurants/lutyens-grill?utm_source=google&utm_medium=local&utm_campaign=restaurant-lutyensgrill"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "75°",
-            "name": "Gt Prime",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    41.8951302,
-                    -87.6338676
-                ]
-            ],
-            "website": "http://www.gtprimerestaurant.com"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "76°",
-            "name": "Temper ",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    51.5254724,
-                    -0.082384
-                ]
-            ],
-            "website": "https://temperrestaurant.com/temper-shoreditch/"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "77°",
-            "name": "Porter House",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    40.7685716,
-                    -73.9831426
-                ]
-            ],
-            "website": "http://www.porterhousenyc.com"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "78°",
-            "name": "Brick Steakhouse",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    20.6975298,
-                    -103.3734305
-                ]
-            ],
-            "website": "https://bricksteakhouse.com.mx/nuevo/"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "79°",
-            "name": "Le Boeuf Volant",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    48.8840412,
-                    2.3210201
-                ]
-            ],
-            "website": "http://www.leboeufvolant.fr "
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "80°",
-            "name": "Gibsons Italia",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    41.8863297,
-                    -87.6401044
-                ]
-            ],
-            "website": "http://www.gibsonsitalia.com"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "81°",
-            "name": "Varrone",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    45.48284,
-                    9.186129
-                ]
-            ],
-            "website": "https://varronerestaurant.com/"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "82°",
-            "name": "Porter & Rye",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    55.8649101,
-                    -4.2848041
-                ]
-            ],
-            "website": "http://www.porterandrye.com"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "83°",
-            "name": "Grill Royal",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    52.5225633,
-                    13.3884395
-                ]
-            ],
-            "website": "https://grillroyal.com/en/"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "84°",
-            "name": "Peter Luger",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    40.7098661,
-                    -73.9625564
-                ]
-            ],
-            "website": "https://peterluger.com"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "85°",
-            "name": "Minetta Tavern",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    40.7299655,
-                    -74.0006297
-                ]
-            ],
-            "website": "https://www.minettatavernny.com/"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "86°",
-            "name": "Entrecôte",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    -37.8484979,
-                    144.9857515
-                ]
-            ],
-            "website": "https://www.entrecote.com.au/"
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "87°",
-            "name": "Dstrikt",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
-            "coord": [
-                [
-                    48.2028083,
-                    16.3760187
-                ]
-            ],
-            "website": "http://www.ritzcarlton.com "
-        },
-        {
-            "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
-            "emoji": "🥩",
-            "position": "88°",
+            "position": "52°",
             "name": "Vuur",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/vuur",
+            "address": [
+                "Adam Tas Street, Stellenbosch Local Municipality, South Africa"
+            ],
             "coord": [
                 [
-                    -33.884827,
-                    18.85123
+                    -33.8844726,
+                    18.8508875
                 ]
             ],
             "website": "https://vuurrestaurant.com"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "89°",
-            "name": "Kingsleys",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "53°",
+            "name": "Clover Grill",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/clover",
+            "address": [
+                "Clover Grill, Rue Bailleul, Paris, France"
+            ],
             "coord": [
                 [
-                    -33.8684692,
-                    151.2184651
+                    48.861036,
+                    2.3417732
                 ]
             ],
-            "website": "http://www.kingsleyssydney.com.au"
+            "website": "https://jeanfrançoispiege.com/clover-grill"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "90°",
-            "name": "Beef",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "54°",
+            "name": "Elena",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/elena",
+            "address": [
+                "Elena, Posadas 1086, Ciudad Autónoma de Buenos Aires, Argentina"
+            ],
             "coord": [
                 [
-                    46.199214999999995,
-                    6.156153773168791
+                    -34.5905715,
+                    -58.3825741
                 ]
             ],
-            "website": "http://beefgeneve.ch"
+            "website": null
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "91°",
-            "name": "A Figueira Rubaiyat",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "55°",
+            "name": "Chelsea Grill",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/chelsea-grill",
+            "address": [
+                "King's Road, World's End, Lot's Village, Brompton, Kensington e Chelsea, Londra, Inghilterra, SW10 0AF, Regno Unito"
+            ],
             "coord": [
                 [
-                    -23.5653705,
-                    -46.6695678
+                    51.4813817,
+                    -0.1826688
                 ]
             ],
-            "website": "https://gruporubaiyat.com/restaurantes.asp?abt=44&lview=en"
+            "website": "https://www.chelseagrill.co.uk/"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "92°",
-            "name": "The Meat Co.",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "56°",
+            "name": "Anahi",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/anahi",
+            "address": [
+                "Rue Volta, Quartier des Arts-et-Métiers, Paris 3e Arrondissement, Parigi, Isola di Francia, Francia metropolitana, 75003, Francia"
+            ],
             "coord": [
                 [
-                    25.194962,
-                    55.277181
+                    48.8665146,
+                    2.3579982
                 ]
             ],
-            "website": "https://www.themeatco.com/"
+            "website": "http://www.anahi-paris.com"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "93°",
-            "name": "Grill",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "57°",
+            "name": "Los 33",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/los-33",
+            "address": [
+                "Los 33, Plaza de las Salesas 9, Madrid, España"
+            ],
             "coord": [
                 [
-                    53.5557185,
-                    9.9916858
+                    40.4238475,
+                    -3.6948376
                 ]
             ],
-            "website": "https://hvj.de/de/grill.html"
+            "website": "https://los33.net/"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "94°",
+            "position": "58°",
+            "name": "Jeffrey’S",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/jeffrey%E2%80%99s",
+            "address": [
+                "Jeffrey's, West Lynn Street 1204, Austin, United States"
+            ],
+            "coord": [
+                [
+                    30.2804408,
+                    -97.7591677
+                ]
+            ],
+            "website": "https://jeffreysofaustin.com/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "59°",
+            "name": "20 Chapel",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/20-chapel",
+            "address": [
+                "Chapel Street, Marrickville, Inner West, Sydney, Nuovo Galles del Sud, 2204, Australia"
+            ],
+            "coord": [
+                [
+                    -33.9077358,
+                    151.1655996
+                ]
+            ],
+            "website": "http://corey@20chapel.com.au"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "60°",
+            "name": "11Woodfire",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/11woodfire",
+            "address": [
+                "Villa Amalfi, شاطئ جميرا, جميرا, Dubai, Emirato di Dubai, Emirati Arabi Uniti"
+            ],
+            "coord": [
+                [
+                    25.2147719,
+                    55.2365914
+                ]
+            ],
+            "website": "https://11woodfire.com/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "61°",
+            "name": "Magma By Dany Karam",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/magma",
+            "address": [
+                "Cabravale Club Resort, 1, Bartley Street, Canley Vale, Sydney, Nuovo Galles del Sud, 2166, Australia"
+            ],
+            "coord": [
+                [
+                    -33.8893235,
+                    150.9397409
+                ]
+            ],
+            "website": "https://cabravale.com.au/dining/magmabydanykaram/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "62°",
             "name": "Gimlet",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/gimlet",
+            "address": [
+                "Gimlet, Russell Street 33, Melbourne, Australia"
+            ],
             "coord": [
                 [
                     -37.8158796,
@@ -1506,108 +1118,320 @@
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "95°",
-            "name": "Taberna Pedraza",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "63°",
+            "name": "Linny’S",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/linny%E2%80%99s",
+            "address": [
+                "176, Ossington Avenue, Trinity-Bellwoods, Spadina—Fort York, Toronto, Ontario, M6J 2Z2, Canada"
+            ],
             "coord": [
                 [
-                    40.4221201,
-                    -3.6908078
+                    43.6481937,
+                    -79.4204671
                 ]
             ],
-            "website": "https://tabernapedraza.com/en/grill/"
+            "website": "https://linnysrestaurant.com/"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "96°",
-            "name": "Griffins’ Steakhouse",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "64°",
+            "name": "Williams Butcherstable",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/williams-butcherstable",
+            "address": [
+                "Williams ButchersTable, Schifflände, Zürich, Schweiz/Suisse/Svizzera/Svizra"
+            ],
             "coord": [
                 [
-                    59.330554,
-                    18.0556861
+                    47.3682686,
+                    8.5450332
                 ]
             ],
-            "website": "http://www.griffinssteakhouse.se"
+            "website": "http://www.williamsbutcherstable.ch"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "97°",
-            "name": "Guinea Grill",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "65°",
+            "name": "Prime+Proper",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/prime%2Bproper",
+            "address": [
+                "Prime + Proper, State Street, Detroit, United States"
+            ],
             "coord": [
                 [
-                    51.51112465,
-                    -0.14504788832652765
+                    42.332387,
+                    -83.0491652
                 ]
             ],
-            "website": "http://www.theguinea.co.uk"
+            "website": "http://www.primeandproperdetroit.com"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "98°",
-            "name": "Grill Americano",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "66°",
+            "name": "Grill Royal",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/grill-royal",
+            "address": [
+                "Grill Royal, Friedrichstraße 105B, Berlin, Deutschland"
+            ],
             "coord": [
                 [
-                    -37.8165724,
-                    144.9666249
+                    52.5225633,
+                    13.3884395
                 ]
             ],
-            "website": "http://www.grillamericano.com"
+            "website": "http://grillroyal.com"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "99°",
-            "name": "Nv-80",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "67°",
+            "name": "American Cut",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/american-cut",
+            "address": [
+                "American Cut, Greenwich Street 363, New York, United States"
+            ],
             "coord": [
                 [
-                    -33.9208901,
-                    18.3831929
+                    40.7191271,
+                    -74.0101564
                 ]
             ],
-            "website": "http://www.nv-80.com"
+            "website": "https://www.americancutsteakhouse.com/"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "100°",
-            "name": "The Grand Bar & Grill",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "68°",
+            "name": "Keens Steakhouse",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/keens-steakhouse",
+            "address": [
+                "Keens Steakhouse, West 36th Street 72, New York, United States"
+            ],
             "coord": [
                 [
-                    60.162756,
-                    24.9464
+                    40.750773,
+                    -73.9864091
                 ]
             ],
-            "website": "https://thegrand.fi/"
+            "website": "https://www.keens.com/"
         },
         {
             "ranking": "101WB Steak Houses",
-            "sub-ranking": "World's 101 Best Steak Restaurants 2024",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
             "emoji": "🥩",
-            "position": "101°",
-            "name": "The Steak House ",
-            "ref": "https://www.worldbeststeaks.com",
-            "address": null,
+            "position": "69°",
+            "name": "Sperling & Co.",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/sperling-%26-co.",
+            "address": [
+                "Sperling & Co, Sturegatan, Stockholm, Sverige"
+            ],
+            "coord": [
+                [
+                    59.3367382,
+                    18.073635
+                ]
+            ],
+            "website": "https://sperlingco.se/en/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "70°",
+            "name": "Txula Steak",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/txula-steak",
+            "address": [
+                "515, West 30th Street, Chelsea District, Manhattan Community Board 4, Manhattan, New York County, New York, 10001, Stati Uniti d'America"
+            ],
+            "coord": [
+                [
+                    40.7524028,
+                    -74.0015738
+                ]
+            ],
+            "website": "https://www.littlespain.com/location/txula/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "71°",
+            "name": "Bazaar Meat By José Andrés",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/bazaar-meat",
+            "address": [
+                "The Ritz-Carlton, 25, West 28th Street, NoMad, Manhattan Community Board 5, Manhattan, New York County, New York, 10001, Stati Uniti d'America"
+            ],
+            "coord": [
+                [
+                    40.745672,
+                    -73.9889563
+                ]
+            ],
+            "website": "https://www.thebazaar.com/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "72°",
+            "name": "Brutus Tavern",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/brutus-tavern",
+            "address": [
+                "Περίπατος Ακρόπολης (Βόρεια κλιτύς), Αθήνα, Ελλάς"
+            ],
+            "coord": [
+                [
+                    37.9718171,
+                    23.725665
+                ]
+            ],
+            "website": "https://brutustavern.gr/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "73°",
+            "name": "Swift & Sons",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/swift-%26-sons",
+            "address": [
+                "Swift & Sons, West Fulton Market 1000, Chicago, United States"
+            ],
+            "coord": [
+                [
+                    41.8869686,
+                    -87.6524319
+                ]
+            ],
+            "website": "http://www.swiftandsonschicago.com"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "74°",
+            "name": "Maven",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/maven",
+            "address": [
+                "Maven, 4, Luikstraat, Zuid, Anversa, Fiandre, 2000, Belgio"
+            ],
+            "coord": [
+                [
+                    51.2106182,
+                    4.3888064
+                ]
+            ],
+            "website": "http://www.maven-antwerp.be"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "75°",
+            "name": "Regina Bistecca",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/regina-bistecca",
+            "address": [
+                "Regina Bistecca, Via Ricasoli 14R, Firenze, Italia"
+            ],
+            "coord": [
+                [
+                    43.7738694,
+                    11.2563407
+                ]
+            ],
+            "website": "http://www.reginabistecca.com/en/steaks/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "76°",
+            "name": "Firewood",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/firewood",
+            "address": [
+                "The Star, 15, Jalan Masjid Kapitan Keling, Little India, Central George Town, Timur Laut, George Town, Penang, 10200, Malesia"
+            ],
+            "coord": [
+                [
+                    5.4186982,
+                    100.3393208
+                ]
+            ],
+            "website": "https://firegroup.my/firewood/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "77°",
+            "name": "Sk Steak & Oyster",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/sk-steak-%26-oyster",
+            "address": [
+                "Clem Jones Tunnel, Brisbane, Australia"
+            ],
+            "coord": [
+                [
+                    -27.455896,
+                    153.0339375
+                ]
+            ],
+            "website": "https://www.st-albans.com.au/venues/sk-steak-and-oyster"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "78°",
+            "name": "Carna By Dario Cecchini",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/carna-by-dario-cecchini",
+            "address": [
+                "Carna by Dario Cecchini, 39/F, Mondrian, 8A Hart Ave, Tsim Sha Tsui, Kowloon, Hong Kong"
+            ],
+            "coord": [
+                [
+                    22.2977228,
+                    114.1749084
+                ]
+            ],
+            "website": "https://mondrianhotels.com/hong-kong/dining/carna/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "79°",
+            "name": "Matilda 159 Permanently Closed",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/matilda-159-domain",
+            "address": [
+                "159, Domain Road, Melbourne, Victoria, 3004, Australia"
+            ],
+            "coord": [
+                [
+                    -37.8341478,
+                    144.9815358
+                ]
+            ],
+            "website": "https://www.matilda159.com/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "80°",
+            "name": "The Steak House",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/the-steak-house",
+            "address": [
+                "The Steak House - Regent Hong Kong, Ground Floor, Regent Hong Kong, 18 Salisbury Rd, Tsim Sha Tsui, Kowloon, Hong Kong"
+            ],
             "coord": [
                 [
                     22.2934362,
@@ -1615,6 +1439,384 @@
                 ]
             ],
             "website": "https://hongkong.regenthotels.com/dining-destination/the-steak-house"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "81°",
+            "name": "Meatmaiden",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/meatmaiden",
+            "address": [
+                "Meatmaiden, Little Collins Street 195, Melbourne, Australia"
+            ],
+            "coord": [
+                [
+                    -37.8140909,
+                    144.9677454
+                ]
+            ],
+            "website": "https://meatmaiden.com.au/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "82°",
+            "name": "Happening Costanera",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/happening",
+            "address": [
+                "Happening Costanera, Avenida Costanera Rafael Obligado 7030, Argentina"
+            ],
+            "coord": [
+                [
+                    -34.5438761,
+                    -58.4331609
+                ]
+            ],
+            "website": "https://happening.com.ar/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "83°",
+            "name": "Shatōburian",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/shat%C5%8Dburian",
+            "address": [
+                "Palais Renaissance, 390, Orchard Road, Boulevard, Orchard, Central Region, Singapore, 238875, Singapore"
+            ],
+            "coord": [
+                [
+                    1.3067203,
+                    103.8296522
+                ]
+            ],
+            "website": "https://www.shatoburian.com.sg/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "84°",
+            "name": "Gage & Tollner",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/gage-%26-tollner",
+            "address": [
+                "Gage & Tollner, Fulton Street 372, Brooklyn, United States"
+            ],
+            "coord": [
+                [
+                    40.691467,
+                    -73.987767
+                ]
+            ],
+            "website": "https://www.gageandtollner.com/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "85°",
+            "name": "Shell House Dining Room & Terrace",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/shell-house",
+            "address": [
+                "37, Margaret Street, Stanmore, Inner West, Sydney, Nuovo Galles del Sud, 2048, Australia"
+            ],
+            "coord": [
+                [
+                    -33.8891686,
+                    151.161462
+                ]
+            ],
+            "website": "https://shellhouse.com.au/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "86°",
+            "name": "Beef & Glory",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/beef-%26-glory",
+            "address": [
+                "Beef & Glory, Florianigasse 35, Wien, Österreich"
+            ],
+            "coord": [
+                [
+                    48.2118273,
+                    16.3487851
+                ]
+            ],
+            "website": "http://www.beefandglory.at"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "87°",
+            "name": "Gallaghers",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/gallaghers",
+            "address": [
+                "Gallaghers Steakhouse, West 52nd Street 228, New York, United States"
+            ],
+            "coord": [
+                [
+                    40.7628531,
+                    -73.9838317
+                ]
+            ],
+            "website": "http://www.gallaghersnysteakhouse.com"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "88°",
+            "name": "Bistecca Tuscan Steakhouse",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/bistecca-tuscan-steakhouse",
+            "address": [
+                "26, Mohamed Sultan Road, Institution Hill, River Valley, Central Region, Singapore, 239017, Singapore"
+            ],
+            "coord": [
+                [
+                    1.2934296,
+                    103.8411808
+                ]
+            ],
+            "website": "http://www.bistecca.com.sg"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "89°",
+            "name": "The Grand Bar & Grill",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/the-grand",
+            "address": [
+                "21, Korkeavuorenkatu, Ullanlinna, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00130, Finlandia"
+            ],
+            "coord": [
+                [
+                    60.1625449,
+                    24.9465667
+                ]
+            ],
+            "website": "https://thegrand.fi/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "90°",
+            "name": "Sagardi",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/sagardi",
+            "address": [
+                "Sagardi, Cordy House, 95 Curtain Rd, London EC2A 3BS, Regno Unito"
+            ],
+            "coord": [
+                [
+                    51.525292,
+                    -0.080614
+                ]
+            ],
+            "website": "https://sagardi.co.uk/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "91°",
+            "name": "Fat Rabbit",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/fat-rabbit",
+            "address": [
+                "34, Geneva Street, St. Catharines, Niagara Region, Ontario, L2R 3N2, Canada"
+            ],
+            "coord": [
+                [
+                    43.1613624,
+                    -79.2399115
+                ]
+            ],
+            "website": "http://fat-rabbit.ca/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "92°",
+            "name": "Carnal Steakhouse",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/carnal",
+            "address": [
+                "Carnal, Carrer de Joaquín Costa 12, Barcelona, España"
+            ],
+            "coord": [
+                [
+                    41.3815531,
+                    2.1669188
+                ]
+            ],
+            "website": "https://carnalsteakhouse.com/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "93°",
+            "name": "The Cut Bar & Grill",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/the-cut",
+            "address": [
+                "Argyle Street, The Rocks, Sydney, Nuovo Galles del Sud, 2000, Australia"
+            ],
+            "coord": [
+                [
+                    -33.8590682,
+                    151.2076341
+                ]
+            ],
+            "website": "https://cutbarandgrill.com.au/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "94°",
+            "name": "Soichiro",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/soichiro-steakhouse",
+            "address": [
+                "Soichiro Irori Style Japanese Steak House, 18 Parc Place SCBD, Jl. Jend. Sudirman kav 52-53 Tower E Ground Floor, RT.5/RW.3, Senayan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190, Indonesia"
+            ],
+            "coord": [
+                [
+                    -6.2303271,
+                    106.8100054
+                ]
+            ],
+            "website": "https://soichirosteakhouse.com/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "95°",
+            "name": "Grill Americano",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/grill-americano",
+            "address": [
+                "Grill Americano, Flinders Lane, Melbourne, Australia"
+            ],
+            "coord": [
+                [
+                    -37.8152908,
+                    144.9706763
+                ]
+            ],
+            "website": "http://www.grillamericano.com"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "96°",
+            "name": "Zoilo",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/zoilo",
+            "address": [
+                "Zoilo, Duke Street 9, London, United Kingdom"
+            ],
+            "coord": [
+                [
+                    51.5160567,
+                    -0.1521271
+                ]
+            ],
+            "website": "https://www.zoilo.co.uk/video"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "97°",
+            "name": "Bistecca",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/bistecca",
+            "address": [
+                "3, Dalley Street, Lidcombe, Sydney, Nuovo Galles del Sud, 2141, Australia"
+            ],
+            "coord": [
+                [
+                    -33.8632142,
+                    151.052311
+                ]
+            ],
+            "website": "https://bistecca.com.au/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "98°",
+            "name": "The Blockman",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/the-blockman",
+            "address": [
+                "Blockman, 4th Avenue, Rosebank, South Africa"
+            ],
+            "coord": [
+                [
+                    -26.1383317,
+                    28.0176391
+                ]
+            ],
+            "website": "https://blockman.co.za/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "99°",
+            "name": "The Guinea Grill",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/the-guinea-grill",
+            "address": [
+                "The Guinea, Bruton Place 30, London, United Kingdom"
+            ],
+            "coord": [
+                [
+                    51.5110739,
+                    -0.1450035
+                ]
+            ],
+            "website": "http://www.theguinea.co.uk"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "100°",
+            "name": "Izzy’S Steaks & Chops",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/izzy%E2%80%99s",
+            "address": [
+                "3345;3349, Steiner Street, Cow Hollow, Marina District, San Francisco, California, 94123, Stati Uniti d'America"
+            ],
+            "coord": [
+                [
+                    37.8003064,
+                    -122.4380846
+                ]
+            ],
+            "website": "https://www.izzyssanfrancisco.com/"
+        },
+        {
+            "ranking": "101WB Steak Houses",
+            "sub-ranking": "World's 101 Best Steak Restaurants 2026",
+            "emoji": "🥩",
+            "position": "101°",
+            "name": "Brabo",
+            "ref": "https://www.worldbeststeaks.com/2026-list-1-101/brabo",
+            "address": [
+                "28, Carrer de Sèneca, la Vila de Gràcia, Gràcia, Barcellona, Barcelonès, Barcelona, Catalogna, 08012, Spagna"
+            ],
+            "coord": [
+                [
+                    41.3964818,
+                    2.1555608
+                ]
+            ],
+            "website": "https://braborestaurante.com/en/"
         }
     ]
 }

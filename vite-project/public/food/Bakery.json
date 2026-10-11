@@ -2,732 +2,356 @@
     "Bakery": [
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Førma bakery - L'Aquila [AQ] - Abruzzo",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "Panificio  Moderno",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/pasticceria/panificio-moderno-2",
+            "address": [
+                "via al Ponte, 10, Isera (TN)"
+            ],
             "coord": [
                 [
-                    42.3486313,
-                    13.4018205
+                    45.88359,
+                    11.017
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Pane e Pace - Matera [MT] - Basilicata",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "Antico Forno Roscioli",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/antico-forno-roscioli-2",
+            "address": [
+                "via dei Chiavari, 34, Roma (RM)"
+            ],
             "coord": [
                 [
-                    40.6745498,
-                    16.6049838
+                    41.8945784,
+                    12.4743079
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "La Francesina Boulangerie - Ercolano [NA] - Campania",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "Malafronte",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/pane-e-prodotti-di-forno/malafronte",
+            "address": [
+                "via Castellammare, 162, Gragnano (NA)"
+            ],
             "coord": [
                 [
-                    40.8125108,
-                    14.3569127
+                    40.6940805,
+                    14.5055894
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Malafronte - Gragnano [NA] - Campania",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "Nel Nome del Pane Cappelletti & Bongiovanni",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/nel-nome-del-pane-cappelletti-bongiovanni",
+            "address": [
+                "p.zza Vittoria, 6, Dovadola (FC)"
+            ],
             "coord": [
                 [
-                    40.694877,
-                    14.5004639
+                    44.1218506,
+                    11.8869101
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Foorn - Mariglianella [NA] - Campania",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "Il Forno di Calzolari",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/il-forno-di-calzolari",
+            "address": [
+                "via G. Garibaldi, 3, Monghidoro (BO)"
+            ],
             "coord": [
                 [
-                    40.9341015,
-                    14.4367942
+                    44.2192737,
+                    11.3181045
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Antica Forneria Molettieri - Napoli [NA] - Campania",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "Forno Veneziano",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/forno-veneziano",
+            "address": [
+                "p.zza Vittorio Emanuele II, 3, Piove di Sacco (PD)"
+            ],
             "coord": [
                 [
-                    40.8397111,
-                    14.2415614
+                    45.2968687,
+                    12.0349446
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Micropanificio Mollica - Carpi [MO] - Emilia Romagna",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "La Butega ad Franton",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/la-butega-ad-franton",
+            "address": [
+                "c.so Prampolini, 13a, Guastalla (RE)"
+            ],
             "coord": [
                 [
-                    44.78373999999999,
-                    10.884783
+                    44.92135,
+                    10.65302
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Nel Nome del Pane Cappelletti & Bongiovanni - Dovadola [FC] - Emilia Romagna",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "Vulaiga",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria-laboratorio/vulaiga",
+            "address": [
+                "via Rizzetti, 22, Fobello (VC)"
+            ],
             "coord": [
                 [
-                    44.1218199,
-                    11.8870293
+                    45.89042,
+                    8.1564
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "La Butega ad Franton - Guastalla [RE] - Emilia Romagna",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "Marinato",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/marinato",
+            "address": [
+                "via Roma, 134, Cinto Caomaggiore (VE)"
+            ],
             "coord": [
                 [
-                    44.9212597,
-                    10.6530592
+                    45.82288,
+                    12.78727
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Il Forno di Calzolari - Monghidoro [BO] - Emilia Romagna",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "Grazioli",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/grazioli",
+            "address": [
+                "via G. Rossini, 15, Legnano (MI)"
+            ],
             "coord": [
                 [
-                    44.219215,
-                    11.3178889
+                    45.59212,
+                    8.9105
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Jerian - Trieste [TS] - Friuli Venezia Giulia",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "Perino Vesco",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/perino-vesco",
+            "address": [
+                "via Cavour, 10, Torino (TO)"
+            ],
             "coord": [
                 [
-                    45.6647216,
-                    13.7709989
+                    45.0636636,
+                    7.6908853
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Pezz de Pane - Frosinone [FR] - Lazio",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "Panetteria Fagnola dal 1923",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/pasticceria/panetteria-fagnola-dal-1923",
+            "address": [
+                "v.le Madonna dei Fiori, 44, Bra (CN)"
+            ],
             "coord": [
                 [
-                    41.6412539,
-                    13.3523204
+                    44.7047526,
+                    7.8447043
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Zampa Forno Etico - Roma [RM] - Lazio",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "Marcarino Roddino",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria-laboratorio/marcarino-roddino",
+            "address": [
+                "loc. Corini, 7, Roddino (CN)"
+            ],
             "coord": [
                 [
-                    41.85717,
-                    12.55754
+                    44.5682572,
+                    8.0119784
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Panificio Bonci - Roma [RM] - Lazio",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "Kentos - Il Pane dei Centenari",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/kentos-il-pane-dei-centenari",
+            "address": [
+                "via Carelli, snc, Orroli (CA)"
+            ],
             "coord": [
                 [
-                    41.9115619,
-                    12.4536607
+                    39.6917733,
+                    9.2518868
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Antico Forno Roscioli - Roma [RM] - Lazio",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "Panificio  Bonci",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/panificio-bonci-2",
+            "address": [
+                "via Trionfale, 36, Roma (RM)"
+            ],
             "coord": [
                 [
-                    41.8945667,
-                    12.4742778
+                    41.9116,
+                    12.45363
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Panificio Marè - Roma [RM] - Lazio",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "Spoto Bakery - Voglia di Pane",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/spoto-bakery-voglia-di-pane-2",
+            "address": [
+                "via Chiesa della Salute, 23, Torino (TO)"
+            ],
             "coord": [
                 [
-                    41.85865949999999,
-                    12.4920562
+                    45.0956714,
+                    7.6788413
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Tulipane - Roma [RM] - Lazio",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "Luca Scarcella",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/luca-scarcella",
+            "address": [
+                "via Lurisia, 7, Torino (TO)"
+            ],
             "coord": [
                 [
-                    41.8986743,
-                    12.4670563
+                    45.0599338,
+                    7.6468665
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Triticum Micropanificio Agricolo - Roma [RM] - Lazio",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "Ficini",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/ficini",
+            "address": [
+                "via C. L. Berthollet, 30, Torino (TO)"
+            ],
             "coord": [
                 [
-                    41.8649103,
-                    12.4717404
+                    45.0579782,
+                    7.683849
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Lievito Francesco Arnesano - Roma [RM] - Lazio",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "Martinez",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/martinez",
+            "address": [
+                "via Salemi, 45, Trapani (TP)"
+            ],
             "coord": [
                 [
-                    41.8300955,
-                    12.488053
+                    38.0130465,
+                    12.5387516
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Il Pane di Maurizio Sarioli - Brescia [BS] - Lombardia",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
-            "coord": [
-                [
-                    45.5399736,
-                    10.2214645
-                ]
+            "name": "Forno Biancuccia",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/forno-biancuccia",
+            "address": [
+                "via M. Sangiorgi, 12, Catania (CT)"
             ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
-            "emoji": "🥖",
-            "position": null,
-            "name": "Grazioli - Legnano [MI] - Lombardia",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
-            "coord": [
-                [
-                    45.59165489999999,
-                    8.909576000000001
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
-            "emoji": "🥖",
-            "position": null,
-            "name": "Panetteria Rio dal 1929 - Mantova [MN] - Lombardia",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
-            "coord": [
-                [
-                    45.1590441,
-                    10.7877176
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
-            "emoji": "🥖",
-            "position": null,
-            "name": "LePolveri - panificio diurno - Milano [MI] - Lombardia",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
-            "coord": [
-                [
-                    45.4534196,
-                    9.151036699999999
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
-            "emoji": "🥖",
-            "position": null,
-            "name": "Crosta - Milano [MI] - Lombardia",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
-            "coord": [
-                [
-                    45.47083869999999,
-                    9.209154999999999
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
-            "emoji": "🥖",
-            "position": null,
-            "name": "Forno Del Mastro - Monza [MB] - Lombardia",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
-            "coord": [
-                [
-                    45.579983,
-                    9.272296899999999
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
-            "emoji": "🥖",
-            "position": null,
-            "name": "Tilde Forno Artigiano - Treviglio [BG] - Lombardia",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
-            "coord": [
-                [
-                    45.5508376,
-                    9.576876
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
-            "emoji": "🥖",
-            "position": null,
-            "name": "Cerere - L' Atelier del Pane - Triuggio [MB] - Lombardia",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
-            "coord": [
-                [
-                    45.6488934,
-                    9.2815704
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
-            "emoji": "🥖",
-            "position": null,
-            "name": "L' Assalto ai Forni - Ascoli Piceno [AP] - Marche",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
-            "coord": [
-                [
-                    42.853612,
-                    13.57666
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
-            "emoji": "🥖",
-            "position": null,
-            "name": "Pandefrà - Senigallia [AN] - Marche",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
-            "coord": [
-                [
-                    43.7157086,
-                    13.2182181
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
-            "emoji": "🥖",
-            "position": null,
-            "name": "Panetteria Fagnola dal 1923 - Bra [CN] - Piemonte",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
-            "coord": [
-                [
-                    44.7048244,
-                    7.8449733
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
-            "emoji": "🥖",
-            "position": null,
-            "name": "Cuore di Pane Bio - Cabella Ligure [AL] - Piemonte",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
-            "coord": [
-                [
-                    44.6754048,
-                    9.0943157
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
-            "emoji": "🥖",
-            "position": null,
-            "name": "Vulaiga - Fobello [VC] - Piemonte",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
-            "coord": [
-                [
-                    45.8904799,
-                    8.1563649
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
-            "emoji": "🥖",
-            "position": null,
-            "name": "Marcarino Roddino - Roddino [CN] - Piemonte",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
-            "coord": [
-                [
-                    44.5682218,
-                    8.0120802
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
-            "emoji": "🥖",
-            "position": null,
-            "name": "GRANO - Fornai in Fermento - Santena [TO] - Piemonte",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
-            "coord": [
-                [
-                    44.9509653,
-                    7.773938599999999
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
-            "emoji": "🥖",
-            "position": null,
-            "name": "Luca Scarcella - Il Forno dell'Angolo - Torino [TO] - Piemonte",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
-            "coord": [
-                [
-                    45.0599009,
-                    7.646810299999999
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
-            "emoji": "🥖",
-            "position": null,
-            "name": "Spoto Bakery Voglia di Pane - Torino [TO] - Piemonte",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
-            "coord": [
-                [
-                    45.0956594,
-                    7.6788754
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
-            "emoji": "🥖",
-            "position": null,
-            "name": "Ficini - Torino [TO] - Piemonte",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
-            "coord": [
-                [
-                    45.0579967,
-                    7.6838241
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
-            "emoji": "🥖",
-            "position": null,
-            "name": "Perino Vesco - Torino [TO] - Piemonte",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
-            "coord": [
-                [
-                    45.0651816,
-                    7.6829721
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
-            "emoji": "🥖",
-            "position": null,
-            "name": "Panificio Adriatico - Bari [BA] - Puglia",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
-            "coord": [
-                [
-                    41.1203852,
-                    16.8737511
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
-            "emoji": "🥖",
-            "position": null,
-            "name": "Spacciagrani - Forno indipendente - Conversano [BA] - Puglia",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
-            "coord": [
-                [
-                    40.96416139999999,
-                    17.1090022
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
-            "emoji": "🥖",
-            "position": null,
-            "name": "Il Toscano - Corato [BA] - Puglia",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
-            "coord": [
-                [
-                    41.1492106,
-                    16.4130066
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
-            "emoji": "🥖",
-            "position": null,
-            "name": "Forno Sammarco - San Marco in Lamis [FG] - Puglia",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
-            "coord": [
-                [
-                    41.7125453,
-                    15.6344077
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
-            "emoji": "🥖",
-            "position": null,
-            "name": "Lula - Pane e Dessert - Trani [BT] - Puglia",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
-            "coord": [
-                [
-                    41.2724457,
-                    16.4194443
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
-            "emoji": "🥖",
-            "position": null,
-            "name": "PBread Natural Bakery - Cagliari [CA] - Sardegna",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
-            "coord": [
-                [
-                    39.2106281,
-                    9.1159901
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
-            "emoji": "🥖",
-            "position": null,
-            "name": "Madriga - Cagliari [CA] - Sardegna",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
-            "coord": [
-                [
-                    39.2170476,
-                    9.1153479
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
-            "emoji": "🥖",
-            "position": null,
-            "name": "Forno Biancuccia - Catania [CT] - Sicilia",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
             "coord": [
                 [
                     37.5139296,
@@ -738,140 +362,374 @@
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Francesco Arena Mastro Fornaio - Messina [ME] - Sicilia",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "Forno Sammarco",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/pane-e-prodotti-di-forno/forno-sammarco",
+            "address": [
+                "via Lungo Iana, 10, San Marco in Lamis (FG)"
+            ],
             "coord": [
                 [
-                    38.1873139,
-                    15.5549904
+                    41.7125374,
+                    15.6344061
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Panificio Guccione - Palermo [PA] - Sicilia",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "Tilde Forno Artigiano",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/tilde-forno-artigiano",
+            "address": [
+                "via Contessa Piazzoni, 7/a, Treviglio (BG)"
+            ],
             "coord": [
                 [
-                    38.1359827,
-                    13.345387
+                    45.5508999,
+                    9.5769958
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Martinez - Trapani [TP] - Sicilia",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "Forno Del Mastro",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/forno-del-mastro-3",
+            "address": [
+                "via Cavour, 3, Monza (MB)"
+            ],
             "coord": [
                 [
-                    38.02156900000001,
-                    12.522714
+                    45.5799154,
+                    9.2722907
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Pank La Bulangeria - Firenze [FI] - Toscana",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "Le Coin du Pain",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/le-coin-du-pain",
+            "address": [
+                "loc. Bret, 21, Saint-Christophe (AO)"
+            ],
             "coord": [
                 [
-                    43.77660669999999,
-                    11.2537328
+                    45.745334,
+                    7.3563789
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Lievitamente - Viareggio [LU] - Toscana",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "Il Fornaio Fratelli Zenatti dal 1979",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/il-fornaio-fratelli-zenatti-dal-1979",
+            "address": [
+                "via Osteria Grande, 17, Sommacampagna (VR)"
+            ],
             "coord": [
                 [
-                    43.8675856,
-                    10.2505496
+                    45.4068054,
+                    10.8468876
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Panificio Moderno - Isera [TN] - Trentino Alto Adige",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "Il Toscano",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/il-toscano",
+            "address": [
+                "via Crocifisso, 34/36, Corato (BA)"
+            ],
             "coord": [
                 [
-                    45.8842181,
-                    11.016392
+                    41.149273,
+                    16.4130189
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Le Coin du Pain - Saint Christophe [AO] - Valle d'Aosta",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "Crosta",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/crosta-2",
+            "address": [
+                "via F. Bellotti, 13, Milano (MI)"
+            ],
             "coord": [
                 [
-                    45.74597989999999,
-                    7.3579682
+                    45.4709829,
+                    9.2092443
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Marinato - Cinto Caomaggiore [VE] - Veneto",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "La Francesina Boulangerie",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/la-francesina-boulangerie",
+            "address": [
+                "via Panoramica, 280, Ercolano (NA)"
+            ],
             "coord": [
                 [
-                    45.8228803,
-                    12.7872744
+                    40.8124904,
+                    14.3569019
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Grigoris LaBakery - Mestre [VE] - Veneto",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "Pane e Pace",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/pane-e-pace",
+            "address": [
+                "via Cererie, 49/E, Matera (MT)"
+            ],
+            "coord": [
+                [
+                    40.6745498,
+                    16.6049838
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
+            "emoji": "🥖",
+            "position": null,
+            "name": "Panequaglia",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/panequaglia",
+            "address": [
+                "via Rottella Sinistra, 1, Sant'Urbano (PD)"
+            ],
+            "coord": [
+                [
+                    45.125883,
+                    11.645925
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
+            "emoji": "🥖",
+            "position": null,
+            "name": "Lievitamente",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/lievitamente-2",
+            "address": [
+                "c.so G. Garibaldi, 142, Viareggio (LU)"
+            ],
+            "coord": [
+                [
+                    43.8675918,
+                    10.2505272
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
+            "emoji": "🥖",
+            "position": null,
+            "name": "PBread Natural Bakery",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/pbread-natural-bakery-2",
+            "address": [
+                "v.le Cristoforo Colombo, 2, Cagliari (CA)"
+            ],
+            "coord": [
+                [
+                    39.2104916,
+                    9.1161254
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
+            "emoji": "🥖",
+            "position": null,
+            "name": "Renato Bosco Cruncheria",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/renato-bosco-cruncheria",
+            "address": [
+                "via Ponte, 55, San Martino Buon Albergo (VR)"
+            ],
+            "coord": [
+                [
+                    45.4231173,
+                    11.096069
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
+            "emoji": "🥖",
+            "position": null,
+            "name": "L' Assalto ai Forni",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/l-assalto-ai-forni",
+            "address": [
+                "p.zza Arringo, 46, Ascoli Piceno (AP)"
+            ],
+            "coord": [
+                [
+                    42.8536306,
+                    13.5766611
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
+            "emoji": "🥖",
+            "position": null,
+            "name": "Panificio Marè",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/panificio-mare",
+            "address": [
+                "v.le Angelico, 88/C, Roma (RM)"
+            ],
+            "coord": [
+                [
+                    41.9205538,
+                    12.4589269
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
+            "emoji": "🥖",
+            "position": null,
+            "name": "Panificio Guccione",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/panificio-guccione-2",
+            "address": [
+                "via F. G. Pipitone, 63, Palermo (PA)"
+            ],
+            "coord": [
+                [
+                    38.1359998,
+                    13.3453656
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
+            "emoji": "🥖",
+            "position": null,
+            "name": "Panetteria Rio dal 1929",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/panetteria-rio-dal-1929",
+            "address": [
+                "via Corrado, 10/12, Mantova (MN)"
+            ],
+            "coord": [
+                [
+                    45.1590441,
+                    10.7877176
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
+            "emoji": "🥖",
+            "position": null,
+            "name": "Tondo Forno Radicale",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/tondo-forno-radicale",
+            "address": [
+                "via Cola Montano, 12, Milano (MI)"
+            ],
+            "coord": [
+                [
+                    45.4880758,
+                    9.185614
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
+            "emoji": "🥖",
+            "position": null,
+            "name": "Il Pane di Maurizio Sarioli",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/il-pane-di-maurizio-sarioli",
+            "address": [
+                "via dei Musei, 18/a, Brescia (BS)"
+            ],
+            "coord": [
+                [
+                    45.53999,
+                    10.22125
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
+            "emoji": "🥖",
+            "position": null,
+            "name": "Antica Forneria Molettieri",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/antica-forneria-molettieri",
+            "address": [
+                "c.so Vittorio Emanuele, 242, Napoli (NA)"
+            ],
+            "coord": [
+                [
+                    40.8397111,
+                    14.2415614
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
+            "emoji": "🥖",
+            "position": null,
+            "name": "Grigoris The Bakery",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/grigoris-the-bakery",
+            "address": [
+                "via San Girolamo, 5B, Mestre (VE)"
+            ],
             "coord": [
                 [
                     45.5110378,
@@ -882,48 +740,540 @@
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Forno Veneziano - Piove di Sacco [PD] - Veneto",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "Cuore di Pane Bio",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/cuore-di-pane-bio",
+            "address": [
+                "via Casellina, 7, Cabella Ligure (AL)"
+            ],
             "coord": [
                 [
-                    45.2969021,
-                    12.034991
+                    44.675491,
+                    9.0943705
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Renato Bosco Bakery - San Martino Buon Albergo [VR] - Veneto",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "Pezz de Pane",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/pezz-de-pane",
+            "address": [
+                "p.zza Garibaldi, 3, Frosinone (FR)"
+            ],
             "coord": [
                 [
-                    45.4225874,
-                    11.0922347
+                    41.6412934,
+                    13.352458
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Pani Gambero Rosso 2025",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
             "emoji": "🥖",
             "position": null,
-            "name": "Il Fornaio Fratelli Zenatti dal 1979 - Sommacampagna [VR] - Veneto",
-            "ref": "https://www.gamberorosso.it/pane/",
-            "address": null,
+            "name": "Triticum Micropanificio Agricolo",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/triticum-micropanificio-agricolo",
+            "address": [
+                "via G. Peano, 10, Roma (RM)"
+            ],
             "coord": [
                 [
-                    45.4069551,
-                    10.846975
+                    41.86491,
+                    12.47176
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
+            "emoji": "🥖",
+            "position": null,
+            "name": "Panificio Settecroste",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/panificio-settecroste",
+            "address": [
+                "c.so Garibaldi, 23, Galatina (LE)"
+            ],
+            "coord": [
+                [
+                    40.1733473,
+                    18.1696303
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
+            "emoji": "🥖",
+            "position": null,
+            "name": "Francesco Arena Mastro Fornaio",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/francesco-arena-mastro-fornaio",
+            "address": [
+                "via T. Cannizzaro, 137, Messina (ME)"
+            ],
+            "coord": [
+                [
+                    38.1873118,
+                    15.5549732
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
+            "emoji": "🥖",
+            "position": null,
+            "name": "Spacciagrani - Forno indipendente",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/spacciagrani-forno-indipendente",
+            "address": [
+                "via Melillo, 42, Conversano (BA)"
+            ],
+            "coord": [
+                [
+                    40.9675463,
+                    17.1170741
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
+            "emoji": "🥖",
+            "position": null,
+            "name": "Zampa Forno Etico",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/zampa-forno-etico",
+            "address": [
+                "via Valerio Publicola, 73, Roma (RM)"
+            ],
+            "coord": [
+                [
+                    41.85717,
+                    12.55754
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
+            "emoji": "🥖",
+            "position": null,
+            "name": "GRANO - Fornai in Fermento",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/grano-fornai-in-fermento",
+            "address": [
+                "via Sambuy, 100/a, Santena (TO)"
+            ],
+            "coord": [
+                [
+                    44.9566016,
+                    7.7866187
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
+            "emoji": "🥖",
+            "position": null,
+            "name": "Farina del mio sacco",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/farina-del-mio-sacco-2",
+            "address": [
+                "via Cavalieri di Vittorio Veneto, 21, Atessa (CH)"
+            ],
+            "coord": [
+                [
+                    42.0682012,
+                    14.4539296
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
+            "emoji": "🥖",
+            "position": null,
+            "name": "Cerere - L' Atelier del Pane",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/cerere-l-atelier-del-pane",
+            "address": [
+                "via Emanuele Filiberto, 4, Triuggio (MB)"
+            ],
+            "coord": [
+                [
+                    45.6489207,
+                    9.2814737
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
+            "emoji": "🥖",
+            "position": null,
+            "name": "Panetteria Ribotta",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/panetteria-ribotta",
+            "address": [
+                "p.tta della Madonna, 4, Barge (CN)"
+            ],
+            "coord": [
+                [
+                    44.7262426,
+                    7.3265481
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
+            "emoji": "🥖",
+            "position": null,
+            "name": "Førma bakery",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/forma-bakery",
+            "address": [
+                "via Fortebraccio, 63, L'Aquila (AQ)"
+            ],
+            "coord": [
+                [
+                    42.3486313,
+                    13.4018205
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
+            "emoji": "🥖",
+            "position": null,
+            "name": "Foorn",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/pane-e-prodotti-di-forno/foorn-2",
+            "address": [
+                "via Variante 7 Bis, 22, Mariglianella (NA)"
+            ],
+            "coord": [
+                [
+                    40.9341015,
+                    14.4367942
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
+            "emoji": "🥖",
+            "position": null,
+            "name": "L' Arte del Grano",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/l-arte-del-grano",
+            "address": [
+                "v.le Cassiodoro, 54A, Davoli (CZ)"
+            ],
+            "coord": [
+                [
+                    38.6657572,
+                    16.545335
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
+            "emoji": "🥖",
+            "position": null,
+            "name": "Il Forno di Lambrate",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/il-forno-di-lambrate",
+            "address": [
+                "via Teodosio, 2, Milano (MI)"
+            ],
+            "coord": [
+                [
+                    45.4829415,
+                    9.2302203
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
+            "emoji": "🥖",
+            "position": null,
+            "name": "Mauro Petronella Bakery",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/mauro-petronella-bakery",
+            "address": [
+                "v.le Regina Margherita, 76, Altamura (BA)"
+            ],
+            "coord": [
+                [
+                    40.8334001,
+                    16.5526642
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
+            "emoji": "🥖",
+            "position": null,
+            "name": "Madriga",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/madriga",
+            "address": [
+                "via Università, 31, Cagliari (CA)"
+            ],
+            "coord": [
+                [
+                    39.2170524,
+                    9.1153893
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Pani Gambero Rosso 2027",
+            "emoji": "🥖",
+            "position": null,
+            "name": "Tocio di Giulia Busato",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/panetteria/tocio-di-giulia-busato",
+            "address": [
+                "p.zza XX Settembre, 30, Noale (VE)"
+            ],
+            "coord": [
+                [
+                    45.5491534,
+                    12.0738787
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Croissant",
+            "emoji": "🥖",
+            "position": "1°",
+            "name": "Blé Sucré",
+            "ref": "https://www.tasteatlas.com/croissant/wheretoeat",
+            "address": [
+                "Blé Sucré, Rue Antoine Vollon 7, Paris, France"
+            ],
+            "coord": [
+                [
+                    48.8505592,
+                    2.3767287
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Croissant",
+            "emoji": "🥖",
+            "position": "2°",
+            "name": "Lune Croissanterie",
+            "ref": "https://www.tasteatlas.com/croissant/wheretoeat",
+            "address": [
+                "Lune Croissanterie, Lonsdale Street 670, Melbourne, Australia"
+            ],
+            "coord": [
+                [
+                    -37.814698,
+                    144.952691
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Croissant",
+            "emoji": "🥖",
+            "position": "3°",
+            "name": "Pierre Hermé",
+            "ref": "https://www.tasteatlas.com/croissant/wheretoeat",
+            "address": [
+                "Pierre Hermé, Rue Jean du Bellay, Paris, France"
+            ],
+            "coord": [
+                [
+                    48.8531774,
+                    2.3535928
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Croissant",
+            "emoji": "🥖",
+            "position": "4°",
+            "name": "Sébastien Gaudard",
+            "ref": "https://www.tasteatlas.com/croissant/wheretoeat",
+            "address": [
+                "Sébastien Gaudard, Rue des Pyramides 1, Paris, France"
+            ],
+            "coord": [
+                [
+                    48.8640823,
+                    2.3321744
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Croissant",
+            "emoji": "🥖",
+            "position": "5°",
+            "name": "Du Pain et Des Idées",
+            "ref": "https://www.tasteatlas.com/croissant/wheretoeat",
+            "address": [
+                "Du Pain et des Idées, Rue de Marseille, Paris, France"
+            ],
+            "coord": [
+                [
+                    48.8712472,
+                    2.3629042
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Croissant",
+            "emoji": "🥖",
+            "position": "6°",
+            "name": "Maison Kayser",
+            "ref": "https://www.tasteatlas.com/croissant/wheretoeat",
+            "address": [
+                "Maison Kayser, Rue de Ponthieu 8, Paris, France"
+            ],
+            "coord": [
+                [
+                    48.8703111,
+                    2.3109794
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Croissant",
+            "emoji": "🥖",
+            "position": "7°",
+            "name": "La Pâtisserie Cyril Lignac",
+            "ref": "https://www.tasteatlas.com/croissant/wheretoeat",
+            "address": [
+                "La Pâtisserie Cyril Lignac, Rue de Sèvres 133, Paris, France"
+            ],
+            "coord": [
+                [
+                    48.8472818,
+                    2.3181691
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Croissant",
+            "emoji": "🥖",
+            "position": "8°",
+            "name": "Café de Flore",
+            "ref": "https://www.tasteatlas.com/croissant/wheretoeat",
+            "address": [
+                "Café de Flore, Rue Saint-Benoît, Paris, France"
+            ],
+            "coord": [
+                [
+                    48.8541444,
+                    2.3326307
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Croissant",
+            "emoji": "🥖",
+            "position": "9°",
+            "name": "Bread & Roses",
+            "ref": "https://www.tasteatlas.com/croissant/wheretoeat",
+            "address": [
+                "Bread & Roses, Rue Madame 62, Paris, France"
+            ],
+            "coord": [
+                [
+                    48.8469784,
+                    2.3314691
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Croissant",
+            "emoji": "🥖",
+            "position": "10°",
+            "name": "Le Bristol Paris",
+            "ref": "https://www.tasteatlas.com/croissant/wheretoeat",
+            "address": [
+                "112, Rue du Faubourg Saint-Honoré, Quartier de la Madeleine, Paris 8e Arrondissement, Parigi, Isola di Francia, Francia metropolitana, 75008, Francia"
+            ],
+            "coord": [
+                [
+                    48.8716714,
+                    2.3147666
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Croissant",
+            "emoji": "🥖",
+            "position": "11°",
+            "name": "Boulangerie Saint Paul",
+            "ref": "https://www.tasteatlas.com/croissant/wheretoeat",
+            "address": [
+                "Boulangerie Saint-Paul, Place Saint-Paul, Lyon, France"
+            ],
+            "coord": [
+                [
+                    45.7662075,
+                    4.8276506
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Croissant",
+            "emoji": "🥖",
+            "position": "12°",
+            "name": "Panaderia Rosetta",
+            "ref": "https://www.tasteatlas.com/croissant/wheretoeat",
+            "address": [
+                "Panadería Rosetta, Calle Havre 73, Ciudad de México, México"
+            ],
+            "coord": [
+                [
+                    19.4252812,
+                    -99.1607198
                 ]
             ],
             "website": null

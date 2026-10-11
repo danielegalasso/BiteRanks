@@ -2,186 +2,6 @@
     "Burger": [
         {
             "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Panini 2024",
-            "emoji": "🍔",
-            "position": "1°",
-            "name": "Da Gigione Gourmand",
-            "ref": "https://www.50topitaly.it/it/referenza/da-gigione-gourmand-3/",
-            "address": [
-                "Via Roma, 307, 80038 Pomigliano d'Arco NA"
-            ],
-            "coord": [
-                [
-                    40.91218,
-                    14.3912404
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Panini 2024",
-            "emoji": "🍔",
-            "position": "2°",
-            "name": "Bestie – Calabresi selvaggi",
-            "ref": "https://www.50topitaly.it/it/referenza/bestie-calabresi-selvaggi-3/",
-            "address": [
-                "Via Italo Balbo, 89, 88060 Montepaone, CZ, Italia"
-            ],
-            "coord": [
-                [
-                    38.7270591,
-                    16.5313096
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Panini 2024",
-            "emoji": "🍔",
-            "position": "3°",
-            "name": "‘Ino",
-            "ref": "https://www.50topitaly.it/it/referenza/ino-3/",
-            "address": [
-                "Via dei Georgofili, 3r/7r, 50122 Firenze FI, Italia"
-            ],
-            "coord": [
-                [
-                    43.7681726,
-                    11.2546317
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Panini 2024",
-            "emoji": "🍔",
-            "position": "4°",
-            "name": "Fud Bottega Sicula",
-            "ref": "https://www.50topitaly.it/it/referenza/fud-bottega-sicula-2/",
-            "address": [
-                "Piazza Olivella, 4, 90133 Palermo, Palermo PA, Italia"
-            ],
-            "coord": [
-                [
-                    38.1203329,
-                    13.3601276
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Panini 2024",
-            "emoji": "🍔",
-            "position": "5°",
-            "name": "Porcobrado",
-            "ref": "https://www.50topitaly.it/it/referenza/porcobrado-2/",
-            "address": [
-                "Via Jacopo dal Verme, 17, 20159 Milano, MI, Italia"
-            ],
-            "coord": [
-                [
-                    45.4875206,
-                    9.1881472
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Panini 2024",
-            "emoji": "🍔",
-            "position": "6°",
-            "name": "Mi’ Ndujo",
-            "ref": "https://www.50topitaly.it/it/referenza/mi-ndujo/",
-            "address": [
-                "Via G. Marconi, 82 - 87036 Rende"
-            ],
-            "coord": [
-                [
-                    39.3535206,
-                    16.2358733
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Panini 2024",
-            "emoji": "🍔",
-            "position": "7°",
-            "name": "Da Matti Street Food",
-            "ref": "https://www.50topitaly.it/it/referenza/da-matti-street-food-3/",
-            "address": [
-                "Via A. Vespucci, 9, 66038 Marina di San Vito, CH, Italia"
-            ],
-            "coord": [
-                [
-                    42.3076596,
-                    14.4453194
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Panini 2024",
-            "emoji": "🍔",
-            "position": "8°",
-            "name": "BifBurger Exclusive",
-            "ref": "https://www.50topitaly.it/it/referenza/bifburger-exclusive-2/",
-            "address": [
-                "Via Papa Giovanni XXIII, 8, 80044 Ottaviano NA, Italia"
-            ],
-            "coord": [
-                [
-                    40.8485233,
-                    14.4762652
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Panini 2024",
-            "emoji": "🍔",
-            "position": "9°",
-            "name": "Panino Marino",
-            "ref": "https://www.50topitaly.it/it/referenza/panino-marino-3/",
-            "address": [
-                "Piazza Caricamento, 65R, 16124 Genova, GE, Italia"
-            ],
-            "coord": [
-                [
-                    44.4107044,
-                    8.9289542
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Panini 2024",
-            "emoji": "🍔",
-            "position": "10°",
-            "name": "Qcècè SocialCafè",
-            "ref": "https://www.50topitaly.it/it/referenza/qcece-socialcafe/",
-            "address": [
-                "Piazza Altieri, 87020 San Nicola Arcella, CS, Italia"
-            ],
-            "coord": [
-                [
-                    39.8486071,
-                    15.794757
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "50 Top Italy",
             "sub-ranking": "I Migliori Panini 2025 Mulino Caputo Award",
             "emoji": "🍔",
             "position": "1°",
@@ -365,13 +185,15 @@
             "sub-ranking": "Burger Battle Italia",
             "emoji": "🍔",
             "position": null,
-            "name": "White Rabbit",
+            "name": "Symposium Café",
             "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
+            "address": [
+                "Piazza San Francesco, 76, 74012 Crispiano (TA)"
+            ],
             "coord": [
                 [
-                    41.9230845,
-                    12.5152446
+                    40.604241,
+                    17.231167
                 ]
             ],
             "website": null
@@ -381,13 +203,15 @@
             "sub-ranking": "Burger Battle Italia",
             "emoji": "🍔",
             "position": null,
-            "name": "Opificio Vescovio",
+            "name": "Osteria al Tredese",
             "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
+            "address": [
+                "Via Giuseppe Cesare Abba, 13D, 37126 Verona"
+            ],
             "coord": [
                 [
-                    41.9333129,
-                    12.5124986
+                    45.445971,
+                    10.989621
                 ]
             ],
             "website": null
@@ -397,13 +221,15 @@
             "sub-ranking": "Burger Battle Italia",
             "emoji": "🍔",
             "position": null,
-            "name": "Il Locandiere De Core e De Panza",
+            "name": "Pulp Restaurant",
             "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
+            "address": [
+                "Piazza Giovanni da Triora, 15, 00154 Roma"
+            ],
             "coord": [
                 [
-                    41.7914615,
-                    13.1317503
+                    41.862041,
+                    12.489872
                 ]
             ],
             "website": null
@@ -413,13 +239,15 @@
             "sub-ranking": "Burger Battle Italia",
             "emoji": "🍔",
             "position": null,
-            "name": "BikerBistrot",
+            "name": "Nino's pub",
             "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
+            "address": [
+                "Piazza di Porta, 4, 00020 Mandela (Roma)"
+            ],
             "coord": [
                 [
-                    41.6441803,
-                    13.3460816
+                    42.030275,
+                    12.922976
                 ]
             ],
             "website": null
@@ -429,13 +257,15 @@
             "sub-ranking": "Burger Battle Italia",
             "emoji": "🍔",
             "position": null,
-            "name": "Pub El Encanto",
+            "name": "Hungry Dogs",
             "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
+            "address": [
+                "Via Reale, 117a, 48123 Mezzano (RA)"
+            ],
             "coord": [
                 [
-                    42.1026567,
-                    13.8116339
+                    44.465954,
+                    12.088877
                 ]
             ],
             "website": null
@@ -445,13 +275,15 @@
             "sub-ranking": "Burger Battle Italia",
             "emoji": "🍔",
             "position": null,
-            "name": "St. James Irish pub",
+            "name": "Unico Smash (Vincitore edizione 2026)",
             "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
+            "address": [
+                "Via G. B. Pancini, 10, 04100 Latina"
+            ],
             "coord": [
                 [
-                    42.3536051,
-                    14.1659356
+                    41.468183,
+                    12.905092
                 ]
             ],
             "website": null
@@ -461,221 +293,15 @@
             "sub-ranking": "Burger Battle Italia",
             "emoji": "🍔",
             "position": null,
-            "name": "Trattoria MA’",
+            "name": "Torre d'Ercole",
             "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
-            "coord": [
-                [
-                    42.3708685,
-                    14.2927053
-                ]
+            "address": [
+                "Via Carlo Cattaneo, 29/B, 25121 Brescia"
             ],
-            "website": null
-        },
-        {
-            "ranking": "Burger Battle",
-            "sub-ranking": "Burger Battle Italia",
-            "emoji": "🍔",
-            "position": null,
-            "name": "Junò Osteria Pizzeria",
-            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
             "coord": [
                 [
-                    43.2285385,
-                    13.17748
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Burger Battle",
-            "sub-ranking": "Burger Battle Italia",
-            "emoji": "🍔",
-            "position": null,
-            "name": "Dal Tramonto all’Alba",
-            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
-            "coord": [
-                [
-                    42.3094072,
-                    14.4447985
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Burger Battle",
-            "sub-ranking": "Burger Battle Italia",
-            "emoji": "🍔",
-            "position": null,
-            "name": "Hamburger Paisàni",
-            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
-            "coord": [
-                [
-                    40.9681741,
-                    14.2040137
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Burger Battle",
-            "sub-ranking": "Burger Battle Italia",
-            "emoji": "🍔",
-            "position": null,
-            "name": "Belle Epoque – Ministry of Quality",
-            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
-            "coord": [
-                [
-                    43.1800057,
-                    13.7984255
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Burger Battle",
-            "sub-ranking": "Burger Battle Italia",
-            "emoji": "🍔",
-            "position": null,
-            "name": "The Juicy Lucy",
-            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
-            "coord": [
-                [
-                    40.8536474,
-                    14.23329
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Burger Battle",
-            "sub-ranking": "Burger Battle Italia",
-            "emoji": "🍔",
-            "position": null,
-            "name": "Sturgis Beerhouse",
-            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
-            "coord": [
-                [
-                    40.9218758,
-                    14.4202377
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Burger Battle",
-            "sub-ranking": "Burger Battle Italia",
-            "emoji": "🍔",
-            "position": null,
-            "name": "Paradise Playcenter (Vincitore edizione 2018)",
-            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
-            "coord": [
-                [
-                    43.5638633,
-                    13.2802909
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Burger Battle",
-            "sub-ranking": "Burger Battle Italia",
-            "emoji": "🍔",
-            "position": null,
-            "name": "Torre Birraia",
-            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
-            "coord": [
-                [
-                    40.7563106,
-                    14.443945
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Burger Battle",
-            "sub-ranking": "Burger Battle Italia",
-            "emoji": "🍔",
-            "position": null,
-            "name": "The Big Brothers Pub",
-            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
-            "coord": [
-                [
-                    40.6199287,
-                    14.9481212
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Burger Battle",
-            "sub-ranking": "Burger Battle Italia",
-            "emoji": "🍔",
-            "position": null,
-            "name": "Myriù Pizzeria Braceria Birreria",
-            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
-            "coord": [
-                [
-                    40.7244677,
-                    15.2931898
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Burger Battle",
-            "sub-ranking": "Burger Battle Italia",
-            "emoji": "🍔",
-            "position": null,
-            "name": "Ciccio’s Smoke And BBQ",
-            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
-            "coord": [
-                [
-                    44.3298133,
-                    10.8268846
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Burger Battle",
-            "sub-ranking": "Burger Battle Italia",
-            "emoji": "🍔",
-            "position": null,
-            "name": "The Butcher – Hamburgeria (Vincitore edizione 2023)",
-            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
-            "coord": [
-                [
-                    41.08643350000001,
-                    16.7865802
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Burger Battle",
-            "sub-ranking": "Burger Battle Italia",
-            "emoji": "🍔",
-            "position": null,
-            "name": "Pub Garibaldi (Vincitore edizione 2019)",
-            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
-            "coord": [
-                [
-                    40.9527699,
-                    17.3026662
+                    45.538438,
+                    10.222588
                 ]
             ],
             "website": null
@@ -687,11 +313,13 @@
             "position": null,
             "name": "BurgeRino",
             "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
+            "address": [
+                "Via Guido D'Arezzo, 2, 37131 Verona"
+            ],
             "coord": [
                 [
-                    45.4467717,
-                    11.0273795
+                    45.446797,
+                    11.024832
                 ]
             ],
             "website": null
@@ -701,13 +329,87 @@
             "sub-ranking": "Burger Battle Italia",
             "emoji": "🍔",
             "position": null,
-            "name": "Cucchi Pub – Bar, Paninoteca e Birreria",
+            "name": "Pub El Encanto",
             "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
+            "address": [
+                "Via Della Liberta, 2, 67027 Raiano (AQ)"
+            ],
             "coord": [
                 [
-                    45.6769423,
-                    12.2838037
+                    42.10265,
+                    13.809098
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "The Big Brothers Pub",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": [
+                "Via Roma, 450, 84092 Bellizzi (SA)"
+            ],
+            "coord": [
+                [
+                    40.622222,
+                    14.938758
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "BikerBistrot",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": [
+                "Via Aldo Moro, 138, 03100 Frosinone (FR)"
+            ],
+            "coord": [
+                [
+                    41.644356,
+                    13.346145
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "St. James Irish pub",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": [
+                "Via Silvino Olivieri, 124, 66100 Chieti (CH)"
+            ],
+            "coord": [
+                [
+                    42.361348,
+                    14.169597
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Torre Birraia",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": [
+                "Corso Umberto I, 3, 80058 Torre Annunziata (NA)"
+            ],
+            "coord": [
+                [
+                    40.756513,
+                    14.443949
                 ]
             ],
             "website": null
@@ -719,11 +421,13 @@
             "position": null,
             "name": "Agorà Cafè di Filippini Marisa (Vincitrice edizione 2022)",
             "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
+            "address": [
+                "Via Zane, 4, 25087 Salò (BS)"
+            ],
             "coord": [
                 [
-                    45.6048991,
-                    10.5150992
+                    45.605089,
+                    10.515208
                 ]
             ],
             "website": null
@@ -733,45 +437,15 @@
             "sub-ranking": "Burger Battle Italia",
             "emoji": "🍔",
             "position": null,
-            "name": "Torre d’Ercole",
+            "name": "Il Locandiere De Core e De Panza",
             "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
-            "coord": [
-                [
-                    45.538434,
-                    10.2250957
-                ]
+            "address": [
+                "Via Anticolana, Km 16, 03010 Acuto (FR)"
             ],
-            "website": null
-        },
-        {
-            "ranking": "Burger Battle",
-            "sub-ranking": "Burger Battle Italia",
-            "emoji": "🍔",
-            "position": null,
-            "name": "Birreria 58 (Vincitore edizione 2020)",
-            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
             "coord": [
                 [
-                    45.5906288,
-                    10.1106312
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Burger Battle",
-            "sub-ranking": "Burger Battle Italia",
-            "emoji": "🍔",
-            "position": null,
-            "name": "Burger Eat Gourmet",
-            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
-            "coord": [
-                [
-                    40.5597106,
-                    17.8088801
+                    41.77703,
+                    13.208339
                 ]
             ],
             "website": null
@@ -783,11 +457,13 @@
             "position": null,
             "name": "Trinken Haus",
             "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
+            "address": [
+                "Via del mare, 13, 88100 Catanzaro Lido"
+            ],
             "coord": [
                 [
-                    38.8202395,
-                    16.6148518
+                    38.820368,
+                    16.614601
                 ]
             ],
             "website": null
@@ -797,13 +473,15 @@
             "sub-ranking": "Burger Battle Italia",
             "emoji": "🍔",
             "position": null,
-            "name": "Be Steak",
+            "name": "Pub Garibaldi (Vincitore edizione 2019)",
             "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
+            "address": [
+                "Via Garibaldi, 70, 70043 Monopoli"
+            ],
             "coord": [
                 [
-                    45.4658602,
-                    9.1912975
+                    40.952827,
+                    17.303201
                 ]
             ],
             "website": null
@@ -813,13 +491,15 @@
             "sub-ranking": "Burger Battle Italia",
             "emoji": "🍔",
             "position": null,
-            "name": "Pizburg Pizzeria Hamburgeria",
+            "name": "Paradise Playcenter (Vincitore edizione 2018)",
             "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
+            "address": [
+                "Via Emilia Romagna, 15/17, 60030 Monsano"
+            ],
             "coord": [
                 [
-                    45.5309801,
-                    9.134149
+                    43.562268,
+                    13.278072
                 ]
             ],
             "website": null
@@ -829,13 +509,33 @@
             "sub-ranking": "Burger Battle Italia",
             "emoji": "🍔",
             "position": null,
-            "name": "Smoky Burger&Ribs",
+            "name": "Ciccio's Smoke And BBQ",
             "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
+            "address": [
+                "Via Valentino Mazzola, 21, 41026 Pavullo Nel Frignano"
+            ],
             "coord": [
                 [
-                    45.6208227,
-                    9.2341378
+                    44.329839,
+                    10.827088
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Burger Eat Gourmet",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": [
+                "Piazza IV Novembre, 42, 72023 Mesagne"
+            ],
+            "coord": [
+                [
+                    40.559894,
+                    17.808941
                 ]
             ],
             "website": null
@@ -847,11 +547,3091 @@
             "position": null,
             "name": "Pub Excalibur",
             "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
-            "address": null,
+            "address": [
+                "Piazza Cesare Battisti, 2, 12036 Revello"
+            ],
             "coord": [
                 [
-                    44.6566327,
-                    7.3915673
+                    44.656573,
+                    7.391551
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Myriù Pizzeria Braceria Birreria",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": [
+                "Viale Luigi Cardone, 84020 Colliano"
+            ],
+            "coord": [
+                [
+                    40.724468,
+                    15.29319
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Trattoria MA’",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": [
+                "Contrada Cerreto, 158, 66010 Miglianico"
+            ],
+            "coord": [
+                [
+                    42.379222,
+                    14.291795
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Sturgis Beerhouse",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": [
+                "Via Guglielmo Marconi, 48-50, 80031 Brusciano"
+            ],
+            "coord": [
+                [
+                    40.921713,
+                    14.422286
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Cucchi Pub - Bar, Paninoteca e Birreria",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": [
+                "Viale Brigata Marche, 203, 31030 Carbonera"
+            ],
+            "coord": [
+                [
+                    45.676425,
+                    12.278093
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Smoky Burger&amp;Ribs",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": [
+                "Via Arrigo Boito, 1, 20851 Lissone"
+            ],
+            "coord": [
+                [
+                    45.62071,
+                    9.233149
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Junò Osteria Pizzeria",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": [
+                "Indivini, 9, Via Pacifico Massi, 62027 San Severino Marche"
+            ],
+            "coord": [
+                [
+                    43.229234,
+                    13.177617
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Dal Tramonto all'Alba",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": [
+                "Via Lungomare di Gualdo, 27, 66038 Marina di San Vito"
+            ],
+            "coord": [
+                [
+                    42.309475,
+                    14.444885
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "The Juicy Lucy",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": [
+                "Via Giacinto Gigante, 224, 80128 Napoli"
+            ],
+            "coord": [
+                [
+                    40.853844,
+                    14.232395
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "White Rabbit",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": [
+                "Via Spalato, 35/37/39, 00198 Roma"
+            ],
+            "coord": [
+                [
+                    41.923073,
+                    12.515227
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Be Steak",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": [
+                "Via Santa Radegonda, 2, 20121 Milano"
+            ],
+            "coord": [
+                [
+                    45.464783,
+                    9.192419
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Pizburg Pizzeria Hamburgeria",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": [
+                "Via Baranzate, 1, 20026 Novate Milanese"
+            ],
+            "coord": [
+                [
+                    45.530805,
+                    9.134024
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Opificio Vescovio",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": [
+                "Piazza Vescovìo, 16, 00199 Roma"
+            ],
+            "coord": [
+                [
+                    41.932899,
+                    12.512594
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Hamburger Paisàni",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": [
+                "Via Costantinopoli, 3, 81031 Aversa"
+            ],
+            "coord": [
+                [
+                    40.969425,
+                    14.204101
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Belle Epoque - Ministry of Quality",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": [
+                "Piazza Mentana, 2, 63822 Porto San Giorgio"
+            ],
+            "coord": [
+                [
+                    43.179962,
+                    13.7983
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Birreria 58 (Vincitore edizione 2020)",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": [
+                "Via Brescia, 81, 25050 Rodengo-Saiano"
+            ],
+            "coord": [
+                [
+                    45.590694,
+                    10.110704
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burger Battle",
+            "sub-ranking": "Burger Battle Italia",
+            "emoji": "🍔",
+            "position": null,
+            "name": "Pinta - Beer &amp; More",
+            "ref": "https://www.burgerbattle.it/vieni-ad-assaggiare/",
+            "address": [
+                "Viale A. Vecchione , 8, Atina (FR)"
+            ],
+            "coord": [
+                [
+                    41.6139437,
+                    13.8069956
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "1°",
+            "name": "Minetta Tavern",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "Minetta Tavern Restaurant, MacDougal Street 113, New York, United States"
+            ],
+            "coord": [
+                [
+                    40.7299655,
+                    -74.0006297
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "2°",
+            "name": "Owen & Engine",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "Il Girasole Trattoria, 2700, North Western Avenue, Logan Square, Chicago, West Chicago Township, Cook County, Illinois, 60647, Stati Uniti d'America"
+            ],
+            "coord": [
+                [
+                    41.930469,
+                    -87.6882237
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "3°",
+            "name": "Miller's Bar",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "Miller's Bar, Birch Street, Dearborn, United States"
+            ],
+            "coord": [
+                [
+                    42.3011722,
+                    -83.2673516
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "4°",
+            "name": "Zuni Café",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "Zuni Café, Market Street 1658, San Francisco, United States"
+            ],
+            "coord": [
+                [
+                    37.7735636,
+                    -122.421646
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "5°",
+            "name": "Pie 'N' Burger",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "Pie 'n Burger, East California Boulevard 913, Pasadena, United States"
+            ],
+            "coord": [
+                [
+                    34.1361051,
+                    -118.1314218
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "6°",
+            "name": "Gilley's Diner",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "Portsmouth, Virginia, Stati Uniti d'America"
+            ],
+            "coord": [
+                [
+                    36.8320081,
+                    -76.297699
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "7°",
+            "name": "Louis' Lunch",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "Louis' Lunch, Crown Street 161, New Haven, United States"
+            ],
+            "coord": [
+                [
+                    41.3064739,
+                    -72.9304075
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "8°",
+            "name": "Nick's Hamburger Shop",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "427, Main Avenue, Sinai Cooperative Elevator Company, Sinai, Lake Sinai Township, Brookings County, Dakota del Sud, 57061, Stati Uniti d'America"
+            ],
+            "coord": [
+                [
+                    44.2444439,
+                    -97.0398305
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "9°",
+            "name": "The Chuckbox",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "The Chuckbox, East University Drive 202, Tempe, United States"
+            ],
+            "coord": [
+                [
+                    33.4221648,
+                    -111.93644
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "10°",
+            "name": "Salt & Time Butcher Shop and Restaurant",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "1912, East 7th Street, Holly, Austin, Travis County, Texas, 78702, Stati Uniti d'America"
+            ],
+            "coord": [
+                [
+                    30.2626315,
+                    -97.7209595
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "11°",
+            "name": "All American Hamburger Drive In",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "4286, Merrick Road, Massapequa, Town of Oyster Bay, Nassau County, New York, 11758, Stati Uniti d'America"
+            ],
+            "coord": [
+                [
+                    40.666503,
+                    -73.475159
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "12°",
+            "name": "J. G. Melon",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "J.G. Melon, 3rd Avenue 1291, New York, United States"
+            ],
+            "coord": [
+                [
+                    40.771073,
+                    -73.9593705
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "13°",
+            "name": "Hudson's Hamburgers",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "Hudson’s Hamburgers, Sherman Avenue 207, Coeur d'Alene, United States"
+            ],
+            "coord": [
+                [
+                    47.6736533,
+                    -116.7837318
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "14°",
+            "name": "Arctic Roadrunner",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "Arctic Roadrunner, Old Seward Highway 5300, Anchorage, United States"
+            ],
+            "coord": [
+                [
+                    61.1726545,
+                    -149.8688545
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "15°",
+            "name": "K's Hamburger Shop",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "City of Troy, Rensselaer County, New York, Stati Uniti d'America"
+            ],
+            "coord": [
+                [
+                    42.7284117,
+                    -73.6917878
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "16°",
+            "name": "Stella's Bar & Grill",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "153rd Place Northeast, 106, Bellevue, United States"
+            ],
+            "coord": [
+                [
+                    47.610668,
+                    -122.1353135
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "17°",
+            "name": "Keens Steakhouse",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "Keens Steakhouse, West 36th Street 72, New York, United States"
+            ],
+            "coord": [
+                [
+                    40.750773,
+                    -73.9864091
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "18°",
+            "name": "Naše Maso",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "Naše maso, Dlouhá 39, Praha 1, Česko"
+            ],
+            "coord": [
+                [
+                    50.0907981,
+                    14.4268561
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "19°",
+            "name": "Hi-Ho Burgers & Brews",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "Boppa's Bagels, 3051, 25th Street South, Bluemont Lakes, Fargo, Cass County, Dakota del Nord, 58103, Stati Uniti d'America"
+            ],
+            "coord": [
+                [
+                    46.8350624,
+                    -96.8220865
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "20°",
+            "name": "Helvetia Tavern",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "Helvetia Tavern, Northwest Helvetia Road 10275, Hillsboro, United States"
+            ],
+            "coord": [
+                [
+                    45.5965947,
+                    -122.9167454
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "21°",
+            "name": "Zarzour's",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "Zarzour's Cafe, Rossville Avenue, Chattanooga, United States"
+            ],
+            "coord": [
+                [
+                    35.0337631,
+                    -85.3046521
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "22°",
+            "name": "Fukuburger Chinatown",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "Fuku Burger, 3429, South Jones Boulevard, Chinatown, Las Vegas, Clark County, Nevada, 89146, Stati Uniti d'America"
+            ],
+            "coord": [
+                [
+                    36.1266049,
+                    -115.2253053
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "23°",
+            "name": "Bud's Cafe & Bar",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "Sedalia, Pettis County, Missouri, Stati Uniti d'America"
+            ],
+            "coord": [
+                [
+                    38.7098314,
+                    -93.2295515
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "24°",
+            "name": "Carl's Drive-In",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "Brentwood, Contra Costa County, California, 94513, Stati Uniti d'America"
+            ],
+            "coord": [
+                [
+                    37.9317766,
+                    -121.696026
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "25°",
+            "name": "Sam's Uptown Café",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "Charleston, Charleston County, Carolina del Sud, Stati Uniti d'America"
+            ],
+            "coord": [
+                [
+                    32.7884363,
+                    -79.9399309
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "26°",
+            "name": "Maple & Motor",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "Maple & Motor, Maple Avenue 4810, Dallas, United States"
+            ],
+            "coord": [
+                [
+                    32.8152112,
+                    -96.8270708
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "27°",
+            "name": "Cavalier Store",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "The Cavalier Store, Rivermont Avenue 2920, Lynchburg, United States"
+            ],
+            "coord": [
+                [
+                    37.4376961,
+                    -79.1763642
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "28°",
+            "name": "Boots Burger",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "701, Austin Street, Rockwall, Rockwall County, Texas, 75087, Stati Uniti d'America"
+            ],
+            "coord": [
+                [
+                    32.934945,
+                    -96.45662
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "29°",
+            "name": "Wayback Burgers",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "Newark, Essex County, New Jersey, Stati Uniti d'America"
+            ],
+            "coord": [
+                [
+                    40.735657,
+                    -74.1723667
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Hamburger",
+            "emoji": "🍔",
+            "position": "30°",
+            "name": "Paradise Pup",
+            "ref": "https://www.tasteatlas.com/hamburger/wheretoeat",
+            "address": [
+                "Paradise Pup, South Des Plaines River Road 1724, Des Plaines, United States"
+            ],
+            "coord": [
+                [
+                    42.0221623,
+                    -87.8760982
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "1°",
+            "name": "Bleecker Burger",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Bleecker, Old Compton Street 33, London, United Kingdom"
+            ],
+            "coord": [
+                [
+                    51.5129448,
+                    -0.1315699
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "2°",
+            "name": "Black Bear Burger",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Black Bear Burger, Ariel Way, London, United Kingdom"
+            ],
+            "coord": [
+                [
+                    51.5058952,
+                    -0.2187505
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "3°",
+            "name": "Café Margaret",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Cafe Margaret Double Bay, 30-36 Bay St, Double Bay NSW 2028, Australia"
+            ],
+            "coord": [
+                [
+                    -33.8768885,
+                    151.2414835
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "4°",
+            "name": "The Diplomat",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "The Diplomat, 敦和里 Tun Wo Lane, 香港 Hong Kong, 中国"
+            ],
+            "coord": [
+                [
+                    22.2822919,
+                    114.1541436
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "5°",
+            "name": "Gasoline Grill",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Gasoline Grill, Værnedamsvej, København, Danmark"
+            ],
+            "coord": [
+                [
+                    55.6728956,
+                    12.5501308
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "6°",
+            "name": "Sip & Guzzle",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Sip & Guzzle, Cornelia Street 29, New York, United States"
+            ],
+            "coord": [
+                [
+                    40.7314144,
+                    -74.0024463
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "7°",
+            "name": "Hawksmoor St Pancras",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "St Pancras Renaissance London Hotel, Euston Road, London, United Kingdom"
+            ],
+            "coord": [
+                [
+                    51.529901,
+                    -0.1258012
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "8°",
+            "name": "Nowon",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Nowon East Village, 507 E 6th St, New York, NY 10009, Stati Uniti"
+            ],
+            "coord": [
+                [
+                    40.7253574,
+                    -73.9833014
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "9°",
+            "name": "Amboy Quality Meats",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Amboy Quality Meats & Delicious Burgers, North Broadway 727, Los Angeles, United States"
+            ],
+            "coord": [
+                [
+                    34.0613619,
+                    -118.2397103
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "10°",
+            "name": "The Grill at the International",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "The Grill at The International, Level 9/25 Martin Pl, Sydney NSW 2000, Australia"
+            ],
+            "coord": [
+                [
+                    -33.8678843,
+                    151.2096374
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "11°",
+            "name": "Burger&beyond",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Burger & Beyond, Camden Lock Place, London, United Kingdom"
+            ],
+            "coord": [
+                [
+                    51.5411554,
+                    -0.1461589
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "12°",
+            "name": "Wagyumafia",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "YAKINIKUMAFIA IKEBUKURO by WAGYUMAFIA, Giappone, 〒171-0022 Tokyo, Toshima City, Minamiikebukuro, 1-chōme−26−６ The Sh One, 7F"
+            ],
+            "coord": [
+                [
+                    35.7293267,
+                    139.7133007
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "13°",
+            "name": "Charrd",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Charrd, 74 Lygon St, Brunswick East VIC 3057, Australia"
+            ],
+            "coord": [
+                [
+                    -37.776473,
+                    144.971323
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "14°",
+            "name": "Will’s",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Will & Mike's, Baker Street 14a, Sydney, Australia"
+            ],
+            "coord": [
+                [
+                    -33.9458548,
+                    151.212482
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "15°",
+            "name": "Camphor",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Camphor Tree Park, 4015, Lynwood Gardens, Lynwood, Los Angeles County, California, 90262, Stati Uniti d'America"
+            ],
+            "coord": [
+                [
+                    33.9189245,
+                    -118.1976985
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "16°",
+            "name": "Hubert",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Hubert, O'Connell Street 6-10, Sydney, Australia"
+            ],
+            "coord": [
+                [
+                    -33.8651583,
+                    151.2103039
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "18°",
+            "name": "Ag",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Restaurang AG, Kronobergsgatan, Stockholm, Sverige"
+            ],
+            "coord": [
+                [
+                    59.3351799,
+                    18.0348514
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "19°",
+            "name": "The Gidley",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "The Gidley, Basement/161 King St, Sydney NSW 2000, Australia"
+            ],
+            "coord": [
+                [
+                    -33.8692214,
+                    151.2101555
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "20°",
+            "name": "Salt Shed",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Salt Shed, Kings Road Arches 91-96, Brighton, United Kingdom"
+            ],
+            "coord": [
+                [
+                    50.8212552,
+                    -0.1495219
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "21°",
+            "name": "Clam Bar",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Clam Bar, 44 Bridge St, Sydney NSW 2000, Australia"
+            ],
+            "coord": [
+                [
+                    -33.8632044,
+                    151.2109731
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "22°",
+            "name": "The Loyalist",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "The Loyalist, North Ada Street 177, Chicago, United States"
+            ],
+            "coord": [
+                [
+                    41.8849698,
+                    -87.6604106
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "23°",
+            "name": "Bunsen Burgers",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Bunsen, Essex Street East 22, Dublin, Éire / Ireland"
+            ],
+            "coord": [
+                [
+                    53.3455805,
+                    -6.2643164
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "24°",
+            "name": "Bar Chimera",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Bar Chimera, 550 Madison Ave, New York, NY 10022, Stati Uniti"
+            ],
+            "coord": [
+                [
+                    40.761626,
+                    -73.9735138
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "25°",
+            "name": "The Alston",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "The Alston, 750 N State St, Chicago, IL 60654, Stati Uniti"
+            ],
+            "coord": [
+                [
+                    41.8962393,
+                    -87.6283284
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "26°",
+            "name": "Dumbo",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Dumbo, Rue des Petites-Écuries 14, Paris, France"
+            ],
+            "coord": [
+                [
+                    48.873424,
+                    2.3528132
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "27°",
+            "name": "Reburger",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Reburger, Via di Camaldoli 2r, Firenze, Italia"
+            ],
+            "coord": [
+                [
+                    43.7687126,
+                    11.2412888
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "28°",
+            "name": "Meat Stop",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "The Meat Stop, Crown Lane 10, Morden, United Kingdom"
+            ],
+            "coord": [
+                [
+                    51.4016306,
+                    -0.1970019
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "29°",
+            "name": "Dandelion Burger",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Dandelion Burger, Store Kongensgade, København, Danmark"
+            ],
+            "coord": [
+                [
+                    55.6844878,
+                    12.5879948
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "30°",
+            "name": "Gui’s Burger",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Gui's Burger, 7-4 Ōmasuchō, Ashiya, Hyogo 659-0066, Giappone"
+            ],
+            "coord": [
+                [
+                    34.7290515,
+                    135.3060322
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "31°",
+            "name": "Eat Jabs",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Tsukimi All-You-Can-Eat Sushi, North Interstate 35 12400, Austin, United States"
+            ],
+            "coord": [
+                [
+                    30.4041738,
+                    -97.6760209
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "32°",
+            "name": "Petit Trois",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Petit Trois, Ventura Boulevard 13705, Los Angeles, United States"
+            ],
+            "coord": [
+                [
+                    34.1482974,
+                    -118.4314878
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "33°",
+            "name": "Sold Out Burger",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Sold Out, Rue Lucien Sampaix 2, Paris, France"
+            ],
+            "coord": [
+                [
+                    48.8707161,
+                    2.3597862
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "34°",
+            "name": "Maijard Smashburgers",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Maijard Smashburgers, Hoogstraat 44, 2000 Antwerpen, Belgio"
+            ],
+            "coord": [
+                [
+                    51.2193727,
+                    4.3978273
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "35°",
+            "name": "Sailor",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Sailor, DeKalb Avenue 228, New York, United States"
+            ],
+            "coord": [
+                [
+                    40.6894011,
+                    -73.9702814
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "36°",
+            "name": "Bunzai",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Bunzai, Sihlfeldstrasse 89, Zürich, Schweiz/Suisse/Svizzera/Svizra"
+            ],
+            "coord": [
+                [
+                    47.376432,
+                    8.5162699
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "37°",
+            "name": "Seoul Tiger",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "The Bengal Tiger, City Road 520, Melbourne, Australia"
+            ],
+            "coord": [
+                [
+                    -37.832439,
+                    144.952061
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "38°",
+            "name": "Fat Rabbit",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Fat Bastard Burrito, Geneva St 285, St. Catharines, Canada"
+            ],
+            "coord": [
+                [
+                    43.1770068,
+                    -79.2438405
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "39°",
+            "name": "Dai Due",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Dai Due, Manor Road 2406, Austin, United States"
+            ],
+            "coord": [
+                [
+                    30.2848698,
+                    -97.7167839
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "40°",
+            "name": "Specimen Burger",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Spécimen, Rue de Douai 25, Paris, France"
+            ],
+            "coord": [
+                [
+                    48.8823233,
+                    2.333044
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "41°",
+            "name": "Sstash Burger",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "SSTASH, 308 N Shary Rd Ste c, Mission, TX 78572, Stati Uniti"
+            ],
+            "coord": [
+                [
+                    26.2034978,
+                    -98.2863919
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "42°",
+            "name": "Nadc Burger",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "NADC Burger, 10 The Arcade, Nashville, TN 37219, Stati Uniti"
+            ],
+            "coord": [
+                [
+                    36.1644507,
+                    -86.7798547
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "43°",
+            "name": "Sunny’s",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Residence Inn Miami Sunny Isles Beach, Collins Avenue 17700, Sunny Isles Beach, United States"
+            ],
+            "coord": [
+                [
+                    25.9398348,
+                    -80.1220554
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "44°",
+            "name": "La Birra Bar",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "La Birra Bar - North Miami Beach, Biscayne Boulevard 14831, North Miami Beach, United States"
+            ],
+            "coord": [
+                [
+                    25.9127759,
+                    -80.1556838
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "45°",
+            "name": "Arkhé",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "arkhé, 127 The Parade, Norwood SA 5067, Australia"
+            ],
+            "coord": [
+                [
+                    -34.9208717,
+                    138.6335906
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "46°",
+            "name": "Fireside",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Fireside, 5th floor, H Code (The Steps, 45 Pottinger St, Central, Hong Kong Island, Hong Kong"
+            ],
+            "coord": [
+                [
+                    22.2820635,
+                    114.1545397
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "47°",
+            "name": "Goldies Bar",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Goldies, Schönhauser Allee 144, Berlin, Deutschland"
+            ],
+            "coord": [
+                [
+                    52.5413136,
+                    13.4117688
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "48°",
+            "name": "Bon Burger",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Bon Burger, Jacob van Lennepkade 334D, Amsterdam, Nederland"
+            ],
+            "coord": [
+                [
+                    52.3629741,
+                    4.8622382
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "49°",
+            "name": "Masonry",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "MASONRY., 83C, Jalan Pantai Batu Bolong, Canggu, Kuta Utara, Badung, Bali, 80361, Indonesia"
+            ],
+            "coord": [
+                [
+                    -8.6539662,
+                    115.1318237
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "50°",
+            "name": "Meatsmith",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Meatsmith Telok Ayer, 167-169 Telok Ayer St, Singapore 068620"
+            ],
+            "coord": [
+                [
+                    1.2801857,
+                    103.8474632
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "51°",
+            "name": "Brash",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Brash, Regent Road, Cape Town, South Africa"
+            ],
+            "coord": [
+                [
+                    -33.9215368,
+                    18.3822224
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "52°",
+            "name": "Grindhouse Burger",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Grindhouse Burgers, Potsdamer Straße, Berlin, Deutschland"
+            ],
+            "coord": [
+                [
+                    52.5099357,
+                    13.372698
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "53°",
+            "name": "Hanbaagaa Suuteeki",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Hanbaagaasuuteeki, 36 Buckingham Palace Rd, London SW1W 0RE, Regno Unito"
+            ],
+            "coord": [
+                [
+                    51.497243,
+                    -0.1447387
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "54°",
+            "name": "Heard",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Heard, Burger Borough, Flat Iron Square 1, London, United Kingdom"
+            ],
+            "coord": [
+                [
+                    51.5040457,
+                    -0.0954734
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "55°",
+            "name": "Popl Burger",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "POPL, Strandgade, København, Danmark"
+            ],
+            "coord": [
+                [
+                    55.6775778,
+                    12.5979202
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "56°",
+            "name": "El Perro Negro Burgers",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "El Perro Negro, Woodlands Road 152, Glasgow, United Kingdom"
+            ],
+            "coord": [
+                [
+                    55.8697657,
+                    -4.2749423
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "57°",
+            "name": "Flaco",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Santiago, Paraíso, Provincia di Cartago, 30202, Costa Rica"
+            ],
+            "coord": [
+                [
+                    9.8694792,
+                    -83.7980749
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "58°",
+            "name": "Smash Street Burger Bar",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Smash Street, 50 Amoy St, Singapore 069876"
+            ],
+            "coord": [
+                [
+                    1.2802641,
+                    103.8468326
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "59°",
+            "name": "Kitan Hibiki",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Kitan Hibiki, 1-chōme-1-7 Namba, Chuo Ward, Osaka, 542-0076, Giappone"
+            ],
+            "coord": [
+                [
+                    34.6680359,
+                    135.502638
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "60°",
+            "name": "Clover Grill",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Clover Grill, Rue Bailleul, Paris, France"
+            ],
+            "coord": [
+                [
+                    48.861036,
+                    2.3417732
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "61°",
+            "name": "Prime + Proper",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Prime + Proper, State Street, Detroit, United States"
+            ],
+            "coord": [
+                [
+                    42.332387,
+                    -83.0491652
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "62°",
+            "name": "Hundred Burgers",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Hundred, Calle de Eloy Gonzalo 12, Madrid, España"
+            ],
+            "coord": [
+                [
+                    40.4338738,
+                    -3.7025313
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "63°",
+            "name": "Red Hook Tavern",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Red Hook Tavern, Van Brunt Street 329, New York, United States"
+            ],
+            "coord": [
+                [
+                    40.6778746,
+                    -74.0120875
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "64°",
+            "name": "Débutant Dining",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Debutant, 119 Keira St, Wollongong NSW 2500, Australia"
+            ],
+            "coord": [
+                [
+                    -34.422167,
+                    150.8939906
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "65°",
+            "name": "One Club Row",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "One Club Row, 1 Club Row, London E1 6JX, Regno Unito"
+            ],
+            "coord": [
+                [
+                    51.5240027,
+                    -0.074219
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "66°",
+            "name": "Miller & Lux",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Miller & Lux, Terry A. Francois Boulevard 700, San Francisco, United States"
+            ],
+            "coord": [
+                [
+                    37.7681644,
+                    -122.3864911
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "67°",
+            "name": "Char Fuego y Brasas",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "CHAR Fuego y Brasas, 2, Calle el Muelle, La Caleta, Costa Adeje, Adeje, Santa Cruz de Tenerife, Canarie, 38679, Spagna"
+            ],
+            "coord": [
+                [
+                    28.1012618,
+                    -16.7555981
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "68°",
+            "name": "Asador Bastian",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Asador Bastian, 214 W Erie St, Chicago, IL 60654, Stati Uniti"
+            ],
+            "coord": [
+                [
+                    41.8940917,
+                    -87.6348275
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "69°",
+            "name": "The Grand Bar & Grill",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Restaurant Grand Bar & Grill, Korkeavuorenkatu 21, 00130 Helsinki, Finlandia"
+            ],
+            "coord": [
+                [
+                    60.162703,
+                    24.9463557
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "70°",
+            "name": "Hermon’s",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Hermon's, 5800 Monterey Rd, Los Angeles, CA 90042, Stati Uniti"
+            ],
+            "coord": [
+                [
+                    34.1038989,
+                    -118.1850116
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "71°",
+            "name": "Dreamburger",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Dreamburger, 2038 Greenwood Ave, Nashville, TN 37206, Stati Uniti"
+            ],
+            "coord": [
+                [
+                    36.1886297,
+                    -86.7295434
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "72°",
+            "name": "Peckish Burgers",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Peckish, Church Street, London, United Kingdom"
+            ],
+            "coord": [
+                [
+                    51.6251556,
+                    -0.0617203
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "73°",
+            "name": "Funky Chicken Food Truck",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Funky Chicken Food Truck, Cylindervägen, Nacka, Sverige"
+            ],
+            "coord": [
+                [
+                    59.3165718,
+                    18.1611019
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "74°",
+            "name": "Txula",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Txula Steak at Mercado Little Spain, 515 W 30th St, New York, NY 10001, Stati Uniti"
+            ],
+            "coord": [
+                [
+                    40.7523859,
+                    -74.0013948
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "75°",
+            "name": "Le Smash Burger",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Le Smash, Govert Flinckstraat 122-H, Amsterdam, Nederland"
+            ],
+            "coord": [
+                [
+                    52.3545348,
+                    4.8908273
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "76°",
+            "name": "11 Woodfire",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "TEN 11 Coffee Boutique , Dubai Mall, Dubai Mall, دبي, الإمارات العربية المتحدة"
+            ],
+            "coord": [
+                [
+                    25.1974031,
+                    55.2767666
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "77°",
+            "name": "Le Rêve Restaurant",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Le Rêve French-American Restaurant, 1105 E Washington St, Brownsville, TX 78520, Stati Uniti"
+            ],
+            "coord": [
+                [
+                    25.9023315,
+                    -97.4978775
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "78°",
+            "name": "Gabos",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Gabos tatoo, Calle de Oneca, Coslada, Comunidad de Madrid, 28821, Spagna"
+            ],
+            "coord": [
+                [
+                    40.4266853,
+                    -3.566593
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "79°",
+            "name": "Zuney",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Zuney Wagyu Burgers, Shop 2, 69A Kloof St, Gardens, Cape Town, 8001, Sudafrica"
+            ],
+            "coord": [
+                [
+                    -33.9299407,
+                    18.4110097
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "80°",
+            "name": "Gotham Burger Social Club",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Gotham Burger Social Club, 131 Essex St, New York, NY 10002, Stati Uniti"
+            ],
+            "coord": [
+                [
+                    40.7200618,
+                    -73.9876172
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "81°",
+            "name": "Cph Smash",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Cph Smash, Allégade, Frederiksberg, Danmark"
+            ],
+            "coord": [
+                [
+                    55.6760298,
+                    12.5320631
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "82°",
+            "name": "Black Cactus Bbq",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "BLACK CACTUS BBQ, 57 Sutherland Rd, London E17 6BH, Regno Unito"
+            ],
+            "coord": [
+                [
+                    51.5907857,
+                    -0.038287
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "83°",
+            "name": "Little Bad Wolf",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Little Bad Wolf, West Bryn Mawr Avenue 1541, Chicago, United States"
+            ],
+            "coord": [
+                [
+                    41.9833736,
+                    -87.6690501
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "84°",
+            "name": "The Boring Burger",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Boring Burger, Chapel Street 21, Guildford, United Kingdom"
+            ],
+            "coord": [
+                [
+                    51.2348538,
+                    -0.5732729
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "85°",
+            "name": "Boneless",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Boneless, Välimerenkatu 24, Helsinki, Suomi"
+            ],
+            "coord": [
+                [
+                    60.1576178,
+                    24.9118972
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "86°",
+            "name": "Down South Deli",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Down South Deli, Waldemar Thranes gate, Oslo, Norge"
+            ],
+            "coord": [
+                [
+                    59.9234159,
+                    10.7394704
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "87°",
+            "name": "Dove",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "The Dove, Upper Mall 19, London, United Kingdom"
+            ],
+            "coord": [
+                [
+                    51.4905085,
+                    -0.2348574
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "88°",
+            "name": "Hamburger America",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Hamburger America, MacDougal Street 51, New York, United States"
+            ],
+            "coord": [
+                [
+                    40.7279642,
+                    -74.0024583
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "89°",
+            "name": "Grindhouse Braserito",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Grindhouse Braserito, R. Lisboa, 346 - Pinheiros, São Paulo - SP, 05413-000, Brasile"
+            ],
+            "coord": [
+                [
+                    -23.5609456,
+                    -46.6785177
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "90°",
+            "name": "Dash Burger",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Dash Burger, Capel Street 159, Dublin, Éire / Ireland"
+            ],
+            "coord": [
+                [
+                    53.3468027,
+                    -6.268348
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "91°",
+            "name": "Rekas Burger",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Rekas burgers, Thomsons väg, Malmö, Sverige"
+            ],
+            "coord": [
+                [
+                    55.5843106,
+                    13.0557709
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "92°",
+            "name": "Jet Set",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Jet Set, Avenida Condell, Providencia, Chile"
+            ],
+            "coord": [
+                [
+                    -33.4472963,
+                    -70.625573
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "93°",
+            "name": "Jonas Burger",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Jona's Burger, Al Ain St - 153 - Dubai Avenue Mall - unit 11 شارع ند الحمر - ند الشبا ٢ - ند الشبا - دبي - Emirati Arabi Uniti"
+            ],
+            "coord": [
+                [
+                    25.1441899,
+                    55.3471487
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "94°",
+            "name": "Franky’s",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Franky's Burger, Blekingegatan, Stockholm, Sverige"
+            ],
+            "coord": [
+                [
+                    59.3102955,
+                    18.0740824
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "95°",
+            "name": "Goldies",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Goldies, Schönhauser Allee 144, Berlin, Deutschland"
+            ],
+            "coord": [
+                [
+                    52.5413136,
+                    13.4117688
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "96°",
+            "name": "Eleven Green",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Eleven Green - Burger Bistro, Meyan Mall - Al Thanya St - Umm Suqeim Second - Umm Suqeim 2 - Dubai - Emirati Arabi Uniti"
+            ],
+            "coord": [
+                [
+                    25.1446108,
+                    55.1986113
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "97°",
+            "name": "Doug’s Burger",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Doug's Hamburgers, Gerd Kjølaas' plass, Oslo, Norge"
+            ],
+            "coord": [
+                [
+                    59.9223072,
+                    10.7523212
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "98°",
+            "name": "Leytonstone Tavern",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Leytonstone Tavern, Harrow Road 119, London, United Kingdom"
+            ],
+            "coord": [
+                [
+                    51.5590263,
+                    0.0112458
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "99°",
+            "name": "Simonette",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "Simonette, Van Buren Place 3927, Culver City, United States"
+            ],
+            "coord": [
+                [
+                    34.0230964,
+                    -118.3933542
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "100°",
+            "name": "Mosh",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "MOSH! Smashburgers & more, Sint-Jansplein 2, 8000 Brugge, Belgio"
+            ],
+            "coord": [
+                [
+                    51.2103165,
+                    3.226136
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "101 Best Burgers",
+            "sub-ranking": "World's 101 Best Burgers 2026",
+            "emoji": "🍔",
+            "position": "101°",
+            "name": "Hiho Cheeseburger",
+            "ref": "https://www.worldbestburgers.com/our-list",
+            "address": [
+                "HiHo Cheeseburger, Coldwater Canyon Avenue 4220, Los Angeles, United States"
+            ],
+            "coord": [
+                [
+                    34.1456426,
+                    -118.4126156
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burgerdudes",
+            "sub-ranking": "The World's Best Burgers 2026 by Burgerdudes",
+            "emoji": "🍔",
+            "position": "1°",
+            "name": "Hundred Burgers",
+            "ref": "https://www.burgerdudes.se/spain/valencia/hundred-burgers/",
+            "address": [
+                "Hundred, Carrer d'Eugènia Viñes 225, València, España"
+            ],
+            "coord": [
+                [
+                    39.4720498,
+                    -0.3257155
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burgerdudes",
+            "sub-ranking": "The World's Best Burgers 2026 by Burgerdudes",
+            "emoji": "🍔",
+            "position": "2°",
+            "name": "Holy Burger",
+            "ref": "https://www.burgerdudes.se/brazil/sao-paulo/holy-burger/",
+            "address": [
+                "Holy Burger, R. Dr. Cesário Mota Júnior, 527 - Vila Buarque, São Paulo - SP, 01221-020, Brasile"
+            ],
+            "coord": [
+                [
+                    -23.5465033,
+                    -46.6488867
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burgerdudes",
+            "sub-ranking": "The World's Best Burgers 2026 by Burgerdudes",
+            "emoji": "🍔",
+            "position": "3°",
+            "name": "Au Cheval",
+            "ref": "https://www.burgerdudes.se/usa/new-york/au-cheval/",
+            "address": [
+                "Au Cheval, West Randolph Street 800, Chicago, United States"
+            ],
+            "coord": [
+                [
+                    41.8847068,
+                    -87.6476011
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burgerdudes",
+            "sub-ranking": "The World's Best Burgers 2026 by Burgerdudes",
+            "emoji": "🍔",
+            "position": "4°",
+            "name": "Funky Chicken Food Truck",
+            "ref": "https://www.burgerdudes.se/sweden/stockholm/funky-chicken-food-truck/",
+            "address": [
+                "Funky Chicken Food Truck, Cylindervägen, Nacka, Sverige"
+            ],
+            "coord": [
+                [
+                    59.3165718,
+                    18.1611019
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burgerdudes",
+            "sub-ranking": "The World's Best Burgers 2026 by Burgerdudes",
+            "emoji": "🍔",
+            "position": "5°",
+            "name": "Burger & Beyond",
+            "ref": "https://www.burgerdudes.se/england/london/burger-and-beyond/",
+            "address": [
+                "Burger & Beyond, Camden Lock Place, London, United Kingdom"
+            ],
+            "coord": [
+                [
+                    51.5411554,
+                    -0.1461589
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burgerdudes",
+            "sub-ranking": "The World's Best Burgers 2026 by Burgerdudes",
+            "emoji": "🍔",
+            "position": "6°",
+            "name": "Pizza Loves Emily",
+            "ref": "https://www.burgerdudes.se/usa/new-york/pizza-loves-emily/",
+            "address": [
+                "Pizza Loves Sauce, East Houston Street 147, New York, United States"
+            ],
+            "coord": [
+                [
+                    40.7230597,
+                    -73.9897166
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burgerdudes",
+            "sub-ranking": "The World's Best Burgers 2026 by Burgerdudes",
+            "emoji": "🍔",
+            "position": "7°",
+            "name": "Gui’s Burger",
+            "ref": "https://www.burgerdudes.se/japan/ashiya/guis-burger/",
+            "address": [
+                "Gui's Burger, 7-4 Ōmasuchō, Ashiya, Hyogo 659-0066, Giappone"
+            ],
+            "coord": [
+                [
+                    34.7290515,
+                    135.3060322
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burgerdudes",
+            "sub-ranking": "The World's Best Burgers 2026 by Burgerdudes",
+            "emoji": "🍔",
+            "position": "8°",
+            "name": "MeatCastles",
+            "ref": "https://www.burgerdudes.se/england/retford/meatcastles/",
+            "address": [
+                "Retford, Bassetlaw, Nottinghamshire, East Midlands, Inghilterra, DN22 6HB, Regno Unito"
+            ],
+            "coord": [
+                [
+                    53.3231315,
+                    -0.9424879
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burgerdudes",
+            "sub-ranking": "The World's Best Burgers 2026 by Burgerdudes",
+            "emoji": "🍔",
+            "position": "9°",
+            "name": "Amboy",
+            "ref": "https://www.burgerdudes.se/usa/los-angeles/amboy-quality-meats-and-delicious-burgers/",
+            "address": [
+                "Amboy Quality Meats & Delicious Burgers, North Broadway 727, Los Angeles, United States"
+            ],
+            "coord": [
+                [
+                    34.0613619,
+                    -118.2397103
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burgerdudes",
+            "sub-ranking": "The World's Best Burgers 2026 by Burgerdudes",
+            "emoji": "🍔",
+            "position": "10°",
+            "name": "Soul Coffee Beer",
+            "ref": "https://www.burgerdudes.se/spain/valencia/soul-coffee-beer/",
+            "address": [
+                "Soul Coffee Beer | Hamburguesería Valencia, Carrer Sant Pasqual, 12, 46200 Paiporta, Valencia, Spagna"
+            ],
+            "coord": [
+                [
+                    39.4293632,
+                    -0.4142485
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burgerdudes",
+            "sub-ranking": "The World's Best Burgers 2026 by Burgerdudes",
+            "emoji": "🍔",
+            "position": "11°",
+            "name": "Grindhouse Braserito",
+            "ref": "https://www.burgerdudes.se/brazil/sao-paulo/grindhouse-braserito/",
+            "address": [
+                "Grindhouse Braserito, R. Lisboa, 346 - Pinheiros, São Paulo - SP, 05413-000, Brasile"
+            ],
+            "coord": [
+                [
+                    -23.5609456,
+                    -46.6785177
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burgerdudes",
+            "sub-ranking": "The World's Best Burgers 2026 by Burgerdudes",
+            "emoji": "🍔",
+            "position": "12°",
+            "name": "Bleecker",
+            "ref": "https://www.burgerdudes.se/england/london/bleecker/",
+            "address": [
+                "Bleecker, Tooley Street 104, London, United Kingdom"
+            ],
+            "coord": [
+                [
+                    51.5042599,
+                    -0.0825415
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burgerdudes",
+            "sub-ranking": "The World's Best Burgers 2026 by Burgerdudes",
+            "emoji": "🍔",
+            "position": "13°",
+            "name": "Nowon",
+            "ref": "https://www.burgerdudes.se/usa/new-york/nowon/",
+            "address": [
+                "Nowon East Village, 507 E 6th St, New York, NY 10009, Stati Uniti"
+            ],
+            "coord": [
+                [
+                    40.7253574,
+                    -73.9833014
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burgerdudes",
+            "sub-ranking": "The World's Best Burgers 2026 by Burgerdudes",
+            "emoji": "🍔",
+            "position": "14°",
+            "name": "Goldieboy",
+            "ref": "https://www.burgerdudes.se/australia/melbourne/goldieboy/",
+            "address": [
+                "Goldieboy Burgers, 305 Bay St, Brighton VIC 3186, Australia"
+            ],
+            "coord": [
+                [
+                    -37.9052548,
+                    145.0023568
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burgerdudes",
+            "sub-ranking": "The World's Best Burgers 2026 by Burgerdudes",
+            "emoji": "🍔",
+            "position": "15°",
+            "name": "Briochef",
+            "ref": "https://www.burgerdudes.se/spain/madrid/briochef/",
+            "address": [
+                "Briochef Burgers Madrid, C. de Mozart, 5, Moncloa - Aravaca, 28008 Madrid, Spagna"
+            ],
+            "coord": [
+                [
+                    40.4225541,
+                    -3.7217263
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burgerdudes",
+            "sub-ranking": "The World's Best Burgers 2026 by Burgerdudes",
+            "emoji": "🍔",
+            "position": "16°",
+            "name": "Dreamburger",
+            "ref": "https://www.burgerdudes.se/usa/nashville/dreamburger/",
+            "address": [
+                "Dreamburger, 2038 Greenwood Ave, Nashville, TN 37206, Stati Uniti"
+            ],
+            "coord": [
+                [
+                    36.1886297,
+                    -86.7295434
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burgerdudes",
+            "sub-ranking": "The World's Best Burgers 2026 by Burgerdudes",
+            "emoji": "🍔",
+            "position": "17°",
+            "name": "Harlem Shake",
+            "ref": "https://www.burgerdudes.se/usa/new-york/harlem-shake/",
+            "address": [
+                "Harlem Shake, 5th Avenue 119, New York, United States"
+            ],
+            "coord": [
+                [
+                    40.6788964,
+                    -73.9786164
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burgerdudes",
+            "sub-ranking": "The World's Best Burgers 2026 by Burgerdudes",
+            "emoji": "🍔",
+            "position": "18°",
+            "name": "Black Cactus",
+            "ref": "https://www.burgerdudes.se/england/london/black-cactus-bbq/",
+            "address": [
+                "The Black Lion, Kilburn High Road 274, London, United Kingdom"
+            ],
+            "coord": [
+                [
+                    51.5437095,
+                    -0.1998523
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burgerdudes",
+            "sub-ranking": "The World's Best Burgers 2026 by Burgerdudes",
+            "emoji": "🍔",
+            "position": "19°",
+            "name": "Red Hook Tavern",
+            "ref": "https://www.burgerdudes.se/usa/new-york/red-hook-tavern/",
+            "address": [
+                "Red Hook Tavern, Van Brunt Street 329, New York, United States"
+            ],
+            "coord": [
+                [
+                    40.6778746,
+                    -74.0120875
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burgerdudes",
+            "sub-ranking": "The World's Best Burgers 2026 by Burgerdudes",
+            "emoji": "🍔",
+            "position": "20°",
+            "name": "Franky's",
+            "ref": "https://www.burgerdudes.se/sweden/stockholm/frankys/",
+            "address": [
+                "Franky's Burger, Blekingegatan, Stockholm, Sverige"
+            ],
+            "coord": [
+                [
+                    59.3102955,
+                    18.0740824
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burgerdudes",
+            "sub-ranking": "The World's Best Burgers 2026 by Burgerdudes",
+            "emoji": "🍔",
+            "position": "21°",
+            "name": "BDP Burger",
+            "ref": "https://www.burgerdudes.se/spain/madrid/bdp-burger/",
+            "address": [
+                "BDP, Calle de Francisco Ayala, Rivas-Vaciamadrid, España"
+            ],
+            "coord": [
+                [
+                    40.348223,
+                    -3.5300749
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burgerdudes",
+            "sub-ranking": "The World's Best Burgers 2026 by Burgerdudes",
+            "emoji": "🍔",
+            "position": "22°",
+            "name": "Will's",
+            "ref": "https://www.burgerdudes.se/australia/sydney/wills/",
+            "address": [
+                "Will & Mike's, Baker Street 14a, Sydney, Australia"
+            ],
+            "coord": [
+                [
+                    -33.9458548,
+                    151.212482
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burgerdudes",
+            "sub-ranking": "The World's Best Burgers 2026 by Burgerdudes",
+            "emoji": "🍔",
+            "position": "23°",
+            "name": "Rekas Burgers",
+            "ref": "https://www.burgerdudes.se/sweden/malmo/rekas-burgers/",
+            "address": [
+                "Rekas burgers, Thomsons väg, Malmö, Sverige"
+            ],
+            "coord": [
+                [
+                    55.5843106,
+                    13.0557709
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burgerdudes",
+            "sub-ranking": "The World's Best Burgers 2026 by Burgerdudes",
+            "emoji": "🍔",
+            "position": "24°",
+            "name": "Dove",
+            "ref": "https://www.burgerdudes.se/england/london/dove/",
+            "address": [
+                "The Dove, Upper Mall 19, London, United Kingdom"
+            ],
+            "coord": [
+                [
+                    51.4905085,
+                    -0.2348574
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Burgerdudes",
+            "sub-ranking": "The World's Best Burgers 2026 by Burgerdudes",
+            "emoji": "🍔",
+            "position": "25°",
+            "name": "The Food Truck Store",
+            "ref": "https://www.burgerdudes.se/argentina/buenos-aires/the-food-truck-store/",
+            "address": [
+                "The Food Truck Store, Echeverría 1627, Ciudad Autónoma de Buenos Aires, Argentina"
+            ],
+            "coord": [
+                [
+                    -34.5584096,
+                    -58.4484155
                 ]
             ],
             "website": null

@@ -2,101 +2,119 @@
     "Vegan": [
         {
             "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Bistro Vegetali 2024",
+            "sub-ranking": "I Migliori Bistro Vegetali 2026 Damico Award",
             "emoji": "🌱",
             "position": "1°",
             "name": "Altatto",
-            "ref": "https://www.50topitaly.it/it/referenza/altatto/",
+            "ref": "https://www.50topitaly.it/it/referenza/altatto-3/",
             "address": [
-                "Via Comune Antico, 15, 20125 Milano, Milano MI, Italia"
+                "Via Bonaventura Zumbini, 39, 20143 Milano, Milano MI, Italia"
             ],
             "coord": [
                 [
-                    45.5034873,
-                    9.2091683
+                    45.4404391,
+                    9.155703
                 ]
             ],
             "website": null
         },
         {
             "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Bistro Vegetali 2024",
+            "sub-ranking": "I Migliori Bistro Vegetali 2026 Damico Award",
             "emoji": "🌱",
             "position": "2°",
-            "name": "Nativa",
-            "ref": "https://www.50topitaly.it/it/referenza/nativa/",
+            "name": "Linfa",
+            "ref": "https://www.50topitaly.it/it/referenza/linfa-3/",
             "address": [
-                "Via Umberto Moricca, 100, 00100 Roma RM"
+                "V. Ambrogio Bergognone da Fossano, 24, 20144 Milano, Milano MI, Italia"
             ],
             "coord": [
                 [
-                    41.9023433,
-                    12.4359245
+                    45.4537706,
+                    9.1635202
                 ]
             ],
             "website": null
         },
         {
             "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Bistro Vegetali 2024",
+            "sub-ranking": "I Migliori Bistro Vegetali 2026 Damico Award",
             "emoji": "🌱",
             "position": "3°",
-            "name": "Mezza Pagnotta – Cucina etnobotanica",
-            "ref": "https://www.50topitaly.it/it/referenza/mezza-pagnotta-cucina-etnobotanica/",
+            "name": "Cucina Villana",
+            "ref": "https://www.50topitaly.it/it/referenza/cucina-villana-2/",
             "address": [
-                "Villa Fenicia SP 86 Ruvo - Bisceglie, km, 2, 70037 Ruvo di Puglia BA"
+                "Villa Fenicia SP 86 Ruvo - Bisceglie, 70037 Ruvo di Puglia BA"
             ],
             "coord": [
                 [
-                    41.1393661,
-                    16.4840965
+                    41.1383319,
+                    16.486371
                 ]
             ],
             "website": null
         },
         {
             "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Bistro Vegetali 2024",
+            "sub-ranking": "I Migliori Bistro Vegetali 2026 Damico Award",
             "emoji": "🌱",
             "position": "4°",
-            "name": "Mater Terrae",
-            "ref": "https://www.50topitaly.it/it/referenza/mater-terrae/",
+            "name": "Antonio Chiodi Latini",
+            "ref": "https://www.50topitaly.it/it/referenza/antonio-chiodi-latini/",
             "address": [
-                "Largo Febo, 2, 00186 Roma, RM, Italia"
+                "V. Antonio Bertola, 20/B, 10122 Torino, TO, Italia"
             ],
             "coord": [
                 [
-                    41.8999814,
-                    12.4721401
+                    45.0706871,
+                    7.6798118
                 ]
             ],
             "website": null
         },
         {
             "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Bistro Vegetali 2024",
+            "sub-ranking": "I Migliori Bistro Vegetali 2026 Damico Award",
             "emoji": "🌱",
             "position": "5°",
-            "name": "Rifugio Romano",
-            "ref": "https://www.50topitaly.it/it/referenza/rifugio-romano/",
+            "name": "Nativa",
+            "ref": "https://www.50topitaly.it/it/referenza/nativa-3/",
             "address": [
-                "Via Volturno, 39/41, 00185 Roma RM"
+                "Via Umberto Moricca, 100, 00100 Roma, RM, Italia"
             ],
             "coord": [
                 [
-                    41.9044388,
-                    12.4995988
+                    41.9023416,
+                    12.4359139
                 ]
             ],
             "website": null
         },
         {
             "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Bistro Vegetali 2024",
+            "sub-ranking": "I Migliori Bistro Vegetali 2026 Damico Award",
             "emoji": "🌱",
             "position": "6°",
+            "name": "Ausa",
+            "ref": "https://www.50topitaly.it/it/referenza/ausa/",
+            "address": [
+                "Via Occidentale, 109, 86170 Isernia, Isernia, Italia"
+            ],
+            "coord": [
+                [
+                    41.5925321,
+                    14.2281368
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Bistro Vegetali 2026 Damico Award",
+            "emoji": "🌱",
+            "position": "7°",
             "name": "Il Margutta",
-            "ref": "https://www.50topitaly.it/it/referenza/il-margutta/",
+            "ref": "https://www.50topitaly.it/it/referenza/il-margutta-3/",
             "address": [
                 "Via Margutta, 118, 00187 Roma, RM, Italia"
             ],
@@ -110,72 +128,54 @@
         },
         {
             "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Bistro Vegetali 2024",
-            "emoji": "🌱",
-            "position": "7°",
-            "name": "Linfa",
-            "ref": "https://www.50topitaly.it/it/referenza/linfa/",
-            "address": [
-                "Via Bergognone, 24, 20144 Milano MI"
-            ],
-            "coord": [
-                [
-                    45.4537706,
-                    9.1635202
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Bistro Vegetali 2024",
+            "sub-ranking": "I Migliori Bistro Vegetali 2026 Damico Award",
             "emoji": "🌱",
             "position": "8°",
-            "name": "Fonderia",
-            "ref": "https://www.50topitaly.it/it/referenza/fonderia/",
+            "name": "Rifugio Romano",
+            "ref": "https://www.50topitaly.it/it/referenza/rifugio-romano-3/",
             "address": [
-                "Via Della Fonderia, 1, 50142 Firenze, FI, Italia"
+                "Via Volturno, 39/41, 00185 Roma, RM, Italia"
             ],
             "coord": [
                 [
-                    43.7723245,
-                    11.2385981
+                    41.9044388,
+                    12.4995988
                 ]
             ],
             "website": null
         },
         {
             "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Bistro Vegetali 2024",
+            "sub-ranking": "I Migliori Bistro Vegetali 2026 Damico Award",
             "emoji": "🌱",
             "position": "9°",
-            "name": "Cavoli Nostri",
-            "ref": "https://www.50topitaly.it/it/referenza/cavoli-nostri/",
-            "address": [
-                "Via Palepoli, 32, 80132 Napoli, Napoli NA, Italia"
-            ],
-            "coord": [
-                [
-                    40.8308088,
-                    14.2502322
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "50 Top Italy",
-            "sub-ranking": "50 Top Italy Migliori Bistro Vegetali 2024",
-            "emoji": "🌱",
-            "position": "10°",
             "name": "La Cucina dei Colori",
-            "ref": "https://www.50topitaly.it/it/referenza/la-cucina-dei-colori/",
+            "ref": "https://www.50topitaly.it/it/referenza/la-cucina-dei-colori-3/",
             "address": [
                 "Via S. Michele, 9, 95131 Catania, CT, Italia"
             ],
             "coord": [
                 [
-                    37.5059503,
-                    15.087428
+                    37.5059451,
+                    15.087422
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Bistro Vegetali 2026 Damico Award",
+            "emoji": "🌱",
+            "position": "10°",
+            "name": "Arrecrià",
+            "ref": "https://www.50topitaly.it/it/referenza/arrecria/",
+            "address": [
+                "Via Belvedere, 164, 80127 Napoli, NA, Italia"
+            ],
+            "coord": [
+                [
+                    40.8419558,
+                    14.2223138
                 ]
             ],
             "website": null

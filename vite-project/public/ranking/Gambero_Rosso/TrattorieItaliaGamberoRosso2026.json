@@ -1,0 +1,886 @@
+{
+    "Trattorie Italia Gambero Rosso 2026": [
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "4 Archi | Milo (CT)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Osteria Quattro Archi, Via Francesco Crispi 9, Milo, Italia"
+            ],
+            "coord": [
+                [
+                    37.7269925,
+                    15.1127893
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Abbamele Osteria | Mamoiada (NU)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Osteria Abbamele, Corso Giovanni Maria Angioy 59, Mamoiada, Italia"
+            ],
+            "coord": [
+                [
+                    40.2125315,
+                    9.2838642
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Agra Mater | Colmurano (MC)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Agriturismo Agra Mater, Contrada Monti, 3, 62020 Colmurano MC, Italia"
+            ],
+            "coord": [
+                [
+                    43.1570434,
+                    13.3571052
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Da Amerigoù | Valsamoggia (BO)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Valsamoggia, Unione dei comuni Valli del Reno, Lavino e Samoggia, Bologna, Emilia-Romagna, 40053, Italia"
+            ],
+            "coord": [
+                [
+                    44.4398236,
+                    11.059275
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Angiolina | Pisciotta (SA)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Angiolina, Strada Provinciale 14 Marina di Pisciotta, Pisciotta, Italia"
+            ],
+            "coord": [
+                [
+                    40.1015405,
+                    15.2286006
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Antica Osteria del Mirasole con Locanda | San Giovanni in Persiceto (BO)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Via Giacomo Matteotti, 17, 40017 San Giovanni in Persiceto, BO, Italia"
+            ],
+            "coord": [
+                [
+                    44.639073,
+                    11.1857091
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Antica Trattoria del Gallo | Gaggiano (MI)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Via Privata Gerli, 3, 20083 Gaggiano, MI, Italia"
+            ],
+            "coord": [
+                [
+                    45.3799926,
+                    9.0248373
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Antichi Sapori | Andria (BT)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Antichi sapori, Piazza Sant'Isidoro 10, Andria, Italia"
+            ],
+            "coord": [
+                [
+                    41.1722746,
+                    16.1411014
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "L’Arcangelo Vino e Cucina | Roma",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Via Giuseppe Gioachino Belli, 59, 00193 Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.9066053,
+                    12.4686515
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Arieddas – La Cucina della Marmilla | Sanluri (SU)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Arieddas - La Cucina della Marmilla, S.P, 48/Km 1,8, 09025 Sanluri VS, Italia"
+            ],
+            "coord": [
+                [
+                    39.5888615,
+                    8.900462
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Masseria Barbera | Minervino Murge (BT)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Masseria Barbera, Strada Provinciale 4 delle Murge, Minervino Murge, Italia"
+            ],
+            "coord": [
+                [
+                    41.1497935,
+                    16.0860726
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "La Brinca | Ne (GE)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Via Campo di Ne, 58, 16040 Campo di Ne, Ne GE, Italia"
+            ],
+            "coord": [
+                [
+                    44.3538664,
+                    9.3892725
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Buatta Cucina Popolana | Palermo",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Buatta Cucina Popolana, Via Vittorio Emanuele 176, Palermo, Italia"
+            ],
+            "coord": [
+                [
+                    38.117103,
+                    13.365181
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Buccia | Sabaudia (LT)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Buccia, Via Litoranea, Sabaudia, Italia"
+            ],
+            "coord": [
+                [
+                    41.3165786,
+                    13.0360162
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Da Burde | Firenze",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Via Pistoiese, 154, 50145 Firenze, Firenze FI, Italia"
+            ],
+            "coord": [
+                [
+                    43.7941468,
+                    11.185856
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Il Capanno | Spoleto (PG)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Località Torre Cola, 6, 06049 Torrecola, PG, Italia"
+            ],
+            "coord": [
+                [
+                    42.6614289,
+                    12.7350034
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Trattoria del Cimino dal 1895 | Caprarola (VT)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Trattoria del Cimino dal 1895, Via Filippo Nicolai, 44, 01032 Caprarola VT, Italia"
+            ],
+            "coord": [
+                [
+                    42.3267937,
+                    12.2393036
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Consorzio | Torino",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Via Monte di Pietà, 23, 10122 Torino, Torino TO, Italia"
+            ],
+            "coord": [
+                [
+                    45.0715079,
+                    7.6794311
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Al Convento – Casa Torrente | Cetara (SA)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Piazza S. Francesco, 16, 84010 Cetara SA, Italia"
+            ],
+            "coord": [
+                [
+                    40.647183,
+                    14.7007363
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Caffè La Crepa | Isola Dovarese (CR)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "La Crepa, Piazza Giacomo Matteotti, Isola Dovarese, Italia"
+            ],
+            "coord": [
+                [
+                    45.1762841,
+                    10.3126071
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Ai Due Platani | Parma",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Strada Budellungo, 104a, 43123 Coloreto, Provincia di Parma, Italia"
+            ],
+            "coord": [
+                [
+                    44.768842,
+                    10.379983
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Ostreria Fratelli Pavesi | Podenzano (PC)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Ostreria Fratelli Pavesi, Località Faggiola, 8, 29027 Gariga PC, Italia"
+            ],
+            "coord": [
+                [
+                    44.983662,
+                    9.6851299
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Futura Osteria | Monteriggioni (SI)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Futura Osteria di Abbadia Isola, Largo Garfonda, Monteriggioni, Italia"
+            ],
+            "coord": [
+                [
+                    43.3875625,
+                    11.1953242
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Grappolo d’Oro | Roma",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Al grappolo d'oro, Via Palestro 4, Roma, Italia"
+            ],
+            "coord": [
+                [
+                    41.9072293,
+                    12.5015929
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Osteria Lagrandissima | Milano",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Lagrandissima, Via Ponte Nuovo 25, Milano, Italia"
+            ],
+            "coord": [
+                [
+                    45.5066987,
+                    9.2369643
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Lerchner’s in Runggen | San Lorenzo di Sebato/Sankt Lorenzen (BZ)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Lerchner's in Runggen, Runggen/Ronchi 3a, St. Lorenzen - San Lorenzo di Sebato, Italia"
+            ],
+            "coord": [
+                [
+                    46.7784228,
+                    11.8771771
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "La Madia | Brione (BS)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Trattoria La Madia, Via Provinciale, Brione, Italia"
+            ],
+            "coord": [
+                [
+                    45.6361929,
+                    10.1452235
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Osteria dei Maltagliati | Torano Nuovo (TE)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Osteria dei Maltagliati, Via Reg. Margherita, 37, 64010 Torano Nuovo TE, Italia"
+            ],
+            "coord": [
+                [
+                    42.8231226,
+                    13.7768289
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Locanda Mariella | Calestano (PR)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Locanda Mariella, Via Fragnolo 29, Calestano, Italia"
+            ],
+            "coord": [
+                [
+                    44.5868531,
+                    10.1590093
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Nerodiseppia | Trieste",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Trattoria Nerodiseppia, Via Luigi Cadorna, 23, 34123 Trieste TS, Italia"
+            ],
+            "coord": [
+                [
+                    45.6472867,
+                    13.7630652
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Nú Trattoria Italiana dal 1960 | Acuto (FR)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Via Prenestina, 21, 03010 Acuto FR, Italia"
+            ],
+            "coord": [
+                [
+                    41.7920911,
+                    13.1793855
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "All’ Osteria Bottega | Bologna",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Via Santa Caterina, 51, 40123 Bologna, Bologna BO, Italia"
+            ],
+            "coord": [
+                [
+                    44.4910865,
+                    11.3325588
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Osteria della Villetta dal 1900 | Palazzolo sull’Oglio (BS)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Via Guglielmo Marconi, 104, 25036 Palazzolo sull'Oglio, BS, Italia"
+            ],
+            "coord": [
+                [
+                    45.602691,
+                    9.8940568
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "La Piola | Alba (CN)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "La Piola, Piazza Risorgimento 4, Alba, Italia"
+            ],
+            "coord": [
+                [
+                    44.7006658,
+                    8.0358352
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Taverna del Porto | Tricase (LE)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Taverna del Porto, Via Cristoforo Colombo 121, Tricase, Italia"
+            ],
+            "coord": [
+                [
+                    39.9300874,
+                    18.39434
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Pretzhof | Val di Vizze/Pfitsch (BZ)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Pretzhof, Tulfer 259, Pfitsch - Val di Vizze, Italia"
+            ],
+            "coord": [
+                [
+                    46.9036797,
+                    11.507884
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "La Sangiovesa | Santarcangelo di Romagna (RN)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Piazza Beato Simone Balacchi, 14, 47822 Santarcangelo di Romagna RN"
+            ],
+            "coord": [
+                [
+                    44.063679,
+                    12.4445347
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "SantoPalato | Roma",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Via Gallia, 28, 00183 Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.8814315,
+                    12.5014799
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "I Sapori di Marianna | Maratea (PZ)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "I Sapori di Marianna... Eno-Trattoria, Via Campo, snc, 85046 Maratea PZ, Italia"
+            ],
+            "coord": [
+                [
+                    40.00102,
+                    15.727994
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Sora Maria e Arcangelo | Olevano Romano (RM)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Via Roma, 42, 00035 Olevano Romano, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.8596535,
+                    13.0334348
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Stella | Perugia",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Stella, Via dei Narcisi 47, Perugia, Italia"
+            ],
+            "coord": [
+                [
+                    43.1063543,
+                    12.4313645
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Lo Stuzzichino | Massa Lubrense (NA)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Lo Stuzzichino, Corso Sant'Agata, 80061 Sant'Agata sui Due Golfi, NA, Italia"
+            ],
+            "coord": [
+                [
+                    40.6086349,
+                    14.3724446
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "La Tavernetta al San Lorenzo si Alberga | Spezzano della Sila (CS)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Spezzano della Sila, Cosenza, Calabria, Italia"
+            ],
+            "coord": [
+                [
+                    39.2994106,
+                    16.3394496
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Tischi Toschi | Taormina (ME)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Tischi Toschi, Via Paladini 3, Taormina, Italia"
+            ],
+            "coord": [
+                [
+                    37.8509882,
+                    15.2836937
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Trippa | Milano",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Via Giorgio Vasari, 1, 20135 Milano, MI, Italia"
+            ],
+            "coord": [
+                [
+                    45.452167,
+                    9.2054593
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Vecchia Marina | Roseto degli Abruzzi (TE)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Lungomare Trento, 37, 64026 Roseto degli Abruzzi TE"
+            ],
+            "coord": [
+                [
+                    42.6830291,
+                    14.0125791
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Villa Rosa – La casa di Lella | Vico Equense (NA)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Villa Rosa \"La casa di Lella\", via Alberi, Vico Equense, Italia"
+            ],
+            "coord": [
+                [
+                    40.6522803,
+                    14.4214899
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Vino e Cibo | Senigallia (AN)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Trattoria Vino e Cibo, Via Giulio Carlo Fagnani 16, Senigallia, Italia"
+            ],
+            "coord": [
+                [
+                    43.714433,
+                    13.2181641
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Trattorie Italia Gambero Rosso 2026",
+            "emoji": "🍝",
+            "position": null,
+            "name": "Trattoria Visconti dal 1932 | Ambivere (BG)",
+            "ref": "https://www.gamberorosso.it/notizie/ristoranti/migliori-trattorie-tre-gamberi-2026/",
+            "address": [
+                "Trattoria Visconti, Via Alcide De Gasperi, 12, 24030 Ambivere BG, Italia"
+            ],
+            "coord": [
+                [
+                    45.7180976,
+                    9.5479009
+                ]
+            ],
+            "website": null
+        }
+    ]
+}

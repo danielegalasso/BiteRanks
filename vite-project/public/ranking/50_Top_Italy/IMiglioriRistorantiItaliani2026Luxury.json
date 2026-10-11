@@ -1,0 +1,951 @@
+{
+    "I Migliori Ristoranti Italiani 2026 Luxury": [
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "1°",
+            "name": "Villa Crespi",
+            "ref": "https://www.50topitaly.it/it/referenza/villa-crespi-2/",
+            "address": [
+                "Via Giuseppe Fava, 18, 28016 Orta San Giulio, NO, Italia"
+            ],
+            "coord": [
+                [
+                    45.7964687,
+                    8.4162437
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "2°",
+            "name": "La Veglia Relais",
+            "ref": "https://www.50topitaly.it/it/referenza/la-veglia-relais-2/",
+            "address": [
+                "Via Amerigo Vespucci, 13N, 80061 Nerano, NA, Italia"
+            ],
+            "coord": [
+                [
+                    40.585694,
+                    14.3534855
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "3°",
+            "name": "Jumeirah Capri Palace",
+            "ref": "https://www.50topitaly.it/it/referenza/jumeirah-capri-palace-2/",
+            "address": [
+                "Via Capodimonte, 14, 80071 Anacapri, NA, Italia"
+            ],
+            "coord": [
+                [
+                    40.5557415,
+                    14.221837
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "4°",
+            "name": "Casa Maria Luigia",
+            "ref": "https://www.50topitaly.it/it/referenza/casa-maria-luigia-5/",
+            "address": [
+                "Stradello Bonaghino, 56, 41126 Modena, Modena MO, Italia"
+            ],
+            "coord": [
+                [
+                    44.6103696,
+                    10.9794643
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "5°",
+            "name": "Grand Hotel a Villa Feltrinelli",
+            "ref": "https://www.50topitaly.it/it/referenza/grand-hotel-a-villa-feltrinelli-5/",
+            "address": [
+                "Via Rimembranza, 38-40, 25084 Gargnano BS, Italia"
+            ],
+            "coord": [
+                [
+                    45.6932843,
+                    10.6690499
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "6°",
+            "name": "Il Boscareto Resort & Spa",
+            "ref": "https://www.50topitaly.it/it/referenza/il-boscareto-resort-spa-3/",
+            "address": [
+                "Via Roddino, 21, 12050 Serralunga d'Alba CN, Italia"
+            ],
+            "coord": [
+                [
+                    44.5942359,
+                    7.9997618
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "7°",
+            "name": "Brunelleschi Hotel",
+            "ref": "https://www.50topitaly.it/it/referenza/brunelleschi-hotel-5/",
+            "address": [
+                "Piazza Sant'Elisabetta, 3, 50122 Firenze, Firenze FI, Italia"
+            ],
+            "coord": [
+                [
+                    43.7717119,
+                    11.2557559
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "8°",
+            "name": "La Dimora",
+            "ref": "https://www.50topitaly.it/it/referenza/la-dimora-5/",
+            "address": [
+                "Via Cantalupa, 17, 24060 Brusaporto BG, Italia"
+            ],
+            "coord": [
+                [
+                    45.6771659,
+                    9.7699647
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "9°",
+            "name": "Grand Hotel Parker’s",
+            "ref": "https://www.50topitaly.it/it/referenza/grand-hotel-parkers-5/",
+            "address": [
+                "C.so Vittorio Emanuele, 135, 80121 Napoli, Napoli NA, Italia"
+            ],
+            "coord": [
+                [
+                    40.8372871,
+                    14.2299493
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "10°",
+            "name": "Villa Laetitia",
+            "ref": "https://www.50topitaly.it/it/referenza/villa-laetitia-5/",
+            "address": [
+                "Lungotevere delle Armi, 23, 00195 Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.9164033,
+                    12.4690504
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "11°",
+            "name": "Rome Cavalieri – A Waldorf Astoria Hotel",
+            "ref": "https://www.50topitaly.it/it/referenza/rome-cavalieri-a-waldorf-astoria-hotel-4/",
+            "address": [
+                "Via Alberto Cadlolo, 101, 00136 Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.9188923,
+                    12.4467774
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "12°",
+            "name": "Hotel Hassler Roma",
+            "ref": "https://www.50topitaly.it/it/referenza/hotel-hassler-roma-5/",
+            "address": [
+                "Piazza della Trinità dei Monti, 6, 00187 Roma RM"
+            ],
+            "coord": [
+                [
+                    41.905973,
+                    12.4840332
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "13°",
+            "name": "Casadonna",
+            "ref": "https://www.50topitaly.it/it/referenza/casadonna-4/",
+            "address": [
+                "Contrada Piana Santa Liberata, 67031 Castel di Sangro AQ, Italia"
+            ],
+            "coord": [
+                [
+                    41.7741131,
+                    14.1028502
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "14°",
+            "name": "Mandarin Oriental Milan",
+            "ref": "https://www.50topitaly.it/it/referenza/mandarin-oriental-milan-5/",
+            "address": [
+                "Via Monte di Pietà, 18, 20121 Milano, MI, Italia"
+            ],
+            "coord": [
+                [
+                    45.4698283,
+                    9.1913189
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "15°",
+            "name": "Boutique Hotel Don Alfonso 1890",
+            "ref": "https://www.50topitaly.it/it/referenza/boutique-hotel-don-alfonso-1890-2/",
+            "address": [
+                "Sant'Agata sui Due Golfi, Corso Sant'Agata, 11/13, 80061 Massa Lubrense NA"
+            ],
+            "coord": [
+                [
+                    40.6080421,
+                    14.3736579
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "16°",
+            "name": "The Ashbee Hotel",
+            "ref": "https://www.50topitaly.it/it/referenza/the-ashbee-hotel-5/",
+            "address": [
+                "Viale S. Pancrazio, 46, 98039 Taormina ME"
+            ],
+            "coord": [
+                [
+                    37.8558933,
+                    15.2901615
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "17°",
+            "name": "Palazzo Venart",
+            "ref": "https://www.50topitaly.it/it/referenza/palazzo-venart-2/",
+            "address": [
+                "Calle Tron, 1961, 30135 Venezia, Venezia VE, Italia"
+            ],
+            "coord": [
+                [
+                    45.4413342,
+                    12.3298765
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "18°",
+            "name": "Relais Sant’Uffizio Wellness & Spa",
+            "ref": "https://www.50topitaly.it/it/referenza/relais-santuffizio-wellness-spa-4/",
+            "address": [
+                "Strada Sant Uffizio, 1, 14030 Cioccaro di Penango, AT, Italia"
+            ],
+            "coord": [
+                [
+                    45.02703,
+                    8.2774063
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "19°",
+            "name": "Grand Hotel Principe di Piemonte",
+            "ref": "https://www.50topitaly.it/it/referenza/grand-hotel-principe-di-piemonte-5/",
+            "address": [
+                "Piazza Giacomo Puccini, 1, 55049 Viareggio LU"
+            ],
+            "coord": [
+                [
+                    43.881396,
+                    10.2355192
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "20°",
+            "name": "Therasia Resort Sea & Spa",
+            "ref": "https://www.50topitaly.it/it/referenza/therasia-resort-sea-spa-7/",
+            "address": [
+                "Isola di Vulcano, 98050 Vulcanello ME"
+            ],
+            "coord": [
+                [
+                    38.4308938,
+                    14.9600592
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "20°",
+            "name": "Therasia Resort Sea & Spa",
+            "ref": "https://www.50topitaly.it/it/referenza/therasia-resort-sea-spa-8/",
+            "address": [
+                "Isola di Vulcano, 98050 Vulcanello ME"
+            ],
+            "coord": [
+                [
+                    38.4308938,
+                    14.9600592
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "21°",
+            "name": "Il San Pietro",
+            "ref": "https://www.50topitaly.it/it/referenza/il-san-pietro-3/",
+            "address": [
+                "Via Laurito, 6, 84017 Laurito SA"
+            ],
+            "coord": [
+                [
+                    40.6232751,
+                    14.5037972
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "22°",
+            "name": "The First Arte",
+            "ref": "https://www.50topitaly.it/it/referenza/the-first-arte-2/",
+            "address": [
+                "Via del Vantaggio, 14, 00186 Roma RM"
+            ],
+            "coord": [
+                [
+                    41.908763,
+                    12.4755584
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "23°",
+            "name": "Hotel Signum",
+            "ref": "https://www.50topitaly.it/it/referenza/hotel-signum-5/",
+            "address": [
+                "V. Pastificio, 98050 Malfa, ME, Italia"
+            ],
+            "coord": [
+                [
+                    38.5792637,
+                    14.8342571
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "24°",
+            "name": "Borgo Egnazia",
+            "ref": "https://www.50topitaly.it/it/referenza/borgo-egnazia-5/",
+            "address": [
+                "Strada Comunale Egnazia, 72015 Savelletri, BR, Italia"
+            ],
+            "coord": [
+                [
+                    40.8786765,
+                    17.3953903
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "25°",
+            "name": "Arnolfo",
+            "ref": "https://www.50topitaly.it/it/referenza/arnolfo-3/",
+            "address": [
+                "V.le della Rimembranza, 24, 53034 Colle di Val d'Elsa, SI, Italia"
+            ],
+            "coord": [
+                [
+                    43.4238851,
+                    11.1160468
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "26°",
+            "name": "Four Seasons Hotel Firenze",
+            "ref": "https://www.50topitaly.it/it/referenza/four-seasons-hotel-firenze-5/",
+            "address": [
+                "Borgo Pinti, 99, 50121 Firenze FI"
+            ],
+            "coord": [
+                [
+                    43.7773093,
+                    11.2663575
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "27°",
+            "name": "Grand Hotel Timeo – A Belmond Hotel",
+            "ref": "https://www.50topitaly.it/it/referenza/grand-hotel-timeo-a-belmond-hotel-5/",
+            "address": [
+                "Via Teatro Greco, 59, 98039 Taormina ME, Italia"
+            ],
+            "coord": [
+                [
+                    37.8523088,
+                    15.2912103
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "28°",
+            "name": "Excelsior Hotel Gallia",
+            "ref": "https://www.50topitaly.it/it/referenza/excelsior-hotel-gallia-4/",
+            "address": [
+                "Piazza Duca d'Aosta, 9, 20124 Milano MI"
+            ],
+            "coord": [
+                [
+                    45.4856769,
+                    9.2014669
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "29°",
+            "name": "Principe Forte dei Marmi",
+            "ref": "https://www.50topitaly.it/it/referenza/principe-forte-dei-marmi-5/",
+            "address": [
+                "Viale Ammiraglio Morin, 67, 55042 Forte dei Marmi, LU, Italia"
+            ],
+            "coord": [
+                [
+                    43.9518769,
+                    10.176273
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "30°",
+            "name": "Borgo San Felice",
+            "ref": "https://www.50topitaly.it/it/referenza/borgo-san-felice-3/",
+            "address": [
+                "Località San Felice, 53019 Castelnuovo Berardenga SI"
+            ],
+            "coord": [
+                [
+                    43.3817031,
+                    11.4544638
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "31°",
+            "name": "Palazzo Portinari Salviati",
+            "ref": "https://www.50topitaly.it/it/referenza/palazzo-portinari-salviati-4/",
+            "address": [
+                "Salotto Portinari Bistrot di Vito Mollica, Via del Corso, 6, 50122 Firenze, FI, Italia"
+            ],
+            "coord": [
+                [
+                    43.7715125,
+                    11.2573904
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "32°",
+            "name": "Terra – The Magic Place",
+            "ref": "https://www.50topitaly.it/it/referenza/terra-the-magic-place-5/",
+            "address": [
+                "Prati, 21, 39058 Sarentino BZ"
+            ],
+            "coord": [
+                [
+                    46.6427009,
+                    11.3572951
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "33°",
+            "name": "L’Andana",
+            "ref": "https://www.50topitaly.it/it/referenza/landana-3/",
+            "address": [
+                "Località Badiola, Snc, 58043 Castiglione della Pescaia, GR, Italia"
+            ],
+            "coord": [
+                [
+                    42.7916432,
+                    10.9824979
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "34°",
+            "name": "Hotel Castel",
+            "ref": "https://www.50topitaly.it/it/referenza/hotel-castel-3/",
+            "address": [
+                "Vicolo dei Castagni, 18, 39019 Tirolo, BZ, Italia"
+            ],
+            "coord": [
+                [
+                    46.6865502,
+                    11.1564375
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "35°",
+            "name": "Il San Corrado di Noto",
+            "ref": "https://www.50topitaly.it/it/referenza/il-san-corrado-di-noto-4/",
+            "address": [],
+            "coord": [],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "36°",
+            "name": "Savoy Hotel & SPA",
+            "ref": "https://www.50topitaly.it/it/referenza/savoy-hotel-spa-2/",
+            "address": [
+                "Via Poseidonia, 41, 84047 Paestum, SA, Italia"
+            ],
+            "coord": [
+                [
+                    40.4165537,
+                    14.9910937
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "37°",
+            "name": "The Pantheon Iconic Rome Hotel",
+            "ref": "https://www.50topitaly.it/it/referenza/the-pantheon-iconic-rome-hotel-2/",
+            "address": [
+                "Piazza dei Caprettari, 56/60, 00186 Roma RM"
+            ],
+            "coord": [
+                [
+                    41.8982074,
+                    12.4757685
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "38°",
+            "name": "Hotel Villa Cimbrone",
+            "ref": "https://www.50topitaly.it/it/referenza/hotel-villa-cimbrone-5/",
+            "address": [
+                "Villa Cimbrone, 26, Via Santa Chiara, 26, 84010 Ravello SA"
+            ],
+            "coord": [
+                [
+                    40.6441412,
+                    14.6110723
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "39°",
+            "name": "Villa Franca Positano",
+            "ref": "https://www.50topitaly.it/it/referenza/villa-franca-positano-5/",
+            "address": [
+                "Viale Pasitea, 318, 84017 Positano SA"
+            ],
+            "coord": [
+                [
+                    40.6282076,
+                    14.4843974
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "40°",
+            "name": "Quellenhof Luxury Resort Passeier",
+            "ref": "https://www.50topitaly.it/it/referenza/quellenhof-luxury-resort-passeier-2/",
+            "address": [
+                "Via Passiria, 47, 39010 San Martino in Passiria BZ"
+            ],
+            "coord": [
+                [
+                    46.7474698,
+                    11.2064492
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "41°",
+            "name": "La Locanda di Caino",
+            "ref": "https://www.50topitaly.it/it/referenza/la-locanda-di-caino-2/",
+            "address": [
+                "Via della Chiesa, 4, 58014 Montemerano, GR, Italia"
+            ],
+            "coord": [
+                [
+                    42.6220749,
+                    11.490575
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "41°",
+            "name": "Locanda Don Serafino Hotel",
+            "ref": "https://www.50topitaly.it/it/referenza/locanda-don-serafino-hotel-2/",
+            "address": [
+                "via Avv. Ottaviano 13, Ragusa, 97100, Italia"
+            ],
+            "coord": [
+                [
+                    36.9245442,
+                    14.7408832
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "42°",
+            "name": "Zash",
+            "ref": "https://www.50topitaly.it/it/referenza/zash-2/",
+            "address": [
+                "SP2/I-II, 60, 95018 Riposto, CT, Italia"
+            ],
+            "coord": [
+                [
+                    37.7080773,
+                    15.2005241
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "43°",
+            "name": "Palazzo Manfredi",
+            "ref": "https://www.50topitaly.it/it/referenza/palazzo-manfredi-4/",
+            "address": [
+                "Via Labicana, 125, 00184 Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.8901572,
+                    12.4955595
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "44°",
+            "name": "San Domenico Palace – A Four Seasons Hotel",
+            "ref": "https://www.50topitaly.it/it/referenza/san-domenico-palace-a-four-seasons-hotel-2/",
+            "address": [
+                "Piazza S. Domenico de Guzman, 5, 98039 Taormina ME"
+            ],
+            "coord": [
+                [
+                    37.8501221,
+                    15.2838969
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "45°",
+            "name": "Borgobrufa SPA Resort",
+            "ref": "https://www.50topitaly.it/it/referenza/borgobrufa-spa-resort/",
+            "address": [
+                "Via del Colle, 38, 06089 Brufa, PG, Italia"
+            ],
+            "coord": [
+                [
+                    43.0553314,
+                    12.467059
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "45°",
+            "name": "LAQUA by the Lake",
+            "ref": "https://www.50topitaly.it/it/referenza/laqua-by-the-lake-2/",
+            "address": [
+                "Via Legro, 33, 28028 Pettenasco, NO, Italia"
+            ],
+            "coord": [
+                [
+                    45.8194539,
+                    8.4050625
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "46°",
+            "name": "Borgo Santandrea",
+            "ref": "https://www.50topitaly.it/it/referenza/borgo-santandrea-3/",
+            "address": [
+                "Via Giovanni Augustariccio, 33, 84011 Amalfi, SA, Italia"
+            ],
+            "coord": [
+                [
+                    40.6189299,
+                    14.5764754
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "47°",
+            "name": "San Barbato Resort Spa & Golf",
+            "ref": "https://www.50topitaly.it/it/referenza/san-barbato-resort-spa-golf-5/",
+            "address": [
+                "Strada Statale 93 km 56,300 85024, 85024 Lavello PZ"
+            ],
+            "coord": [
+                [
+                    41.0485317,
+                    15.7890961
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "48°",
+            "name": "Regina Isabella",
+            "ref": "https://www.50topitaly.it/it/referenza/regina-isabella-2/",
+            "address": [
+                "Piazza Santa Restituta, 1, 80076 Lacco Ameno, NA, Italia"
+            ],
+            "coord": [
+                [
+                    40.7543935,
+                    13.8853101
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "49°",
+            "name": "Stafler",
+            "ref": "https://www.50topitaly.it/it/referenza/stafler-3/",
+            "address": [
+                "Via Mules, 10, 39040 Vipiteno, BZ, Italia"
+            ],
+            "coord": [
+                [
+                    46.8511001,
+                    11.5206904
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Luxury",
+            "emoji": "🍽️",
+            "position": "50°",
+            "name": "LAQUA Countryside",
+            "ref": "https://www.50topitaly.it/it/referenza/laqua-countryside-5/",
+            "address": [
+                "Via Ticciano, 137, 80069 Ticciano, NA, Italia"
+            ],
+            "coord": [
+                [
+                    40.6455658,
+                    14.452063
+                ]
+            ],
+            "website": null
+        }
+    ]
+}

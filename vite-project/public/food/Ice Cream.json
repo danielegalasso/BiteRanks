@@ -2,1165 +2,643 @@
     "Ice Cream": [
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Gelaterie Duomo - Il Paradiso del Gelato",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/gelaterie-duomo-il-paradiso-del-gelato/",
-            "address": [
-                "Gelaterie Duomo - Il Paradiso del Gelato, 27, Corso Vittorio Emanuele, Quarto di San Giorgio, Torretta, L'Aquila, Abruzzo, 67100, Italia"
-            ],
-            "coord": [
-                [
-                    42.3495693,
-                    13.3994653
-                ]
-            ],
-            "website": "http://gelaterieduomo.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Emilio",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/emilio-2/",
-            "address": [
-                "Emilio, Via Largo Immacolata, Porto di Maratea, Maratea, Potenza, Basilicata, 85046, Italia"
-            ],
-            "coord": [
-                [
-                    39.9896028,
-                    15.7080106
-                ]
-            ],
-            "website": "http://emiliomaratea.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Officine del gusto",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/officine-del-gusto/",
-            "address": [
-                "Via Guglielmo Marconi, 19, 85010 Pignola PZ, Italy"
-            ],
-            "coord": [
-                [
-                    40.574003,
-                    15.7846883
-                ]
-            ],
-            "website": "http://lab-officinedelgusto.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Gelato  Cesare",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/gelato-cesare/",
-            "address": [
-                "Piazza Indipendenza, 2, 89121 Reggio di Calabria RC, Italy"
-            ],
-            "coord": [
-                [
-                    38.1142983,
-                    15.6502138
-                ]
-            ],
-            "website": "http://gelatocesare.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Di Matteo",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/di-matteo/",
-            "address": [
-                "84076 Torchiara, SA, Italy"
-            ],
-            "coord": [
-                [
-                    40.32175910000001,
-                    15.0538968
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Cremeria Gabriele",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/cremeria-gabriele/",
-            "address": [
-                "Corso Umberto I°, 8, 80069 Vico Equense NA, Italy"
-            ],
-            "coord": [
-                [
-                    40.6620194,
-                    14.4260993
-                ]
-            ],
-            "website": "http://gabrieleitalia.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Cremeria Santo Stefano",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/cremeria-santo-stefano/",
-            "address": [
-                "Cremeria Santo Stefano, Via Remorsella, Galvani, Santo Stefano, Bologna, Emilia-Romagna, 40125, Italia"
-            ],
-            "coord": [
-                [
-                    44.4880779,
-                    11.3522995
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
             "emoji": "🍦",
             "position": null,
             "name": "Stefino",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/stefino/",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/stefino",
             "address": [
-                "Stefino, 3, Via Luigi Serra, Bolognina, Navile, Bologna, Emilia-Romagna, 40129, Italia"
+                "via L. Serra, 3, Bologna (BO)"
             ],
             "coord": [
                 [
-                    44.5089657,
-                    11.3457401
-                ]
-            ],
-            "website": "http://stefino.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Cremeria Scirocco",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/cremeria-scirocco/",
-            "address": [
-                "Cremeria Scirocco, 1, Via Agostino Barelli, Croce del Biacco, San Donato-San Vitale, Bologna, Emilia-Romagna, 40138, Italia"
-            ],
-            "coord": [
-                [
-                    44.4952509,
-                    11.401037
-                ]
-            ],
-            "website": "http://cremeriascirocco.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Magritte - Gelati al cubo",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/magritte-gelati-al-cubo/",
-            "address": [
-                "Via Cavour, 72, 43036 Fidenza PR, Italy"
-            ],
-            "coord": [
-                [
-                    44.86710679999999,
-                    10.0589863
+                    44.4940877,
+                    11.3524531
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Bloom",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/bloom/",
-            "address": [
-                "Bloom, 16/a, Via Taglio, Quartiere Albareto, Centro Storico, Modena, Emilia-Romagna, 41121, Italia"
-            ],
-            "coord": [
-                [
-                    44.6479903,
-                    10.927344
-                ]
-            ],
-            "website": "http://bloomgelateria.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Ciacco",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/ciacco/",
-            "address": [
-                "Ciacco, Piazza della Steccata, Parma Centro, Parma, Emilia-Romagna, 43121, Italia"
-            ],
-            "coord": [
-                [
-                    44.8020907,
-                    10.3277062
-                ]
-            ],
-            "website": "http://ciaccolab.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Cremeria Capolinea",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/cremeria-capolinea/",
-            "address": [
-                "Cremeria Capolinea, Viale Ettore Simonazzi, Santa Teresa esterna-Strada Alta, Reggio Emilia, Reggio nell'Emilia, Emilia-Romagna, 42121, Italia"
-            ],
-            "coord": [
-                [
-                    44.6912273,
-                    10.6332432
-                ]
-            ],
-            "website": "http://cremeriacapolinea.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
             "emoji": "🍦",
             "position": null,
             "name": "Sanelli",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/sanelli/",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/sanelli",
             "address": [
-                "Molino Sanelli, San Vittore, Salsomaggiore Terme, Parma, Emilia-Romagna, Italia"
+                "p.zza del Popolo, 2/1, Salsomaggiore Terme (PR)"
             ],
             "coord": [
                 [
-                    44.7566771,
-                    9.9907012
+                    44.81391,
+                    9.98258
                 ]
             ],
             "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Il Teatro del Gelato",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/il-teatro-del-gelato/",
-            "address": [
-                "Il teatro del gelato, 2, Piazza Guglielmo Marconi, Sant'Agostino, Terre del Reno, Unione Alto Ferrarese, Ferrara, Emilia-Romagna, 44047, Italia"
-            ],
-            "coord": [
-                [
-                    44.7914638,
-                    11.3872699
-                ]
-            ],
-            "website": "http://ilteatrodelgelato.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Timballo",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/timballo/",
-            "address": [
-                "Timballo, 53, Via Cividale, Borgo Pracchiuso, Udine, Friuli-Venezia Giulia, 33100, Italia"
-            ],
-            "coord": [
-                [
-                    46.0692337,
-                    13.2482042
-                ]
-            ],
-            "website": "http://gelateriatimballo.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Tonka",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/tonka/",
-            "address": [
-                "04011 Aprilia, Province of Latina, Italy"
-            ],
-            "coord": [
-                [
-                    41.5944018,
-                    12.6560314
-                ]
-            ],
-            "website": "http://tonkagelatoecioccolato.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Gretel Factory",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/gretel-factory/",
-            "address": [
-                "Via Abate Tosti, 51, 04023 Formia LT, Italy"
-            ],
-            "coord": [
-                [
-                    41.2587445,
-                    13.6131979
-                ]
-            ],
-            "website": "http://gretelfactory.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Greed Avidi di Gelato",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/greed-avidi-di-gelato/",
-            "address": [
-                "Greed avidi di gelato, 28, Via Cernaia, Frascati, Roma Capitale, Lazio, 00044, Italia"
-            ],
-            "coord": [
-                [
-                    41.8091205,
-                    12.6803606
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Torcè",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/torce-2/",
-            "address": [
-                "Claudio Torce, 59, Viale Aventino, San Saba, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia"
-            ],
-            "coord": [
-                [
-                    41.8814286,
-                    12.4857935
-                ]
-            ],
-            "website": "http://gelateriatorce.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Otaleg!",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/otaleg/",
-            "address": [
-                "Otaleg, 70, Viale dei Quattro Venti, Monteverde, Municipio Roma XII, Roma, Roma Capitale, Lazio, 00152, Italia"
-            ],
-            "coord": [
-                [
-                    41.883012,
-                    12.4585373
-                ]
-            ],
-            "website": "http://otaleg.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Fatamorgana",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/fatamorgana/",
-            "address": [
-                "Fatamorgana, 10, Via Laurina, Campo Marzio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia"
-            ],
-            "coord": [
-                [
-                    41.9088196,
-                    12.4779879
-                ]
-            ],
-            "website": "http://www.gelateriafatamorgana.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Fiordiluna di Eugenio Morrone",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/fiordiluna-di-eugenio-morrone/",
-            "address": [
-                "Via della Lungaretta, 96, 00153 Roma RM, Italy"
-            ],
-            "coord": [
-                [
-                    41.889627,
-                    12.472587
-                ]
-            ],
-            "website": "http://www.fiordiluna.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "La Gourmandise",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/la-gourmandise/",
-            "address": [
-                "Via Felice Cavallotti, 36b, 00152 Roma RM, Italy"
-            ],
-            "coord": [
-                [
-                    41.878961,
-                    12.4622543
-                ]
-            ],
-            "website": "http://lagourmandise.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Cremeria Spinola",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/cremeria-spinola/",
-            "address": [
-                "Cremeria Spinola, Corso Dante, Chiavari, Genova, Liguria, 16043, Italia"
-            ],
-            "coord": [
-                [
-                    44.3156929,
-                    9.3293378
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Profumo",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/profumo/",
-            "address": [
-                "Via F. Profumo, San Cipriano, Serra Riccò, Genova, Liguria, 16010, Italia"
-            ],
-            "coord": [
-                [
-                    44.4966193,
-                    8.9129881
-                ]
-            ],
-            "website": "http://villa1827.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "La Pasqualina",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/la-pasqualina/",
-            "address": [
-                "La Pasqualina, Via Cascina Zanchi, Almenno San Bartolomeo, Bergamo, Lombardia, 24030, Italia"
-            ],
-            "coord": [
-                [
-                    45.7380599,
-                    9.5817225
-                ]
-            ],
-            "website": "http://lapasqualina.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Il Dolce Sogno",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/il-dolce-sogno/",
-            "address": [
-                "Viale Vittorio Alfieri, 28, 21052 Busto Arsizio VA, Italy"
-            ],
-            "coord": [
-                [
-                    45.6045628,
-                    8.8611182
-                ]
-            ],
-            "website": "http://gelateriaildolcesogno.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Oasi American Bar",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/oasi-american-bar/",
-            "address": [
-                "Via Treviglio, 3461, 24045 Fara Gera d'Adda BG, Italy"
-            ],
-            "coord": [
-                [
-                    45.541584,
-                    9.555707
-                ]
-            ],
-            "website": "http://gelateria-oasi.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Ciacco",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/ciacco-2/",
-            "address": [
-                "Ciacco, 13n01, Via Spadari, Cerchia dei Navigli, Municipio 1, Milano, Lombardia, 20122, Italia"
-            ],
-            "coord": [
-                [
-                    45.4636859,
-                    9.1868344
-                ]
-            ],
-            "website": "http://ciaccolab.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Pavé - Gelati & Granite",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/pave-gelati-granite/",
-            "address": [
-                "Pave - Gelati & Granite, Via Cesare Battisti, Guastalla, Municipio 1, Milano, Lombardia, 20122, Italia"
-            ],
-            "coord": [
-                [
-                    45.462896,
-                    9.2005335
-                ]
-            ],
-            "website": "http://pavemilano.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Lo Gnomo Gelato",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/lo-gnomo-gelato/",
-            "address": [
-                "Lo Gnomo Gelato, 3, Via Francesco Cherubini, Pagano, Municipio 7, Milano, Lombardia, 20145, Italia"
-            ],
-            "coord": [
-                [
-                    45.4671542,
-                    9.159181
-                ]
-            ],
-            "website": "http://lognomogelato.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Artico",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/artico/",
-            "address": [
-                "Artico, 15, Via Luigi Porro Lambertenghi, Isola, Municipio 9, Milano, Lombardia, 20159, Italia"
-            ],
-            "coord": [
-                [
-                    45.4892459,
-                    9.1866988
-                ]
-            ],
-            "website": "http://gruppoartico.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Terra Gelato",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/terra-gelato/",
-            "address": [
-                "Terra Gelato, Piazza Diocleziano, Sarpi, Ghisolfa, Municipio 8 di Milano, Milano, Lombardia, 20155, Italia"
-            ],
-            "coord": [
-                [
-                    45.4872645,
-                    9.1659791
-                ]
-            ],
-            "website": "http://terragelato.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Crema",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/crema/",
-            "address": [
-                "Crema, 29, Via Giovanni da Procida, Portello, Tre Torri, Municipio 8 di Milano, Milano, Lombardia, 20145, Italia"
-            ],
-            "coord": [
-                [
-                    45.4808082,
-                    9.1605488
-                ]
-            ],
-            "website": "http://gelatocrema.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Chantilly",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/chantilly-3/",
-            "address": [
-                "Via dell'Artigianato, 22/c, 46024 Moglia MN, Italy"
-            ],
-            "coord": [
-                [
-                    44.9409814,
-                    10.9187915
-                ]
-            ],
-            "website": "http://chantillymoglia.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "L' Albero dei gelati",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/l-albero-dei-gelati/",
-            "address": [
-                "L'Albero dei Gelati, 1, Via Giuseppe Sirtori, San Gottardo, San Biagio, Monza, Monza e della Brianza, Lombardia, 20900, Italia"
-            ],
-            "coord": [
-                [
-                    45.58923,
-                    9.261815
-                ]
-            ],
-            "website": "http://alberodeigelati.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Sir Oliver",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/sir-oliver/",
-            "address": [
-                "Sir Oliver, Via Giuseppe Garibaldi, Novate Milanese, Milano, Lombardia, 20026, Italia"
-            ],
-            "coord": [
-                [
-                    45.5330108,
-                    9.1377379
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Pallini",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/pallini/",
-            "address": [
-                "Pallini, 70, Via Giuseppe Garibaldi, Santa Valeria, Seregno, Monza e della Brianza, Lombardia, 20831, Italia"
-            ],
-            "coord": [
-                [
-                    45.6511827,
-                    9.2019953
-                ]
-            ],
-            "website": "http://pallinigelaterie.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "VeroLatte",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/verolatte/",
-            "address": [
-                "Via XX Settembre, 1, 27029 Vigevano PV, Italy"
-            ],
-            "coord": [
-                [
-                    45.3168401,
-                    8.8586749
-                ]
-            ],
-            "website": "http://verolatte.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Gelateria Quattrini",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/gelateria-quattrini/",
-            "address": [
-                "Piazza Giuseppe Mazzini, 8, 60015 Falconara Marittima AN, Italy"
-            ],
-            "coord": [
-                [
-                    43.6298425,
-                    13.3963656
-                ]
-            ],
-            "website": "http://gelateriailpinguinoquattrini.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Paolo Brunelli",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/paolo-brunelli/",
-            "address": [
-                "Paolo Brunelli, 7, Via Giosuè Carducci, Rione Porto, Senigallia, Ancona, Marche, 60019, Italia"
-            ],
-            "coord": [
-                [
-                    43.7164271,
-                    13.2173507
-                ]
-            ],
-            "website": "http://paolobrunelli.me"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Canelin",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/canelin/",
-            "address": [
-                "\"Canelin\" di Verdese Giovanni, 53, Via Acqui, Casa Bagnoli, Visone, Alessandria, Piemonte, 15010, Italia"
-            ],
-            "coord": [
-                [
-                    44.6624197,
-                    8.5027089
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Marco Serra Gelatiere",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/marco-serra-gelatiere/",
-            "address": [
-                "Marco Serra Gelatiere, 8, Via Trento, Carignano, Torino, Piemonte, 10041, Italia"
-            ],
-            "coord": [
-                [
-                    44.9069369,
-                    7.6744643
-                ]
-            ],
-            "website": "http://marcoserragelatiere.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Mara dei Boschi",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/mara-dei-boschi-3/",
-            "address": [
-                "Mara dei Boschi, 21, Piazza Carlo Emanuele Secondo, Borgo Nuovo, Circoscrizione 1, Torino, Piemonte, 10123, Italia"
-            ],
-            "coord": [
-                [
-                    45.0668444,
-                    7.6884301
-                ]
-            ],
-            "website": "http://maradeiboschi.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Alberto Marchetti",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/alberto-marchetti-2/",
-            "address": [
-                "Alberto Marchetti, 18, Via Cernaia, Quadrilatero Romano, Circoscrizione 1, Torino, Piemonte, 10121, Italia"
-            ],
-            "coord": [
-                [
-                    45.0715505,
-                    7.6746261
-                ]
-            ],
-            "website": "http://albertomarchetti.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Nivà",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/niva/",
-            "address": [
-                "Cremeria Nivà, Via Giuseppe Luigi Lagrange, Centro, Circoscrizione 1, Torino, Piemonte, 10123, Italia"
-            ],
-            "coord": [
-                [
-                    45.0650131,
-                    7.6821834
-                ]
-            ],
-            "website": "http://nivagelato.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Ottimo! Buono non basta",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/ottimo-buono-non-basta/",
-            "address": [
-                "Piazza Francesco Borromini, 86/F, 10132 Torino TO, Italy"
-            ],
-            "coord": [
-                [
-                    45.0673499,
-                    7.7111738
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "La Tosca",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/la-tosca/",
-            "address": [
-                "La Tosca, 50, Via Luigi Cibrario, San Donato, Circoscrizione 4, Torino, Piemonte, 10144, Italia"
-            ],
-            "coord": [
-                [
-                    45.0802254,
-                    7.6596664
-                ]
-            ],
-            "website": "http://gelaterialatosca.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Gelati d'Antan",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/gelati-dantan/",
-            "address": [
-                "Via Nicola Fabrizi, 37, C, 10143 Torino TO, Italy"
-            ],
-            "coord": [
-                [
-                    45.0803124,
-                    7.6494836
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Aria",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/aria-2/",
-            "address": [
-                "Aria, 32, Via Santa Giulia, Vanchiglia, Circoscrizione 7, Torino, Piemonte, 10124, Italia"
-            ],
-            "coord": [
-                [
-                    45.0708909,
-                    7.696668
-                ]
-            ],
-            "website": null
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Soban",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/soban/",
-            "address": [
-                "Piazza Antonio Gramsci, 23, 15048 Valenza AL, Italy"
-            ],
-            "coord": [
-                [
-                    45.011314,
-                    8.6431632
-                ]
-            ],
-            "website": "http://gelateriasoban.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Michel",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/michel/",
-            "address": [
-                "71010 Peschici, Province of Foggia, Italy"
-            ],
-            "coord": [
-                [
-                    41.9460407,
-                    16.0138095
-                ]
-            ],
-            "website": "http://gelateriamichel.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "G&co",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/gco/",
-            "address": [
-                "G. & Co., 3, Via Marina Porto, Tricase, Lecce, Puglia, 73039, Italia"
-            ],
-            "coord": [
-                [
-                    39.9313222,
-                    18.3617371
-                ]
-            ],
-            "website": "http://gelateriageco.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "I Fenu Gelateria e Pasticceria",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/i-fenu-gelateria-e-pasticceria/",
-            "address": [
-                "Piazza Galileo Galilei, 35, 09128 Cagliari CA, Italy"
-            ],
-            "coord": [
-                [
-                    39.2201583,
-                    9.1226103
-                ]
-            ],
-            "website": "http://ifenu.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Dolci Sfizi",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/dolci-sfizi/",
-            "address": [
-                "Viale P. Nenni, 5, 08015 Macomer NU, Italy"
-            ],
-            "coord": [
-                [
-                    40.2652535,
-                    8.7720032
-                ]
-            ],
-            "website": "http://nicolovellino.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Sikè Gelato",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/sike-gelato/",
-            "address": [
-                "Sikè, Via Francesco Crispi, Milazzo, Messina, Sicilia, 98057, Italia"
-            ],
-            "coord": [
-                [
-                    38.2222004,
-                    15.2429858
-                ]
-            ],
-            "website": "http://sikegelato.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Cappadonia Gelati",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/cappadonia-gelati/",
-            "address": [
-                "Cappadonia Gelati, Via Montevergini, Albergheria, I Circoscrizione, Palermo, Sicilia, 90134, Italia"
-            ],
-            "coord": [
-                [
-                    38.1147367,
-                    13.3589642
-                ]
-            ],
-            "website": "http://cappadonia.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Santo Musumeci",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/santo-musumeci/",
-            "address": [
-                "Santo Musumeci, Via Marino, Quartiere Santa Maria, Randazzo, Catania, Sicilia, 95036, Italia"
-            ],
-            "coord": [
-                [
-                    37.8789809,
-                    14.9485938
-                ]
-            ],
-            "website": "http://santomusumeci.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "I Gelati del Bondi",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/i-gelati-del-bondi/",
-            "address": [
-                "I gelati del Bondi, 61-63R, Via Faenza, Quartiere 1, Firenze, Toscana, 50100, Italia"
-            ],
-            "coord": [
-                [
-                    43.7769677,
-                    11.2515974
-                ]
-            ],
-            "website": "http://igelatidelbondi.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Gelateria della Passera",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/gelateria-della-passera/",
-            "address": [
-                "Gelateria della Passera, 15 R, Via Toscanella, Oltrarno, Quartiere 1, Firenze, Toscana, 50125, Italia"
-            ],
-            "coord": [
-                [
-                    43.7671815,
-                    11.2506436
-                ]
-            ],
-            "website": "http://gelateriadellapassera.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "Chiccheria",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/chiccheria/",
-            "address": [
-                "Via Piave, 14, 58100 Marina di Grosseto GR, Italy"
-            ],
-            "coord": [
-                [
-                    42.7159878,
-                    10.9841066
-                ]
-            ],
-            "website": "http://chiccheria.com"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
-            "emoji": "🍦",
-            "position": null,
-            "name": "De’ Coltelli",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/de%c2%92-coltelli/",
-            "address": [
-                "Gelateria De' Coltelli, 23, Lungarno Antonio Pacinotti, Santa Maria, San Francesco, Pisa, Toscana, 56126, Italia"
-            ],
-            "coord": [
-                [
-                    43.7166647,
-                    10.4005428
-                ]
-            ],
-            "website": "http://decoltelli.it"
-        },
-        {
-            "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
             "emoji": "🍦",
             "position": null,
             "name": "Gelateria Dondoli",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/gelateria-dondoli/",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/gelateria-dondoli",
             "address": [
-                "Gelateria Dondoli, 4, Via Arco dei Becci e Cugnanesi, Centro storico di San Gimignano, Santa Chiara, San Gimignano, Siena, Toscana, 53037, Italia"
+                "p.zza della Cisterna, 4, San Gimignano (SI)"
             ],
             "coord": [
                 [
-                    43.4673269,
-                    11.0433313
+                    43.4673888,
+                    11.043306
                 ]
             ],
-            "website": "http://gelateriadondoli.com"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Timballo",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/timballo",
+            "address": [
+                "via Cividale, 53, Udine (UD)"
+            ],
+            "coord": [
+                [
+                    46.0692056,
+                    13.2482478
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Gelateria Crivella",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/gelateria-crivella",
+            "address": [
+                "c.so Italia, 54, Sapri (SA)"
+            ],
+            "coord": [
+                [
+                    40.0730404,
+                    15.629602
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Cremeria Gabriele",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/cremeria-gabriele",
+            "address": [
+                "c.so Umberto I, 8, Vico Equense (NA)"
+            ],
+            "coord": [
+                [
+                    40.6621526,
+                    14.4260643
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Pasticceria Marisa",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/caffebar/pasticceria-marisa",
+            "address": [
+                "via Roma, 422, San Giorgio delle Pertiche (PD)"
+            ],
+            "coord": [
+                [
+                    45.540688,
+                    11.8752002
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Zeno Gelato e Cioccolato",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/zeno-gelato-e-cioccolato",
+            "address": [
+                "via Sant'Alessio, 6, Verona (VR)"
+            ],
+            "coord": [
+                [
+                    45.441928,
+                    10.9777538
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Cremeria Scirocco",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/cremeria-scirocco",
+            "address": [
+                "via Barelli, 1c, Bologna (BO)"
+            ],
+            "coord": [
+                [
+                    44.4952989,
+                    11.4010207
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Golosi di Natura",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/golosi-di-natura",
+            "address": [
+                "via Roma, 22, Piazzola sul Brenta (PD)"
+            ],
+            "coord": [
+                [
+                    45.57875,
+                    11.7081952
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Gelateria De' Coltelli",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/gelateria-de%c2%92-coltelli",
+            "address": [
+                "l. Arno Pacinotti, 23, Pisa (PI)"
+            ],
+            "coord": [
+                [
+                    43.716666,
+                    10.4005621
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "La Gourmandise",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/la-gourmandise",
+            "address": [
+                "via F. Cavallotti, 36/B, Roma (RM)"
+            ],
+            "coord": [
+                [
+                    41.8789034,
+                    12.4621855
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "La Pasqualina",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/pasticceria/la-pasqualina",
+            "address": [
+                "via Papa Giovanni XXIII, 39, Almenno San Bartolomeo (BG)"
+            ],
+            "coord": [
+                [
+                    45.73794,
+                    9.58157
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Pallini",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/pallini",
+            "address": [
+                "via G. Garibaldi, 70, Seregno (MB)"
+            ],
+            "coord": [
+                [
+                    45.6511924,
+                    9.2019204
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Sir Oliver",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/sir-oliver",
+            "address": [
+                "via G. Garibaldi, 31, Novate Milanese (MI)"
+            ],
+            "coord": [
+                [
+                    45.533011,
+                    9.1379179
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Artico",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/artico",
+            "address": [
+                "via L. Porro Lambertenghi, 15, Milano (MI)"
+            ],
+            "coord": [
+                [
+                    45.4892475,
+                    9.1867722
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Chantilly",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/chantilly",
+            "address": [
+                "via dell'Artigianato, 22c, Moglia (MN)"
+            ],
+            "coord": [
+                [
+                    44.9406772,
+                    10.9188673
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "L' Albero dei gelati",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/l-albero-dei-gelati",
+            "address": [
+                "via G. Sirtori, 1, Monza (MB)"
+            ],
+            "coord": [
+                [
+                    45.5893361,
+                    9.2617991
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Ottimo! Buono non basta",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/ottimo-buono-non-basta",
+            "address": [
+                "c.so Stati Uniti, 6c, Torino (TO)"
+            ],
+            "coord": [
+                [
+                    45.06136,
+                    7.67521
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Bloom",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/bloom",
+            "address": [
+                "p.zza Mazzini, 42, Modena (MO)"
+            ],
+            "coord": [
+                [
+                    44.6463644,
+                    10.9275647
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Profumo",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/profumo",
+            "address": [
+                "vico Superiore del Ferro, 14, Genova (GE)"
+            ],
+            "coord": [
+                [
+                    44.4101465,
+                    8.9340413
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Cremeria Capolinea",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/cremeria-capolinea",
+            "address": [
+                "v.le E. Simonazzi, 14, Reggio Emilia (RE)"
+            ],
+            "coord": [
+                [
+                    44.6910241,
+                    10.6331865
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Ciacco",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/ciacco-2",
+            "address": [
+                "via Spadari, 13, Milano (MI)"
+            ],
+            "coord": [
+                [
+                    45.46382,
+                    9.18665
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Pavé - Gelati & Granite",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/pave-gelati-granite",
+            "address": [
+                "via C. Battisti, 21, Milano (MI)"
+            ],
+            "coord": [
+                [
+                    45.4628224,
+                    9.2006112
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Mille",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/mille",
+            "address": [
+                "p.zza Libertà, 30, Verolanuova (BS)"
+            ],
+            "coord": [
+                [
+                    45.32578,
+                    10.07541
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Soban",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/soban",
+            "address": [
+                "p.zza A. Gramsci, 23, Valenza (AL)"
+            ],
+            "coord": [
+                [
+                    45.0112831,
+                    8.6431468
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Cremeria Spinola",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/cremeria-spinola",
+            "address": [
+                "c.so Valparaiso, 118, Chiavari (GE)"
+            ],
+            "coord": [
+                [
+                    44.317461,
+                    9.3150549
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "La Tosca",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/la-tosca",
+            "address": [
+                "via L. Cibrario, 50, Torino (TO)"
+            ],
+            "coord": [
+                [
+                    45.0802711,
+                    7.6597136
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Gelateria della Passera",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/gelateria-della-passera",
+            "address": [
+                "via Toscanella, 15r, Firenze (FI)"
+            ],
+            "coord": [
+                [
+                    43.76956,
+                    11.25581
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Gretel Factory",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/gretel-factory",
+            "address": [
+                "via Abate Tosti, 51, Formia (LT)"
+            ],
+            "coord": [
+                [
+                    41.2589103,
+                    13.6130681
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Tonka",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/tonka",
+            "address": [
+                "via U. Foscolo, 15, Aprilia (LT)"
+            ],
+            "coord": [
+                [
+                    41.5998336,
+                    12.652095
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Gelati d'Antan",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/gelati-dantan",
+            "address": [
+                "via N. Fabrizi, 37c, Torino (TO)"
+            ],
+            "coord": [
+                [
+                    45.0803339,
+                    7.6494519
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Paolo Brunelli",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/paolo-brunelli",
+            "address": [
+                "via G. Carducci, 7, Senigallia (AN)"
+            ],
+            "coord": [
+                [
+                    43.7165279,
+                    13.217497
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Cremeria Santo Stefano",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/cremeria-santo-stefano",
+            "address": [
+                "via Santo Stefano, 70, Bologna (BO)"
+            ],
+            "coord": [
+                [
+                    44.48816,
+                    11.35225
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Dolci Sfizi",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/dolci-sfizi",
+            "address": [
+                "via P. Nenni, 5, Macomer (NU)"
+            ],
+            "coord": [
+                [
+                    40.2652829,
+                    8.77214
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
             "emoji": "🍦",
             "position": null,
             "name": "Gelateria Naturale Scaldaferro",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/gelateria-naturale-scaldaferro/",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/gelateria-naturale-scaldaferro",
             "address": [
-                "Via Cà Tron, 33, 30031 Dolo VE, Italy"
+                "via Ca' Tron, 33, Dolo (VE)"
             ],
             "coord": [
                 [
@@ -1168,97 +646,745 @@
                     12.0930981
                 ]
             ],
-            "website": "http://scaldaferro.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
             "emoji": "🍦",
             "position": null,
-            "name": "Golosi di Natura",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/golosi-di-natura/",
+            "name": "Emilio",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/emilio",
             "address": [
-                "Golosi di Natura, Via Vittorio Emanuele, Grossa, Gazzo, Padova, Veneto, 36043, Italia"
+                "via Racia, 12, Maratea (PZ)"
             ],
             "coord": [
                 [
-                    45.5806335,
-                    11.7074751
+                    39.989306,
+                    15.707078
                 ]
             ],
-            "website": "http://golosidinatura.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Il Teatro del Gelato",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/il-teatro-del-gelato",
+            "address": [
+                "p.zza S. Pertini, 2, Sant'Agostino (FE)"
+            ],
+            "coord": [
+                [
+                    44.791615,
+                    11.387048
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
             "emoji": "🍦",
             "position": null,
             "name": "Chocolat",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/chocolat-4/",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/chocolat",
             "address": [
-                "Chocolat, Corso del Popolo, Mestre-Carpenedo, Mestre, Venezia, Veneto, 30170, Italia"
+                "via G. Allegri, 27, Mestre (VE)"
             ],
             "coord": [
                 [
-                    45.4850071,
-                    12.2416267
+                    45.4928856,
+                    12.2424469
                 ]
             ],
-            "website": "http://gelateriachocolat.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
             "emoji": "🍦",
             "position": null,
-            "name": "Pasticceria Marisa",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/pasticceria-marisa/",
+            "name": "Torcè",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/torce",
             "address": [
-                "Pasticceria Marisa, 422, Via Roma, Arsego, San Giorgio delle Pertiche, Padova, Veneto, 35010, Italia"
+                "v.le dell'Arte, 9/A, Roma (RM)"
             ],
             "coord": [
                 [
-                    45.5409538,
-                    11.874864
+                    41.82638,
+                    12.47735
                 ]
             ],
-            "website": "http://pasticceriamarisa.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
             "emoji": "🍦",
             "position": null,
-            "name": "Dassie - Vero Gelato Artigiano",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/dassie-vero-gelato-artigiano/",
+            "name": "Il Dolce Sogno",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/il-dolce-sogno",
             "address": [
-                "Via Sant'Agostino, 42, 31010 Treviso TV, Italy"
+                "v.le V. Alfieri, 28, Busto Arsizio (VA)"
             ],
             "coord": [
                 [
-                    45.6675026,
-                    12.2504573
+                    45.6045628,
+                    8.8611182
                 ]
             ],
-            "website": "http://stefanodassie.it"
+            "website": null
         },
         {
             "ranking": "Gambero Rosso",
-            "sub-ranking": "Tre Coni Gambero Rosso 2024",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
             "emoji": "🍦",
             "position": null,
-            "name": "Zeno Gelato e Cioccolato",
-            "ref": "https://www.gamberorosso.it/ristoranti/scheda-negozio/zeno-gelato-e-cioccolato/",
+            "name": "Liparoti",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/liparoti",
             "address": [
-                "Via Sant'Alessio, 6, 37129 Verona VR, Italy"
+                "v.le delle Sirene, 21, Trapani (TP)"
             ],
             "coord": [
                 [
-                    45.4490461,
-                    10.9989787
+                    38.0175367,
+                    12.5005308
                 ]
             ],
-            "website": "http://zenoverona.it"
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Casa Marchetti",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/casa-marchetti",
+            "address": [
+                "p.zza C.L.N., 248, Torino (TO)"
+            ],
+            "coord": [
+                [
+                    45.0665686,
+                    7.6815788
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Nivà",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/niva",
+            "address": [
+                "p.zza Vittorio Veneto, 8, Torino (TO)"
+            ],
+            "coord": [
+                [
+                    45.064916,
+                    7.6821466
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Marco Serra Gelatiere",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/marco-serra-gelatiere",
+            "address": [
+                "via Trento, 8, Carignano (TO)"
+            ],
+            "coord": [
+                [
+                    44.9061525,
+                    7.674348
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Michel",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/michel",
+            "address": [
+                "p.zza del Popolo, 5, Peschici (FG)"
+            ],
+            "coord": [
+                [
+                    41.948509,
+                    16.013076
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Gelati  Crispini",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/gelati-crispini",
+            "address": [
+                "v.le Trento e Trieste, 29, Spoleto (PG)"
+            ],
+            "coord": [
+                [
+                    42.74173,
+                    12.7381
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Santo Musumeci",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/pasticceria/santo-musumeci",
+            "address": [
+                "p.zza Santa Maria, 9, Randazzo (CT)"
+            ],
+            "coord": [
+                [
+                    37.8788643,
+                    14.9488956
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Gelaterie Duomo - Il Paradiso del Gelato",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/gelaterie-duomo-il-paradiso-del-gelato",
+            "address": [
+                "p.zza Duomo, 32, L'Aquila (AQ)"
+            ],
+            "coord": [
+                [
+                    42.34871,
+                    13.39803
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Gelato  Cesare",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/gelato-cesare",
+            "address": [
+                "p.zza Indipendenza, 2, Reggio Calabria (RC)"
+            ],
+            "coord": [
+                [
+                    38.1142957,
+                    15.6501786
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Gnomo Gelato",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/gnomo-gelato",
+            "address": [
+                "via F. Cherubini, 3, Milano (MI)"
+            ],
+            "coord": [
+                [
+                    45.4671103,
+                    9.1592037
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "G&co",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/gco",
+            "address": [
+                "via Marina Porto, 3, Tricase (LE)"
+            ],
+            "coord": [
+                [
+                    39.9313396,
+                    18.3617512
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Cappadonia Gelati",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/cappadonia-gelati",
+            "address": [
+                "via Vittorio Emanuele, 401, Palermo (PA)"
+            ],
+            "coord": [
+                [
+                    38.1147087,
+                    13.359041
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Sikè Gelato",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/sike-gelato",
+            "address": [
+                "via F. Crispi, 81, Milazzo (ME)"
+            ],
+            "coord": [
+                [
+                    38.2221717,
+                    15.2429334
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "I Fenu Gelateria e Pasticceria",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/i-fenu-gelateria-e-pasticceria",
+            "address": [
+                "p.zza G. Galilei, 35, Cagliari (CA)"
+            ],
+            "coord": [
+                [
+                    39.2202834,
+                    9.122577
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Terra Gelato",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/terra-gelato",
+            "address": [
+                "via Vitruvio, 38, Milano (MI)"
+            ],
+            "coord": [
+                [
+                    45.48272,
+                    9.20646
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Maritozzi e Gelato di Barbara e Renato",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/maritozzi-e-gelato-di-barbara-e-renato",
+            "address": [
+                "p.zza San Francesco, 1b, Bologna (BO)"
+            ],
+            "coord": [
+                [
+                    44.49467,
+                    11.33442
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Gelatina",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/gelatina",
+            "address": [
+                "via Garibaldi, 20r, Genova (GE)"
+            ],
+            "coord": [
+                [
+                    44.411376,
+                    8.9317525
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Gelateria Quattrini",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/gelateria-quattrini",
+            "address": [
+                "p.zza G. Mazzini, 8, Falconara Marittima (AN)"
+            ],
+            "coord": [
+                [
+                    43.6016059,
+                    13.3252829
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Mokambo Gelateria",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/mokambo-gelateria",
+            "address": [
+                "via N. Rosselli, 29, Ruvo di Puglia (BA)"
+            ],
+            "coord": [
+                [
+                    41.118591,
+                    16.483253
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Mara dei Boschi",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/mara-dei-boschi",
+            "address": [
+                "p.zza C. Emanuele II, 21, Torino (TO)"
+            ],
+            "coord": [
+                [
+                    45.05803,
+                    7.684
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Officine del gusto",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/officine-del-gusto",
+            "address": [
+                "via G. Marconi, 21, Pignola (PZ)"
+            ],
+            "coord": [
+                [
+                    40.5740427,
+                    15.7846371
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Magritte - Gelati al cubo",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/magritte-gelati-al-cubo",
+            "address": [
+                "via Cavour, 72, Fidenza (PR)"
+            ],
+            "coord": [
+                [
+                    44.8671068,
+                    10.0589863
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Aria",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/aria",
+            "address": [
+                "via Santa Giulia, 32f, Torino (TO)"
+            ],
+            "coord": [
+                [
+                    45.0708342,
+                    7.6966513
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Gelato Contadino",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/gelato-contadino",
+            "address": [
+                "p.zza Risorgimento, 7, Bergamo (BG)"
+            ],
+            "coord": [
+                [
+                    45.6941649,
+                    9.647325
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Nano Labo",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/nano-labo",
+            "address": [
+                "via Sant'Antonio, 43, Povegliano (TV)"
+            ],
+            "coord": [
+                [
+                    45.7567577,
+                    12.1660763
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Gelateria Naturale Demetra",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/gelateria-naturale-demetra",
+            "address": [
+                "via S. Pertini, 7, Assisi (PG)"
+            ],
+            "coord": [
+                [
+                    43.0615509,
+                    12.5695608
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Gelizioso",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/gelizioso",
+            "address": [
+                "via G. Matteotti, 47, Sarno (SA)"
+            ],
+            "coord": [
+                [
+                    40.8136587,
+                    14.6181486
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Otaleg!",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/otaleg-2",
+            "address": [
+                "v.le dei Quattro Venti, 70, Roma (RM)"
+            ],
+            "coord": [
+                [
+                    41.8830237,
+                    12.4585138
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Stefano Ferrara Formaessenza",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/stefano-ferrara-%c2%96-formaessenza",
+            "address": [
+                "via E. Fermi, 102, Roma (RM)"
+            ],
+            "coord": [
+                [
+                    41.86451,
+                    12.47252
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Il Cannolo Siciliano",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/il-cannolo-siciliano",
+            "address": [
+                "p.zza R. Malatesta, 16b, Roma (RM)"
+            ],
+            "coord": [
+                [
+                    41.88689,
+                    12.54073
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Papalele",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/papalele",
+            "address": [
+                "c.so G. Marconi, 23/A, Torino (TO)"
+            ],
+            "coord": [
+                [
+                    45.0576139,
+                    7.6810921
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Il Giubileo",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/il-giubileo",
+            "address": [
+                "via Carmine, 48, Riccia (CB)"
+            ],
+            "coord": [
+                [
+                    41.4863375,
+                    14.8297169
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "La Cremeria Vitaro",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/la-cremeria-vitaro-2",
+            "address": [
+                "via F. Cilea, 325, Rende (CS)"
+            ],
+            "coord": [
+                [
+                    39.3018361,
+                    16.2519314
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Biancamenta",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/biancamenta",
+            "address": [
+                "c.so G. Matteotti, 256, Porto Recanati (MC)"
+            ],
+            "coord": [
+                [
+                    43.42882,
+                    13.66555
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Di Matteo",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/di-matteo-2",
+            "address": [
+                "p.zza A. Torre, 13, Torchiara (SA)"
+            ],
+            "coord": [
+                [
+                    40.3235079,
+                    15.05184
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Gambero Rosso",
+            "sub-ranking": "Tre Coni Gambero Rosso 2027",
+            "emoji": "🍦",
+            "position": null,
+            "name": "Gelateria da Simone",
+            "ref": "https://www.gamberorosso.it/luoghi/locali/gelateria/gelateria-da-simone",
+            "address": [
+                "p.zza Castello, 53, Noale (VE)"
+            ],
+            "coord": [
+                [
+                    45.51718,
+                    12.18678
+                ]
+            ],
+            "website": null
         },
         {
             "ranking": "Taste Atlas",

@@ -1,0 +1,904 @@
+{
+    "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti": [
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "1°",
+            "name": "Osteria Francescana",
+            "ref": "https://www.50topitaly.it/it/referenza/osteria-francescana-5/",
+            "address": [
+                "Via Stella, 22, 41121 Modena, Modena MO, Italia"
+            ],
+            "coord": [
+                [
+                    44.6448105,
+                    10.9215824
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "2°",
+            "name": "Uliassi",
+            "ref": "https://www.50topitaly.it/it/referenza/uliassi-5/",
+            "address": [
+                "Banchina di Levante, 6, 60019 Senigallia, AN, Italia"
+            ],
+            "coord": [
+                [
+                    43.7194846,
+                    13.2207985
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "3°",
+            "name": "Enoteca Pinchiorri",
+            "ref": "https://www.50topitaly.it/it/referenza/enoteca-pinchiorri-5/",
+            "address": [
+                "Via Ghibellina, 87, 50122 Firenze, Firenze FI, Italia"
+            ],
+            "coord": [
+                [
+                    43.7700104,
+                    11.2621656
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "4°",
+            "name": "Duomo",
+            "ref": "https://www.50topitaly.it/it/referenza/duomo-5/",
+            "address": [
+                "Via Capitano Bocchieri, 97100 Ragusa RG, Italia"
+            ],
+            "coord": [
+                [
+                    36.926708,
+                    14.7410332
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "5°",
+            "name": "Le Calandre",
+            "ref": "https://www.50topitaly.it/it/referenza/le-calandre-5/",
+            "address": [
+                "Via Liguria, 1, 35030 Sarmeola, PD, Italia"
+            ],
+            "coord": [
+                [
+                    45.4216056,
+                    11.8094581
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "6°",
+            "name": "Andrea Aprea",
+            "ref": "https://www.50topitaly.it/it/referenza/andrea-aprea-4/",
+            "address": [
+                "Corso Venezia, 52, 20122 Milano, MI, Italia"
+            ],
+            "coord": [
+                [
+                    45.4733505,
+                    9.2043065
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "7°",
+            "name": "D’O",
+            "ref": "https://www.50topitaly.it/it/referenza/do-5/",
+            "address": [
+                "Piazza della Chiesa, 14, 20007 San Pietro All'olmo, Cornaredo MI, Italia"
+            ],
+            "coord": [
+                [
+                    45.4870421,
+                    9.0118307
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "8°",
+            "name": "Condividere",
+            "ref": "https://www.50topitaly.it/it/referenza/condividere-5/",
+            "address": [
+                "Via Bologna, 20 A, 10152 Torino, TO, Italia"
+            ],
+            "coord": [
+                [
+                    45.0800923,
+                    7.6909529
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "9°",
+            "name": "Daní Maison",
+            "ref": "https://www.50topitaly.it/it/referenza/dani-maison-5/",
+            "address": [
+                "Via Montetignuso, 4, 80077 Ischia, NA, Italia"
+            ],
+            "coord": [
+                [
+                    40.7241506,
+                    13.9496017
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "10°",
+            "name": "Taverna Estia",
+            "ref": "https://www.50topitaly.it/it/referenza/taverna-estia-5/",
+            "address": [
+                "Via Guido De Ruggiero, 108, 80031 Brusciano, NA, Italia"
+            ],
+            "coord": [
+                [
+                    40.9085686,
+                    14.4229403
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "11°",
+            "name": "Piazza Duomo",
+            "ref": "https://www.50topitaly.it/it/referenza/piazza-duomo-5/",
+            "address": [
+                "Piazza Risorgimento, 4, 12051 Alba, CN, Italia"
+            ],
+            "coord": [
+                [
+                    44.7006186,
+                    8.0358792
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "12°",
+            "name": "Atelier Moessmer Norbert Niederkofler",
+            "ref": "https://www.50topitaly.it/it/referenza/atelier-moessmer-norbert-niederkofler-3/",
+            "address": [
+                "Via Walther von der Vogelweide, 17, 39031 Brunico, BZ, Italia"
+            ],
+            "coord": [
+                [
+                    46.7927576,
+                    11.9491298
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "13°",
+            "name": "Madonnina del Pescatore",
+            "ref": "https://www.50topitaly.it/it/referenza/madonnina-del-pescatore-5/",
+            "address": [
+                "Via, Lungomare Italia, 11, 60019 Senigallia AN"
+            ],
+            "coord": [
+                [
+                    43.6815791,
+                    13.2800338
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "14°",
+            "name": "Il Pagliaccio",
+            "ref": "https://www.50topitaly.it/it/referenza/il-pagliaccio-5/",
+            "address": [
+                "Via dei Banchi Vecchi, 129/a, 00186 Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.897889,
+                    12.4674252
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "15°",
+            "name": "Enrico Bartolini al Mudec",
+            "ref": "https://www.50topitaly.it/it/referenza/enrico-bartolini-al-mudec/",
+            "address": [
+                "Via Tortona, 56, 20144 Milano, MI, Italia"
+            ],
+            "coord": [
+                [
+                    45.4515876,
+                    9.1616971
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "16°",
+            "name": "Piazzetta Milù",
+            "ref": "https://www.50topitaly.it/it/referenza/piazzetta-milu-5/",
+            "address": [
+                "Corso Alcide de Gasperi, 23, 80053 Castellammare di Stabia NA"
+            ],
+            "coord": [
+                [
+                    40.7023809,
+                    14.4830987
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "17°",
+            "name": "Casa Perbellini 12 Apostoli",
+            "ref": "https://www.50topitaly.it/it/referenza/casa-perbellini-12-apostoli-3/",
+            "address": [
+                "Vicolo Corticella S. Marco, 3, 37121 Verona, VR, Italia"
+            ],
+            "coord": [
+                [
+                    45.4426523,
+                    10.9961132
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "18°",
+            "name": "Dal Pescatore",
+            "ref": "https://www.50topitaly.it/it/referenza/dal-pescatore-5/",
+            "address": [
+                "Via Runate, 15, 46013 Canneto sull'Oglio, MN, Italia"
+            ],
+            "coord": [
+                [
+                    45.1710623,
+                    10.3576536
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "19°",
+            "name": "Agli Amici",
+            "ref": "https://www.50topitaly.it/it/referenza/agli-amici-5/",
+            "address": [
+                "Via Liguria, 252, 33100 Udine, Udine, Italia"
+            ],
+            "coord": [
+                [
+                    46.102185,
+                    13.2661279
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "20°",
+            "name": "La Peca",
+            "ref": "https://www.50topitaly.it/it/referenza/la-peca-5/",
+            "address": [
+                "Via Alberto Giovanelli, 2, 36045 Lonigo, VI, Italia"
+            ],
+            "coord": [
+                [
+                    45.3849805,
+                    11.3991429
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "21°",
+            "name": "La Madia",
+            "ref": "https://www.50topitaly.it/it/referenza/la-madia-4/",
+            "address": [
+                "Corso Filippo Re Capriata, 22, 92027 Licata, AG, Italia"
+            ],
+            "coord": [
+                [
+                    37.1054699,
+                    13.9349621
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "22°",
+            "name": "Verso",
+            "ref": "https://www.50topitaly.it/it/referenza/verso/",
+            "address": [
+                "Piazza del Duomo, 21, 20121 Milano MI, Italia"
+            ],
+            "coord": [
+                [
+                    45.4646966,
+                    9.1887734
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "23°",
+            "name": "Angelo Sabatelli Ristorante",
+            "ref": "https://www.50topitaly.it/it/referenza/angelo-sabatelli-ristorante-5/",
+            "address": [
+                "Via S. Chiara, 1, 70017 Putignano, BA, Italia"
+            ],
+            "coord": [
+                [
+                    40.8500528,
+                    17.1226182
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "24°",
+            "name": "daGorini",
+            "ref": "https://www.50topitaly.it/it/referenza/dagorini-5/",
+            "address": [
+                "Via Giuseppe Verdi, 5, 47021 San Piero In Bagno, FC, Italia"
+            ],
+            "coord": [
+                [
+                    43.8586712,
+                    11.9745246
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "25°",
+            "name": "Pascucci al Porticciolo",
+            "ref": "https://www.50topitaly.it/it/referenza/pascucci-al-porticciolo-5/",
+            "address": [
+                "Viale Traiano, 85, 00054 Fiumicino RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.7700615,
+                    12.2273378
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "26°",
+            "name": "L’Argine a Vencò",
+            "ref": "https://www.50topitaly.it/it/referenza/largine-a-venco-6/",
+            "address": [
+                "Località Vencò, 34070 Dolegna del Collio, GO, Italia"
+            ],
+            "coord": [
+                [
+                    46.000857,
+                    13.4735298
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "27°",
+            "name": "Qafiz",
+            "ref": "https://www.50topitaly.it/it/referenza/qafiz-5/",
+            "address": [
+                "Località Calabretto, 89056 Santa Cristina D'aspromonte RC"
+            ],
+            "coord": [
+                [
+                    38.2538517,
+                    15.9703351
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "28°",
+            "name": "Lido 84",
+            "ref": "https://www.50topitaly.it/it/referenza/lido-84-5/",
+            "address": [
+                "Corso Giuseppe Zanardelli, 196, 25083 Gardone Riviera BS"
+            ],
+            "coord": [
+                [
+                    45.6251592,
+                    10.5755666
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "29°",
+            "name": "Materia",
+            "ref": "https://www.50topitaly.it/it/referenza/materia-6/",
+            "address": [
+                "Via Trieste, 1/B, 22012 Cernobbio CO"
+            ],
+            "coord": [
+                [
+                    45.83844,
+                    9.0682511
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "30°",
+            "name": "Dalla Gioconda",
+            "ref": "https://www.50topitaly.it/it/referenza/dalla-gioconda-5/",
+            "address": [
+                "Via dell'Orizzonte, 2, 61011 Gabicce Monte, PU, Italia"
+            ],
+            "coord": [
+                [
+                    43.96385,
+                    12.7727345
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "31°",
+            "name": "Zia",
+            "ref": "https://www.50topitaly.it/it/referenza/zia/",
+            "address": [
+                "Via Goffredo Mameli, 45, 00153 Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.8870004,
+                    12.4681516
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "32°",
+            "name": "La Tana Gourmet",
+            "ref": "https://www.50topitaly.it/it/referenza/la-tana-gourmet-5/",
+            "address": [
+                "Via Kaberlaba, 19, 36012 Asiago VI, Italia"
+            ],
+            "coord": [
+                [
+                    45.8530206,
+                    11.4952863
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "33°",
+            "name": "Antica Osteria Cera",
+            "ref": "https://www.50topitaly.it/it/referenza/antica-osteria-cera-5/",
+            "address": [
+                "Via Marghera, 24, 30010 Lughetto, VE, Italia"
+            ],
+            "coord": [
+                [
+                    45.3879319,
+                    12.1302759
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "34°",
+            "name": "Ristorante Andreina",
+            "ref": "https://www.50topitaly.it/it/referenza/ristorante-andreina-5/",
+            "address": [
+                "Via Zona Industriale Brodolini, 2, 60025 Loreto AN, Italia"
+            ],
+            "coord": [
+                [
+                    43.44032,
+                    13.621375
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "35°",
+            "name": "Marotta Ristorante",
+            "ref": "https://www.50topitaly.it/it/referenza/marotta-ristorante-5/",
+            "address": [
+                "Via Marrochelle, Snc, 81010 Castel Campagnano CE, Italia"
+            ],
+            "coord": [
+                [
+                    41.146797764917,
+                    14.409427642822
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "36°",
+            "name": "San Domenico",
+            "ref": "https://www.50topitaly.it/it/referenza/san-domenico-3/",
+            "address": [
+                "Via Gaspare Sacchi, 1, 40026 Imola, BO, Italia"
+            ],
+            "coord": [
+                [
+                    44.355779,
+                    11.7124561
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "37°",
+            "name": "Antica Osteria Nonna Rosa",
+            "ref": "https://www.50topitaly.it/it/referenza/antica-osteria-nonna-rosa-4/",
+            "address": [
+                "Via Laudano, 1, 80069 Vico Equense, NA, Italia"
+            ],
+            "coord": [
+                [
+                    40.6612602,
+                    14.4332025
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "38°",
+            "name": "Villa Maiella",
+            "ref": "https://www.50topitaly.it/it/referenza/villa-maiella-3/",
+            "address": [
+                "Via Sette Dolori, 30, 66016 Guardiagrele CH, Italia"
+            ],
+            "coord": [
+                [
+                    42.1887427,
+                    14.2044889
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "39°",
+            "name": "La Torre del Saracino",
+            "ref": "https://www.50topitaly.it/it/referenza/la-torre-del-saracino-5/",
+            "address": [
+                "Via Torretta, 9, 80069 Vico Equense NA, Italia"
+            ],
+            "coord": [
+                [
+                    40.6605808,
+                    14.4196355
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "40°",
+            "name": "Dina",
+            "ref": "https://www.50topitaly.it/it/referenza/dina-5/",
+            "address": [
+                "Via Santa Croce, 1, 25064 Piazza, Gussago BS, Italia"
+            ],
+            "coord": [
+                [
+                    45.5838337,
+                    10.1562217
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "41°",
+            "name": "Sustànza",
+            "ref": "https://www.50topitaly.it/it/referenza/sustanza/",
+            "address": [
+                "Galleria Principe di Napoli, 13, 80135 Napoli, NA, Italia"
+            ],
+            "coord": [
+                [
+                    40.8528225,
+                    14.2503706
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "42°",
+            "name": "Romano",
+            "ref": "https://www.50topitaly.it/it/referenza/romano/",
+            "address": [
+                "Via Giuseppe Mazzini, 122, 55049 Viareggio LU"
+            ],
+            "coord": [
+                [
+                    43.8722025,
+                    10.2483079
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "43°",
+            "name": "Ristorante Berton",
+            "ref": "https://www.50topitaly.it/it/referenza/ristorante-berton-5/",
+            "address": [
+                "Via Mike Bongiorno, 13, 20124 Milano, Milano MI, Italia"
+            ],
+            "coord": [
+                [
+                    45.4820187,
+                    9.1943456
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "44°",
+            "name": "Abbruzzino Oltre",
+            "ref": "https://www.50topitaly.it/it/referenza/abbruzzino-oltre-2/",
+            "address": [
+                "Piazza Salvo D'Acquisto, 16, 88046 Lamezia Terme, CZ, Italia"
+            ],
+            "coord": [
+                [
+                    38.9764473,
+                    16.3197862
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "45°",
+            "name": "Orma Roma",
+            "ref": "https://www.50topitaly.it/it/referenza/orma-roma-2/",
+            "address": [
+                "Via Boncompagni, 31, 00187 Roma, RM, Italia"
+            ],
+            "coord": [
+                [
+                    41.9085937,
+                    12.492924
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "46°",
+            "name": "Votavota",
+            "ref": "https://www.50topitaly.it/it/referenza/votavota-2/",
+            "address": [
+                "Lungomare Andrea Doria, 48, 97010 Marina di Ragusa, RG, Italia"
+            ],
+            "coord": [
+                [
+                    36.7827344,
+                    14.5571584
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "47°",
+            "name": "Damini Macelleria & Affini",
+            "ref": "https://www.50topitaly.it/it/referenza/damini-macelleria-affini-5/",
+            "address": [
+                "Via Cadorna, 31, 36071 Arzignano, VI, Italia"
+            ],
+            "coord": [
+                [
+                    45.5167401,
+                    11.3363102
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "48°",
+            "name": "Contrada Bricconi",
+            "ref": "https://www.50topitaly.it/it/referenza/contrada-bricconi-2/",
+            "address": [
+                "Via Bricconi, 3, 24020 Oltressenda Alta BG"
+            ],
+            "coord": [
+                [
+                    45.9203086,
+                    9.9485819
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "49°",
+            "name": "Volta del Fuenti",
+            "ref": "https://www.50topitaly.it/it/referenza/volta-del-fuenti/",
+            "address": [
+                "km 47+300, S.S. 163 Amalfitana, Via Salvo D'Acquisto, 84019 Vietri sul Mare SA"
+            ],
+            "coord": [
+                [
+                    40.6600633,
+                    14.7119762
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "50 Top Italy",
+            "sub-ranking": "I Migliori Ristoranti Italiani 2026 Grandi Ristoranti",
+            "emoji": "🍽️",
+            "position": "50°",
+            "name": "Autem*",
+            "ref": "https://www.50topitaly.it/it/referenza/autem/",
+            "address": [
+                "Via Serviliano Lattuada, 2, 20135 Milano, MI, Italia"
+            ],
+            "coord": [
+                [
+                    45.4534513,
+                    9.2039511
+                ]
+            ],
+            "website": null
+        }
+    ]
+}

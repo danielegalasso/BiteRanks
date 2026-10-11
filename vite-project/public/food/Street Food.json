@@ -499,6 +499,1068 @@
                 ]
             ],
             "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "1°",
+            "name": "Barbar",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "شارع الأخطل الصغير, الاونيسكو, لبنان"
+            ],
+            "coord": [
+                [
+                    33.8790684,
+                    35.4859251
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "2°",
+            "name": "Uludağ Kebapçısı Cemal & Cemil Usta",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "Uludağ Kebapçısı Cemal & Cemil Usta, Ulubatlı Hasan Bulvarı, Osmangazi, Türkiye"
+            ],
+            "coord": [
+                [
+                    40.1966615,
+                    29.0611926
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "3°",
+            "name": "Şehzade Cağ Kebap",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "Şehzade Cağ Kebap, Hoca Paşa Sokağı 6, İstanbul, Türkiye"
+            ],
+            "coord": [
+                [
+                    41.0140192,
+                    28.9752694
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "4°",
+            "name": "Petek Çöp Şiş",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "Atatürk Mahallesi, Selçuk, İzmir, Ege Bölgesi, Turchia"
+            ],
+            "coord": [
+                [
+                    37.9498351,
+                    27.3678777
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "5°",
+            "name": "Dönerci Şahin Usta",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "Dönerci Şahin Usta, Kılıçcılar Sokağı, İstanbul, Türkiye"
+            ],
+            "coord": [
+                [
+                    41.010689,
+                    28.9700096
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "6°",
+            "name": "İmam Çağdaş Kebap ve Baklava Salonu",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "Şekeroğlu, Türktepe Mahallesi, Gaziantep, Şahinbey, Gaziantep, Güneydoğu Anadolu Bölgesi, 27400, Turchia"
+            ],
+            "coord": [
+                [
+                    37.0639374,
+                    37.3855589
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "7°",
+            "name": "Zübeyir Ocakbaşı",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "Zübeyir Ocakbaşı, Ardıç Sokağı, İstanbul, Türkiye"
+            ],
+            "coord": [
+                [
+                    40.9994061,
+                    29.1011807
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "8°",
+            "name": "Bayramoğlu Döner",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "Bayramoğlu Döner, Seyfi Baba Sokağı, Beykoz, Türkiye"
+            ],
+            "coord": [
+                [
+                    41.0950032,
+                    29.0996374
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "9°",
+            "name": "Asci Bacaksiz",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "Asci BACAKSIZ (legendary restaurant), Yemenciler Caddesi, Afyonkarahisar, Türkiye"
+            ],
+            "coord": [
+                [
+                    38.7550064,
+                    30.5375783
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "10°",
+            "name": "HaKosem",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "שלמה המלך, בת ים, נפת תל אביב, Distretto di Tel-Aviv, 5957109, Israele"
+            ],
+            "coord": [
+                [
+                    32.0145716,
+                    34.7405984
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "11°",
+            "name": "Boubouffe",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "Boubouffe, جادة الرئيس اللواء فؤاد شهاب, مستشفى الروم, لبنان"
+            ],
+            "coord": [
+                [
+                    33.891843,
+                    35.5235966
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "12°",
+            "name": "Pitogyros",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "Pitogyros, ΕΠ2, Αρμένιοι, Κοινότητα Οίας, Δημοτική Ενότητα Οίας, Δήμος Θήρας, Περιφερειακή Ενότητα Θήρας, Περιφέρεια Νοτίου Αιγαίου, Αποκεντρωμένη Διοίκηση Αιγαίου, 847 02, Grecia"
+            ],
+            "coord": [
+                [
+                    36.4625912,
+                    25.3778818
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "13°",
+            "name": "Peter Cat",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "Peter Cat, Sir William Jones Sarani, Kolkata, India"
+            ],
+            "coord": [
+                [
+                    22.5524479,
+                    88.3526151
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "14°",
+            "name": "Pane e Souvlaki",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "Pane e Souvlaki, Πλατεία Δημαρχείου, Κέρκυρα, Ελλάς"
+            ],
+            "coord": [
+                [
+                    39.6236904,
+                    19.9224468
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "15°",
+            "name": "Karadeniz Döner Asım Usta",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "Mumcu Bakkal Sokağı, Sinanpaşa Mahallesi, Akaretler, Beşiktaş, İstanbul, Marmara Bölgesi, 34022, Turchia"
+            ],
+            "coord": [
+                [
+                    41.0435441,
+                    29.0038764
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "16°",
+            "name": "Köşebaşı",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "Köşebaşı, Bağdat Caddesi 235, İstanbul, Türkiye"
+            ],
+            "coord": [
+                [
+                    40.9716733,
+                    29.0600503
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "17°",
+            "name": "Joseph",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "شارع السيدة, الغابي, لبنان"
+            ],
+            "coord": [
+                [
+                    33.8869255,
+                    35.5277596
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "18°",
+            "name": "Pepper Mykonos",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "Κουζή Γεωργούλη, Αλευκάντρα, Κοινότητα Μυκονίων, Mykonos, Comune di Mykonos, Περιφερειακή Ενότητα Μυκόνου, Περιφέρεια Νοτίου Αιγαίου, Αποκεντρωμένη Διοίκηση Αιγαίου, 846 00, Grecia"
+            ],
+            "coord": [
+                [
+                    37.4462789,
+                    25.3266182
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "19°",
+            "name": "O Thanasis",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "O Thanasis, Μητροπόλεως, Αθήνα, Ελλάς"
+            ],
+            "coord": [
+                [
+                    37.9761723,
+                    23.7270354
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "20°",
+            "name": "Kasap Osman",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "Kasap Osman, Hoca Paşa Sokağı, İstanbul, Türkiye"
+            ],
+            "coord": [
+                [
+                    41.0138575,
+                    28.9753576
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "21°",
+            "name": "O Kostas",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "Taverna O Kostas, Αιδεσίου, Αθήνα, Ελλάς"
+            ],
+            "coord": [
+                [
+                    37.9647826,
+                    23.7438535
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "22°",
+            "name": "Jimmy's Gyros",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "Jimmy's Gyros, Βορείου Ηπείρου, Μύκονος, Ελλάς"
+            ],
+            "coord": [
+                [
+                    37.4448624,
+                    25.3275067
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "23°",
+            "name": "Kebapçı İskender Ünlü Cadde",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "Alacamascit Mahallesi, Osmangazi, Türkiye"
+            ],
+            "coord": [
+                [
+                    40.1842329,
+                    29.0672717
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "24°",
+            "name": "Gel Gör Cağ Kebap",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "Gel Gör Cağ Kebap, Orhan Şerifsoy Caddesi, Yakutiye, Türkiye"
+            ],
+            "coord": [
+                [
+                    39.911143,
+                    41.2734655
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "25°",
+            "name": "Topçu Restaurant",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "Topçu, Vali Kâzım Dirik Caddesi, Konak, Türkiye"
+            ],
+            "coord": [
+                [
+                    38.4260665,
+                    27.1330639
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "26°",
+            "name": "Dabush",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "אבן גבירול, תל אביב–יפו, ישראל"
+            ],
+            "coord": [
+                [
+                    32.0830737,
+                    34.7813015
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "27°",
+            "name": "Khan Chacha",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "Khan Chacha, Prithviraj Lane, New Delhi, India"
+            ],
+            "coord": [
+                [
+                    28.6006978,
+                    77.2273002
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "28°",
+            "name": "Abu Haider",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "Il Cairo, Governatorato del Cairo, Egitto"
+            ],
+            "coord": [
+                [
+                    30.0443879,
+                    31.2357257
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "29°",
+            "name": "Lucky's Souvlaki",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "ΔΕΚΙΓΑΛΑ, Όρμος Φηρών, Fira, Δημοτική Ενότητα Θήρας, Δήμος Θήρας, Περιφερειακή Ενότητα Θήρας, Περιφέρεια Νοτίου Αιγαίου, Αποκεντρωμένη Διοίκηση Αιγαίου, 847 00, Grecia"
+            ],
+            "coord": [
+                [
+                    36.416898,
+                    25.432708
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Kebab",
+            "emoji": "🍢",
+            "position": "30°",
+            "name": "Taverna Ninos",
+            "ref": "https://www.tasteatlas.com/kebab/wheretoeat",
+            "address": [
+                "Corfù, Δήμος Κεντρικής Κέρκυρας και Διαποντίων Νήσων, Περιφερειακή Ενότητα Κέρκυρας, Περιφέρεια Ιονίων Νήσων, Αποκεντρωμένη Διοίκηση Πελοποννήσου, Δυτικής Ελλάδας και Ιονίου, 491 00, Grecia"
+            ],
+            "coord": [
+                [
+                    39.6217347,
+                    19.9180908
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Tacos al Pastor",
+            "emoji": "🍢",
+            "position": "1°",
+            "name": "Taqueria Franc",
+            "ref": "https://www.tasteatlas.com/tacos-al-pastor/wheretoeat",
+            "address": [
+                "Boulevard Sánchez Taboada, Quinta del Cedro, Tijuana, Municipio de Tijuana, Baja California, 22564, Messico"
+            ],
+            "coord": [
+                [
+                    32.4406609,
+                    -117.0605373
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Tacos al Pastor",
+            "emoji": "🍢",
+            "position": "2°",
+            "name": "El Huequito",
+            "ref": "https://www.tasteatlas.com/tacos-al-pastor/wheretoeat",
+            "address": [
+                "Calle Bolívar, Città del Messico, Iztapalapa, Pueblo Santiago Acahualtepec, Ciudad de México, 09600, Messico"
+            ],
+            "coord": [
+                [
+                    19.3505548,
+                    -98.995917
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Tacos al Pastor",
+            "emoji": "🍢",
+            "position": "3°",
+            "name": "Antojitos La Chiapaneca",
+            "ref": "https://www.tasteatlas.com/tacos-al-pastor/wheretoeat",
+            "address": [
+                "Antojitos la Chiapaneca, Acuario Norte, Manuel Antonio Ay, México"
+            ],
+            "coord": [
+                [
+                    20.2100415,
+                    -87.466963
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Tacos al Pastor",
+            "emoji": "🍢",
+            "position": "4°",
+            "name": "El Tizoncito",
+            "ref": "https://www.tasteatlas.com/tacos-al-pastor/wheretoeat",
+            "address": [
+                "El Tizoncito, Calle Hamburgo 70, Ciudad de México, México"
+            ],
+            "coord": [
+                [
+                    19.4271982,
+                    -99.1623897
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Tacos al Pastor",
+            "emoji": "🍢",
+            "position": "5°",
+            "name": "El Fogon",
+            "ref": "https://www.tasteatlas.com/tacos-al-pastor/wheretoeat",
+            "address": [
+                "El Fogon, Calle 32 Norte, Playa del Carmen, México"
+            ],
+            "coord": [
+                [
+                    20.6360739,
+                    -87.0719888
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Tacos al Pastor",
+            "emoji": "🍢",
+            "position": "6°",
+            "name": "El Borrego Viudo",
+            "ref": "https://www.tasteatlas.com/tacos-al-pastor/wheretoeat",
+            "address": [
+                "El Borrego Viudo, Avenida Revolución 241, Ciudad de México, México"
+            ],
+            "coord": [
+                [
+                    19.3994203,
+                    -99.1851549
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Tacos al Pastor",
+            "emoji": "🍢",
+            "position": "7°",
+            "name": "Pancho's Takos",
+            "ref": "https://www.tasteatlas.com/tacos-al-pastor/wheretoeat",
+            "address": [
+                "Basilio Badillo y Calle Naranjo, Basilio Badillo, Zona Romántica, Puerto Vallarta, Región Costa Norte, Jalisco, 48300, Messico"
+            ],
+            "coord": [
+                [
+                    20.603262,
+                    -105.23082
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Tacos al Pastor",
+            "emoji": "🍢",
+            "position": "8°",
+            "name": "Tacos Rigo",
+            "ref": "https://www.tasteatlas.com/tacos-al-pastor/wheretoeat",
+            "address": [
+                "Tacos Rigo, Avenida Las Playas, México"
+            ],
+            "coord": [
+                [
+                    21.1592136,
+                    -86.8392982
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Tacos al Pastor",
+            "emoji": "🍢",
+            "position": "9°",
+            "name": "El Charco de las Ranas",
+            "ref": "https://www.tasteatlas.com/tacos-al-pastor/wheretoeat",
+            "address": [
+                "El Charco de las Ranas, Avenida Río Mixcoac, México"
+            ],
+            "coord": [
+                [
+                    19.3702372,
+                    -99.1848666
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Tacos al Pastor",
+            "emoji": "🍢",
+            "position": "10°",
+            "name": "El Farolito",
+            "ref": "https://www.tasteatlas.com/tacos-al-pastor/wheretoeat",
+            "address": [
+                "El Farolito, Calle Altata, México"
+            ],
+            "coord": [
+                [
+                    19.4065249,
+                    -99.1727917
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Tacos al Pastor",
+            "emoji": "🍢",
+            "position": "11°",
+            "name": "Las Ranas Taqueria",
+            "ref": "https://www.tasteatlas.com/tacos-al-pastor/wheretoeat",
+            "address": [
+                "Cerrada del Puente, Puebla, Municipio de Puebla, Puebla, 72150, Messico"
+            ],
+            "coord": [
+                [
+                    19.0681255,
+                    -98.2483761
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Tacos al Pastor",
+            "emoji": "🍢",
+            "position": "12°",
+            "name": "Taquería Los Alteños",
+            "ref": "https://www.tasteatlas.com/tacos-al-pastor/wheretoeat",
+            "address": [
+                "Taquería Los Alteños, Avenida Tepeyac, Zapopan, México"
+            ],
+            "coord": [
+                [
+                    20.6616146,
+                    -103.4061794
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Tacos al Pastor",
+            "emoji": "🍢",
+            "position": "13°",
+            "name": "El Califa",
+            "ref": "https://www.tasteatlas.com/tacos-al-pastor/wheretoeat",
+            "address": [
+                "Taqueri El Califa del León, Avenida Ribera de San Cosme, México"
+            ],
+            "coord": [
+                [
+                    19.4410266,
+                    -99.159125
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Tacos al Pastor",
+            "emoji": "🍢",
+            "position": "14°",
+            "name": "El Pastorcito",
+            "ref": "https://www.tasteatlas.com/tacos-al-pastor/wheretoeat",
+            "address": [
+                "Taquería El Pastorcito Suzo, Calle Canario, México"
+            ],
+            "coord": [
+                [
+                    19.3963889,
+                    -99.1928907
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Tacos al Pastor",
+            "emoji": "🍢",
+            "position": "15°",
+            "name": "Antigua Taquería la Oriental - Humboldt",
+            "ref": "https://www.tasteatlas.com/tacos-al-pastor/wheretoeat",
+            "address": [
+                "Antigua Taqueria La Oriental Humboldt, Avenida Humboldt, Puebla, México"
+            ],
+            "coord": [
+                [
+                    19.0431318,
+                    -98.1799653
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Tacos al Pastor",
+            "emoji": "🍢",
+            "position": "16°",
+            "name": "Taquería Selene",
+            "ref": "https://www.tasteatlas.com/tacos-al-pastor/wheretoeat",
+            "address": [
+                "Taquería Selene, Leibniz 51, Miguel Hidalgo, México"
+            ],
+            "coord": [
+                [
+                    19.4270632,
+                    -99.177377
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Tacos al Pastor",
+            "emoji": "🍢",
+            "position": "17°",
+            "name": "Tacos Tumbras",
+            "ref": "https://www.tasteatlas.com/tacos-al-pastor/wheretoeat",
+            "address": [
+                "Avenida Costera Miguel Alemán, Icacos, Acapulco, Acapulco de Juárez, Guerrero, 39300, Messico"
+            ],
+            "coord": [
+                [
+                    16.8543912,
+                    -99.8575783
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Tacos al Pastor",
+            "emoji": "🍢",
+            "position": "18°",
+            "name": "El Fogoncito",
+            "ref": "https://www.tasteatlas.com/tacos-al-pastor/wheretoeat",
+            "address": [
+                "El Fogoncito, Av Río Mixcoac 59, México"
+            ],
+            "coord": [
+                [
+                    19.3661798,
+                    -99.1791096
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Tacos al Pastor",
+            "emoji": "🍢",
+            "position": "19°",
+            "name": "Latosos Tacos",
+            "ref": "https://www.tasteatlas.com/tacos-al-pastor/wheretoeat",
+            "address": [
+                "Tacos Latosos, Calle Pirules, Naucalpan de Juárez, México"
+            ],
+            "coord": [
+                [
+                    19.4928638,
+                    -99.2531444
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Tacos al Pastor",
+            "emoji": "🍢",
+            "position": "20°",
+            "name": "Taqueria El Abanico",
+            "ref": "https://www.tasteatlas.com/tacos-al-pastor/wheretoeat",
+            "address": [
+                "Colonia Gutiérrez Nájera, Santiago Zapotitlán, Città del Messico, Tláhuac, Ciudad de México, 13300, Messico"
+            ],
+            "coord": [
+                [
+                    19.3030624,
+                    -99.0419017
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Tacos al Pastor",
+            "emoji": "🍢",
+            "position": "21°",
+            "name": "La Princesa",
+            "ref": "https://www.tasteatlas.com/tacos-al-pastor/wheretoeat",
+            "address": [
+                "Avenida Teopanzolco, Reforma, Cuernavaca, Morelos, 62260, Messico"
+            ],
+            "coord": [
+                [
+                    18.9368189,
+                    -99.2226488
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Tacos al Pastor",
+            "emoji": "🍢",
+            "position": "22°",
+            "name": "Los Taquitos de Pm",
+            "ref": "https://www.tasteatlas.com/tacos-al-pastor/wheretoeat",
+            "address": [
+                "Los Taquitos de PM, Calle 36 Diagonal, Mérida, México"
+            ],
+            "coord": [
+                [
+                    21.0325807,
+                    -89.6026394
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Tacos al Pastor",
+            "emoji": "🍢",
+            "position": "23°",
+            "name": "Hostal de Los Quesos",
+            "ref": "https://www.tasteatlas.com/tacos-al-pastor/wheretoeat",
+            "address": [
+                "El Hostal de los Quesos, Calle Pilares, México"
+            ],
+            "coord": [
+                [
+                    19.378448,
+                    -99.1691582
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Tacos al Pastor",
+            "emoji": "🍢",
+            "position": "24°",
+            "name": "Tacos Don Reyes",
+            "ref": "https://www.tasteatlas.com/tacos-al-pastor/wheretoeat",
+            "address": [
+                "106, Calle Rosas Moreno, Zona Centro, León, Guanajuato, 37000, Messico"
+            ],
+            "coord": [
+                [
+                    21.1183328,
+                    -101.6832308
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Tacos al Pastor",
+            "emoji": "🍢",
+            "position": "25°",
+            "name": "Encomenderos",
+            "ref": "https://www.tasteatlas.com/tacos-al-pastor/wheretoeat",
+            "address": [
+                "Encomenderos, Avenida Universidad, Santa Fé, México"
+            ],
+            "coord": [
+                [
+                    25.555062,
+                    -103.3270885
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Tacos al Pastor",
+            "emoji": "🍢",
+            "position": "26°",
+            "name": "Taqueria Coapenitos",
+            "ref": "https://www.tasteatlas.com/tacos-al-pastor/wheretoeat",
+            "address": [
+                "Taqueria coapenitos, Avenida Carlos Nader, México"
+            ],
+            "coord": [
+                [
+                    21.1619965,
+                    -86.8242267
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Tacos al Pastor",
+            "emoji": "🍢",
+            "position": "27°",
+            "name": "Las Brasas",
+            "ref": "https://www.tasteatlas.com/tacos-al-pastor/wheretoeat",
+            "address": [
+                "Avenida Centenario, Colonia Villahermosa, Santiago Atzacoalco, Città del Messico, Gustavo A. Madero, Ciudad de México, 07410, Messico"
+            ],
+            "coord": [
+                [
+                    19.5058511,
+                    -99.092672
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Tacos al Pastor",
+            "emoji": "🍢",
+            "position": "28°",
+            "name": "El Vilsito",
+            "ref": "https://www.tasteatlas.com/tacos-al-pastor/wheretoeat",
+            "address": [
+                "El Vilsito, Calle Petén, México"
+            ],
+            "coord": [
+                [
+                    19.3893077,
+                    -99.1527567
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "Taste Atlas",
+            "sub-ranking": "TasteAtlas Where to Eat Tacos al Pastor",
+            "emoji": "🍢",
+            "position": "29°",
+            "name": "Tacos El Fogón",
+            "ref": "https://www.tasteatlas.com/tacos-al-pastor/wheretoeat",
+            "address": [
+                "Tacos El Fogon Zona Azul Satelite, Circuito Economistas 30, Naucalpan de Juárez, México"
+            ],
+            "coord": [
+                [
+                    19.5058719,
+                    -99.2469569
+                ]
+            ],
+            "website": null
         }
     ]
 }

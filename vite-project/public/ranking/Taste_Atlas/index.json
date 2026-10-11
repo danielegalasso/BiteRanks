@@ -1,5 +1,11 @@
 [
+    "MostLegendaryRestaurants23-24.json",
     "MostLegendaryDessertPlaces23-24.json",
     "MostLegendaryIceCreamPlaces23-24.json",
-    "MostLegendaryRestaurants23-24.json"
+    "TasteAtlasWheretoEatKebab.json",
+    "TasteAtlasWheretoEatRamen.json",
+    "TasteAtlasWheretoEatTacosalPastor.json",
+    "TasteAtlasWheretoEatPho.json",
+    "TasteAtlasWheretoEatHamburger.json",
+    "TasteAtlasWheretoEatCroissant.json"
 ]

@@ -1,0 +1,1804 @@
+{
+    "Latin America's 50 Best Restaurants 2025": [
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "1°",
+            "name": "El Chato",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/El-Chato.html",
+            "address": [
+                "El Chato, Carrera 4A, Bogotá, Colombia"
+            ],
+            "coord": [
+                [
+                    4.6479292,
+                    -74.0570554
+                ]
+            ],
+            "website": "www.elchato.co"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "2°",
+            "name": "Kjolle",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/Kjolle.html",
+            "address": [
+                "Central, 301, Avenida Pedro de Osma, Barranco, Lima, Lima Metropolitana, Lima, 15042, Perù"
+            ],
+            "coord": [
+                [
+                    -12.1525709,
+                    -77.0225397
+                ]
+            ],
+            "website": "https://kjolle.com/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "3°",
+            "name": "Don Julio",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/Don-Julio.html",
+            "address": [
+                "Don Julio, Guatemala 4691, Ciudad Autónoma de Buenos Aires, Argentina"
+            ],
+            "coord": [
+                [
+                    -34.5862916,
+                    -58.4242774
+                ]
+            ],
+            "website": "https://www.parrilladonjulio.com/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "4°",
+            "name": "Mérito",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/Mérito.html",
+            "address": [
+                "Mérito, Jr, 28 De Julio 206, Barranco 15063, Perù"
+            ],
+            "coord": [
+                [
+                    -12.1504944,
+                    -77.020754
+                ]
+            ],
+            "website": "https://www.meritorestaurante.com/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "5°",
+            "name": "Celele",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/Celele.html",
+            "address": [
+                "Celele, Calle del Espíritu Santo, Cartagena de Indias, Colombia"
+            ],
+            "coord": [
+                [
+                    10.4223768,
+                    -75.5445549
+                ]
+            ],
+            "website": "https://celelerestaurante.com/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "6°",
+            "name": "Boragó",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/Boragó.html",
+            "address": [
+                "Boragó, Costanera Sur San Josemaría Escrivá de Balaguer, Vitacura, Chile"
+            ],
+            "coord": [
+                [
+                    -33.3827313,
+                    -70.5840355
+                ]
+            ],
+            "website": "https://borago.cl/en/welcome/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "7°",
+            "name": "Quintonil",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/Quintonil.html",
+            "address": [
+                "Quintonil, Newton 55, Ciudad de México, México"
+            ],
+            "coord": [
+                [
+                    19.4308184,
+                    -99.1918345
+                ]
+            ],
+            "website": "https://quintonil.com/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "8°",
+            "name": "Tuju",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/tuju.html",
+            "address": [
+                "TUJU, Rua Frei Galvão, São Paulo, Brasil"
+            ],
+            "coord": [
+                [
+                    -23.5804239,
+                    -46.6857986
+                ]
+            ],
+            "website": "https://tuju.com.br/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "9°",
+            "name": "Cosme",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/cosme.html",
+            "address": [
+                "Cerro San Cosme, La Victoria, Lima, Lima Metropolitana, Lima, 15011, Perù"
+            ],
+            "coord": [
+                [
+                    -12.0636198,
+                    -77.0081357
+                ]
+            ],
+            "website": "https://cosme.com.pe/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "10°",
+            "name": "Nuema",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/nuema.html",
+            "address": [
+                "Nuema, Belo Horizonte, Quito, Ecuador"
+            ],
+            "coord": [
+                [
+                    -0.1982642,
+                    -78.4826
+                ]
+            ],
+            "website": "https://www.nuema.ec/index.html"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "11°",
+            "name": "Mayta",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/Mayta.html",
+            "address": [
+                "Mayta, Avenida Mariscal La Mar 1285, Miraflores, Perú"
+            ],
+            "coord": [
+                [
+                    -12.109858,
+                    -77.0492381
+                ]
+            ],
+            "website": "https://www.maytalima.com/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "12°",
+            "name": "Nelita",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/nelita.html",
+            "address": [
+                "330, Rua Ferreira de Araújo, Pinheiros, San Paolo, Regione Sudest, 05428-000, Brasile"
+            ],
+            "coord": [
+                [
+                    -23.5605604,
+                    -46.6980419
+                ]
+            ],
+            "website": "https://nelitarestaurante.com.br/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "13°",
+            "name": "Lasai",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/Lasai.html",
+            "address": [
+                "Lasai, Largo dos Leões 35, Rio de Janeiro, Brasil"
+            ],
+            "coord": [
+                [
+                    -22.9531425,
+                    -43.196313
+                ]
+            ],
+            "website": "https://lasai.com.br/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "14°",
+            "name": "Casa Las Cujas",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/casa-las-cujas.html",
+            "address": [
+                "Casa Las Cujas, Alonso de Córdova 2467, Vitacura, Chile"
+            ],
+            "coord": [
+                [
+                    -33.4012258,
+                    -70.5955905
+                ]
+            ],
+            "website": "https://www.lascujas.com/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "15°",
+            "name": "Alcalde",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/Alcalde.html",
+            "address": [
+                "Tacos Lety Alcalde, Calle Pino Suárez, Guadalajara, México"
+            ],
+            "coord": [
+                [
+                    20.6830238,
+                    -103.3460863
+                ]
+            ],
+            "website": "https://alcalde.com.mx/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "16°",
+            "name": "Villa Torél",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/Villa-Torél.html",
+            "address": [
+                "Villa Fontana Inn, Primera, Ensenada, México"
+            ],
+            "coord": [
+                [
+                    31.8608191,
+                    -116.6226168
+                ]
+            ],
+            "website": "https://villatorel.com/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "17°",
+            "name": "Fauna",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/fauna.html",
+            "address": [
+                "Valle de Guadalupe, Región Altos Sur, Jalisco, 47384, Messico"
+            ],
+            "coord": [
+                [
+                    21.0113273,
+                    -102.6147189
+                ]
+            ],
+            "website": "https://faunarestaurante.mx/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "18°",
+            "name": "Maito",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/maito.html",
+            "address": [
+                "Maito, Avenida 3 M Sur, Panama City, Panamá"
+            ],
+            "coord": [
+                [
+                    8.994639,
+                    -79.498197
+                ]
+            ],
+            "website": "maitopanama.com"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "19°",
+            "name": "Sublime",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/sublime.html",
+            "address": [
+                "Camas Sublime, Avenida Bolívar, Cantón Guarda Viejo, Zona 8, Città del Guatemala, Zona 4, Departamento de Guatemala, 01008, Guatemala"
+            ],
+            "coord": [
+                [
+                    14.615645,
+                    -90.5310614
+                ]
+            ],
+            "website": "https://sublimerestaurante.com/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "20°",
+            "name": "Evvai",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/evvai.html",
+            "address": [
+                "Evvai Restaurant, Rua Joaquim Antunes, São Paulo, Brasil"
+            ],
+            "coord": [
+                [
+                    -23.5671114,
+                    -46.6790509
+                ]
+            ],
+            "website": "https://www.evvai.com.br/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "21°",
+            "name": "Niño Gordo",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/Nino-Gordo.html",
+            "address": [
+                "Niño Gordo, Thames 1810, Ciudad Autónoma de Buenos Aires, Argentina"
+            ],
+            "coord": [
+                [
+                    -34.5864759,
+                    -58.4289317
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "22°",
+            "name": "Arca",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/arca.html",
+            "address": [
+                "ARCA, Carr. Tulum-Boca Paila km 7.6, Tulum Beach, 77780 Tulum, Q.R., Messico"
+            ],
+            "coord": [
+                [
+                    20.1495855,
+                    -87.45959
+                ]
+            ],
+            "website": "https://arcatulum.com/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "23°",
+            "name": "Leo",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/leo.html",
+            "address": [
+                "Leo, Calle 27B 6-75, Bogotá, Colombia"
+            ],
+            "coord": [
+                [
+                    4.6145119,
+                    -74.0690232
+                ]
+            ],
+            "website": "https://restauranteleo.com/en/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "24°",
+            "name": "El Preferido de Palermo",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/El-Preferido-de-Palermo.html",
+            "address": [
+                "El Preferido de Palermo, Jorge Luis Borges 2108, Ciudad Autónoma de Buenos Aires, Argentina"
+            ],
+            "coord": [
+                [
+                    -34.5854427,
+                    -58.4253881
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "25°",
+            "name": "A Casa do Porco",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/a-casa-do-porco.html",
+            "address": [
+                "Rua Maria Barbosa de Araújo, Vila Japão, Centro, Itaquaquecetuba, San Paolo, Regione Sudest, 08570-140, Brasile"
+            ],
+            "coord": [
+                [
+                    -23.4736105,
+                    -46.3501972
+                ]
+            ],
+            "website": "https://acasadoporco.com.br/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "26°",
+            "name": "La Mar",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/la-mar.html",
+            "address": [
+                "La Mar, Avenida Mariscal La Mar 770, Miraflores, Perú"
+            ],
+            "coord": [
+                [
+                    -12.1133902,
+                    -77.0453488
+                ]
+            ],
+            "website": "https://www.lamarcebicheria.com/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "27°",
+            "name": "El Mercado",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/el-mercado.html",
+            "address": [
+                "El Mercado, 2714, Coronel Ramón Lorenzo Falcón, Flores, Buenos Aires, Comuna 7, Ciudad Autónoma de Buenos Aires, 1406, Argentina"
+            ],
+            "coord": [
+                [
+                    -34.6314933,
+                    -58.4666948
+                ]
+            ],
+            "website": "https://www.faena.com/buenos-aires/dining/el-mercado"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "28°",
+            "name": "Yum Cha",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/yum-cha.html",
+            "address": [
+                "Target DDI, 2722, La Herradura, Pedro de Valdivia Norte, Providencia, Provincia de Santiago, Región Metropolitana de Santiago, 7500000, Cile"
+            ],
+            "coord": [
+                [
+                    -33.4139655,
+                    -70.6100162
+                ]
+            ],
+            "website": "https://yumcha.cl/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "29°",
+            "name": "Cordero",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/Cordero.html",
+            "address": [
+                "Restaurant La Casa del Cordero, 2ª Transversal de Campo Alegre, Caracas, Venezuela"
+            ],
+            "coord": [
+                [
+                    10.4940783,
+                    -66.859722
+                ]
+            ],
+            "website": "https://corderoccs.com/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "30°",
+            "name": "Máximo",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/Máximo.html",
+            "address": [
+                "Máximo Bistrot Local, Calle Tonalá 133, México"
+            ],
+            "coord": [
+                [
+                    19.4153345,
+                    -99.1619849
+                ]
+            ],
+            "website": "https://www.maximobistrot.com.mx/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "31°",
+            "name": "Demo Magnolia",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/demo-magnolia.html",
+            "address": [
+                "Huérfanos, 779, Santiago, Chile"
+            ],
+            "coord": [
+                [
+                    -33.4389551,
+                    -70.6480519
+                ]
+            ],
+            "website": "https://demomagnolia.cl/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "32°",
+            "name": "Huniik",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/Huniik.html",
+            "address": [
+                "Huniik, Calle 60 415-B, Mérida, México"
+            ],
+            "coord": [
+                [
+                    20.9762733,
+                    -89.6214719
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "33°",
+            "name": "Rafael",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/rafael.html",
+            "address": [
+                "Rafael Osterling, Calle San Martín 300, Miraflores, Perú"
+            ],
+            "coord": [
+                [
+                    -12.125309,
+                    -77.0313663
+                ]
+            ],
+            "website": "https://www.rafaelosterling.pe/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "34°",
+            "name": "Afluente",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/afluente.html",
+            "address": [
+                "Afluente Restaurante, Cra 3a #57 -35, Bogotá, Colombia"
+            ],
+            "coord": [
+                [
+                    4.6422061,
+                    -74.0596938
+                ]
+            ],
+            "website": "https://www.afluenterestaurante.com/en"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "35°",
+            "name": "Aramburu",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/aramburu.html",
+            "address": [
+                "Aramburu, Vicente López 1661, Ciudad Autónoma de Buenos Aires, Argentina"
+            ],
+            "coord": [
+                [
+                    -34.5916844,
+                    -58.3890425
+                ]
+            ],
+            "website": "https://www.arambururesto.com.ar/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "36°",
+            "name": "Trescha",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/Trescha.html",
+            "address": [
+                "Trescha Restaurant, Murillo, Argentina"
+            ],
+            "coord": [
+                [
+                    -34.6004353,
+                    -58.4438715
+                ]
+            ],
+            "website": "trescharestaurant.com"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "37°",
+            "name": "Diacá",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/Diacá.html",
+            "address": [
+                "Diacá, Km.7, Cámara Guatemalteca de la Construcción Colonia el Prado, Carr. Antigua al Salvador, Cdad. de Guatemala, Guatemala"
+            ],
+            "coord": [
+                [
+                    14.5655196,
+                    -90.4814399
+                ]
+            ],
+            "website": "https://www.diaca.gt/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "38°",
+            "name": "Oteque",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/oteque.html",
+            "address": [
+                "581, Rua Conde de Irajá, Vila Rica, Santa Marta, Botafogo, Rio de Janeiro, Regione Sudest, 22271-020, Brasile"
+            ],
+            "coord": [
+                [
+                    -22.957473,
+                    -43.1943143
+                ]
+            ],
+            "website": "http://www.oteque.com/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "39°",
+            "name": "Rosetta",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/Rosetta.html",
+            "address": [
+                "Rosetta, Calle Colima 179, Ciudad de México, México"
+            ],
+            "coord": [
+                [
+                    19.4199737,
+                    -99.1606103
+                ]
+            ],
+            "website": "www.rosetta.com.mx"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "40°",
+            "name": "Crizia",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/Crizia.html",
+            "address": [
+                "Buenos Aires, Puntarenas, 60301, Costa Rica"
+            ],
+            "coord": [
+                [
+                    9.1728011,
+                    -83.3311024
+                ]
+            ],
+            "website": "https://www.crizia.com.ar/crizia/en/home/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "41°",
+            "name": "Humo Negro",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/humo-negro.html",
+            "address": [
+                "UPZs Localidad Chapinero, Localidad Chapinero, Bogotà, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+            ],
+            "coord": [
+                [
+                    4.636585,
+                    -74.0650204
+                ]
+            ],
+            "website": "humonegrobog.com"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "42°",
+            "name": "Mercado 24",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/Mercado-24.html",
+            "address": [
+                "Mercado 24, Vía 5, Cantón Exposición, Zona 4, Centro Histórico, Città del Guatemala, Zona 2, Departamento de Guatemala, 01004, Guatemala"
+            ],
+            "coord": [
+                [
+                    14.6208607,
+                    -90.5143912
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "43°",
+            "name": "Sikwa",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/sikwa.html",
+            "address": [
+                "Sikwa Restaurante, Calle 33 La Luz, San José, Costa Rica"
+            ],
+            "coord": [
+                [
+                    9.9325007,
+                    -84.0639432
+                ]
+            ],
+            "website": "www.sikwacostarica.com"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "44°",
+            "name": "Osso",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/Osso.html",
+            "address": [
+                "Osso, Calle Tahiti 175, La Molina, Perú"
+            ],
+            "coord": [
+                [
+                    -12.0764596,
+                    -76.9174043
+                ]
+            ],
+            "website": "https://www.osso.pe/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "45°",
+            "name": "Karai by Mitsuharu",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/karai-by-mitsuharu.html",
+            "address": [
+                "NoSo, 3000, Isidora Goyenechea, El Golf, Las Condes, Santiago del Cile, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Cile"
+            ],
+            "coord": [
+                [
+                    -33.4140455,
+                    -70.5980431
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "46°",
+            "name": "Manuel",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/manuel.html",
+            "address": [
+                "Arrieta Hernandez Asnaiber Manuel, Calle 26, Barranquilla, Colombia"
+            ],
+            "coord": [
+                [
+                    10.9557535,
+                    -74.7810051
+                ]
+            ],
+            "website": "https://manuelrestaurante.com/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "47°",
+            "name": "Cantina del Tigre",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/cantina-del-tigre.html",
+            "address": [
+                "Avenida Centenario, Panama City, Panamá"
+            ],
+            "coord": [
+                [
+                    9.0167567,
+                    -79.4637562
+                ]
+            ],
+            "website": "https://www.cantinadeltigre.com/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "48°",
+            "name": "Arami",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/arami.html",
+            "address": [
+                "Avenida del Aviador, El Porvenir, Calacoto, Sur, La Paz, Provincia Pedro Domingo Murillo, La Paz, Bolivia"
+            ],
+            "coord": [
+                [
+                    -16.5349165,
+                    -68.0704274
+                ]
+            ],
+            "website": "https://aramirestaurant.com/?lang=en"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "49°",
+            "name": "Mil",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/Mil.html",
+            "address": [
+                "Agencia MORAY VIAJES, Calle P, Bocanegra, Callao, Lima Metropolitana, Callao, 07041, Perù"
+            ],
+            "coord": [
+                [
+                    -12.0218984,
+                    -77.1024967
+                ]
+            ],
+            "website": "www.milcentro.pe"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "50°",
+            "name": "Julia",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/julia.html",
+            "address": [
+                "Serrano, Argentina"
+            ],
+            "coord": [
+                [
+                    -34.5936369,
+                    -58.4379289
+                ]
+            ],
+            "website": "https://juliarestaurante.com.ar/"
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "51°",
+            "name": "Pujol",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Pujol, Fco. Petrarca 254, Ciudad de México, México"
+            ],
+            "coord": [
+                [
+                    19.4336326,
+                    -99.18545
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "52°",
+            "name": "Origem",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Restaurante Origem, Alameda das Algarobas 74, Salvador, Brasil"
+            ],
+            "coord": [
+                [
+                    -12.9887937,
+                    -38.4554845
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "53°",
+            "name": "Conservatorium",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "San Jose, Santa Clara County, California, Stati Uniti d'America"
+            ],
+            "coord": [
+                [
+                    37.3361663,
+                    -121.890591
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "54°",
+            "name": "Cara de Vaca",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Cara de Vaca, Calle Río de la Plata, México"
+            ],
+            "coord": [
+                [
+                    25.6543652,
+                    -100.3580393
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "55°",
+            "name": "Kotori",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "KOTORI, R. Cônego Eugênio Leite, 639 - Pinheiros, São Paulo - SP, 05414-011, Brasile"
+            ],
+            "coord": [
+                [
+                    -23.5634952,
+                    -46.6812672
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "56°",
+            "name": "Metzi",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Metzi, R. João Moura, 861 - Pinheiros, São Paulo - SP, 05412-002, Brasile"
+            ],
+            "coord": [
+                [
+                    -23.5582133,
+                    -46.6794562
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "57°",
+            "name": "La Calma by Fredes",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "LA CALMA by Fredes & Ovalle, Av. Nueva Costanera 3832, Loc 2, 7630357 Vitacura, Región Metropolitana, Cile"
+            ],
+            "coord": [
+                [
+                    -33.3998344,
+                    -70.5982665
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "58°",
+            "name": "Le Chique",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Changchun, 绿园区, Jilin, 130000, Cina"
+            ],
+            "coord": [
+                [
+                    43.8844844,
+                    125.3181675
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "59°",
+            "name": "Sud 777",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Sud 777, Boulevard de la Luz, México"
+            ],
+            "coord": [
+                [
+                    19.3087582,
+                    -99.2091064
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "60°",
+            "name": "Clara",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Cucurucho de Santa Clara, Vicente Rocafuerte, Quito, Ecuador"
+            ],
+            "coord": [
+                [
+                    -0.2216909,
+                    -78.51678
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "61°",
+            "name": "La Tapa Del Coco",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "La Tapa Del Coco, Calle 68 Este, Panamá, Provincia de Panamá, Panamá"
+            ],
+            "coord": [
+                [
+                    8.9944339,
+                    -79.5110306
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "62°",
+            "name": "Shizen",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Shizen Restaurante Nikkei, Calle Alberto Arco Parró, San Isidro, Perú"
+            ],
+            "coord": [
+                [
+                    -12.1061223,
+                    -77.0369453
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "63°",
+            "name": "Pulpería Santa Elvira",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Pulperia Santa Elvira, Lincoyán 920, 7770464 Ñuñoa, Región Metropolitana, Cile"
+            ],
+            "coord": [
+                [
+                    -33.452729,
+                    -70.6215663
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "64°",
+            "name": "Ness",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Eliot Ness, 1124, Calle 9, Microcentro, La Plata, Partido de La Plata, Provincia di Buenos Aires, B1900BHB, Argentina"
+            ],
+            "coord": [
+                [
+                    -34.9194124,
+                    -57.9480444
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "65°",
+            "name": "Oseille",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Oseille, R. Joana Angélica, 155 - Lj B - Ipanema, Rio de Janeiro - RJ, 22420-030, Brasile"
+            ],
+            "coord": [
+                [
+                    -22.9829731,
+                    -43.205035
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "66°",
+            "name": "Clon",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "clon, Av. Almte. Miguel Grau 203A, Barranco 15065, Perù"
+            ],
+            "coord": [
+                [
+                    -12.1503241,
+                    -77.0205685
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "67°",
+            "name": "Maní",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Maní, Rua Joaquim Antunes 210, São Paulo, Brasil"
+            ],
+            "coord": [
+                [
+                    -23.5663802,
+                    -46.6797289
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "68°",
+            "name": "Tributo",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Tributo Restaurante, Av. Isabel la Católica, y y Luis Cordero, 170525 Quito, Ecuador"
+            ],
+            "coord": [
+                [
+                    -0.2057625,
+                    -78.484775
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "69°",
+            "name": "Mishiguene",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Mishiguene, Cabello 3181, Ciudad Autónoma de Buenos Aires, Argentina"
+            ],
+            "coord": [
+                [
+                    -34.5820267,
+                    -58.4063767
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "70°",
+            "name": "Gran Dabbang",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Gran Dabbang, Avenida Raúl Scalabrini Ortiz 1543, Ciudad Autónoma de Buenos Aires, Argentina"
+            ],
+            "coord": [
+                [
+                    -34.591114,
+                    -58.4255276
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "71°",
+            "name": "Em",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Em, Tonalá 133, Roma Nte., Cuauhtémoc, 06700 Cuauhtémoc, CDMX, Messico"
+            ],
+            "coord": [
+                [
+                    19.4152551,
+                    -99.1620626
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "72°",
+            "name": "Umi",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Umi House, Calle Colombia, Bella Vista, Panamá"
+            ],
+            "coord": [
+                [
+                    8.974226,
+                    -79.5292165
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "73°",
+            "name": "Cepa",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Restaurante Cepa, Praça dos Omaguás, 110 - Pinheiros, São Paulo - SP, 05419-020, Brasile"
+            ],
+            "coord": [
+                [
+                    -23.5619213,
+                    -46.6922286
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "74°",
+            "name": "D.O.M.",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "San Paolo, Regione Sudest, Brasile"
+            ],
+            "coord": [
+                [
+                    -23.5506507,
+                    -46.6333824
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "75°",
+            "name": "Gustu",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Restaurante Gustu, Calle 10 300, La Paz, Bolivia"
+            ],
+            "coord": [
+                [
+                    -16.5445236,
+                    -68.0864557
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "76°",
+            "name": "Oda",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Oda restaurante, Calle 140 #11-45, Bogotá, Colombia"
+            ],
+            "coord": [
+                [
+                    4.7188916,
+                    -74.0359136
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "77°",
+            "name": "Alo's",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Alo's Bistro, Almirante Blanco Encalada 2120, Boulogne Sur Mer, Argentina"
+            ],
+            "coord": [
+                [
+                    -34.4794809,
+                    -58.5707518
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "78°",
+            "name": "El Papagayo",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "El Papagayo, 69, Juan A. Lavalleja, Centro, Córdoba, Municipio de Córdoba, Pedanía Capital, Departamento Capital, Cordova, 5000, Argentina"
+            ],
+            "coord": [
+                [
+                    -31.4133579,
+                    -64.1920144
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "79°",
+            "name": "Ancestral",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Ancestral, Calle 10 135, La Paz, Bolivia"
+            ],
+            "coord": [
+                [
+                    -16.5345758,
+                    -68.0758696
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "80°",
+            "name": "Manu",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Manu, Alameda Dom Pedro II 317, Curitiba, Brasil"
+            ],
+            "coord": [
+                [
+                    -25.4385508,
+                    -49.2842259
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "81°",
+            "name": "Astrid y Gastón",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Astrid y Gastón, Avenida Paz Soldan 290, San Isidro, Perú"
+            ],
+            "coord": [
+                [
+                    -12.0964374,
+                    -77.0350797
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "82°",
+            "name": "Fonda Lo Que Hay",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Fonda Lo Que Hay, XF27+RH7 Edificio el Colegio, C. José D. de la Obaldía, Panama City, Panamá Province, Panamá"
+            ],
+            "coord": [
+                [
+                    8.9520591,
+                    -79.5361175
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "83°",
+            "name": "Parador La Huella",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Parador La Huella, Los Cisnes, 20000 Faro de José Ignacio, Departamento de Maldonado, Uruguay"
+            ],
+            "coord": [
+                [
+                    -34.8422344,
+                    -54.6337545
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "84°",
+            "name": "Nicos",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Restaurante Nicos, Av. Cuitláhuac 3102, Claveria, Azcapotzalco, 02080 Ciudad de México, CDMX, Messico"
+            ],
+            "coord": [
+                [
+                    19.4650242,
+                    -99.1777489
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "85°",
+            "name": "Debora",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "I.E.D. Débora Arango Pérez, Diagonal 56A Bis Sur, UPZs de Bogotá, Localidad Kennedy, Bogotà, Bogotá, Distrito Capital, RAP (Especial) Central, 110861, Colombia"
+            ],
+            "coord": [
+                [
+                    4.6179237,
+                    -74.1832372
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "86°",
+            "name": "Manzanar",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Nuevo Manzanar, 2872, 21 de Setiembre, Punta Carretas, Montevideo, 11311, Uruguay"
+            ],
+            "coord": [
+                [
+                    -34.919247,
+                    -56.1552451
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "87°",
+            "name": "El Xolo",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "El Xolo Maíz, Avenida La Revolución, San Salvador, El Salvador"
+            ],
+            "coord": [
+                [
+                    13.6867978,
+                    -89.2384436
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "88°",
+            "name": "Aguají",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Aguají Restaurant by Chef Tita, QF9M+G97, Sosúa 57000, Repubblica Dominicana"
+            ],
+            "coord": [
+                [
+                    19.7691248,
+                    -70.5168106
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "89°",
+            "name": "La Casa Bistró",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "La Casa Bistro, 3ª Avenida de Los Palos Grandes, Caracas, Venezuela"
+            ],
+            "coord": [
+                [
+                    10.5024455,
+                    -66.8436319
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "90°",
+            "name": "Lunario",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Valle de Guadalupe, Región Altos Sur, Jalisco, 47384, Messico"
+            ],
+            "coord": [
+                [
+                    21.0113273,
+                    -102.6147189
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "91°",
+            "name": "Caleta",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "CALETA, C. 8a Este, Panamá, Provincia de Panamá, Panamá"
+            ],
+            "coord": [
+                [
+                    8.9515811,
+                    -79.5319916
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "92°",
+            "name": "Lo de Tere",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Lo de Tere, Rambla General Artigas, Punta del Este, Uruguay"
+            ],
+            "coord": [
+                [
+                    -34.9636684,
+                    -54.9465046
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "93°",
+            "name": "Notiê",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Terraço Notiê by Priceless, Shopping Light - Acesso pelo estacionamento - R. Formosa, 157 - Centro Histórico de São Paulo, São Paulo - SP, 01049-000, Brasile"
+            ],
+            "coord": [
+                [
+                    -23.5465185,
+                    -46.6384635
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "94°",
+            "name": "Ana",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Ana Cocina Local, 12 Calle 2-99, Cdad. de Guatemala 01014, Guatemala"
+            ],
+            "coord": [
+                [
+                    14.5837884,
+                    -90.5189893
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "95°",
+            "name": "Demencia",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Demencia, Av Vitacura 3520, 7630523 Vitacura, Región Metropolitana, Cile"
+            ],
+            "coord": [
+                [
+                    -33.4039236,
+                    -70.5964995
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "96°",
+            "name": "Selma",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Selma, Calle 65 #4-50, Bogotá, Colombia"
+            ],
+            "coord": [
+                [
+                    4.6478344,
+                    -74.0568554
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "97°",
+            "name": "Azafrán",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Azafran, Sarmiento 765, Mendoza, Argentina"
+            ],
+            "coord": [
+                [
+                    -32.8887461,
+                    -68.8489577
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "98°",
+            "name": "Sambombi Bistró Local",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Sambombi Bistró Local, Cra. 35 #7-10, El Poblado, Medellín, El Poblado, Medellín, Antioquia, Colombia"
+            ],
+            "coord": [
+                [
+                    6.2063259,
+                    -75.5653058
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "99°",
+            "name": "Restaurante Manga",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Manga Restaurante, Rua Professora Almerinda Dultra 40, Salvador, Brasil"
+            ],
+            "coord": [
+                [
+                    -13.0125875,
+                    -38.4913994
+                ]
+            ],
+            "website": null
+        },
+        {
+            "ranking": "TW50B",
+            "sub-ranking": "Latin America's 50 Best Restaurants 2025",
+            "emoji": "🍽️",
+            "position": "100°",
+            "name": "Fukasawa",
+            "ref": "https://www.theworlds50best.com/restaurants/best-in-latin-america/list/51-100",
+            "address": [
+                "Fukasawa, Av. Nueva Costanera 3900, Vitacura, Región Metropolitana, Cile"
+            ],
+            "coord": [
+                [
+                    -33.3987084,
+                    -70.598512
+                ]
+            ],
+            "website": null
+        }
+    ]
+}
