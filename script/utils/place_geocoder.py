@@ -161,6 +161,16 @@ class PlaceGeocoder:
 
     # --- servizi -------------------------------------------------------------------------
 
+    def _get(self, url, params):
+        """GET con qualche tentativo: un timeout isolato non deve fermare una classifica di mille locali."""
+        for attempt in range(3):
+            try:
+                return self.session.get(url, params=params, timeout=30)
+            except requests.exceptions.RequestException as e:
+                print(f'Errore di rete ({e.__class__.__name__}), tentativo {attempt + 1} di 3')
+                time.sleep(10 * (attempt + 1))
+        return None
+
     def _nominatim(self, params):
         key = 'nominatim|' + json.dumps(params, sort_keys=True, ensure_ascii=False)
         if key in self.cache:
@@ -172,8 +182,10 @@ class PlaceGeocoder:
             time.sleep(wait)
         for attempt in range(4):
             self._last_nominatim = time.time()
-            response = self.session.get(NOMINATIM_URL, params={**params, 'format': 'jsonv2', 'addressdetails': 1,
-                                                               'limit': 5, 'accept-language': 'it'}, timeout=30)
+            response = self._get(NOMINATIM_URL, params={**params, 'format': 'jsonv2', 'addressdetails': 1,
+                                                        'limit': 5, 'accept-language': 'it'})
+            if response is None:
+                return []  # rete instabile: si salta questo passo, senza salvare in cache un risultato vuoto
             if response.status_code != 429:
                 break
             if attempt == 3:
@@ -198,7 +210,9 @@ class PlaceGeocoder:
         for layer in layers or []:
             params.append(('layer', layer))
         time.sleep(0.3)
-        response = self.session.get(PHOTON_URL, params=params, timeout=30)
+        response = self._get(PHOTON_URL, params=params)
+        if response is None:
+            return []
         response.raise_for_status()
         result = response.json().get('features', [])
         self.cache[key] = result
@@ -301,7 +315,9 @@ class PlaceGeocoder:
             if not found:
                 continue
             overlap = len(wanted & found) / len(wanted)
-            if overlap < 0.5 or not _same_kind(name, found_name):
+            # anche il nome trovato deve essere fatto in buona parte delle parole cercate:
+            # "Zén" non è "Zen Fut Sai Kai Vegetarian Restaurant"
+            if overlap < 0.5 or len(wanted & found) / len(found) < 0.3 or not _same_kind(name, found_name):
                 continue
             # un omonimo parziale in un altro comune ("San Martino Bar" a Cerveteri per "San Martino Pizza & Bolle"
             # a Roma) non va bene: fuori dalla città indicata il nome deve coincidere del tutto
@@ -347,6 +363,8 @@ class PlaceGeocoder:
             if not _same_kind(name, found_name):
                 continue
             overlap = len(wanted & found) / len(wanted) if wanted else 0
+            if found and len(wanted & found) / len(found) < 0.3:
+                overlap = 0  # vedi la stessa regola nella ricerca su OSM
             prefix = min(len(wanted_compact), len(_compact(found_name))) >= 5 and (
                 wanted_compact.startswith(_compact(found_name)) or _compact(found_name).startswith(wanted_compact))
             if overlap < 0.5 and not prefix:

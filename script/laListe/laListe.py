@@ -20,6 +20,9 @@ from guideGamberoRosso import Browser
 URL = 'https://www.laliste.com/en/restaurants/top-1000'
 RANKING = 'La Liste'
 category = '🍽️'
+TOKYO_WARDS = {f'{w} City' for w in ('Adachi', 'Arakawa', 'Bunkyo', 'Chiyoda', 'Chuo', 'Edogawa', 'Itabashi', 'Katsushika',
+                                       'Kita', 'Koto', 'Meguro', 'Minato', 'Nakano', 'Nerima', 'Ota', 'Setagaya', 'Shibuya',
+                                       'Shinagawa', 'Shinjuku', 'Suginami', 'Sumida', 'Taito', 'Toshima')}
 
 
 def load_all(browser):
@@ -55,6 +58,9 @@ def parse_list(html):
             if (name, place) not in seen:
                 seen.add((name, place))
                 city, _, country = place.partition(', ')
+                # La Liste indica i quartieri di Tokyo ("Minato City"), che esistono anche a Osaka
+                if country == 'Japan' and city in TOKYO_WARDS:
+                    city = f'{city}, Tokyo'
                 rows.append((score, name, city, country))
             k += 4
         else:
