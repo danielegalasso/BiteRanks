@@ -7,7 +7,8 @@ L'app è una WebView che mostra il sito compilato (`vite-project/dist`), incluso
 1. Fai push su `main` di modifiche in `vite-project/` o `android/`.
 2. La GitHub Action `.github/workflows/android-release.yml` compila il sito e l'APK, poi pubblica una
    GitHub Release (`app-v1.0.<numero build>`) con `BiteRanks.apk` e `version.json`.
-3. All'avvio l'app legge `version.json` dell'ultima release: se la versione è più nuova chiede
+3. A ogni apertura (anche quando torna in primo piano, al massimo una volta al minuto) l'app legge
+   `version.json` dell'ultima release: se la versione è più nuova chiede
    "Aggiornamento disponibile", scarica l'APK e apre l'installer di Android.
 
 Fuori dal Play Store Android non permette aggiornamenti silenziosi: l'utente conferma sempre l'installazione

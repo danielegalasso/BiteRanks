@@ -66,8 +66,8 @@ public class MainActivity extends Activity {
             webView.loadUrl(START_URL);
         }
 
+        // il controllo aggiornamenti parte da onResume, a ogni apertura dell'app
         updateManager = new UpdateManager(this);
-        updateManager.checkForUpdate();
     }
 
     // La mappa passa sotto la barra di stato (trasparente); il sito sposta in basso la barra di ricerca

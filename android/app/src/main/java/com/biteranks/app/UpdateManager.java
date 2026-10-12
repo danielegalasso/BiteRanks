@@ -7,6 +7,7 @@ import android.net.Uri;
 import android.os.Build;
 import android.os.Handler;
 import android.os.Looper;
+import android.os.SystemClock;
 import android.provider.Settings;
 import android.widget.ProgressBar;
 import android.widget.Toast;
@@ -26,13 +27,14 @@ import java.net.URL;
 
 /**
  * Aggiornamenti dell'app da GitHub Releases.
- * All'avvio legge version.json dall'ultima release (creata dalla GitHub Action a ogni push su main):
+ * A ogni apertura (avvio o ritorno in primo piano) legge version.json dall'ultima release (creata dalla GitHub Action a ogni push su main):
  * se il versionCode è più alto di quello installato chiede all'utente di aggiornare, scarica l'APK
  * e apre l'installer di Android (fuori dal Play Store Android chiede sempre una conferma all'utente).
  */
 class UpdateManager {
 
     private static final String APK_MIME = "application/vnd.android.package-archive";
+    private static final long MIN_CHECK_INTERVAL_MS = 60_000;
 
     private final Activity activity;
     private final Handler mainThread = new Handler(Looper.getMainLooper());
@@ -40,28 +42,14 @@ class UpdateManager {
 
     // APK già scaricato che aspetta il permesso "installa app sconosciute"
     private File apkWaitingForPermission;
+    // controllo, finestra di dialogo o download in corso (usati solo dal thread principale)
+    private boolean busy;
+    private long lastCheckAt;
+    private int postponedVersionCode;
 
     UpdateManager(Activity activity) {
         this.activity = activity;
         this.updatesDir = new File(activity.getCacheDir(), "updates");
-    }
-
-    void checkForUpdate() {
-        new Thread(() -> {
-            try {
-                JSONObject info = new JSONObject(new String(download(BuildConfig.UPDATE_INFO_URL), "UTF-8"));
-                int latestCode = info.getInt("versionCode");
-                if (latestCode <= BuildConfig.VERSION_CODE) {
-                    deleteOldDownloads();
-                    return;
-                }
-                String versionName = info.optString("versionName", String.valueOf(latestCode));
-                String apkUrl = info.getString("apkUrl");
-                mainThread.post(() -> askToUpdate(versionName, apkUrl));
-            } catch (Exception ignored) {
-                // offline o nessuna release pubblicata: si riprova al prossimo avvio
-            }
-        }).start();
     }
 
     void onResume() {
@@ -69,17 +57,56 @@ class UpdateManager {
             File apk = apkWaitingForPermission;
             apkWaitingForPermission = null;
             install(apk);
+            return;
         }
+        checkForUpdate();
     }
 
-    private void askToUpdate(String versionName, String apkUrl) {
-        if (activity.isFinishing()) return;
+    // Controlla a ogni avvio e ogni volta che l'app torna in primo piano (al massimo una volta al minuto)
+    private void checkForUpdate() {
+        long now = SystemClock.elapsedRealtime();
+        if (busy || apkWaitingForPermission != null || (lastCheckAt != 0 && now - lastCheckAt < MIN_CHECK_INTERVAL_MS)) {
+            return;
+        }
+        lastCheckAt = now;
+        busy = true;
+        new Thread(() -> {
+            try {
+                JSONObject info = new JSONObject(new String(download(BuildConfig.UPDATE_INFO_URL), "UTF-8"));
+                int latestCode = info.getInt("versionCode");
+                if (latestCode <= BuildConfig.VERSION_CODE) {
+                    deleteOldDownloads();
+                    mainThread.post(() -> busy = false);
+                    return;
+                }
+                String versionName = info.optString("versionName", String.valueOf(latestCode));
+                String apkUrl = info.getString("apkUrl");
+                mainThread.post(() -> askToUpdate(latestCode, versionName, apkUrl));
+            } catch (Exception ignored) {
+                // offline o nessuna release pubblicata: si riprova alla prossima apertura
+                mainThread.post(() -> busy = false);
+            }
+        }).start();
+    }
+
+    private void askToUpdate(int versionCode, String versionName, String apkUrl) {
+        // "Più tardi" vale fino alla chiusura dell'app o finché non esce una versione ancora più nuova
+        if (activity.isFinishing() || versionCode == postponedVersionCode) {
+            busy = false;
+            return;
+        }
         new AlertDialog.Builder(activity)
                 .setTitle(R.string.update_title)
                 .setMessage(activity.getString(R.string.update_message, versionName))
                 .setPositiveButton(R.string.update_now, (d, w) -> downloadAndInstall(apkUrl))
-                .setNegativeButton(R.string.update_later, null)
+                .setNegativeButton(R.string.update_later, (d, w) -> postpone(versionCode))
+                .setOnCancelListener(d -> postpone(versionCode))
                 .show();
+    }
+
+    private void postpone(int versionCode) {
+        postponedVersionCode = versionCode;
+        busy = false;
     }
 
     private void downloadAndInstall(String apkUrl) {
@@ -98,6 +125,7 @@ class UpdateManager {
             boolean ok = downloadToFile(apkUrl, apk, bar);
             mainThread.post(() -> {
                 progress.dismiss();
+                busy = false;
                 if (ok) {
                     install(apk);
                 } else {
