@@ -8,11 +8,8 @@ import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.graphics.Color;
 import android.net.Uri;
-import android.os.Build;
 import android.os.Bundle;
 import android.os.Message;
-import android.view.WindowInsets;
-import android.view.WindowInsetsController;
 import android.webkit.GeolocationPermissions;
 import android.webkit.WebChromeClient;
 import android.webkit.WebResourceRequest;
@@ -23,6 +20,11 @@ import android.webkit.WebViewClient;
 import android.widget.FrameLayout;
 import android.widget.Toast;
 
+import androidx.core.graphics.Insets;
+import androidx.core.view.ViewCompat;
+import androidx.core.view.WindowCompat;
+import androidx.core.view.WindowInsetsCompat;
+import androidx.core.view.WindowInsetsControllerCompat;
 import androidx.webkit.WebViewAssetLoader;
 
 import java.io.IOException;
@@ -42,6 +44,7 @@ public class MainActivity extends Activity {
 
     private WebView webView;
     private UpdateManager updateManager;
+    private int safeTopPx; // altezza barra di stato in pixel del telefono
 
     // richiesta di posizione del sito in attesa della risposta dell'utente al permesso Android
     private String pendingGeoOrigin;
@@ -67,26 +70,28 @@ public class MainActivity extends Activity {
         updateManager.checkForUpdate();
     }
 
-    // Da Android 15 l'app va a tutto schermo: lasciamo spazio a barra di stato e navigazione
+    // La mappa passa sotto la barra di stato (trasparente); il sito sposta in basso la barra di ricerca
+    // usando --app-safe-top. Navigazione e lati restano fuori dall'area della pagina.
     private void applySystemBarInsets(FrameLayout root) {
-        root.setOnApplyWindowInsetsListener((v, insets) -> {
-            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.R) {
-                android.graphics.Insets bars = insets.getInsets(WindowInsets.Type.systemBars() | WindowInsets.Type.displayCutout());
-                v.setPadding(bars.left, bars.top, bars.right, bars.bottom);
-            } else {
-                v.setPadding(insets.getSystemWindowInsetLeft(), insets.getSystemWindowInsetTop(),
-                        insets.getSystemWindowInsetRight(), insets.getSystemWindowInsetBottom());
-            }
+        WindowCompat.setDecorFitsSystemWindows(getWindow(), false);
+        getWindow().setStatusBarColor(Color.TRANSPARENT);
+        WindowInsetsControllerCompat controller = WindowCompat.getInsetsController(getWindow(), root);
+        controller.setAppearanceLightStatusBars(true);
+        controller.setAppearanceLightNavigationBars(true);
+
+        ViewCompat.setOnApplyWindowInsetsListener(root, (v, insets) -> {
+            Insets bars = insets.getInsets(WindowInsetsCompat.Type.systemBars() | WindowInsetsCompat.Type.displayCutout());
+            v.setPadding(bars.left, 0, bars.right, bars.bottom);
+            safeTopPx = bars.top;
+            sendSafeTopToPage();
             return insets;
         });
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.R) {
-            WindowInsetsController controller = getWindow().getInsetsController();
-            if (controller != null) {
-                int light = WindowInsetsController.APPEARANCE_LIGHT_STATUS_BARS
-                        | WindowInsetsController.APPEARANCE_LIGHT_NAVIGATION_BARS;
-                controller.setSystemBarsAppearance(light, light);
-            }
-        }
+    }
+
+    private void sendSafeTopToPage() {
+        float cssPx = safeTopPx / getResources().getDisplayMetrics().density;
+        webView.evaluateJavascript(
+                "document.documentElement.style.setProperty('--app-safe-top','" + cssPx + "px')", null);
     }
 
     @SuppressLint("SetJavaScriptEnabled")
@@ -108,6 +113,11 @@ public class MainActivity extends Activity {
             @Override
             public WebResourceResponse shouldInterceptRequest(WebView view, WebResourceRequest request) {
                 return assetLoader.shouldInterceptRequest(request.getUrl());
+            }
+
+            @Override
+            public void onPageFinished(WebView view, String url) {
+                sendSafeTopToPage();
             }
 
             @Override

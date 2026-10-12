@@ -1,7 +1,8 @@
 .search-container {
     position: fixed;
     background-color: transparent;
-    top: 20px;
+    /* --app-safe-top: altezza della barra di stato, impostata dall'app Android (0 sul web) */
+    top: calc(20px + var(--app-safe-top, 0px));
     left: 20px;
     width: 400px;
     max-width: 100%; /* responsive, otherwise it will break the design */
@@ -126,7 +127,7 @@
     .search-container {
       width: 95%;
       left: 2.5%; 
-      top: 10px; 
+      top: calc(10px + var(--app-safe-top, 0px)); 
     }
   
     .search-box {

@@ -12,7 +12,7 @@
 
 .best-places-panel {
   position: absolute;
-  top: 20px;
+  top: calc(20px + var(--app-safe-top, 0px));
   right: 20px;
   z-index: 1000;
   width: 360px;
