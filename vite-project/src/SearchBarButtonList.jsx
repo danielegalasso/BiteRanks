@@ -1,10 +1,11 @@
 import React, {useState} from 'react';
 import Button from './SearchBarButton.jsx';
 import ButtonEmoji from './SearchBarButtonEmoji.jsx';
-import { FaEdit, FaDice, FaRegWindowClose, FaHeart } from 'react-icons/fa'; 
+import { FaEdit, FaDice, FaRegWindowClose, FaHeart, FaAndroid } from 'react-icons/fa'; 
 import "leaflet.markercluster";
 import { IoMdClose } from "react-icons/io";
 import './SearchBarButtonList.css';
+import { ANDROID_APK_URL, showAppDownload } from './appInfo';
 import { all } from 'axios';
 
 const DONATE_URL = 'https://revolut.me/daniele_galasso';
@@ -139,6 +140,17 @@ const ButtonList = ({ sfsv, isFSV, selectedItems, setSelectedItems, markers, set
         <FaHeart className="donate-icon" aria-hidden="true" />
         <span>Donate</span>
       </a>
+      {showAppDownload && (
+        <a
+          className="custom-button app-download-button"
+          href={ANDROID_APK_URL}
+          title="Scarica l'app Android di BiteRanks"
+          aria-label="Scarica l'app Android"
+        >
+          <FaAndroid className="app-download-icon" aria-hidden="true" />
+          <span>App</span>
+        </a>
+      )}
     </div>
   );
 };

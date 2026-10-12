@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import "./SchedaLocale.css";
 import triangoloNero2 from "./Black_triangle.png";
+import { isAndroidApp, PUBLIC_SITE_URL } from "../appInfo";
 
 const SchedaLocale = ({ 
   nome, 
@@ -22,7 +23,9 @@ const SchedaLocale = ({
     console.log("nome classifica:" ,subclassifiche[0][0]);
     params.set('ranking', nomeClassifica); // Aggiungi classifica
     params.set('subranking', subclassifiche[0][0]); // Aggiungi classifica
-    const shareableUrl = `${currentUrl.origin}${currentUrl.pathname}?${params.toString()}`;
+    // nell'app l'indirizzo della pagina è interno: si condivide quello del sito
+    const origin = isAndroidApp ? PUBLIC_SITE_URL : currentUrl.origin;
+    const shareableUrl = `${origin}${currentUrl.pathname}?${params.toString()}`;
     
     navigator.clipboard.writeText(shareableUrl)
       .then(() => {

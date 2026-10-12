@@ -6,6 +6,13 @@ npm run dev
 
 
 
+# Android app
+
+The `android/` folder contains the Android app: every push on `main` that changes `vite-project/` or `android/`
+publishes a new APK on GitHub Releases and the installed app asks the user to update. See `android/README.md`.
+
+
+
 # How add new Ranking?
 
 Look how is organized the folder \vite-project\public\ranking, it's a sequence of folders followed by an index.json file.

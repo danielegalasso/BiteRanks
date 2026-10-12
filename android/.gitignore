@@ -1,0 +1,7 @@
+.gradle/
+build/
+local.properties
+# chiave di firma e password: MAI su git (in CI arrivano dai secrets di GitHub)
+keystore.properties
+*.jks
+*.keystore

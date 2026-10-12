@@ -1,0 +1,84 @@
+plugins {
+    id 'com.android.application'
+}
+
+// Numero di versione: in GitHub Actions arriva da -PversionCode=<numero della build>,
+// in locale vale 1 (così una build locale non "scavalca" mai quelle pubblicate).
+def appVersionCode = (project.findProperty('versionCode') ?: '1').toString().toInteger()
+
+// Firma: in CI arriva dai secrets (variabili d'ambiente), in locale da android/keystore.properties.
+// Deve essere SEMPRE la stessa chiave, altrimenti Android rifiuta l'aggiornamento sopra l'app installata.
+def keystoreProps = new Properties()
+def keystorePropsFile = rootProject.file('keystore.properties')
+if (keystorePropsFile.exists()) {
+    keystorePropsFile.withInputStream { keystoreProps.load(it) }
+}
+def signingValue = { String env, String prop -> System.getenv(env) ?: keystoreProps.getProperty(prop) }
+def releaseStoreFile = signingValue('ANDROID_KEYSTORE_FILE', 'storeFile')
+
+android {
+    namespace 'com.biteranks.app'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'com.biteranks.app'
+        minSdk 24
+        targetSdk 35
+        versionCode appVersionCode
+        versionName "1.0.${appVersionCode}"
+
+        // version.json allegato all'ultima GitHub Release: l'app lo legge all'avvio per sapere se c'è un aggiornamento
+        buildConfigField 'String', 'UPDATE_INFO_URL',
+                '"https://github.com/danielegalasso/BiteRanks/releases/latest/download/version.json"'
+    }
+
+    signingConfigs {
+        release {
+            if (releaseStoreFile) {
+                storeFile rootProject.file(releaseStoreFile)
+                storePassword signingValue('ANDROID_KEYSTORE_PASSWORD', 'storePassword')
+                keyAlias signingValue('ANDROID_KEY_ALIAS', 'keyAlias')
+                keyPassword signingValue('ANDROID_KEY_PASSWORD', 'keyPassword')
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            // senza chiave (es. prova in locale) si firma con la chiave di debug
+            signingConfig releaseStoreFile ? signingConfigs.release : signingConfigs.debug
+        }
+    }
+
+    buildFeatures {
+        buildConfig true
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    sourceSets {
+        main.assets.srcDirs += layout.buildDirectory.dir('generated/webassets')
+    }
+}
+
+// Copia il sito già compilato (vite-project/dist, creato da `npm run build`) dentro l'APK, in assets/www
+def webDist = rootProject.file('../vite-project/dist')
+def copyWebAssets = tasks.register('copyWebAssets', Sync) {
+    doFirst {
+        if (!webDist.exists()) {
+            throw new GradleException("Manca ${webDist}: esegui prima `npm run build` in vite-project")
+        }
+    }
+    from webDist
+    into layout.buildDirectory.dir('generated/webassets/www')
+}
+tasks.named('preBuild') { dependsOn copyWebAssets }
+
+dependencies {
+    implementation 'androidx.webkit:webkit:1.12.1'
+    implementation 'androidx.core:core:1.13.1'
+}

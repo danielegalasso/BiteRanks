@@ -74,6 +74,30 @@
   color: #fff;
 }
 
+/* "Scarica l'app Android": stesso stile di Donate, nascosto su iPhone e dentro l'app */
+.app-download-button {
+  gap: 6px;
+  padding: 0 14px;
+  background-color: #fff;
+  color: #63456E;
+  border: 1.5px solid #63456E;
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.app-download-button:hover,
+.app-download-button:focus-visible {
+  background-color: #63456E;
+  color: #fff;
+}
+
+.app-download-icon {
+  color: #3DDC84;
+  font-size: 16px;
+}
+
 /* for small display  to reduce everything */
 @media (max-width: 600px) {
   .custom-button {

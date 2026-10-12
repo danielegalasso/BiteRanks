@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BiteRanks</string>
+    <string name="update_title">Aggiornamento disponibile</string>
+    <string name="update_message">È disponibile la versione %1$s di BiteRanks. Vuoi aggiornare ora?</string>
+    <string name="update_now">Aggiorna</string>
+    <string name="update_later">Più tardi</string>
+    <string name="update_downloading">Download dell\'aggiornamento…</string>
+    <string name="update_failed">Download non riuscito. Riprova più tardi.</string>
+    <string name="update_allow_install">Per installare l\'aggiornamento consenti a BiteRanks di installare app, poi torna indietro.</string>
+    <string name="no_app_for_link">Nessuna app per aprire questo link</string>
+</resources>
